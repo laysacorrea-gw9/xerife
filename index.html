@@ -1,0 +1,420 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Xerife — Monitor de Conversas GW9</title>
+<style>
+  :root {
+    --bg: #0f1117; --card: #1a1d27; --accent: #6366f1; --accent2: #8b5cf6;
+    --green: #22c55e; --yellow: #eab308; --red: #ef4444; --orange: #f97316;
+    --text: #e2e8f0; --muted: #94a3b8; --border: #2d3148; --cyan: #06b6d4;
+  }
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { font-family: 'Segoe UI', system-ui, sans-serif; background: var(--bg); color: var(--text); min-height:100vh; }
+
+  /* Auth screen */
+  #auth-screen { display:flex; align-items:center; justify-content:center; min-height:100vh; padding:20px; }
+  #auth-screen .auth-box { background:var(--card); border:1px solid var(--border); border-radius:16px; padding:40px; max-width:400px; width:100%; text-align:center; }
+  #auth-screen h2 { font-size:24px; margin-bottom:8px; }
+  #auth-screen p { color:var(--muted); font-size:14px; margin-bottom:24px; }
+  #auth-screen input { width:100%; padding:12px 16px; background:var(--bg); border:1px solid var(--border); border-radius:10px; color:var(--text); font-size:14px; margin-bottom:16px; }
+  #auth-screen input:focus { outline:none; border-color:var(--accent); }
+  #auth-screen button { width:100%; padding:12px; background:var(--accent); color:white; border:none; border-radius:10px; font-size:14px; font-weight:600; cursor:pointer; }
+  #auth-screen button:hover { background:var(--accent2); }
+  #auth-screen .error { color:var(--red); font-size:13px; margin-top:8px; display:none; }
+
+  /* Main app */
+  #app { display:none; }
+
+  .header { background: linear-gradient(135deg, #1e1b4b, #312e81); padding: 20px 24px; border-bottom: 1px solid var(--border); }
+  .header-row { display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:12px; }
+  .header h1 { font-size: 24px; font-weight: 700; }
+  .header h1 .shield { margin-right:8px; }
+  .header .meta-info { display:flex; gap:16px; align-items:center; flex-wrap:wrap; }
+  .header .updated { font-size:12px; padding:4px 12px; border-radius:20px; font-weight:500; }
+  .header .updated.fresh { background:rgba(34,197,94,0.15); color:var(--green); }
+  .header .updated.stale { background:rgba(234,179,8,0.15); color:var(--yellow); }
+  .header .updated.old { background:rgba(239,68,68,0.15); color:var(--red); }
+  .header .refresh-btn { background:none; border:1px solid var(--border); color:var(--muted); padding:4px 12px; border-radius:8px; cursor:pointer; font-size:12px; }
+  .header .refresh-btn:hover { border-color:var(--accent); color:var(--accent); }
+
+  .content { max-width: 900px; margin: 0 auto; padding: 20px; }
+
+  .stat-row { display: flex; gap: 12px; margin-bottom: 20px; flex-wrap: wrap; }
+  .stat { background: var(--card); border: 1px solid var(--border); border-radius: 12px; padding: 14px 16px; flex: 1; min-width: 100px; cursor:pointer; transition:all 0.2s; }
+  .stat:hover, .stat.active { border-color: var(--accent); }
+  .stat .label { font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.5px; }
+  .stat .value { font-size: 24px; font-weight: 700; margin-top: 2px; }
+
+  .search-bar { display:flex; gap:12px; margin-bottom:20px; flex-wrap:wrap; }
+  .search-box { flex:1; min-width:200px; padding: 10px 14px; background: var(--card); border: 1px solid var(--border); border-radius: 10px; color: var(--text); font-size: 14px; }
+  .search-box:focus { outline: none; border-color: var(--accent); }
+  .search-box::placeholder { color: var(--muted); }
+
+  .filter-row { display:flex; gap:8px; margin-bottom:16px; flex-wrap:wrap; }
+  .filter-btn { padding:6px 14px; background:var(--card); border:1px solid var(--border); border-radius:20px; color:var(--muted); font-size:12px; font-weight:500; cursor:pointer; transition:all 0.2s; white-space:nowrap; }
+  .filter-btn:hover { border-color:var(--accent); color:var(--text); }
+  .filter-btn.active { background:var(--accent); border-color:var(--accent); color:white; }
+
+  .badge { display: inline-block; padding: 2px 10px; border-radius: 99px; font-size: 11px; font-weight: 600; }
+  .badge.quente { background: rgba(34,197,94,0.15); color: var(--green); }
+  .badge.morno { background: rgba(234,179,8,0.15); color: var(--yellow); }
+  .badge.frio { background: rgba(148,163,184,0.15); color: var(--muted); }
+  .badge.desinteresse { background: rgba(239,68,68,0.15); color: var(--red); }
+  .badge.sem_classificacao { background: rgba(6,182,212,0.15); color: var(--cyan); }
+
+  /* Conversation cards */
+  .conv-card { background:var(--card); border:1px solid var(--border); border-radius:12px; margin-bottom:10px; overflow:hidden; transition:all 0.2s; }
+  .conv-card:hover { border-color:var(--accent); }
+  .conv-header { padding:14px 16px; cursor:pointer; display:flex; justify-content:space-between; align-items:flex-start; gap:12px; }
+  .conv-header .left { flex:1; min-width:0; }
+  .conv-header .top-row { display:flex; align-items:center; gap:8px; flex-wrap:wrap; }
+  .conv-header .name { font-size:15px; font-weight:600; }
+  .conv-header .phone { font-size:12px; color:var(--muted); }
+  .conv-header .meta { font-size:12px; color:var(--muted); margin-top:4px; display:flex; gap:12px; flex-wrap:wrap; }
+  .conv-header .preview { font-size:13px; color:var(--muted); margin-top:6px; font-style:italic; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+  .conv-header .arrow { color:var(--muted); transition:transform 0.2s; font-size:12px; padding-top:4px; flex-shrink:0; }
+  .conv-card.open .arrow { transform:rotate(90deg); }
+
+  /* Chat messages */
+  .conv-body { display:none; border-top:1px solid var(--border); }
+  .conv-card.open .conv-body { display:block; }
+  .conv-info { padding:12px 16px; background:rgba(99,102,241,0.03); border-bottom:1px solid var(--border); display:flex; gap:16px; flex-wrap:wrap; font-size:12px; }
+  .conv-info .info-item { display:flex; gap:4px; }
+  .conv-info .info-label { color:var(--muted); }
+  .conv-info .info-value { color:var(--text); font-weight:500; }
+
+  .chat-container { max-height:500px; overflow-y:auto; padding:16px; }
+  .chat-msg { margin-bottom:10px; max-width:85%; }
+  .chat-msg.user { margin-right:auto; }
+  .chat-msg.ai { margin-left:auto; }
+  .chat-bubble { padding:10px 14px; border-radius:12px; font-size:13px; line-height:1.5; word-wrap:break-word; }
+  .chat-msg.user .chat-bubble { background:var(--border); border-bottom-left-radius:4px; }
+  .chat-msg.ai .chat-bubble { background:rgba(99,102,241,0.12); border-bottom-right-radius:4px; }
+  .chat-time { font-size:10px; color:var(--muted); margin-top:2px; padding:0 4px; }
+  .chat-msg.user .chat-time { text-align:left; }
+  .chat-msg.ai .chat-time { text-align:right; }
+
+  .obs-box { padding:12px 16px; background:rgba(34,197,94,0.05); border-top:1px solid var(--border); font-size:12px; }
+  .obs-box .obs-title { font-weight:600; color:var(--green); margin-bottom:4px; }
+  .obs-box pre { white-space:pre-wrap; color:var(--muted); font-family:inherit; font-size:12px; line-height:1.6; }
+
+  /* Empty state */
+  .empty-state { text-align:center; padding:60px 20px; color:var(--muted); }
+  .empty-state .icon { font-size:48px; margin-bottom:16px; }
+  .empty-state p { font-size:14px; }
+
+  /* Loading */
+  .loading { text-align:center; padding:60px 20px; }
+  .spinner { display:inline-block; width:32px; height:32px; border:3px solid var(--border); border-top-color:var(--accent); border-radius:50%; animation:spin 0.8s linear infinite; }
+  @keyframes spin { to { transform:rotate(360deg); } }
+
+  /* Count badge on stat */
+  .count-badge { font-size:11px; color:var(--muted); margin-left:4px; }
+
+  @media (max-width: 768px) {
+    .stat-row { gap:8px; }
+    .stat { min-width:80px; padding:10px 12px; }
+    .stat .value { font-size:20px; }
+    .stat .label { font-size:10px; }
+    .content { padding:12px; }
+    .header { padding:16px; }
+    .header h1 { font-size:20px; }
+    .conv-header .preview { display:none; }
+    .chat-msg { max-width:92%; }
+    .conv-info { flex-direction:column; gap:6px; }
+  }
+</style>
+</head>
+<body>
+
+<!-- Auth Screen -->
+<div id="auth-screen">
+  <div class="auth-box">
+    <div style="font-size:48px;margin-bottom:16px">&#x1f6e1;&#xfe0f;</div>
+    <h2>Xerife GW9</h2>
+    <p>Monitor de Conversas dos Gilbertinhos</p>
+    <input type="password" id="auth-pass" placeholder="Senha de acesso" onkeydown="if(event.key==='Enter')checkAuth()">
+    <button onclick="checkAuth()">Entrar</button>
+    <div class="error" id="auth-error">Senha incorreta</div>
+  </div>
+</div>
+
+<!-- Main App -->
+<div id="app">
+  <div class="header">
+    <div class="header-row">
+      <h1><span class="shield">&#x1f6e1;&#xfe0f;</span> Xerife <span style="color:var(--accent)">GW9</span></h1>
+      <div class="meta-info">
+        <span class="updated fresh" id="updated-badge">Carregando...</span>
+        <button class="refresh-btn" onclick="loadData()">&#x21bb; Atualizar</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="content">
+    <!-- Stats -->
+    <div class="stat-row" id="stats-row">
+      <div class="stat" data-filter="todos" onclick="setFilter('todos')">
+        <div class="label">Total</div>
+        <div class="value" style="color:var(--accent)" id="stat-total">-</div>
+      </div>
+      <div class="stat" data-filter="quente" onclick="setFilter('quente')">
+        <div class="label">Quentes</div>
+        <div class="value" style="color:var(--green)" id="stat-quente">-</div>
+      </div>
+      <div class="stat" data-filter="morno" onclick="setFilter('morno')">
+        <div class="label">Mornos</div>
+        <div class="value" style="color:var(--yellow)" id="stat-morno">-</div>
+      </div>
+      <div class="stat" data-filter="frio" onclick="setFilter('frio')">
+        <div class="label">Frios</div>
+        <div class="value" style="color:var(--muted)" id="stat-frio">-</div>
+      </div>
+      <div class="stat" data-filter="desinteresse" onclick="setFilter('desinteresse')">
+        <div class="label">Desinteresse</div>
+        <div class="value" style="color:var(--red)" id="stat-desinteresse">-</div>
+      </div>
+    </div>
+
+    <!-- Search -->
+    <div class="search-bar">
+      <input class="search-box" id="search-input" placeholder="Buscar por nome, telefone ou mensagem..." oninput="applyFilters()">
+    </div>
+
+    <!-- Filter buttons -->
+    <div class="filter-row" id="filter-row">
+      <button class="filter-btn active" data-filter="todos" onclick="setFilter('todos')">Todos</button>
+      <button class="filter-btn" data-filter="quente" onclick="setFilter('quente')">Quentes</button>
+      <button class="filter-btn" data-filter="morno" onclick="setFilter('morno')">Mornos</button>
+      <button class="filter-btn" data-filter="frio" onclick="setFilter('frio')">Frios</button>
+      <button class="filter-btn" data-filter="desinteresse" onclick="setFilter('desinteresse')">Desinteresse</button>
+      <button class="filter-btn" data-filter="sem_classificacao" onclick="setFilter('sem_classificacao')">Sem classif.</button>
+    </div>
+
+    <!-- Conversations list -->
+    <div id="conv-list">
+      <div class="loading"><div class="spinner"></div><p style="margin-top:12px;color:var(--muted)">Carregando conversas...</p></div>
+    </div>
+  </div>
+</div>
+
+<script>
+// --- Auth ---
+const PASS_HASH = 'e10052dccfd14dfc8e7db2bb8ec0ae3325af4d1a7e5db1eeec7c08f9d49dab2d';
+
+async function sha256(message) {
+  const msgBuffer = new TextEncoder().encode(message);
+  const hashBuffer = await crypto.subtle.digest('SHA-256', msgBuffer);
+  const hashArray = Array.from(new Uint8Array(hashBuffer));
+  return hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
+}
+
+async function checkAuth() {
+  const pass = document.getElementById('auth-pass').value;
+  const hash = await sha256(pass);
+  if (hash === PASS_HASH) {
+    sessionStorage.setItem('xerife_auth', '1');
+    showApp();
+  } else {
+    document.getElementById('auth-error').style.display = 'block';
+  }
+}
+
+function showApp() {
+  document.getElementById('auth-screen').style.display = 'none';
+  document.getElementById('app').style.display = 'block';
+  loadData();
+}
+
+// Check if already authenticated
+if (sessionStorage.getItem('xerife_auth') === '1') {
+  showApp();
+}
+
+// --- Data ---
+let allConversations = [];
+let currentFilter = 'todos';
+
+async function loadData() {
+  try {
+    const response = await fetch('data/dashboard.json?' + Date.now());
+    if (!response.ok) {
+      showEmpty('Dados ainda nao disponiveis. Aguardando primeira atualizacao do N8N.');
+      return;
+    }
+    const data = await response.json();
+    allConversations = data.conversations || [];
+    renderStats(data.meta);
+    updateTimestamp(data.meta.generated_at);
+    applyFilters();
+  } catch (e) {
+    showEmpty('Erro ao carregar dados. Verifique se o arquivo dashboard.json existe.');
+  }
+}
+
+function showEmpty(msg) {
+  document.getElementById('conv-list').innerHTML =
+    '<div class="empty-state"><div class="icon">&#x1f6e1;&#xfe0f;</div><p>' + msg + '</p></div>';
+}
+
+function renderStats(meta) {
+  if (!meta) return;
+  const s = meta.stats || {};
+  document.getElementById('stat-total').textContent = meta.total_conversations || 0;
+  document.getElementById('stat-quente').textContent = s.quente || 0;
+  document.getElementById('stat-morno').textContent = s.morno || 0;
+  document.getElementById('stat-frio').textContent = s.frio || 0;
+  document.getElementById('stat-desinteresse').textContent = s.desinteresse || 0;
+}
+
+function updateTimestamp(isoDate) {
+  const badge = document.getElementById('updated-badge');
+  if (!isoDate) { badge.textContent = 'Sem dados'; badge.className = 'updated old'; return; }
+  const dt = new Date(isoDate);
+  const now = new Date();
+  const diffMin = Math.floor((now - dt) / 60000);
+  let label, cls;
+  if (diffMin < 1) { label = 'Agora'; cls = 'fresh'; }
+  else if (diffMin < 60) { label = 'Ha ' + diffMin + 'min'; cls = diffMin < 20 ? 'fresh' : 'stale'; }
+  else if (diffMin < 1440) { label = 'Ha ' + Math.floor(diffMin/60) + 'h'; cls = 'old'; }
+  else { label = dt.toLocaleDateString('pt-BR'); cls = 'old'; }
+  badge.textContent = 'Atualizado ' + label;
+  badge.className = 'updated ' + cls;
+}
+
+// --- Filters ---
+function setFilter(filter) {
+  currentFilter = filter;
+  // Update button states
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.toggle('active', b.dataset.filter === filter));
+  document.querySelectorAll('.stat').forEach(s => s.classList.toggle('active', s.dataset.filter === filter));
+  applyFilters();
+}
+
+function applyFilters() {
+  const query = (document.getElementById('search-input').value || '').toLowerCase();
+  const filtered = allConversations.filter(c => {
+    const matchFilter = currentFilter === 'todos' || c.status === currentFilter;
+    if (!matchFilter) return false;
+    if (!query) return true;
+    const name = (c.lead && c.lead.nome) || '';
+    const obs = (c.lead && c.lead.observacoes) || '';
+    return name.toLowerCase().includes(query) ||
+           c.phone.includes(query) ||
+           (c.phone_display || '').includes(query) ||
+           (c.last_message_preview || '').toLowerCase().includes(query) ||
+           obs.toLowerCase().includes(query);
+  });
+  renderConversations(filtered);
+}
+
+// --- Render conversations ---
+function renderConversations(conversations) {
+  const container = document.getElementById('conv-list');
+  if (!conversations.length) {
+    container.innerHTML = '<div class="empty-state"><div class="icon">&#x1f50d;</div><p>Nenhuma conversa encontrada</p></div>';
+    return;
+  }
+  container.innerHTML = conversations.map((c, i) => renderConvCard(c, i)).join('');
+}
+
+function renderConvCard(c, idx) {
+  const name = (c.lead && c.lead.nome) || 'Lead desconhecido';
+  const phone = c.phone_display || c.phone || '';
+  const msgCount = c.message_count || 0;
+  const lastAt = c.last_message_at ? timeAgo(c.last_message_at) : '';
+  const preview = c.last_message_preview || '';
+  const status = c.status || 'sem_classificacao';
+  const statusLabel = {quente:'QUENTE', morno:'MORNO', frio:'FRIO', desinteresse:'DESINTERESSE', sem_classificacao:'NOVO'}[status] || status;
+  const vidas = (c.lead && c.lead.qtd_vidas) ? c.lead.qtd_vidas + ' vidas' : '';
+  const email = (c.lead && c.lead.email) || '';
+  const obs = (c.lead && c.lead.observacoes) || '';
+
+  let infoItems = '';
+  if (email) infoItems += '<div class="info-item"><span class="info-label">Email:</span><span class="info-value">' + esc(email) + '</span></div>';
+  if (vidas) infoItems += '<div class="info-item"><span class="info-label">Vidas:</span><span class="info-value">' + esc(vidas) + '</span></div>';
+  if (c.lead && c.lead.reagendamento) infoItems += '<div class="info-item"><span class="info-label">Reagendamento:</span><span class="info-value">' + formatDate(c.lead.reagendamento) + '</span></div>';
+
+  const messages = (c.messages || []).map(m => {
+    const role = m.role === 'ai' ? 'ai' : 'user';
+    const time = m.timestamp ? formatTime(m.timestamp) : '';
+    return '<div class="chat-msg ' + role + '">' +
+      '<div class="chat-bubble">' + esc(m.content) + '</div>' +
+      '<div class="chat-time">' + (role === 'ai' ? 'Gilbertinho' : 'Lead') + (time ? ' - ' + time : '') + '</div>' +
+    '</div>';
+  }).join('');
+
+  const obsSection = obs ? '<div class="obs-box"><div class="obs-title">Observacoes (CRM)</div><pre>' + esc(obs) + '</pre></div>' : '';
+
+  return '<div class="conv-card" id="conv-' + idx + '">' +
+    '<div class="conv-header" onclick="toggleConv(' + idx + ')">' +
+      '<div class="left">' +
+        '<div class="top-row">' +
+          '<span class="badge ' + status + '">' + statusLabel + '</span>' +
+          '<span class="name">' + esc(name) + '</span>' +
+          '<span class="phone">' + esc(phone) + '</span>' +
+        '</div>' +
+        '<div class="meta">' +
+          '<span>' + msgCount + ' msgs</span>' +
+          (lastAt ? '<span>Ultima: ' + lastAt + '</span>' : '') +
+          (vidas ? '<span>' + esc(vidas) + '</span>' : '') +
+        '</div>' +
+        (preview ? '<div class="preview">"' + esc(preview) + '"</div>' : '') +
+      '</div>' +
+      '<span class="arrow">&#x25B6;</span>' +
+    '</div>' +
+    '<div class="conv-body">' +
+      (infoItems ? '<div class="conv-info">' + infoItems + '</div>' : '') +
+      '<div class="chat-container">' + (messages || '<p style="color:var(--muted);padding:20px;text-align:center">Sem mensagens</p>') + '</div>' +
+      obsSection +
+    '</div>' +
+  '</div>';
+}
+
+function toggleConv(idx) {
+  const card = document.getElementById('conv-' + idx);
+  card.classList.toggle('open');
+}
+
+// --- Helpers ---
+function esc(str) {
+  if (!str) return '';
+  const div = document.createElement('div');
+  div.textContent = str;
+  return div.innerHTML;
+}
+
+function timeAgo(isoDate) {
+  const dt = new Date(isoDate);
+  const now = new Date();
+  const diffMin = Math.floor((now - dt) / 60000);
+  if (diffMin < 1) return 'agora';
+  if (diffMin < 60) return diffMin + 'min atras';
+  if (diffMin < 1440) return Math.floor(diffMin/60) + 'h atras';
+  return dt.toLocaleDateString('pt-BR', {day:'2-digit', month:'2-digit'});
+}
+
+function formatDate(isoDate) {
+  if (!isoDate) return '';
+  const dt = new Date(isoDate);
+  return dt.toLocaleDateString('pt-BR', {day:'2-digit', month:'2-digit', year:'numeric'}) +
+    ' ' + dt.toLocaleTimeString('pt-BR', {hour:'2-digit', minute:'2-digit'});
+}
+
+function formatTime(isoDate) {
+  if (!isoDate) return '';
+  const dt = new Date(isoDate);
+  return dt.toLocaleTimeString('pt-BR', {hour:'2-digit', minute:'2-digit'});
+}
+
+// Auto-refresh every 5 minutes
+setInterval(() => {
+  if (document.getElementById('app').style.display !== 'none') {
+    loadData();
+  }
+}, 5 * 60 * 1000);
+</script>
+</body>
+</html>
