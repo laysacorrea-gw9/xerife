@@ -483,8 +483,8 @@ function setDateFilter(d,btn){
 
 function passesDateFilter(c){
   if(currentDateFilter==='todos') return true;
-  const entryDate=c.first_message_at?new Date(c.first_message_at):null;
-  if(!entryDate) return currentDateFilter==='todos';
+  const entryDate=c.first_message_at?new Date(c.first_message_at):(c.last_message_at?new Date(c.last_message_at):null);
+  if(!entryDate) return true; // No date info = show always
   const now=new Date();
   const startOfToday=new Date(now.getFullYear(),now.getMonth(),now.getDate());
   if(currentDateFilter==='hoje'){
