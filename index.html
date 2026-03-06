@@ -371,44 +371,20 @@ function renderConversations(convs){
   container.innerHTML=convs.map((c,i)=>renderCard(c,i)).join('');
 }
 
-function buildSummaryText(c){
+function buildSummaryHtml(c){
+  // Use pre-formatted summary from N8N if available
   const s=c.summary||{};
-  let lines=[];
-  lines.push('&#x1f464; Cliente: '+(s.nome||'Nao identificado'));
-  if(s.email)lines.push('&#x1f4e7; E-mail: '+s.email);
-  lines.push('&#x1f4f1; Telefone: '+s.telefone_display+' ('+s.telefone+')');
-  if(s.qtd_vidas)lines.push('&#x1f468;&#x200d;&#x1f469;&#x200d;&#x1f467;&#x200d;&#x1f466; Vidas no plano: '+s.qtd_vidas);
-  if(s.cidade)lines.push('&#x1f3d9;&#xfe0f; Cidade: '+s.cidade);
-  if(s.tipo_contratacao)lines.push('&#x1f4cb; Contratacao: '+s.tipo_contratacao);
-  if(s.plano_interesse)lines.push('&#x1f3af; Interesse: '+s.plano_interesse);
-  lines.push('');
-  const statusMap={quente:'&#x2705; Lead QUENTE',morno:'&#x1f7e1; Lead MORNO',frio:'&#x26aa; Lead FRIO',desinteresse:'&#x1f534; DESINTERESSE',sem_classificacao:'&#x1f535; Novo'};
-  lines.push((statusMap[c.status]||c.status));
-  lines.push('&#x1f916; Bot: '+s.bot);
-  if(c.consultor)lines.push('&#x1f464; Consultor: '+c.consultor);
-  lines.push('&#x1f4ac; Mensagens trocadas: '+c.message_count);
-  if(s.observacoes_crm){lines.push('');lines.push('&#x26a0;&#xfe0f; Obs CRM: '+s.observacoes_crm);}
-  return lines.join('\n');
+  if(s.formatted) return esc(s.formatted).replace(/\n/g,'<br>');
+  // Fallback
+  return esc(s.nome||'Sem dados');
 }
 
 function buildCopyText(c){
+  // Use pre-formatted summary from N8N
   const s=c.summary||{};
-  let lines=[];
-  lines.push('\ud83d\udc64 Cliente: '+(s.nome||'Nao identificado'));
-  if(s.email)lines.push('\ud83d\udce7 E-mail: '+s.email);
-  lines.push('\ud83d\udcf1 Telefone: '+s.telefone_display+' ('+s.telefone+')');
-  if(s.qtd_vidas)lines.push('\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc66 Vidas no plano: '+s.qtd_vidas);
-  if(s.cidade)lines.push('\ud83c\udfd9\ufe0f Cidade: '+s.cidade);
-  if(s.tipo_contratacao)lines.push('\ud83d\udccb Contratacao: '+s.tipo_contratacao);
-  if(s.plano_interesse)lines.push('\ud83c\udfaf Interesse: '+s.plano_interesse);
-  lines.push('');
-  const statusMap={quente:'\u2705 Lead QUENTE',morno:'\ud83d\udfe1 Lead MORNO',frio:'\u26aa Lead FRIO',desinteresse:'\ud83d\udd34 DESINTERESSE',sem_classificacao:'\ud83d\udd35 Novo'};
-  lines.push((statusMap[c.status]||c.status));
-  lines.push('\ud83e\udd16 Bot: '+s.bot);
-  if(c.consultor)lines.push('\ud83d\udc64 Consultor: '+c.consultor);
-  lines.push('\ud83d\udcac Mensagens trocadas: '+c.message_count);
-  if(s.observacoes_crm){lines.push('');lines.push('\u26a0\ufe0f Obs CRM: '+s.observacoes_crm);}
-  return lines.join('\n');
+  if(s.formatted) return s.formatted;
+  // Fallback
+  return '\ud83d\udc64 Cliente: '+(s.nome||'N\u00e3o identificado')+'\n\ud83d\udcde Telefone: '+(c.phone_display||c.phone);
 }
 
 function renderCard(c,idx){
@@ -420,7 +396,11 @@ function renderCard(c,idx){
   const botLabels={amarelo:'Amarelo 2373',preto:'Preto 0479',desconhecido:'?'};
   const botClass=c.bot==='amarelo'?'bot-amarelo':c.bot==='preto'?'bot-preto':'bot-desconhecido';
 
-  const summaryHtml=buildSummaryText(c);
+  const summaryHtml=buildSummaryHtml(c);
+
+  // Info chips from summary
+  const vidasCount = s.vidas && s.vidas.length ? s.vidas.length : (s.qtd_vidas || '');
+  const vidasAges = s.vidas && s.vidas.length ? s.vidas.map(v=>v.idade+'a').join(', ') : '';
 
   // Chat messages
   const msgs=(c.messages||[]).map(m=>{
@@ -445,12 +425,16 @@ function renderCard(c,idx){
     '</div>'+
     '<div class="card-body">'+
       '<div class="info-row">'+
-        (s.email?'<span class="info-chip"><span class="icon">&#x2709;</span>'+esc(s.email)+'</span>':'')+
-        (s.qtd_vidas?'<span class="info-chip"><span class="icon">&#x1f465;</span>'+esc(s.qtd_vidas)+' vidas</span>':'')+
-        (s.tipo_contratacao?'<span class="info-chip"><span class="icon">&#x1f4cb;</span>'+esc(s.tipo_contratacao)+'</span>':'')+
-        (s.plano_interesse?'<span class="info-chip"><span class="icon">&#x1f3af;</span>'+esc(s.plano_interesse)+'</span>':'')+
+        (vidasCount?'<span class="info-chip"><span class="icon">&#x1f465;</span>'+vidasCount+' vida'+(vidasCount>1?'s':'')+' '+(vidasAges?'('+vidasAges+')':'')+'</span>':'')+
+        (s.contratacao?'<span class="info-chip"><span class="icon">&#x1f3e2;</span>'+esc(s.contratacao)+(s.tipo_empresa?' '+esc(s.tipo_empresa):'')+'</span>':'')+
+        (s.interesse?'<span class="info-chip"><span class="icon">&#x1f3af;</span>'+esc(s.interesse)+'</span>':'')+
       '</div>'+
-      (s.cidade?'<div class="info-row"><span class="info-chip"><span class="icon">&#x1f4cd;</span>'+esc(s.cidade)+'</span></div>':'')+
+      '<div class="info-row">'+
+        (s.cidade?'<span class="info-chip"><span class="icon">&#x1f4cd;</span>'+esc(s.cidade)+'</span>':'')+
+        (s.plano_atual&&s.plano_atual!=='Nenhum'?'<span class="info-chip"><span class="icon">&#x1f3e5;</span>Atual: '+esc(s.plano_atual)+'</span>':'')+
+        (s.email?'<span class="info-chip"><span class="icon">&#x2709;</span>'+esc(s.email)+'</span>':'')+
+      '</div>'+
+      (s.motivo?'<div style="margin-top:6px;font-size:11px;color:var(--yellow);background:rgba(245,158,11,0.06);border:1px solid rgba(245,158,11,0.15);border-radius:6px;padding:6px 10px">&#x1f4a1; '+esc(s.motivo).replace(/\\n/g,' | ')+'</div>':'')+
       (c.last_message_preview?'<div class="preview-text">"'+esc(c.last_message_preview)+'"</div>':'')+
 
       // Resumo section
