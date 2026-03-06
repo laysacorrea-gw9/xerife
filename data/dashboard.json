@@ -1,17 +1,150 @@
 {
   "meta": {
-    "generated_at": "2026-03-06T23:00:15.089Z",
+    "generated_at": "2026-03-06T23:15:12.157Z",
     "total_conversations": 200,
-    "total_messages": 4831,
+    "total_messages": 4810,
     "stats": {
-      "quente": 22,
+      "quente": 23,
       "morno": 71,
-      "frio": 107,
+      "frio": 106,
       "desinteresse": 0,
       "sem_classificacao": 0
     }
   },
   "conversations": [
+    {
+      "session_id": "5521964281875@s.whatsapp.net",
+      "phone": "5521964281875",
+      "phone_display": "+55 21 96428-1875",
+      "lead": {
+        "baserow_id": 1036,
+        "nome": "Valdir",
+        "email": "",
+        "qtd_vidas": 4,
+        "desinteresse": false,
+        "gilbertinho_off": false,
+        "observacoes": "Valdir",
+        "reagendamento": "2026-03-07T13:00:00Z",
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Valdir",
+        "email": "",
+        "telefone": "+55 21 96428-1875",
+        "vidas": [
+          {
+            "idade": 50
+          },
+          {
+            "idade": 45
+          },
+          {
+            "idade": 17
+          },
+          {
+            "idade": 7
+          }
+        ],
+        "cidade": "Rio de Janeiro / RJ",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "MEI",
+        "profissao": "",
+        "plano_atual": "Nenhum",
+        "motivo": "Incluir novas vidas",
+        "interesse": "rede d'or",
+        "rede_preferencial": "Rede D'Or",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "Valdir",
+        "bot": "Gilbertinho Amarelo (2373)",
+        "formatted": "👤 Cliente: Valdir\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96428-1875\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nValdir — 50 anos\nDependente 1 — 45 anos\nDependente 2 — 17 anos\nDependente 3 — 7 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n🎯 Rede preferencial: Rede D'Or\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n\n🎯 Interesse: rede d'or\n\n⚠️ Observação: Valdir\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Amarelo (2373)"
+      },
+      "status": "quente",
+      "bot": "amarelo",
+      "consultor": "",
+      "message_count": 14,
+      "first_message_at": "2026-03-06T03:00:00.000Z",
+      "last_message_at": "2026-03-06T23:14:30.763000Z",
+      "last_bot_msg_at": "2026-03-06T20:14:30.193211",
+      "tempo_sem_interacao": "3h",
+      "first_id": 17004,
+      "last_id": 17017,
+      "last_message_preview": "Pode ser amanhã pela manhã.",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados Fornecidos\nNome: Valdir\nContem CNPJ: Sim\nNumero de Vidas: 3 a 5 Vidas\nOperadora de Interesse: não informado\nRegião: Não Informado\nPropaganda:\n",
+          "msg_time": "2026-03-06T20:03:53.572787"
+        },
+        {
+          "role": "ai",
+          "content": "Oi Valdir, eu sou o Gilberto da GW9 Saúde. Você pediu o nosso contato para saber mais sobre Plano de Saúde e mencionou que tem interesse para 3 a 5 pessoas e que já possui um CNPJ. Pra te ajudar e ser mais assertivo, preciso confirmar mais algumas informações. Tudo bem?",
+          "msg_time": "2026-03-06T20:03:53.574738"
+        },
+        {
+          "role": "user",
+          "content": "Tudo",
+          "msg_time": "2026-03-06T20:05:19.577202"
+        },
+        {
+          "role": "ai",
+          "content": "Ótimo, Valdir! Para seguir, você pode me informar a cidade e estado onde o plano será usado? Assim posso verificar as melhores opções para sua região. Também preciso da idade de todas as pessoas que vão entrar no plano, pois isso é essencial para a cotação.",
+          "msg_time": "2026-03-06T20:05:19.583955"
+        },
+        {
+          "role": "user",
+          "content": "Rio de Janeiro/RJ\n50 anos\n45 anos\n17 anos\n07 anos",
+          "msg_time": "2026-03-06T20:07:48.879753"
+        },
+        {
+          "role": "ai",
+          "content": "Perfeito, Valdir! São 4 pessoas: 50, 45, 17 e 7 anos, no Rio de Janeiro/RJ. Você mencionou que o plano será contratado pelo CNPJ. Pode me confirmar qual o tipo da empresa? É MEI ou LTDA? Se for MEI, há quanto tempo está aberta? Isso ajuda a ajustar as ofertas.",
+          "msg_time": "2026-03-06T20:07:48.881818"
+        },
+        {
+          "role": "user",
+          "content": "LTDA\nAbertura 19/01/2022",
+          "msg_time": "2026-03-06T20:09:27.669812"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Valdir, empresa LTDA aberta em 19/01/2022. Agora, quero entender melhor o momento atual: vocês já possuem algum plano hoje ou estão sem? E tem hospital ou médico que fazem questão na rede? Isso ajuda a entregar o melhor pra você.",
+          "msg_time": "2026-03-06T20:09:27.671904"
+        },
+        {
+          "role": "user",
+          "content": "Sem plano no momento \nRede são Luís e rede d'or.",
+          "msg_time": "2026-03-06T20:11:31.561662"
+        },
+        {
+          "role": "ai",
+          "content": "Compreendi, Valdir, vocês estão sem plano atualmente e preferem as redes São Luís e Rede D'Or. Isso ajuda bastante para encontrar o melhor atendimento.\n\nE na contratação pelo CNPJ, há algum valor mensal máximo que gostariam de considerar? Ou a prioridade é a qualidade da rede e cobertura?",
+          "msg_time": "2026-03-06T20:11:31.564322"
+        },
+        {
+          "role": "user",
+          "content": "Na verdade seria um misto de valor e qualidade.",
+          "msg_time": "2026-03-06T20:13:22.143532"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Valdir, um equilíbrio entre valor e qualidade. Com essas informações, o especialista poderá ajudar muito melhor.\n\nQual o melhor dia e horário para o especialista te ligar? Prefere WhatsApp, ligação ou vídeo?",
+          "msg_time": "2026-03-06T20:13:22.14634"
+        },
+        {
+          "role": "user",
+          "content": "Pode ser amanhã pela manhã.",
+          "msg_time": "2026-03-06T20:14:30.18979"
+        },
+        {
+          "role": "ai",
+          "content": "Combinado, Valdir! Já deixei tudo pronto para o especialista te ligar amanhã pela manhã. Obrigado por compartilhar as informações!",
+          "msg_time": "2026-03-06T20:14:30.193211"
+        }
+      ]
+    },
     {
       "session_id": "5521996232350@s.whatsapp.net",
       "phone": "5521996232350",
@@ -55,7 +188,7 @@
       "first_message_at": "2026-03-06T03:00:00.000Z",
       "last_message_at": "2026-03-06T22:32:09.579000Z",
       "last_bot_msg_at": "2026-03-06T19:32:09.04159",
-      "tempo_sem_interacao": "3h 28min",
+      "tempo_sem_interacao": "3h 43min",
       "first_id": 16813,
       "last_id": 17003,
       "last_message_preview": "Obrigado bom fim de semana",
@@ -210,7 +343,7 @@
       "first_message_at": "2026-03-06T03:00:00.000Z",
       "last_message_at": "2026-03-06T22:10:36.944000Z",
       "last_bot_msg_at": "2026-03-06T19:10:36.385179",
-      "tempo_sem_interacao": "3h 49min",
+      "tempo_sem_interacao": "4h 4min",
       "first_id": 16894,
       "last_id": 16997,
       "last_message_preview": "Estou na Cidade do Rio de Janeiro, zona norte do Rj\n\nSeria contratação por CPF",
@@ -308,7 +441,7 @@
       "first_message_at": "2026-03-06T03:00:00.000Z",
       "last_message_at": "2026-03-06T21:57:34.336000Z",
       "last_bot_msg_at": "2026-03-06T18:57:33.773184",
-      "tempo_sem_interacao": "4h 2min",
+      "tempo_sem_interacao": "4h 17min",
       "first_id": 16957,
       "last_id": 16995,
       "last_message_preview": "?",
@@ -483,7 +616,7 @@
       "first_message_at": "2026-03-06T03:00:00.000Z",
       "last_message_at": "2026-03-06T22:04:10.733000Z",
       "last_bot_msg_at": "2026-03-06T19:04:10.151815",
-      "tempo_sem_interacao": "3h 56min",
+      "tempo_sem_interacao": "4h 11min",
       "first_id": 16898,
       "last_id": 16993,
       "last_message_preview": "Oi\n\nSou Fisioterapeuta\n\nAinda não tenho CNPJ\n\nMas posso providenciar",
@@ -578,7 +711,7 @@
       "first_message_at": "2025-12-15T03:00:00.000Z",
       "last_message_at": "2026-03-06T22:03:07.902Z",
       "last_bot_msg_at": "2026-03-06T22:03:07.902Z",
-      "tempo_sem_interacao": "57min",
+      "tempo_sem_interacao": "1h 12min",
       "first_id": 742,
       "last_id": 16991,
       "last_message_preview": "<ContextoPDF>\n  <TranscricaoPDF>\n\n\n\n\n\n  </TranscricaoPDF>\nContexto Extra: O usuário encaminhou a men...",
@@ -878,7 +1011,7 @@
       "first_message_at": "2026-03-06T03:00:00.000Z",
       "last_message_at": "2026-03-06T18:14:36.551000Z",
       "last_bot_msg_at": "2026-03-06T15:14:36.034609",
-      "tempo_sem_interacao": "7h 45min",
+      "tempo_sem_interacao": "8h",
       "first_id": 16875,
       "last_id": 16981,
       "last_message_preview": "Olá gostaria de mais informações dos Planos de Saúde  Sulamérica",
@@ -943,7 +1076,7 @@
       "first_message_at": "2026-03-06T03:00:00.000Z",
       "last_message_at": "2026-03-06T17:24:02.205000Z",
       "last_bot_msg_at": "2026-03-06T14:24:01.219237",
-      "tempo_sem_interacao": "8h 36min",
+      "tempo_sem_interacao": "8h 51min",
       "first_id": 16807,
       "last_id": 16979,
       "last_message_preview": "Ola, gostaria de uma cotação de um plano de saúde",
@@ -1008,7 +1141,7 @@
       "first_message_at": "2026-03-06T03:00:00.000Z",
       "last_message_at": "2026-03-06T17:23:46.851000Z",
       "last_bot_msg_at": "2026-03-06T14:23:46.25918",
-      "tempo_sem_interacao": "8h 36min",
+      "tempo_sem_interacao": "8h 51min",
       "first_id": 16805,
       "last_id": 16978,
       "last_message_preview": "Olá gostaria de mais informações dos Planos de Saúde",
@@ -1073,7 +1206,7 @@
       "first_message_at": "2026-03-06T03:00:00.000Z",
       "last_message_at": "2026-03-06T17:23:42.008000Z",
       "last_bot_msg_at": "2026-03-06T14:23:41.485071",
-      "tempo_sem_interacao": "8h 36min",
+      "tempo_sem_interacao": "8h 51min",
       "first_id": 16803,
       "last_id": 16977,
       "last_message_preview": "Olá gostaria de mais informações dos Planos de Saúde",
@@ -1138,7 +1271,7 @@
       "first_message_at": "2025-12-11T03:00:00.000Z",
       "last_message_at": "2026-03-06T17:14:52.375000Z",
       "last_bot_msg_at": "2026-03-06T14:13:32.652548",
-      "tempo_sem_interacao": "8h 46min",
+      "tempo_sem_interacao": "9h 1min",
       "first_id": 16766,
       "last_id": 16975,
       "last_message_preview": "Quero um plano de saúde para Niterói. Eu tenho três pessoas comigo. Pelo CPF.",
@@ -1213,7 +1346,7 @@
       "first_message_at": "2026-03-06T03:00:00.000Z",
       "last_message_at": "2026-03-06T21:49:57.183000Z",
       "last_bot_msg_at": "2026-03-06T18:49:52.634671",
-      "tempo_sem_interacao": "4h 10min",
+      "tempo_sem_interacao": "4h 25min",
       "first_id": 16955,
       "last_id": 16956,
       "last_message_preview": "Dados Fornecidos\nNome: Victor\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não ...",
@@ -1283,7 +1416,7 @@
       "first_message_at": "2026-03-06T03:00:00.000Z",
       "last_message_at": "2026-03-06T21:32:05.978000Z",
       "last_bot_msg_at": "2026-03-06T18:32:05.379902",
-      "tempo_sem_interacao": "4h 28min",
+      "tempo_sem_interacao": "4h 43min",
       "first_id": 16939,
       "last_id": 16954,
       "last_message_preview": "Ok",
@@ -1727,7 +1860,7 @@
       "first_message_at": "2026-03-06T03:00:00.000Z",
       "last_message_at": "2026-03-06T19:34:07.136000Z",
       "last_bot_msg_at": "2026-03-06T16:34:06.557855",
-      "tempo_sem_interacao": "6h 26min",
+      "tempo_sem_interacao": "6h 41min",
       "first_id": 16911,
       "last_id": 16937,
       "last_message_preview": "Obrigado",
@@ -1912,7 +2045,7 @@
       "first_message_at": "2026-03-06T03:00:00.000Z",
       "last_message_at": "2026-03-06T19:24:36.419Z",
       "last_bot_msg_at": "2026-03-06T19:24:36.419Z",
-      "tempo_sem_interacao": "3h 35min",
+      "tempo_sem_interacao": "3h 50min",
       "first_id": 16909,
       "last_id": 16910,
       "last_message_preview": "",
@@ -1972,7 +2105,7 @@
       "first_message_at": "2026-03-06T03:00:00.000Z",
       "last_message_at": "2026-03-06T19:23:40.130Z",
       "last_bot_msg_at": "2026-03-06T19:23:40.130Z",
-      "tempo_sem_interacao": "3h 36min",
+      "tempo_sem_interacao": "3h 51min",
       "first_id": 16908,
       "last_id": 16908,
       "last_message_preview": "",
@@ -2107,7 +2240,7 @@
       "first_message_at": "2026-02-05T03:00:00.000Z",
       "last_message_at": "2026-03-06T18:30:39.411Z",
       "last_bot_msg_at": "2026-03-06T18:30:39.411Z",
-      "tempo_sem_interacao": "4h 29min",
+      "tempo_sem_interacao": "4h 44min",
       "first_id": 12448,
       "last_id": 16893,
       "last_message_preview": "Me mandaram agora\n\nConsegue me enviar a lista de documentos que precisa\n\no que?\n\nde qual numero?\n\nO ...",
@@ -2417,7 +2550,7 @@
       "first_message_at": "2025-12-30T03:00:00.000Z",
       "last_message_at": "2026-03-06T18:16:16.936000Z",
       "last_bot_msg_at": "2026-03-06T15:16:16.448531",
-      "tempo_sem_interacao": "7h 43min",
+      "tempo_sem_interacao": "7h 58min",
       "first_id": 6463,
       "last_id": 16892,
       "last_message_preview": "Pode sim.",
@@ -2859,7 +2992,7 @@
       "first_message_at": "2025-12-08T03:00:00.000Z",
       "last_message_at": "2026-03-06T18:10:22.059Z",
       "last_bot_msg_at": "2026-03-06T18:10:22.059Z",
-      "tempo_sem_interacao": "4h 49min",
+      "tempo_sem_interacao": "5h 4min",
       "first_id": 77,
       "last_id": 16866,
       "last_message_preview": "fechado especial 100\n\nfechado especial 100\n\nfechado especial 100",
@@ -3371,7 +3504,7 @@
       "first_message_at": "2026-02-28T03:00:00.000Z",
       "last_message_at": "2026-03-06T16:51:17.642000Z",
       "last_bot_msg_at": "2026-03-06T13:51:17.084569",
-      "tempo_sem_interacao": "9h 8min",
+      "tempo_sem_interacao": "9h 23min",
       "first_id": 14474,
       "last_id": 16858,
       "last_message_preview": "Tudo bem",
@@ -3493,7 +3626,7 @@
       "first_message_at": "2026-03-06T03:00:00.000Z",
       "last_message_at": "2026-03-06T17:50:09.068000Z",
       "last_bot_msg_at": "2026-03-06T14:50:08.280082",
-      "tempo_sem_interacao": "8h 10min",
+      "tempo_sem_interacao": "8h 25min",
       "first_id": 16809,
       "last_id": 16852,
       "last_message_preview": "Bt",
@@ -8267,7 +8400,7 @@
       "first_message_at": "2026-02-08T03:00:00.000Z",
       "last_message_at": "2026-03-06T01:36:17.247Z",
       "last_bot_msg_at": "2026-03-06T01:36:17.247Z",
-      "tempo_sem_interacao": "21h 23min",
+      "tempo_sem_interacao": "21h 38min",
       "first_id": 13022,
       "last_id": 16407,
       "last_message_preview": "A tah ok",
@@ -9269,7 +9402,7 @@
       "first_message_at": "2026-03-04T03:00:00.000Z",
       "last_message_at": "2026-03-06T01:36:17.247Z",
       "last_bot_msg_at": "2026-03-06T01:36:17.247Z",
-      "tempo_sem_interacao": "21h 23min",
+      "tempo_sem_interacao": "21h 38min",
       "first_id": 15836,
       "last_id": 16309,
       "last_message_preview": "Tenho os dois um da igreja e outro",
@@ -9349,7 +9482,7 @@
       "first_message_at": "2026-03-04T03:00:00.000Z",
       "last_message_at": "2026-03-06T01:36:17.247Z",
       "last_bot_msg_at": "2026-03-06T01:36:17.247Z",
-      "tempo_sem_interacao": "21h 23min",
+      "tempo_sem_interacao": "21h 38min",
       "first_id": 15835,
       "last_id": 16308,
       "last_message_preview": "",
@@ -9529,7 +9662,7 @@
       "first_message_at": "2026-03-04T03:00:00.000Z",
       "last_message_at": "2026-03-06T01:36:17.247Z",
       "last_bot_msg_at": "2026-03-06T01:36:17.247Z",
-      "tempo_sem_interacao": "21h 23min",
+      "tempo_sem_interacao": "21h 38min",
       "first_id": 15833,
       "last_id": 16306,
       "last_message_preview": "Estava com a IA ativa\n\nQuais seriam as idades ?\n\n🫣\n\nFez eu perder tempo\n\nDeixa quieto\n\nDesculpe nao...",
@@ -12419,7 +12552,7 @@
       "first_message_at": "2026-02-20T03:00:00.000Z",
       "last_message_at": "2026-03-06T01:36:17.247Z",
       "last_bot_msg_at": "2026-03-06T01:36:17.247Z",
-      "tempo_sem_interacao": "21h 23min",
+      "tempo_sem_interacao": "21h 38min",
       "first_id": 13636,
       "last_id": 16069,
       "last_message_preview": "Vou analisar aqui.",
@@ -14831,7 +14964,7 @@
       "first_message_at": "2026-02-04T03:00:00.000Z",
       "last_message_at": "2026-03-06T01:36:17.247Z",
       "last_bot_msg_at": "2026-03-06T01:36:17.247Z",
-      "tempo_sem_interacao": "21h 23min",
+      "tempo_sem_interacao": "21h 38min",
       "first_id": 12205,
       "last_id": 15609,
       "last_message_preview": "Cliente renata abeya tenho reuniao com\n\nela\n\né laysa?",
@@ -17268,7 +17401,7 @@
       "first_message_at": "2026-03-02T03:00:00.000Z",
       "last_message_at": "2026-03-06T01:36:17.247Z",
       "last_bot_msg_at": "2026-03-06T01:36:17.247Z",
-      "tempo_sem_interacao": "21h 23min",
+      "tempo_sem_interacao": "21h 38min",
       "first_id": 15305,
       "last_id": 15305,
       "last_message_preview": "",
@@ -17743,7 +17876,7 @@
       "first_message_at": "2026-02-26T03:00:00.000Z",
       "last_message_at": "2026-03-06T01:36:17.247Z",
       "last_bot_msg_at": "2026-03-06T01:36:17.247Z",
-      "tempo_sem_interacao": "21h 23min",
+      "tempo_sem_interacao": "21h 38min",
       "first_id": 14355,
       "last_id": 15238,
       "last_message_preview": "",
@@ -18028,7 +18161,7 @@
       "first_message_at": "2026-02-26T03:00:00.000Z",
       "last_message_at": "2026-03-06T01:36:17.247Z",
       "last_bot_msg_at": "2026-03-06T01:36:17.247Z",
-      "tempo_sem_interacao": "21h 23min",
+      "tempo_sem_interacao": "21h 38min",
       "first_id": 14188,
       "last_id": 15112,
       "last_message_preview": "Os aumentos estão subordinados as liberado p governo???",
@@ -20749,7 +20882,7 @@
       "first_message_at": "2026-02-02T03:00:00.000Z",
       "last_message_at": "2026-03-06T01:36:17.247Z",
       "last_bot_msg_at": "2026-03-06T01:36:17.247Z",
-      "tempo_sem_interacao": "21h 23min",
+      "tempo_sem_interacao": "21h 38min",
       "first_id": 14792,
       "last_id": 14792,
       "last_message_preview": "",
@@ -22348,7 +22481,7 @@
       "first_message_at": "2026-02-27T03:00:00.000Z",
       "last_message_at": "2026-03-06T01:36:17.247Z",
       "last_bot_msg_at": "2026-03-06T01:36:17.247Z",
-      "tempo_sem_interacao": "21h 23min",
+      "tempo_sem_interacao": "21h 38min",
       "first_id": 14498,
       "last_id": 14598,
       "last_message_preview": "",
@@ -22413,7 +22546,7 @@
       "first_message_at": "2026-02-27T03:00:00.000Z",
       "last_message_at": "2026-03-06T01:36:17.247Z",
       "last_bot_msg_at": "2026-03-06T01:36:17.247Z",
-      "tempo_sem_interacao": "21h 23min",
+      "tempo_sem_interacao": "21h 38min",
       "first_id": 14495,
       "last_id": 14597,
       "last_message_preview": "",
@@ -22478,7 +22611,7 @@
       "first_message_at": "2026-02-06T03:00:00.000Z",
       "last_message_at": "2026-03-06T01:36:17.247Z",
       "last_bot_msg_at": "2026-03-06T01:36:17.247Z",
-      "tempo_sem_interacao": "21h 23min",
+      "tempo_sem_interacao": "21h 38min",
       "first_id": 13935,
       "last_id": 14582,
       "last_message_preview": "Formato de mensagem enviada nao suportado",
@@ -22838,7 +22971,7 @@
       "first_message_at": "2026-02-27T03:00:00.000Z",
       "last_message_at": "2026-03-06T01:36:17.247Z",
       "last_bot_msg_at": "2026-03-06T01:36:17.247Z",
-      "tempo_sem_interacao": "21h 23min",
+      "tempo_sem_interacao": "21h 38min",
       "first_id": 14394,
       "last_id": 14502,
       "last_message_preview": "Vou te encaminhar para a especialista Elisa que seguirá com o atendimento . Ok?\n\nOk",
@@ -23652,7 +23785,7 @@
       "first_message_at": "2026-02-26T03:00:00.000Z",
       "last_message_at": "2026-03-06T01:36:17.247Z",
       "last_bot_msg_at": "2026-03-06T01:36:17.247Z",
-      "tempo_sem_interacao": "21h 23min",
+      "tempo_sem_interacao": "21h 38min",
       "first_id": 14354,
       "last_id": 14476,
       "last_message_preview": "",
@@ -23833,7 +23966,7 @@
       "first_message_at": "2026-02-10T03:00:00.000Z",
       "last_message_at": "2026-03-06T01:36:17.247Z",
       "last_bot_msg_at": "2026-03-06T01:36:17.247Z",
-      "tempo_sem_interacao": "21h 23min",
+      "tempo_sem_interacao": "21h 38min",
       "first_id": 13220,
       "last_id": 14401,
       "last_message_preview": "<ContextoPDF>\n  <TranscricaoPDF>\nCNPJ: 33.164.021/0001-00\nProposta Seguro\nTokio Marine Aluguel Pesso...",
@@ -24133,7 +24266,7 @@
       "first_message_at": "2026-02-24T03:00:00.000Z",
       "last_message_at": "2026-03-06T01:36:17.247Z",
       "last_bot_msg_at": "2026-03-06T01:36:17.247Z",
-      "tempo_sem_interacao": "21h 23min",
+      "tempo_sem_interacao": "21h 38min",
       "first_id": 13901,
       "last_id": 14365,
       "last_message_preview": "vamos analisar o orçamento e coberturas?\n\nOk",
@@ -24445,7 +24578,7 @@
       "first_message_at": "2026-02-26T03:00:00.000Z",
       "last_message_at": "2026-03-06T01:36:17.247Z",
       "last_bot_msg_at": "2026-03-06T01:36:17.247Z",
-      "tempo_sem_interacao": "21h 23min",
+      "tempo_sem_interacao": "21h 38min",
       "first_id": 14171,
       "last_id": 14358,
       "last_message_preview": "Ok muito obg",
@@ -25153,7 +25286,7 @@
       "first_message_at": "2026-02-25T03:00:00.000Z",
       "last_message_at": "2026-03-06T01:36:17.247Z",
       "last_bot_msg_at": "2026-03-06T01:36:17.247Z",
-      "tempo_sem_interacao": "21h 23min",
+      "tempo_sem_interacao": "21h 38min",
       "first_id": 14090,
       "last_id": 14170,
       "last_message_preview": "24\n\nNo caso seria plano familiar",
@@ -25393,7 +25526,7 @@
       "first_message_at": "2026-02-25T03:00:00.000Z",
       "last_message_at": "2026-03-06T01:36:17.247Z",
       "last_bot_msg_at": "2026-03-06T01:36:17.247Z",
-      "tempo_sem_interacao": "21h 23min",
+      "tempo_sem_interacao": "21h 38min",
       "first_id": 13932,
       "last_id": 14156,
       "last_message_preview": "Sou de Niterói e agora o atendimento de pronto socorro infantil e no Rio.Nao aceito,fiz o plano para...",
@@ -25733,7 +25866,7 @@
       "first_message_at": "2026-02-24T03:00:00.000Z",
       "last_message_at": "2026-03-06T01:36:17.247Z",
       "last_bot_msg_at": "2026-03-06T01:36:17.247Z",
-      "tempo_sem_interacao": "21h 23min",
+      "tempo_sem_interacao": "21h 38min",
       "first_id": 13928,
       "last_id": 14088,
       "last_message_preview": "Estou fechando a empresa deu pra entender?",
@@ -25998,7 +26131,7 @@
       "first_message_at": "2026-02-25T03:00:00.000Z",
       "last_message_at": "2026-03-06T01:36:17.247Z",
       "last_bot_msg_at": "2026-03-06T01:36:17.247Z",
-      "tempo_sem_interacao": "21h 23min",
+      "tempo_sem_interacao": "21h 38min",
       "first_id": 14062,
       "last_id": 14067,
       "last_message_preview": "Sim\n\nAmil",
@@ -26381,7 +26514,7 @@
       "first_message_at": "2026-02-21T03:00:00.000Z",
       "last_message_at": "2026-03-06T01:36:17.247Z",
       "last_bot_msg_at": "2026-03-06T01:36:17.247Z",
-      "tempo_sem_interacao": "21h 23min",
+      "tempo_sem_interacao": "21h 38min",
       "first_id": 13938,
       "last_id": 13952,
       "last_message_preview": "Obrigada  e bom trabalho  tb✨✨🙏🏽",
@@ -26451,7 +26584,7 @@
       "first_message_at": "2026-02-20T03:00:00.000Z",
       "last_message_at": "2026-03-06T01:36:17.247Z",
       "last_bot_msg_at": "2026-03-06T01:36:17.247Z",
-      "tempo_sem_interacao": "21h 23min",
+      "tempo_sem_interacao": "21h 38min",
       "first_id": 13936,
       "last_id": 13936,
       "last_message_preview": "",
@@ -26506,7 +26639,7 @@
       "first_message_at": "2026-02-04T03:00:00.000Z",
       "last_message_at": "2026-03-06T01:36:17.247Z",
       "last_bot_msg_at": "2026-03-06T01:36:17.247Z",
-      "tempo_sem_interacao": "21h 23min",
+      "tempo_sem_interacao": "21h 38min",
       "first_id": 12286,
       "last_id": 13900,
       "last_message_preview": "Olá Gilberto, boa tarde. Primeiramente, agradeço por toda a sua atenção e apoio. O meu marido já con...",
@@ -26524,231 +26657,6 @@
         {
           "role": "user",
           "content": "Olá Gilberto, boa tarde. Primeiramente, agradeço por toda a sua atenção e apoio. O meu marido já conseguiu fechar o nosso plano junto a outro corretor. Mais uma vez, obrigada.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        }
-      ]
-    },
-    {
-      "session_id": "5515998070308@s.whatsapp.net",
-      "phone": "5515998070308",
-      "phone_display": "+55 15 99807-0308",
-      "lead": {
-        "baserow_id": 5,
-        "nome": "Lead 0308",
-        "email": "",
-        "qtd_vidas": "",
-        "desinteresse": false,
-        "gilbertinho_off": true,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": "Frio"
-      },
-      "summary": {
-        "nome": "Lead 0308",
-        "email": "",
-        "telefone": "+55 15 99807-0308",
-        "vidas": [],
-        "cidade": "RJ e MG",
-        "contratacao": "",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "",
-        "bot": "Não identificado",
-        "formatted": "👤 Cliente: Lead 0308\n📱 Contato: WhatsApp\n📞 Telefone: +55 15 99807-0308\n\n📋 Dados contratuais:\n\nCidade: RJ e MG\n✅ Status: Lead frio\n🤖 Bot: Não identificado"
-      },
-      "status": "frio",
-      "bot": "desconhecido",
-      "consultor": "",
-      "message_count": 35,
-      "first_message_at": "2025-12-08T03:00:00.000Z",
-      "last_message_at": "2026-03-06T01:36:17.247Z",
-      "last_bot_msg_at": "2026-03-06T01:36:17.247Z",
-      "tempo_sem_interacao": "21h 23min",
-      "first_id": 63,
-      "last_id": 13883,
-      "last_message_preview": "Meu amigo o saldo do Googl esta baixo - podemos fazer uma recarga?",
-      "messages": [
-        {
-          "role": "system",
-          "content": "Fala Matheus",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "Bom dia",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "Só recebemos lead esse fds no BTCOR",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "No wzp , apenas 1",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "Tivemos alguma alteração ?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Fala meu amigo bom dian",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Ué, vou verificar agora aqui",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Até sexta estava tudo normal",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Pode deixar que verifico aqui",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "Ok",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wgARCAUAAk8DASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAIDBAUBBv/EABkBAQEBAQEBAAAAAAAAAAAAAAABAgMEBf/aAAwDAQACEAMQAAAC74AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4evPQiJHh6ZDWyawAAAAAAAAAAAAAAAAA8zmlCYZoGwBjzHVcr06iEwAAAAAADkS2VHO6mHccnfCgvhXE6vG7HIPO1xuwaQAAAAAAAAAAAAAAAc7NdEx19Dw2V6bj5fzq5izsxkfD9Hn6TZ7zeidHfg6B6AAAAAADzyQhMKpTCEwxbRi2gAAAAAAAAAAAAAAABQvFHmgRkDz0AUUbhhbhGQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACJJg3gAAAAAAAAAAAAAAAAAAAAAAwG9x7jpAAGA3ud4dJz+gAAAAAAR5PX5J1ZV2AAAAAAAAAAAAAAAAAAAAAADndHnFM67DqAAcbs80nLV6ZdnP6AAqtgULB5fXYAAPPRi2gAAAAAAAAAAAAAAAAAAAAAAyaxgltAADHsGBvFNwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADnnQQxHQRqL2HcGK4vZJGlRnN7LUb0MZvUelzDuCm4FZY5+4kySNJgN6iRagJqhaosJvMhsZZl7NcTci46Llby5D0khjN6rwuMpqZNYAAAAAAA53R5xV1OZ1T",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wgARCAUAAk8DASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAIDBAEFBv/EABgBAQEBAQEAAAAAAAAAAAAAAAABAgME/9oADAMBAAIQAxAAAAL3wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADh1zoREjh0yGtk1gAAAAAAAAAAAAAAAABzhIBmgbAGPMeq8rp6iEwAAAAAADyJbKjzvUw7jyd8KC+FcT1fG9jyDnteN7BpAAAAAAAAAAAAAAAB52a6Jj9OjaX4t3T5fnq5iz2YyPh/R8/SbO+b6J6O/B6B0AAAAAAHOSEJhVKYQmGLaMW0AAAAAAAAAAAAAAAAKF4osmAHOgCijcMLcIyAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcOvP9AAAAAAAAAAAAAAAAAAAAAAAGI2vIsPTAAMJued09B5npgAAAAAHPI9jyT0503AAAAAAAAAAAAAAAAAAAAAADz/AEPPIQlA9cADyPX84lLV0ybfO9EAQnEzrBHRVaAAAYdwAAAAAAAAAAAAAAAAAAAAAAMuoef3eAAGTWMDeM+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB556COE9BCBcwbwx2Ghm4alOY3stRvV5jaz2FjDtOqpkiJJ5+0myjUYTczzLXIFioWqLSSGc1sd5ayaSTybT0Xlbi9yJNHEb1PS1yg0MewAAAAAAAed6PnFfp",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wgARCAUAAk8DASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAIDBAUBBv/EABkBAQEBAQEBAAAAAAAAAAAAAAABAgMEBf/aAAwDAQACEAMQAAAC74AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4evPQiJHh6ZDWyawAAAAAAAAAAAAAAAAA88JAM0DYAx5jquV6dRCYAAAAAAByJbKjndTDuOTvhQXwridXjdjkHna43YNIAAAAAAAAAAAAAAAOdmuiY+nRtL8W70+X86uYs7MZHw/R5+k2e83onR34OgegAAAAAA88kITCqUwhMMW0YtoAAAAAAAAAAAAAAAAULxRZMAPPQBRRuGFuEZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIkmDeAAAAAAAAAAAAAAAAAAAAAADAb3HuOkAAYDe53h0nP6AAAAAABHk9fknVlXYAAAAAAAAAAAAAAAAAAAAAAOd0ecUzrsOoABxuzzSctXpl2c/oACq2BQsHl9dgAA89GLaAAAAAAAAAAAAAAAAAAAAAADJrGCW0AAMewYG8U3AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOedBDEdBGovYdwYri9kkaVGc3stRvQxm9R6XMO4KbgVljn7iTJI0mA3qJFqAmqFqiwm8yGxlmXs1xNyLjouVvLkPSSGM3qvC4ympk1gAAAAAADndHnFXU5nVM2XV",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Não chegou esses leads?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wgARCAUAAk8DASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAAAAIDBAEFBv/EABkBAQEBAQEBAAAAAAAAAAAAAAABAgMEBf/aAAwDAQACEAMQAAAC90AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGFdlKd2PUM9cjRTuwnqAAAAAAAAAAAAAAAAA5RhiepF0sxbajx0JnqaIdKux54uty17eVdmXSdAAAAAAABXk3jxt2sY83qjFs6AAAAAAAAAAAAAAAAAPK56wqWjnQxWaQ50Z2hlSuaV2AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMpqeV6oAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOGTxc31pyYAAAAAAAK7Mxg2U5D3Xn5D28OTIfSPLznuPHmeqeIbd3zvpm94fuB4kz2Hg8PfeIPbeFYey8mg9149Z7jJ5h7yuwAAAAAAAAAAA8/wAz6PAbu+T6wAAAAAAAzaeHgvckeBT9IPDp+i4eRD3Inmed9NEn8/8AQRPn5e8Pm/poyPm9frjx3sDyKPe88w2ez0xeX9HA83zfp6zxc300SnTzoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIE1BL1QtUKvUyixHp1GJYpFyjpchMBTnQA50EUkpmTVcLlIuUzJo1lyjpcpFynheoVeoF6nsWoiTg65AsVcLlUibnFkjFLFPS1UL",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "No wzp nao",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "Somente esse",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "T2dnUwACAAAAAAAAAABkAAAAAAAAADI5MFABE09wdXNIZWFkAQE4AYA+AAAAAABPZ2dTAAAAAAAAAAAAAGQAAAABAAAAWxHrFgEYT3B1c1RhZ3MIAAAAV2hhdHNBcHAAAAAAT2dnUwAAuFIBAAAAAABkAAAAAgAAAP0M5Nga0vD/Gf8W/wbo5P8n/1L/JP9A/0//N/8q/xdLhgcdKScrC+TBNuzFgIAEThxDI01HIRf86YDGAnuuPPmziHalK9xgOah+gRT9NPkVx/OiZdUPYsTmLjBSZn052dDVgHLAF+7svlnRL5k5sJAi9iCKtmcMk2cwH+Wx2T5aWCkgm5fcfXuzrr/3sq1MSHFI7N/1LV7OU8CCDPQpeS9P+av1CFgFQeEWqrbhtimj0MzCb1KeAsexr+Sm5Oz1xeEpRIlIgb6fR/Jp4H1xQ7SBBugnwW4sn0DqNkNwld21KyiRJctwSos8QIdjou94t6xLhigoKyUji06FZPyB2gEYeX6u+Kkx5I5ZFAnkwr5bL+byUFnFiPlSAgevCy/KgIpb2KNpch1z4eeXCLDmXQRhQRPauejvyKuYUyhIcpDUSoNvPxyqtcCJ3zERmpvfK2N+oXhXNCpEZ34LG/dgvDIJGybw2cPGRjdYyq1XvPgTRi+EiZFzMg/i2agjS78S+QnF06ZiX1IbIJP4NM2JT3vrFHmiO5FLuIErNilOAauvgopJ8cegiWDsZRoRrk7i2HT2uFjEl6RcfndLiZHzWUomvCQi7d67LLFkPOwND5HqLBbmUWN8xsS5V8cGi277YZ9LhiIxLC80iY1Ssq2WuwKgtEgGZKpJiDsVyHgdOzK5OfRTEv6yRnZfCokp3sXVXMJ9OGss1Su9xIAU8fHdExWywIkrOMhLB+BzhCPtZrtfR6y265yb1phQM9CJMOR9p0AuSajNtuLkUcbwaZ7MNYszYpRQNhSGRbVoPH4C0RiK27gvuIfBQIk9UCHp1QdUZHmdDnPm",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "Esses aqui não",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "Chama a Elisa ae",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Hum certo",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Então vamos ver a integração",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "tudo bem?\n\nO Meta vai enviar um codigo pra voce\n\npoderia me enviar?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "Opa\n\nQuando for assim pode me ligar amigo",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Bom dia meu amigo tudo bem?\n\nOpa desculpe, na próxima eu te ligo, segunda vou reenviar o código",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Gil boa tarde\n\ntudo bem\n\no meta enviou um codigo pra voce no whatsapp",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Qual a faixa etária que vc está usando na campanha de 3 vidas amil ?\n\nFala GIl boa tarde\n\nOque precisa meu amigo\n\nFala Matheus\n\nBoa tarde\n\n28 a 55\n\nGeralmente colocamos esta faixa\n\nta chegando Idoso?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "Não, na verdade ali tem uma chamada que você bota 3 vidas por 540 reais. Qual foi esse cenário que você criou?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "É assim, a Laís falou que você não criou, mas eu acredito que tem alguma faixa etária ali, como você se descreve, na hora, que alguns clientes, não tá chegando idoso não, tá? Mas, ah, porque vocês estão falando que é três vidas por 540 reais, mas eu só precisava saber qual é a faixa etária que tá utilizando ali. Um exemplo, há duas vidas de 19 a 23 anos e uma de 0 a 18, entendeu? Não sei se você chegou a ver isso.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "ha\n\nok da arte",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Olá Gil, tudo bem? Boa tarde, meu amigo, agora que eu entendi o que que você está dizendo. Eu estava, eu estava achando que você estava falando da faixa etária do nosso público de anúncio, mas é da arte em si, né? Eu acho, Gil, que, por sinal, essa faixa etária já está desatualizada, porque a gente fez algum tempo, deixamos ela rodando e começou a captar leads para vocês, mas a gente não está colocando Você ou a Laysa poderia me enviar, por favor, uma simulação de vidas para a gente elaborar o anúncio? Porque daí a gente faz a troca, porque eu acho que esse anúncio, ele já é um anúncio mais antigo e a gente não está especificando as idades, não está especificando mesmo, eu tô com ele aberto aqui, não está colocado. Está três vidas por 540, né? Mas está sem as idades. Você quer me passar, meu amigo, as idades de alguma simulação? Eu peço para a Alessandra, nossa designer, criar uma nova arte e a gente já faz a troca para você hoje mesmo, tá bom? Só me passar a idade, poderia ser duas vi",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "Sim sim \nMe perdoa \n\nVamos enviar a tabela sim",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "A laysa vai te enviar",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Maravilha meu amigo",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Meu amigo o saldo do Googl esta baixo - podemos fazer uma recarga?",
           "msg_time": "2026-03-05T22:36:17.247927"
         }
       ]
