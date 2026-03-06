@@ -518,26 +518,32 @@ function passesDateFilter(c){
   if(currentDateFilter==='todos') return true;
   const dateField=document.getElementById('date-field-select').value;
   const raw=dateField==='ultima'?(c.last_message_at||c.first_message_at):(c.first_message_at||c.last_message_at);
-  const entryDate=raw?new Date(raw):null;
-  if(!entryDate) return true; // No date info = show always
+  if(!raw) return true;
 
-  // Usar timezone de São Paulo para calcular "hoje"
+  // Extrair a data no fuso de São Paulo
+  // Se a data termina com T00:00:00.000Z ou T03:00:00.000Z, é "date-only" do Baserow
+  // Nesse caso, extrair YYYY-MM-DD direto da string para evitar problemas de timezone
+  let entryDateStr;
+  if(/T0[03]:00:00\.000Z$/.test(raw)){
+    entryDateStr=raw.slice(0,10); // "YYYY-MM-DD" direto
+  } else {
+    const entryDate=new Date(raw);
+    const entryFmt=new Intl.DateTimeFormat('en-CA',{timeZone:'America/Sao_Paulo',year:'numeric',month:'2-digit',day:'2-digit'});
+    entryDateStr=entryFmt.format(entryDate);
+  }
+
   const now=new Date();
-  const spFormatter=new Intl.DateTimeFormat('en-CA',{timeZone:'America/Sao_Paulo',year:'numeric',month:'2-digit',day:'2-digit'});
-  const spDateStr=spFormatter.format(now); // "YYYY-MM-DD"
-  const entryFormatter=new Intl.DateTimeFormat('en-CA',{timeZone:'America/Sao_Paulo',year:'numeric',month:'2-digit',day:'2-digit'});
-  const entryDateStr=entryFormatter.format(entryDate); // "YYYY-MM-DD" no fuso de SP
+  const spFmt=new Intl.DateTimeFormat('en-CA',{timeZone:'America/Sao_Paulo',year:'numeric',month:'2-digit',day:'2-digit'});
+  const spDateStr=spFmt.format(now);
 
   if(currentDateFilter==='hoje'){
     return entryDateStr===spDateStr;
   } else if(currentDateFilter==='7d'){
     const d7ago=new Date(now-7*24*3600000);
-    const d7str=spFormatter.format(d7ago);
-    return entryDateStr>=d7str;
+    return entryDateStr>=spFmt.format(d7ago);
   } else if(currentDateFilter==='30d'){
     const d30ago=new Date(now-30*24*3600000);
-    const d30str=spFormatter.format(d30ago);
-    return entryDateStr>=d30str;
+    return entryDateStr>=spFmt.format(d30ago);
   } else if(currentDateFilter==='custom'){
     const from=document.getElementById('date-from').value;
     const to=document.getElementById('date-to').value;
@@ -606,6 +612,7 @@ function renderCard(c,idx){
   const color=avatarColors[idx%avatarColors.length];
   const initials=getInitials(name);
   const statusLabels={quente:'Quente',morno:'Morno',frio:'Frio',desinteresse:'Desinteresse',sem_classificacao:'Novo'};
+  const gilbertoOff = c.lead && c.lead.gilbertinho_off;
   const botLabels={amarelo:'Amarelo 2373',preto:'Preto 0479',desconhecido:'?'};
   const botClass=c.bot==='amarelo'?'bot-amarelo':c.bot==='preto'?'bot-preto':'bot-desconhecido';
 
@@ -641,6 +648,7 @@ function renderCard(c,idx){
       '</div>'+
       '<div class="card-right">'+
         '<span class="status-badge status-'+c.status+'">'+statusLabels[c.status]+'</span>'+
+        (gilbertoOff?'<span class="status-badge" style="background:rgba(245,158,11,0.15);color:var(--yellow);border:1px solid rgba(245,158,11,0.3);font-size:10px">&#x1f916; OFF</span>':'')+
         '<span class="bot-badge '+botClass+'">'+esc(botLabels[c.bot]||'?')+'</span>'+
         (tempoLabel?'<span class="tempo-badge '+tClass+'" title="Tempo sem interacao do bot">&#x23f1; '+esc(tempoLabel)+'</span>':'')+
       '</div>'+
