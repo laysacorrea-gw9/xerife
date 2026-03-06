@@ -1,17 +1,323 @@
 {
   "meta": {
-    "generated_at": "2026-03-06T01:30:21.857Z",
+    "generated_at": "2026-03-06T01:36:06.280Z",
     "total_conversations": 200,
-    "total_messages": "0216432919255323935322873662727258184221608543370222416203117181818239147341618415621471630555917368125353237254514352401665162235202123191927104016833312392122521226235972651227213422140331285711273122222025212514622021222311523159332222393336221012555365532298192295369662102313312513142413353129112222241111724",
+    "total_messages": "0742164329192553239353228736627272581842216085433222416203117181818239147341618415621471630555917368125353237254514352401665162235202123191927104016833312392122521226235972651227213422140331285711273122222025212514622021222311523159332222393336221012555365532298192295369662102313312513142413353129112222241111724",
     "stats": {
       "quente": 10,
       "morno": 32,
-      "frio": 75,
-      "desinteresse": 83,
+      "frio": 76,
+      "desinteresse": 82,
       "sem_classificacao": 0
     }
   },
   "conversations": [
+    {
+      "session_id": "5521993257007@s.whatsapp.net",
+      "phone": "5521993257007",
+      "phone_display": "+55 21 99325-7007",
+      "lead": {
+        "baserow_id": 41,
+        "nome": "Laysa Corrêa",
+        "email": "email@email.com",
+        "qtd_vidas": 2,
+        "desinteresse": false,
+        "observacoes": "",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": "Frio"
+      },
+      "summary": {
+        "nome": "Laysa Corrêa",
+        "email": "email@email.com",
+        "telefone": "+55 21 99325-7007",
+        "vidas": [
+          {
+            "idade": 55
+          },
+          {
+            "idade": 21
+          }
+        ],
+        "cidade": "Rio de Janeiro / RJ",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "MEI",
+        "profissao": "Gilberto",
+        "plano_atual": "Nenhum",
+        "motivo": "Dificuldade de agendamento\nEncerramento do plano atual",
+        "interesse": "SulAmérica",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "Laysa",
+        "obs_crm": "",
+        "bot": "Gilbertinho Amarelo (2373)",
+        "formatted": "👤 Cliente: Laysa Corrêa\n📧 E-mail: email@email.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99325-7007\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nLaysa Corrêa — 55 anos\nDependente 1 — 21 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: Gilberto\n\n🏥 Plano atual: Nenhum\n\n😤 Motivo da troca:\n\nDificuldade de agendamento\nEncerramento do plano atual\n\n🎯 Interesse: SulAmérica\n👤 Consultor: Laysa\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Amarelo (2373)"
+      },
+      "status": "frio",
+      "bot": "amarelo",
+      "consultor": "Laysa",
+      "message_count": "74",
+      "first_message_at": null,
+      "last_message_at": null,
+      "last_bot_msg_at": null,
+      "tempo_sem_interacao": "",
+      "first_id": 337,
+      "last_id": 16750,
+      "last_message_preview": "oi",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Gabriela \n\n21982469039",
+          "timestamp": 5275
+        },
+        {
+          "role": "user",
+          "content": "Eu sou a Laysa, especialista em plano de saúde, recebi o seu interesse em contratar um produto para quatro pessoas. \nEu preciso de algumas outras informações como: quais são as idades ? Onde você mora? Se tem algum hospital de referência? Qual  o seu CNPJ , se é MEI ou LTDA (algumas operadoras aplicam desconto quando informamos o número)\n\nAssim que me passar essas informações eu consigo ver algumas opções pra você combinado?",
+          "timestamp": 5276
+        },
+        {
+          "role": "user",
+          "content": "21979629179",
+          "timestamp": 5277
+        },
+        {
+          "role": "user",
+          "content": "Bárbara \nTudo bem ? \n\nEu sou a Laysa, especialista em plano de saúde, recebi o seu interesse em contratar um produto para 3 pessoas. \nEu preciso de algumas outras informações para conseguir fazer um estudo, como: quais são as idades ? Onde você mora? Se tem algum hospital de referência? Qual  o seu CNPJ , se é MEI ou LTDA (algumas operadoras aplicam desconto quando informamos o número)\n\nAssim que me passar essas informações eu consigo ver algumas opções pra você combinado?",
+          "timestamp": 5278
+        },
+        {
+          "role": "user",
+          "content": "21964801424",
+          "timestamp": 5279
+        },
+        {
+          "role": "system",
+          "content": "5521973460188",
+          "timestamp": 8894
+        },
+        {
+          "role": "system",
+          "content": "/9j/4AAQSkZJRgABAQAAAQABAAD/4gHYSUNDX1BST0ZJTEUAAQEAAAHIAAAAAAQwAABtbnRyUkdCIFhZWiAH4AABAAEAAAAAAABhY3NwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA9tYAAQAAAADTLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlkZXNjAAAA8AAAACRyWFlaAAABFAAAABRnWFlaAAABKAAAABRiWFlaAAABPAAAABR3dHB0AAABUAAAABRyVFJDAAABZAAAAChnVFJDAAABZAAAAChiVFJDAAABZAAAAChjcHJ0AAABjAAAADxtbHVjAAAAAAAAAAEAAAAMZW5VUwAAAAgAAAAcAHMAUgBHAEJYWVogAAAAAAAAb6IAADj1AAADkFhZWiAAAAAAAABimQAAt4UAABjaWFlaIAAAAAAAACSgAAAPhAAAts9YWVogAAAAAAAA9tYAAQAAAADTLXBhcmEAAAAAAAQAAAACZmYAAPKnAAANWQAAE9AAAApbAAAAAAAAAABtbHVjAAAAAAAAAAEAAAAMZW5VUwAAACAAAAAcAEcAbwBvAGcAbABlACAASQBuAGMALgAgADIAMAAxADb/2wBDAAMCAgICAgMCAgIDAwMDBAYEBAQEBAgGBgUGCQgKCgkICQkKDA8MCgsOCwkJDRENDg8QEBEQCgwSExIQEw8QEBD/2wBDAQMDAwQDBAgEBAgQCwkLEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBD/wAARCANuA+ADASIAAhEBAxEB/8QAHQAAAgMAAwEBAAAAAAAAAAAAAAMBAgQFBgcICf/EAGAQAAIBAwIDBAUHCQQHBQQCEwECAwAEEQUSBiExBxNBURQiMmFxFSNSgZGh0QgWM0JUscHS4WJykpMkNENTVZSj",
+          "timestamp": 9365
+        },
+        {
+          "role": "system",
+          "content": "/9j/4AAQSkZJRgABAQAAAQABAAD/4gHYSUNDX1BST0ZJTEUAAQEAAAHIAAAAAAQwAABtbnRyUkdCIFhZWiAH4AABAAEAAAAAAABhY3NwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA9tYAAQAAAADTLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlkZXNjAAAA8AAAACRyWFlaAAABFAAAABRnWFlaAAABKAAAABRiWFlaAAABPAAAABR3dHB0AAABUAAAABRyVFJDAAABZAAAAChnVFJDAAABZAAAAChiVFJDAAABZAAAAChjcHJ0AAABjAAAADxtbHVjAAAAAAAAAAEAAAAMZW5VUwAAAAgAAAAcAHMAUgBHAEJYWVogAAAAAAAAb6IAADj1AAADkFhZWiAAAAAAAABimQAAt4UAABjaWFlaIAAAAAAAACSgAAAPhAAAts9YWVogAAAAAAAA9tYAAQAAAADTLXBhcmEAAAAAAAQAAAACZmYAAPKnAAANWQAAE9AAAApbAAAAAAAAAABtbHVjAAAAAAAAAAEAAAAMZW5VUwAAACAAAAAcAEcAbwBvAGcAbABlACAASQBuAGMALgAgADIAMAAxADb/2wBDAAMCAgICAgMCAgIDAwMDBAYEBAQEBAgGBgUGCQgKCgkICQkKDA8MCgsOCwkJDRENDg8QEBEQCgwSExIQEw8QEBD/2wBDAQMDAwQDBAgEBAgQCwkLEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBD/wAARCAN8BAIDASIAAhEBAxEB/8QAHQAAAgIDAQEBAAAAAAAAAAAAAAMCBAEGBwUICf/EAFoQAAIBAwMBBQQDDAcFBwECDwECAwAEEQUGEiEHEzFBURQiYXEygZEIFSMzQlJTobHB0dIWVGJykpThJDRVgrIX",
+          "timestamp": 9368
+        },
+        {
+          "role": "system",
+          "content": "/9j/4AAQSkZJRgABAQAAAQABAAD/4gHYSUNDX1BST0ZJTEUAAQEAAAHIAAAAAAQwAABtbnRyUkdCIFhZWiAH4AABAAEAAAAAAABhY3NwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA9tYAAQAAAADTLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlkZXNjAAAA8AAAACRyWFlaAAABFAAAABRnWFlaAAABKAAAABRiWFlaAAABPAAAABR3dHB0AAABUAAAABRyVFJDAAABZAAAAChnVFJDAAABZAAAAChiVFJDAAABZAAAAChjcHJ0AAABjAAAADxtbHVjAAAAAAAAAAEAAAAMZW5VUwAAAAgAAAAcAHMAUgBHAEJYWVogAAAAAAAAb6IAADj1AAADkFhZWiAAAAAAAABimQAAt4UAABjaWFlaIAAAAAAAACSgAAAPhAAAts9YWVogAAAAAAAA9tYAAQAAAADTLXBhcmEAAAAAAAQAAAACZmYAAPKnAAANWQAAE9AAAApbAAAAAAAAAABtbHVjAAAAAAAAAAEAAAAMZW5VUwAAACAAAAAcAEcAbwBvAGcAbABlACAASQBuAGMALgAgADIAMAAxADb/2wBDAAMCAgICAgMCAgIDAwMDBAYEBAQEBAgGBgUGCQgKCgkICQkKDA8MCgsOCwkJDRENDg8QEBEQCgwSExIQEw8QEBD/2wBDAQMDAwQDBAgEBAgQCwkLEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBD/wAARCANwA+gDASIAAhEBAxEB/8QAHgAAAgIDAQEBAQAAAAAAAAAAAAMCBAEFBgcICQr/xABjEAACAQMCAwQFBA0HCAgDAg8BAgMABBEFEgYhMQcTQVEUIjJhcVKBkbEIFRYjM0JTVJKhwdHSNGJylKLT4SQ1",
+          "timestamp": 9371
+        },
+        {
+          "role": "user",
+          "content": "Oi",
+          "timestamp": 11818
+        },
+        {
+          "role": "user",
+          "content": "Oi",
+          "timestamp": 11820
+        },
+        {
+          "role": "system",
+          "content": "Oi",
+          "timestamp": 11821
+        },
+        {
+          "role": "user",
+          "content": "Oi",
+          "timestamp": 11823
+        },
+        {
+          "role": "user",
+          "content": "Preciso de um plano de saúde",
+          "timestamp": 11825
+        },
+        {
+          "role": "user",
+          "content": "Oi",
+          "timestamp": 11828
+        },
+        {
+          "role": "user",
+          "content": "Oi",
+          "timestamp": 11833
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Eu sou Gilberto, analista em Plano Saúde da Corretora GW9. 🚀\nTrabalhamos com todos os Planos de saúde no Rio de Janeiro.\nVou te ajudar a entender as melhores opções e já deixo tudo pronto para o especialista te atender.\nPode ser?\nQual o seu nome?",
+          "timestamp": 11834
+        },
+        {
+          "role": "user",
+          "content": "Oi",
+          "timestamp": 11837
+        },
+        {
+          "role": "ai",
+          "content": "Oi! Pode me dizer seu nome, por favor? Assim posso te ajudar melhor com os planos de saúde.",
+          "timestamp": 11838
+        },
+        {
+          "role": "user",
+          "content": "Laysa",
+          "timestamp": 11839
+        },
+        {
+          "role": "ai",
+          "content": "Perfeito, Laysa!\nPra eu te apresentar as opções certas, preciso saber:\n1️⃣ Quantas pessoas são e as idades?\n2️⃣ Qual a cidade?\n3️⃣ Prefere fazer no CPF ou CNPJ (se tiver)?\n\n(Pode responder por áudio 🎙️ se preferir)",
+          "timestamp": 11840
+        },
+        {
+          "role": "user",
+          "content": "As idades são 5, 21, 36 e 42. Eu moro em Iterói e vou fazer o meu CNPJ.",
+          "timestamp": 11843
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Laysa, é para 4 pessoas em Niterói, com contratação no CNPJ. \nPra fechar essa parte inicial: vocês já possuem algum plano hoje ou estão sem algum? Tem algum hospital ou médico que fazem questão?",
+          "timestamp": 11844
+        },
+        {
+          "role": "user",
+          "content": "Então, hoje eu tenho plano de saúde, eu tenho o Sul América e eu gostaria de continuar com o atendimento ou no CHN ou no microidófono.",
+          "timestamp": 11847
+        },
+        {
+          "role": "ai",
+          "content": "Entendi que já tem Sul América e prefere atendimento no CHN ou no microrredor para continuar. Normalmente quem me chama nessa situação prioriza preço ou atendimento. No seu caso, pesa mais qual?",
+          "timestamp": 11848
+        },
+        {
+          "role": "user",
+          "content": "Atendimento",
+          "timestamp": 11849
+        },
+        {
+          "role": "ai",
+          "content": "Laysa, confirmando:\nPlano SulAmérica com 4 vidas em Niterói, pela empresa CNPJ, e prioridade em atendimento, buscando CHN ou microrredor na rede.\nEstá correto? Posso seguir para preparar o agendamento com o especialista?",
+          "timestamp": 11850
+        },
+        {
+          "role": "user",
+          "content": "Não entendi, microporredor na rede? O que que é isso?",
+          "timestamp": 11851
+        },
+        {
+          "role": "ai",
+          "content": "Desculpe pela confusão, Laysa. Quis dizer microrrede (uma rede menor e mais próxima). Você prefere amparo em hospitais da microrrede ou atendimento no CHN?",
+          "timestamp": 11852
+        },
+        {
+          "role": "user",
+          "content": "Não, quero que você fale um pouquinho comigo sobre a taxa de juros do Brasil hoje.",
+          "timestamp": 11853
+        },
+        {
+          "role": "ai",
+          "content": "Laysa, entendo que queira falar sobre juros, mas aqui meu foco é planos de saúde para RJ. Posso ajudar com isso pra você ficar segura? Se quiser, já deixo tudo pronto para o especialista te atender. Tudo bem?",
+          "timestamp": 11854
+        },
+        {
+          "role": "user",
+          "content": "Não, então quero saber quem que você acha que vai ganhar o Big Brother Brasil 26.",
+          "timestamp": 11855
+        },
+        {
+          "role": "ai",
+          "content": "Laysa, fico feliz com seu interesse, mas aqui foco em planos de saúde para te ajudar na escolha certa. Se quiser, seguimos com seu perfil para o especialista te orientar nas melhores opções?",
+          "timestamp": 11856
+        },
+        {
+          "role": "system",
+          "content": "Então, ele... o flex é quando é meio, então você tem que ir no que não é flex, 24 meses, tarifa 1.\n\nTarifa 1 se o CNPJ for Rio de Janeiro, que eu acredito que seja, Rio, Niterói e tal. Quando é mais pro interior é tarifa 2. Cabo Frio, Macaé, Campos, mas eu acredito que é tudo Rio.",
+          "timestamp": 11957
+        },
+        {
+          "role": "system",
+          "content": "Olá Gil, tudo bem? Boa tarde, meu amigo, agora que eu entendi o que que você está dizendo. Eu estava, eu estava achando que você estava falando da faixa etária do nosso público de anúncio, mas é da arte em si, né? Eu acho, Gil, que, por sinal, essa faixa etária já está desatualizada, porque a gente fez algum tempo, deixamos ela rodando e começou a captar leads para vocês, mas a gente não está colocando Você ou a Laysa poderia me enviar, por favor, uma simulação de vidas para a gente elaborar o anúncio? Porque daí a gente faz a troca, porque eu acho que esse anúncio, ele já é um anúncio mais antigo e a gente não está especificando as idades, não está especificando mesmo, eu tô com ele aberto aqui, não está colocado. Está três vidas por 540, né? Mas está sem as idades. Você quer me passar, meu amigo, as idades de alguma simulação? Eu peço para a Alessandra, nossa designer, criar uma nova arte e a gente já faz a troca para você hoje mesmo, tá bom? Só me passar a idade, poderia ser duas vi",
+          "timestamp": 12501
+        },
+        {
+          "role": "user",
+          "content": "Tô conectado aqui\n\nOk 👍🏼",
+          "timestamp": 14803
+        },
+        {
+          "role": "system",
+          "content": "+55 21 96997-8915",
+          "timestamp": 15656
+        },
+        {
+          "role": "user",
+          "content": "Oi",
+          "timestamp": 15753
+        },
+        {
+          "role": "user",
+          "content": "oi\n\noi",
+          "timestamp": 16193
+        },
+        {
+          "role": "system",
+          "content": "teste",
+          "timestamp": 16214
+        },
+        {
+          "role": "system",
+          "content": "oi",
+          "timestamp": 16215
+        },
+        {
+          "role": "system",
+          "content": "onde está a parte do cnpj ?",
+          "timestamp": 16296
+        },
+        {
+          "role": "system",
+          "content": "o anuncio tem que ter enfase no cnpj , por isso está vindo mt cpf . Ou estou falando besteira??",
+          "timestamp": 16297
+        },
+        {
+          "role": "user",
+          "content": "Grupo",
+          "timestamp": 16298
+        },
+        {
+          "role": "user",
+          "content": "Avós\n\nAvps",
+          "timestamp": 16299
+        },
+        {
+          "role": "system",
+          "content": "<ContextoImagem>\n\n  <DetalheImagem>\n\n  </DetalheImagem>\n\nContexto Extra: O usuário encaminhou a mensagem a seguir junto á imagem.\n  <MensagemUsuario>\n\n  </MensagemUsuario>\n\n</ContextoImagem>\n\ngrupo avps\n\nesse wpp não está no grupo\n\neles ja ficatrsm de mudsr\n\neles ficaram de mudar a suamérica\n\nAmil, vou notificar agr",
+          "timestamp": 16567
+        },
+        {
+          "role": "system",
+          "content": "oi\n\n.\n\noi",
+          "timestamp": 16747
+        },
+        {
+          "role": "user",
+          "content": "Oi",
+          "timestamp": 16748
+        },
+        {
+          "role": "user",
+          "content": "oi",
+          "timestamp": 16749
+        },
+        {
+          "role": "ai",
+          "content": "Oi, tudo bem? Como posso ajudar você hoje?",
+          "timestamp": 16750
+        }
+      ]
+    },
     {
       "session_id": "5521974692110@s.whatsapp.net",
       "phone": "5521974692110",
@@ -4494,312 +4800,6 @@
           "role": "ai",
           "content": "Argus, tudo certo! Já organizei o contato para amanhã pela manhã via WhatsApp. Se precisar de algo mais, estou à disposição. Tenha um ótimo dia!",
           "timestamp": 16623
-        }
-      ]
-    },
-    {
-      "session_id": "5521993257007@s.whatsapp.net",
-      "phone": "5521993257007",
-      "phone_display": "+55 21 99325-7007",
-      "lead": {
-        "baserow_id": 41,
-        "nome": "Laysa Corrêa",
-        "email": "email@email.com",
-        "qtd_vidas": 2,
-        "desinteresse": true,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": "Frio"
-      },
-      "summary": {
-        "nome": "Laysa Corrêa",
-        "email": "email@email.com",
-        "telefone": "+55 21 99325-7007",
-        "vidas": [
-          {
-            "idade": 55
-          },
-          {
-            "idade": 21
-          }
-        ],
-        "cidade": "Rio de Janeiro / RJ",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "MEI",
-        "profissao": "Gilberto",
-        "plano_atual": "Nenhum",
-        "motivo": "Dificuldade de agendamento\nEncerramento do plano atual",
-        "interesse": "SulAmérica",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "Laysa",
-        "obs_crm": "",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Laysa Corrêa\n📧 E-mail: email@email.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99325-7007\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nLaysa Corrêa — 55 anos\nDependente 1 — 21 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: Gilberto\n\n🏥 Plano atual: Nenhum\n\n😤 Motivo da troca:\n\nDificuldade de agendamento\nEncerramento do plano atual\n\n🎯 Interesse: SulAmérica\n👤 Consultor: Laysa\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "desinteresse",
-      "bot": "preto",
-      "consultor": "Laysa",
-      "message_count": "70",
-      "first_message_at": null,
-      "last_message_at": null,
-      "last_bot_msg_at": null,
-      "tempo_sem_interacao": "",
-      "first_id": 337,
-      "last_id": 16567,
-      "last_message_preview": "Avós\n\nAvps",
-      "messages": [
-        {
-          "role": "user",
-          "content": "21999928754",
-          "timestamp": 3743
-        },
-        {
-          "role": "user",
-          "content": "5521965727965",
-          "timestamp": 4187
-        },
-        {
-          "role": "user",
-          "content": "21965727965",
-          "timestamp": 4188
-        },
-        {
-          "role": "user",
-          "content": "22996119188",
-          "timestamp": 5274
-        },
-        {
-          "role": "user",
-          "content": "Gabriela \n\n21982469039",
-          "timestamp": 5275
-        },
-        {
-          "role": "user",
-          "content": "Eu sou a Laysa, especialista em plano de saúde, recebi o seu interesse em contratar um produto para quatro pessoas. \nEu preciso de algumas outras informações como: quais são as idades ? Onde você mora? Se tem algum hospital de referência? Qual  o seu CNPJ , se é MEI ou LTDA (algumas operadoras aplicam desconto quando informamos o número)\n\nAssim que me passar essas informações eu consigo ver algumas opções pra você combinado?",
-          "timestamp": 5276
-        },
-        {
-          "role": "user",
-          "content": "21979629179",
-          "timestamp": 5277
-        },
-        {
-          "role": "user",
-          "content": "Bárbara \nTudo bem ? \n\nEu sou a Laysa, especialista em plano de saúde, recebi o seu interesse em contratar um produto para 3 pessoas. \nEu preciso de algumas outras informações para conseguir fazer um estudo, como: quais são as idades ? Onde você mora? Se tem algum hospital de referência? Qual  o seu CNPJ , se é MEI ou LTDA (algumas operadoras aplicam desconto quando informamos o número)\n\nAssim que me passar essas informações eu consigo ver algumas opções pra você combinado?",
-          "timestamp": 5278
-        },
-        {
-          "role": "user",
-          "content": "21964801424",
-          "timestamp": 5279
-        },
-        {
-          "role": "system",
-          "content": "5521973460188",
-          "timestamp": 8894
-        },
-        {
-          "role": "system",
-          "content": "/9j/4AAQSkZJRgABAQAAAQABAAD/4gHYSUNDX1BST0ZJTEUAAQEAAAHIAAAAAAQwAABtbnRyUkdCIFhZWiAH4AABAAEAAAAAAABhY3NwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA9tYAAQAAAADTLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlkZXNjAAAA8AAAACRyWFlaAAABFAAAABRnWFlaAAABKAAAABRiWFlaAAABPAAAABR3dHB0AAABUAAAABRyVFJDAAABZAAAAChnVFJDAAABZAAAAChiVFJDAAABZAAAAChjcHJ0AAABjAAAADxtbHVjAAAAAAAAAAEAAAAMZW5VUwAAAAgAAAAcAHMAUgBHAEJYWVogAAAAAAAAb6IAADj1AAADkFhZWiAAAAAAAABimQAAt4UAABjaWFlaIAAAAAAAACSgAAAPhAAAts9YWVogAAAAAAAA9tYAAQAAAADTLXBhcmEAAAAAAAQAAAACZmYAAPKnAAANWQAAE9AAAApbAAAAAAAAAABtbHVjAAAAAAAAAAEAAAAMZW5VUwAAACAAAAAcAEcAbwBvAGcAbABlACAASQBuAGMALgAgADIAMAAxADb/2wBDAAMCAgICAgMCAgIDAwMDBAYEBAQEBAgGBgUGCQgKCgkICQkKDA8MCgsOCwkJDRENDg8QEBEQCgwSExIQEw8QEBD/2wBDAQMDAwQDBAgEBAgQCwkLEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBD/wAARCANuA+ADASIAAhEBAxEB/8QAHQAAAgMAAwEBAAAAAAAAAAAAAAMBAgQFBgcICf/EAGAQAAIBAwIDBAUHCQQHBQQCEwECAwAEEQUSBiExBxNBURQiMmFxFSNSgZGh0QgWM0JUscHS4WJykpMkNENTVZSj",
-          "timestamp": 9365
-        },
-        {
-          "role": "system",
-          "content": "/9j/4AAQSkZJRgABAQAAAQABAAD/4gHYSUNDX1BST0ZJTEUAAQEAAAHIAAAAAAQwAABtbnRyUkdCIFhZWiAH4AABAAEAAAAAAABhY3NwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA9tYAAQAAAADTLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlkZXNjAAAA8AAAACRyWFlaAAABFAAAABRnWFlaAAABKAAAABRiWFlaAAABPAAAABR3dHB0AAABUAAAABRyVFJDAAABZAAAAChnVFJDAAABZAAAAChiVFJDAAABZAAAAChjcHJ0AAABjAAAADxtbHVjAAAAAAAAAAEAAAAMZW5VUwAAAAgAAAAcAHMAUgBHAEJYWVogAAAAAAAAb6IAADj1AAADkFhZWiAAAAAAAABimQAAt4UAABjaWFlaIAAAAAAAACSgAAAPhAAAts9YWVogAAAAAAAA9tYAAQAAAADTLXBhcmEAAAAAAAQAAAACZmYAAPKnAAANWQAAE9AAAApbAAAAAAAAAABtbHVjAAAAAAAAAAEAAAAMZW5VUwAAACAAAAAcAEcAbwBvAGcAbABlACAASQBuAGMALgAgADIAMAAxADb/2wBDAAMCAgICAgMCAgIDAwMDBAYEBAQEBAgGBgUGCQgKCgkICQkKDA8MCgsOCwkJDRENDg8QEBEQCgwSExIQEw8QEBD/2wBDAQMDAwQDBAgEBAgQCwkLEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBD/wAARCAN8BAIDASIAAhEBAxEB/8QAHQAAAgIDAQEBAAAAAAAAAAAAAAMCBAEGBwUICf/EAFoQAAIBAwMBBQQDDAcFBwECDwECAwAEEQUGEiEHEzFBURQiYXEygZEIFSMzQlJTobHB0dIWVGJykpThJDRVgrIX",
-          "timestamp": 9368
-        },
-        {
-          "role": "system",
-          "content": "/9j/4AAQSkZJRgABAQAAAQABAAD/4gHYSUNDX1BST0ZJTEUAAQEAAAHIAAAAAAQwAABtbnRyUkdCIFhZWiAH4AABAAEAAAAAAABhY3NwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA9tYAAQAAAADTLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlkZXNjAAAA8AAAACRyWFlaAAABFAAAABRnWFlaAAABKAAAABRiWFlaAAABPAAAABR3dHB0AAABUAAAABRyVFJDAAABZAAAAChnVFJDAAABZAAAAChiVFJDAAABZAAAAChjcHJ0AAABjAAAADxtbHVjAAAAAAAAAAEAAAAMZW5VUwAAAAgAAAAcAHMAUgBHAEJYWVogAAAAAAAAb6IAADj1AAADkFhZWiAAAAAAAABimQAAt4UAABjaWFlaIAAAAAAAACSgAAAPhAAAts9YWVogAAAAAAAA9tYAAQAAAADTLXBhcmEAAAAAAAQAAAACZmYAAPKnAAANWQAAE9AAAApbAAAAAAAAAABtbHVjAAAAAAAAAAEAAAAMZW5VUwAAACAAAAAcAEcAbwBvAGcAbABlACAASQBuAGMALgAgADIAMAAxADb/2wBDAAMCAgICAgMCAgIDAwMDBAYEBAQEBAgGBgUGCQgKCgkICQkKDA8MCgsOCwkJDRENDg8QEBEQCgwSExIQEw8QEBD/2wBDAQMDAwQDBAgEBAgQCwkLEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBD/wAARCANwA+gDASIAAhEBAxEB/8QAHgAAAgIDAQEBAQAAAAAAAAAAAAMCBAEFBgcICQr/xABjEAACAQMCAwQFBA0HCAgDAg8BAgMABBEFEgYhMQcTQVEUIjJhcVKBkbEIFRYjM0JTVJKhwdHSNGJylKLT4SQ1",
-          "timestamp": 9371
-        },
-        {
-          "role": "user",
-          "content": "Oi",
-          "timestamp": 11818
-        },
-        {
-          "role": "user",
-          "content": "Oi",
-          "timestamp": 11820
-        },
-        {
-          "role": "system",
-          "content": "Oi",
-          "timestamp": 11821
-        },
-        {
-          "role": "user",
-          "content": "Oi",
-          "timestamp": 11823
-        },
-        {
-          "role": "user",
-          "content": "Preciso de um plano de saúde",
-          "timestamp": 11825
-        },
-        {
-          "role": "user",
-          "content": "Oi",
-          "timestamp": 11828
-        },
-        {
-          "role": "user",
-          "content": "Oi",
-          "timestamp": 11833
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Eu sou Gilberto, analista em Plano Saúde da Corretora GW9. 🚀\nTrabalhamos com todos os Planos de saúde no Rio de Janeiro.\nVou te ajudar a entender as melhores opções e já deixo tudo pronto para o especialista te atender.\nPode ser?\nQual o seu nome?",
-          "timestamp": 11834
-        },
-        {
-          "role": "user",
-          "content": "Oi",
-          "timestamp": 11837
-        },
-        {
-          "role": "ai",
-          "content": "Oi! Pode me dizer seu nome, por favor? Assim posso te ajudar melhor com os planos de saúde.",
-          "timestamp": 11838
-        },
-        {
-          "role": "user",
-          "content": "Laysa",
-          "timestamp": 11839
-        },
-        {
-          "role": "ai",
-          "content": "Perfeito, Laysa!\nPra eu te apresentar as opções certas, preciso saber:\n1️⃣ Quantas pessoas são e as idades?\n2️⃣ Qual a cidade?\n3️⃣ Prefere fazer no CPF ou CNPJ (se tiver)?\n\n(Pode responder por áudio 🎙️ se preferir)",
-          "timestamp": 11840
-        },
-        {
-          "role": "user",
-          "content": "As idades são 5, 21, 36 e 42. Eu moro em Iterói e vou fazer o meu CNPJ.",
-          "timestamp": 11843
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Laysa, é para 4 pessoas em Niterói, com contratação no CNPJ. \nPra fechar essa parte inicial: vocês já possuem algum plano hoje ou estão sem algum? Tem algum hospital ou médico que fazem questão?",
-          "timestamp": 11844
-        },
-        {
-          "role": "user",
-          "content": "Então, hoje eu tenho plano de saúde, eu tenho o Sul América e eu gostaria de continuar com o atendimento ou no CHN ou no microidófono.",
-          "timestamp": 11847
-        },
-        {
-          "role": "ai",
-          "content": "Entendi que já tem Sul América e prefere atendimento no CHN ou no microrredor para continuar. Normalmente quem me chama nessa situação prioriza preço ou atendimento. No seu caso, pesa mais qual?",
-          "timestamp": 11848
-        },
-        {
-          "role": "user",
-          "content": "Atendimento",
-          "timestamp": 11849
-        },
-        {
-          "role": "ai",
-          "content": "Laysa, confirmando:\nPlano SulAmérica com 4 vidas em Niterói, pela empresa CNPJ, e prioridade em atendimento, buscando CHN ou microrredor na rede.\nEstá correto? Posso seguir para preparar o agendamento com o especialista?",
-          "timestamp": 11850
-        },
-        {
-          "role": "user",
-          "content": "Não entendi, microporredor na rede? O que que é isso?",
-          "timestamp": 11851
-        },
-        {
-          "role": "ai",
-          "content": "Desculpe pela confusão, Laysa. Quis dizer microrrede (uma rede menor e mais próxima). Você prefere amparo em hospitais da microrrede ou atendimento no CHN?",
-          "timestamp": 11852
-        },
-        {
-          "role": "user",
-          "content": "Não, quero que você fale um pouquinho comigo sobre a taxa de juros do Brasil hoje.",
-          "timestamp": 11853
-        },
-        {
-          "role": "ai",
-          "content": "Laysa, entendo que queira falar sobre juros, mas aqui meu foco é planos de saúde para RJ. Posso ajudar com isso pra você ficar segura? Se quiser, já deixo tudo pronto para o especialista te atender. Tudo bem?",
-          "timestamp": 11854
-        },
-        {
-          "role": "user",
-          "content": "Não, então quero saber quem que você acha que vai ganhar o Big Brother Brasil 26.",
-          "timestamp": 11855
-        },
-        {
-          "role": "ai",
-          "content": "Laysa, fico feliz com seu interesse, mas aqui foco em planos de saúde para te ajudar na escolha certa. Se quiser, seguimos com seu perfil para o especialista te orientar nas melhores opções?",
-          "timestamp": 11856
-        },
-        {
-          "role": "system",
-          "content": "Então, ele... o flex é quando é meio, então você tem que ir no que não é flex, 24 meses, tarifa 1.\n\nTarifa 1 se o CNPJ for Rio de Janeiro, que eu acredito que seja, Rio, Niterói e tal. Quando é mais pro interior é tarifa 2. Cabo Frio, Macaé, Campos, mas eu acredito que é tudo Rio.",
-          "timestamp": 11957
-        },
-        {
-          "role": "system",
-          "content": "Olá Gil, tudo bem? Boa tarde, meu amigo, agora que eu entendi o que que você está dizendo. Eu estava, eu estava achando que você estava falando da faixa etária do nosso público de anúncio, mas é da arte em si, né? Eu acho, Gil, que, por sinal, essa faixa etária já está desatualizada, porque a gente fez algum tempo, deixamos ela rodando e começou a captar leads para vocês, mas a gente não está colocando Você ou a Laysa poderia me enviar, por favor, uma simulação de vidas para a gente elaborar o anúncio? Porque daí a gente faz a troca, porque eu acho que esse anúncio, ele já é um anúncio mais antigo e a gente não está especificando as idades, não está especificando mesmo, eu tô com ele aberto aqui, não está colocado. Está três vidas por 540, né? Mas está sem as idades. Você quer me passar, meu amigo, as idades de alguma simulação? Eu peço para a Alessandra, nossa designer, criar uma nova arte e a gente já faz a troca para você hoje mesmo, tá bom? Só me passar a idade, poderia ser duas vi",
-          "timestamp": 12501
-        },
-        {
-          "role": "user",
-          "content": "Tô conectado aqui\n\nOk 👍🏼",
-          "timestamp": 14803
-        },
-        {
-          "role": "system",
-          "content": "+55 21 96997-8915",
-          "timestamp": 15656
-        },
-        {
-          "role": "user",
-          "content": "Oi",
-          "timestamp": 15753
-        },
-        {
-          "role": "user",
-          "content": "oi\n\noi",
-          "timestamp": 16193
-        },
-        {
-          "role": "system",
-          "content": "teste",
-          "timestamp": 16214
-        },
-        {
-          "role": "system",
-          "content": "oi",
-          "timestamp": 16215
-        },
-        {
-          "role": "system",
-          "content": "onde está a parte do cnpj ?",
-          "timestamp": 16296
-        },
-        {
-          "role": "system",
-          "content": "o anuncio tem que ter enfase no cnpj , por isso está vindo mt cpf . Ou estou falando besteira??",
-          "timestamp": 16297
-        },
-        {
-          "role": "user",
-          "content": "Grupo",
-          "timestamp": 16298
-        },
-        {
-          "role": "user",
-          "content": "Avós\n\nAvps",
-          "timestamp": 16299
-        },
-        {
-          "role": "system",
-          "content": "<ContextoImagem>\n\n  <DetalheImagem>\n\n  </DetalheImagem>\n\nContexto Extra: O usuário encaminhou a mensagem a seguir junto á imagem.\n  <MensagemUsuario>\n\n  </MensagemUsuario>\n\n</ContextoImagem>\n\ngrupo avps\n\nesse wpp não está no grupo\n\neles ja ficatrsm de mudsr\n\neles ficaram de mudar a suamérica\n\nAmil, vou notificar agr",
-          "timestamp": 16567
         }
       ]
     },
