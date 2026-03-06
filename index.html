@@ -409,6 +409,33 @@ function renderStats(meta){
   document.getElementById('stat-desinteresse').textContent=s.desinteresse||0;
 }
 
+// Recalcular stats baseado nas conversas filtradas (considerando filtros de data, bot e busca - excluindo filtro de status)
+function recalcStats(conversations){
+  const q=(document.getElementById('search-input').value||'').toLowerCase();
+  // Filtrar por TUDO exceto status, para que os números reflitam o universo filtrado
+  const baseFiltered=conversations.filter(c=>{
+    if(currentBotFilter!=='todos'&&c.bot!==currentBotFilter)return false;
+    if(!passesDateFilter(c)) return false;
+    if(!q)return true;
+    const s=c.summary||{};
+    return (s.nome||'').toLowerCase().includes(q)||
+           c.phone.includes(q)||
+           (c.phone_display||'').includes(q)||
+           (c.consultor||'').toLowerCase().includes(q)||
+           (s.obs_crm||'').toLowerCase().includes(q)||
+           (c.last_message_preview||'').toLowerCase().includes(q);
+  });
+  const stats={quente:0,morno:0,frio:0,desinteresse:0,sem_classificacao:0};
+  for(const c of baseFiltered){
+    stats[c.status]=(stats[c.status]||0)+1;
+  }
+  document.getElementById('stat-total').textContent=baseFiltered.length;
+  document.getElementById('stat-quente').textContent=stats.quente||0;
+  document.getElementById('stat-morno').textContent=stats.morno||0;
+  document.getElementById('stat-frio').textContent=stats.frio||0;
+  document.getElementById('stat-desinteresse').textContent=stats.desinteresse||0;
+}
+
 function updateTimestamp(iso){
   const badge=document.getElementById('updated-badge');
   const footer=document.getElementById('footer-date');
@@ -493,19 +520,29 @@ function passesDateFilter(c){
   const raw=dateField==='ultima'?(c.last_message_at||c.first_message_at):(c.first_message_at||c.last_message_at);
   const entryDate=raw?new Date(raw):null;
   if(!entryDate) return true; // No date info = show always
+
+  // Usar timezone de São Paulo para calcular "hoje"
   const now=new Date();
-  const startOfToday=new Date(now.getFullYear(),now.getMonth(),now.getDate());
+  const spFormatter=new Intl.DateTimeFormat('en-CA',{timeZone:'America/Sao_Paulo',year:'numeric',month:'2-digit',day:'2-digit'});
+  const spDateStr=spFormatter.format(now); // "YYYY-MM-DD"
+  const entryFormatter=new Intl.DateTimeFormat('en-CA',{timeZone:'America/Sao_Paulo',year:'numeric',month:'2-digit',day:'2-digit'});
+  const entryDateStr=entryFormatter.format(entryDate); // "YYYY-MM-DD" no fuso de SP
+
   if(currentDateFilter==='hoje'){
-    return entryDate>=startOfToday;
+    return entryDateStr===spDateStr;
   } else if(currentDateFilter==='7d'){
-    return entryDate>=new Date(now-7*24*3600000);
+    const d7ago=new Date(now-7*24*3600000);
+    const d7str=spFormatter.format(d7ago);
+    return entryDateStr>=d7str;
   } else if(currentDateFilter==='30d'){
-    return entryDate>=new Date(now-30*24*3600000);
+    const d30ago=new Date(now-30*24*3600000);
+    const d30str=spFormatter.format(d30ago);
+    return entryDateStr>=d30str;
   } else if(currentDateFilter==='custom'){
     const from=document.getElementById('date-from').value;
     const to=document.getElementById('date-to').value;
-    if(from && entryDate<new Date(from)) return false;
-    if(to && entryDate>new Date(to+'T23:59:59')) return false;
+    if(from && entryDateStr<from) return false;
+    if(to && entryDateStr>to) return false;
     return true;
   }
   return true;
@@ -529,6 +566,8 @@ function applyFilters(){
   const label=document.getElementById('section-label');
   label.textContent=filtered.length+' conversa'+(filtered.length!==1?'s':'')+' encontrada'+(filtered.length!==1?'s':'');
   renderConversations(filtered);
+  // Recalcular os números do topo baseado nos filtros ativos (exceto status)
+  recalcStats(allConversations);
   // Atualizar aba Resumo se estiver ativa
   if(document.getElementById('tab-resumo').classList.contains('active')){
     renderOverview(filtered);
