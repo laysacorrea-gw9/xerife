@@ -308,6 +308,10 @@
       <!-- Date filter -->
       <div class="date-filters">
         <span class="filter-label">&#x1f4c5; Periodo:</span>
+        <select id="date-field-select" onchange="applyFilters()" style="padding:5px 8px;border-radius:12px;border:1px solid var(--border);background:var(--surface);color:var(--text);font-size:12px;font-family:'DM Sans',sans-serif;cursor:pointer;">
+          <option value="entrada">Entrada</option>
+          <option value="ultima">Última msg</option>
+        </select>
         <button class="date-btn active" data-date="todos" onclick="setDateFilter('todos',this)">Todos</button>
         <button class="date-btn" data-date="hoje" onclick="setDateFilter('hoje',this)">Hoje</button>
         <button class="date-btn" data-date="7d" onclick="setDateFilter('7d',this)">7 dias</button>
@@ -483,7 +487,9 @@ function setDateFilter(d,btn){
 
 function passesDateFilter(c){
   if(currentDateFilter==='todos') return true;
-  const entryDate=c.first_message_at?new Date(c.first_message_at):(c.last_message_at?new Date(c.last_message_at):null);
+  const dateField=document.getElementById('date-field-select').value;
+  const raw=dateField==='ultima'?(c.last_message_at||c.first_message_at):(c.first_message_at||c.last_message_at);
+  const entryDate=raw?new Date(raw):null;
   if(!entryDate) return true; // No date info = show always
   const now=new Date();
   const startOfToday=new Date(now.getFullYear(),now.getMonth(),now.getDate());
