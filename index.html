@@ -289,58 +289,59 @@
       <button class="tab-btn" onclick="switchTab('resumo',this)">&#x1f4ca; Resumo</button>
     </div>
 
+    <!-- FILTROS GLOBAIS (aparecem em ambas as abas) -->
+    <!-- KPIs -->
+    <div class="kpis">
+      <div class="kpi k-total" data-filter="todos" onclick="setFilter('todos')"><div class="kpi-value" id="stat-total">-</div><div class="kpi-label">Total Conversas</div></div>
+      <div class="kpi k-quente" data-filter="quente" onclick="setFilter('quente')"><div class="kpi-value" id="stat-quente">-</div><div class="kpi-label">Quentes</div></div>
+      <div class="kpi k-morno" data-filter="morno" onclick="setFilter('morno')"><div class="kpi-value" id="stat-morno">-</div><div class="kpi-label">Mornos</div></div>
+      <div class="kpi k-frio" data-filter="frio" onclick="setFilter('frio')"><div class="kpi-value" id="stat-frio">-</div><div class="kpi-label">Frios</div></div>
+      <div class="kpi k-desinteresse" data-filter="desinteresse" onclick="setFilter('desinteresse')"><div class="kpi-value" id="stat-desinteresse">-</div><div class="kpi-label">Desinteresse</div></div>
+    </div>
+
+    <!-- Search -->
+    <div class="search-filters">
+      <input class="search-box" id="search-input" placeholder="Buscar por nome, telefone, consultor..." oninput="applyFilters()">
+    </div>
+
+    <!-- Date filter -->
+    <div class="date-filters">
+      <span class="filter-label">&#x1f4c5; Periodo:</span>
+      <select id="date-field-select" onchange="applyFilters()" style="padding:5px 8px;border-radius:12px;border:1px solid var(--border);background:var(--surface);color:var(--text);font-size:12px;font-family:'DM Sans',sans-serif;cursor:pointer;">
+        <option value="entrada">Entrada</option>
+        <option value="ultima">Última msg</option>
+      </select>
+      <button class="date-btn active" data-date="todos" onclick="setDateFilter('todos',this)">Todos</button>
+      <button class="date-btn" data-date="hoje" onclick="setDateFilter('hoje',this)">Hoje</button>
+      <button class="date-btn" data-date="7d" onclick="setDateFilter('7d',this)">7 dias</button>
+      <button class="date-btn" data-date="30d" onclick="setDateFilter('30d',this)">30 dias</button>
+      <button class="date-btn" data-date="custom" onclick="setDateFilter('custom',this)">Personalizado</button>
+      <input type="date" class="date-input" id="date-from" style="display:none" onchange="applyFilters()">
+      <span id="date-separator" style="display:none;color:var(--text3);font-size:12px">a</span>
+      <input type="date" class="date-input" id="date-to" style="display:none" onchange="applyFilters()">
+    </div>
+
+    <!-- Bot filters -->
+    <div class="bot-filters">
+      <span class="filter-label">Bot:</span>
+      <button class="bot-btn active-all" data-bot="todos" onclick="setBotFilter('todos',this)">Todos</button>
+      <button class="bot-btn" data-bot="amarelo" onclick="setBotFilter('amarelo',this)">&#x1f7e1; Amarelo (2373)</button>
+      <button class="bot-btn" data-bot="preto" onclick="setBotFilter('preto',this)">&#x26ab; Preto (0479)</button>
+    </div>
+
+    <!-- Status filters -->
+    <div class="filters">
+      <span class="filter-label">Status:</span>
+      <button class="filter-btn active" data-filter="todos" onclick="setFilter('todos')">Todos</button>
+      <button class="filter-btn" data-filter="quente" onclick="setFilter('quente')">&#x1f7e2; Quentes</button>
+      <button class="filter-btn" data-filter="morno" onclick="setFilter('morno')">&#x1f7e1; Mornos</button>
+      <button class="filter-btn" data-filter="frio" onclick="setFilter('frio')">&#x26aa; Frios</button>
+      <button class="filter-btn" data-filter="desinteresse" onclick="setFilter('desinteresse')">&#x1f534; Desinteresse</button>
+      <button class="filter-btn" data-filter="sem_classificacao" onclick="setFilter('sem_classificacao')">&#x1f535; Novos</button>
+    </div>
+
     <!-- TAB: CONVERSAS -->
     <div class="tab-content active" id="tab-conversas">
-      <!-- KPIs -->
-      <div class="kpis">
-        <div class="kpi k-total" data-filter="todos" onclick="setFilter('todos')"><div class="kpi-value" id="stat-total">-</div><div class="kpi-label">Total Conversas</div></div>
-        <div class="kpi k-quente" data-filter="quente" onclick="setFilter('quente')"><div class="kpi-value" id="stat-quente">-</div><div class="kpi-label">Quentes</div></div>
-        <div class="kpi k-morno" data-filter="morno" onclick="setFilter('morno')"><div class="kpi-value" id="stat-morno">-</div><div class="kpi-label">Mornos</div></div>
-        <div class="kpi k-frio" data-filter="frio" onclick="setFilter('frio')"><div class="kpi-value" id="stat-frio">-</div><div class="kpi-label">Frios</div></div>
-        <div class="kpi k-desinteresse" data-filter="desinteresse" onclick="setFilter('desinteresse')"><div class="kpi-value" id="stat-desinteresse">-</div><div class="kpi-label">Desinteresse</div></div>
-      </div>
-
-      <!-- Search -->
-      <div class="search-filters">
-        <input class="search-box" id="search-input" placeholder="Buscar por nome, telefone, consultor..." oninput="applyFilters()">
-      </div>
-
-      <!-- Date filter -->
-      <div class="date-filters">
-        <span class="filter-label">&#x1f4c5; Periodo:</span>
-        <select id="date-field-select" onchange="applyFilters()" style="padding:5px 8px;border-radius:12px;border:1px solid var(--border);background:var(--surface);color:var(--text);font-size:12px;font-family:'DM Sans',sans-serif;cursor:pointer;">
-          <option value="entrada">Entrada</option>
-          <option value="ultima">Última msg</option>
-        </select>
-        <button class="date-btn active" data-date="todos" onclick="setDateFilter('todos',this)">Todos</button>
-        <button class="date-btn" data-date="hoje" onclick="setDateFilter('hoje',this)">Hoje</button>
-        <button class="date-btn" data-date="7d" onclick="setDateFilter('7d',this)">7 dias</button>
-        <button class="date-btn" data-date="30d" onclick="setDateFilter('30d',this)">30 dias</button>
-        <button class="date-btn" data-date="custom" onclick="setDateFilter('custom',this)">Personalizado</button>
-        <input type="date" class="date-input" id="date-from" style="display:none" onchange="applyFilters()">
-        <span id="date-separator" style="display:none;color:var(--text3);font-size:12px">a</span>
-        <input type="date" class="date-input" id="date-to" style="display:none" onchange="applyFilters()">
-      </div>
-
-      <!-- Bot filters -->
-      <div class="bot-filters">
-        <span class="filter-label">Bot:</span>
-        <button class="bot-btn active-all" data-bot="todos" onclick="setBotFilter('todos',this)">Todos</button>
-        <button class="bot-btn" data-bot="amarelo" onclick="setBotFilter('amarelo',this)">&#x1f7e1; Amarelo (2373)</button>
-        <button class="bot-btn" data-bot="preto" onclick="setBotFilter('preto',this)">&#x26ab; Preto (0479)</button>
-      </div>
-
-      <!-- Status filters -->
-      <div class="filters">
-        <span class="filter-label">Status:</span>
-        <button class="filter-btn active" data-filter="todos" onclick="setFilter('todos')">Todos</button>
-        <button class="filter-btn" data-filter="quente" onclick="setFilter('quente')">&#x1f7e2; Quentes</button>
-        <button class="filter-btn" data-filter="morno" onclick="setFilter('morno')">&#x1f7e1; Mornos</button>
-        <button class="filter-btn" data-filter="frio" onclick="setFilter('frio')">&#x26aa; Frios</button>
-        <button class="filter-btn" data-filter="desinteresse" onclick="setFilter('desinteresse')">&#x1f534; Desinteresse</button>
-        <button class="filter-btn" data-filter="sem_classificacao" onclick="setFilter('sem_classificacao')">&#x1f535; Novos</button>
-      </div>
-
       <div class="section-title" id="section-label">Conversas Recentes</div>
       <div class="leads-grid" id="conv-list">
         <div class="loading"><div class="spinner"></div><p style="margin-top:12px;color:var(--text3)">Carregando conversas...</p></div>
@@ -381,6 +382,7 @@ function switchTab(tab,btn){
   btn.classList.add('active');
   document.getElementById('tab-'+tab).classList.add('active');
   if(tab==='resumo') renderOverview();
+  applyFilters();
 }
 
 async function loadData(){
@@ -527,6 +529,10 @@ function applyFilters(){
   const label=document.getElementById('section-label');
   label.textContent=filtered.length+' conversa'+(filtered.length!==1?'s':'')+' encontrada'+(filtered.length!==1?'s':'');
   renderConversations(filtered);
+  // Atualizar aba Resumo se estiver ativa
+  if(document.getElementById('tab-resumo').classList.contains('active')){
+    renderOverview(filtered);
+  }
 }
 
 // Render
@@ -686,8 +692,8 @@ function showToast(msg){
 // =============================================
 // OVERVIEW TAB
 // =============================================
-function renderOverview(){
-  const convs=allConversations;
+function renderOverview(filteredConvs){
+  const convs=filteredConvs||allConversations;
   if(!convs.length){document.getElementById('overview-content').innerHTML='<div class="empty-state"><div class="icon">&#x1f4ca;</div><p>Sem dados para resumo</p></div>';return;}
 
   const stats={quente:0,morno:0,frio:0,desinteresse:0,sem_classificacao:0};
@@ -701,7 +707,7 @@ function renderOverview(){
   for(const c of convs){
     stats[c.status]=(stats[c.status]||0)+1;
     botStats[c.bot]=(botStats[c.bot]||0)+1;
-    totalMsgs+=c.message_count||0;
+    totalMsgs+=(parseInt(c.message_count)||0);
     if(c.consultor){consultorStats[c.consultor]=(consultorStats[c.consultor]||0)+1;}
     const s=c.summary||{};
     if(s.email) withEmail++;
