@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_at": "2026-03-08T19:00:11.522Z",
+    "generated_at": "2026-03-08T19:15:11.003Z",
     "total_conversations": 200,
-    "total_messages": 4678,
+    "total_messages": 4692,
     "stats": {
       "quente": 27,
       "morno": 84,
@@ -39,26 +39,26 @@
         "tipo_empresa": "MEI",
         "profissao": "",
         "plano_atual": "",
-        "motivo": "Valor alto\nIncluir novas vidas",
+        "motivo": "Valor alto\nDificuldade de agendamento\nIncluir novas vidas",
         "interesse": "Amil",
         "rede_preferencial": "",
         "contato": "WhatsApp",
         "consultor": "",
         "obs_crm": "",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Andréa\n📱 Contato: WhatsApp\n📞 Telefone: +55 32 8454-9406\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n😤 Motivo da troca:\n\nValor alto\nIncluir novas vidas\n\n🎯 Interesse: Amil\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Andréa\n📱 Contato: WhatsApp\n📞 Telefone: +55 32 8454-9406\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n😤 Motivo da troca:\n\nValor alto\nDificuldade de agendamento\nIncluir novas vidas\n\n🎯 Interesse: Amil\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
       },
       "status": "morno",
       "bot": "preto",
       "consultor": "",
-      "message_count": 16,
+      "message_count": 28,
       "first_message_at": "2026-03-08T03:00:00.000Z",
-      "last_message_at": "2026-03-08T18:59:38.462000Z",
-      "last_bot_msg_at": "2026-03-08T15:59:38.048758",
-      "tempo_sem_interacao": "3h",
+      "last_message_at": "2026-03-08T19:10:10.522000Z",
+      "last_bot_msg_at": "2026-03-08T16:10:09.862911",
+      "tempo_sem_interacao": "3h 5min",
       "first_id": 17315,
-      "last_id": 17330,
-      "last_message_preview": "Como o plano é de mg,aonde eu resido e é regional,não pode ser atendida em Teresópolis",
+      "last_id": 17344,
+      "last_message_preview": "Manhã ou à tarde.",
       "messages": [
         {
           "role": "user",
@@ -139,6 +139,211 @@
           "role": "ai",
           "content": "Compreendo, Andréa. Isso é um ponto importante na escolha, pois o atendimento regional pode limitar o uso em Teresópolis. Buscarei opções da Amil que atendam bem sua filha na cidade.\n\nSó para confirmar, é apenas ela no plano, certo?",
           "msg_time": "2026-03-08T15:59:38.048758"
+        },
+        {
+          "role": "user",
+          "content": "Sim",
+          "msg_time": "2026-03-08T16:00:17.80828"
+        },
+        {
+          "role": "ai",
+          "content": "Andréa, então temos:\nPlano individual para sua filha, 22 anos, estudante, morando em Teresópolis-RJ.\nAtualmente ela tem Unimed, mas quer Amil que atenda na cidade.\nEstá correto até aqui?",
+          "msg_time": "2026-03-08T16:00:17.812168"
+        },
+        {
+          "role": "user",
+          "content": "Sim",
+          "msg_time": "2026-03-08T16:06:47.970979"
+        },
+        {
+          "role": "ai",
+          "content": "Andréa, recapitulando: plano individual para sua filha de 22 anos, estudante, morando em Teresópolis, RJ. Atualmente com Unimed, busca Amil com cobertura na cidade. Está tudo certo? Posso seguir para agendar o contato com o especialista?",
+          "msg_time": "2026-03-08T16:06:47.973286"
+        },
+        {
+          "role": "user",
+          "content": "Um plano que atenda em Teresópolis rj",
+          "msg_time": "2026-03-08T16:07:56.043688"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Andréa. Vou focar em planos Amil com cobertura garantida em Teresópolis, RJ.\nQual o melhor dia e horário para o especialista te ligar? Prefere contato por WhatsApp, ligação ou vídeo?",
+          "msg_time": "2026-03-08T16:07:56.045506"
+        },
+        {
+          "role": "user",
+          "content": "Pode ser por WhatsApp",
+          "msg_time": "2026-03-08T16:08:44.232655"
+        },
+        {
+          "role": "ai",
+          "content": "Qual o melhor dia e horário para o especialista entrar em contato via WhatsApp?",
+          "msg_time": "2026-03-08T16:08:44.234699"
+        },
+        {
+          "role": "user",
+          "content": "Qualquer dia",
+          "msg_time": "2026-03-08T16:09:20.301673"
+        },
+        {
+          "role": "ai",
+          "content": "Andréa, para organizar o agendamento com o especialista, pode indicar um horário preferido? Manhã, tarde ou noite?",
+          "msg_time": "2026-03-08T16:09:20.303217"
+        },
+        {
+          "role": "user",
+          "content": "Manhã ou à tarde.",
+          "msg_time": "2026-03-08T16:10:09.859281"
+        },
+        {
+          "role": "ai",
+          "content": "Combinado, Andréa! Já deixei tudo pronto para o especialista te ligar via WhatsApp em um horário de manhã ou à tarde. Obrigado por compartilhar as informações!",
+          "msg_time": "2026-03-08T16:10:09.862911"
+        }
+      ]
+    },
+    {
+      "session_id": "5522988590994@s.whatsapp.net",
+      "phone": "5522988590994",
+      "phone_display": "+55 22 98859-0994",
+      "lead": {
+        "baserow_id": 1055,
+        "nome": "Jaira",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "gilbertinho_off": false,
+        "observacoes": "Jaira",
+        "reagendamento": "2026-03-09T12:00:00Z",
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Jaira",
+        "email": "",
+        "telefone": "+55 22 98859-0994",
+        "vidas": [],
+        "cidade": "",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "MEI",
+        "profissao": "",
+        "plano_atual": "Nenhum",
+        "motivo": "Incluir novas vidas",
+        "interesse": "Amil",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "Jaira",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Jaira\n📱 Contato: WhatsApp\n📞 Telefone: +55 22 98859-0994\n\n📋 Dados contratuais:\n\nContratação: CNPJ\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Jaira\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "morno",
+      "bot": "preto",
+      "consultor": "",
+      "message_count": 19,
+      "first_message_at": "2026-03-08T03:00:00.000Z",
+      "last_message_at": "2026-03-08T19:07:56.740000Z",
+      "last_bot_msg_at": "2026-03-08T16:07:56.260041",
+      "tempo_sem_interacao": "3h 7min",
+      "first_id": 17249,
+      "last_id": 17338,
+      "last_message_preview": "Pode ser as 9 da manha",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Olá Gostaria de uma cotação de um Plano de Saúde Amil",
+          "msg_time": "2026-03-08T09:08:35.114318"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Eu sou Gilberto, analista em Plano Saúde da Corretora GW9. 🚀\nTrabalhamos com todos os planos, inclusive Amil. Posso te ajudar a encontrar a melhor opção. Qual o seu nome?",
+          "msg_time": "2026-03-08T09:08:35.119582"
+        },
+        {
+          "role": "user",
+          "content": "É  só  pra 1 pessoa.\n\nJaira",
+          "msg_time": "2026-03-08T09:09:08.167935"
+        },
+        {
+          "role": "ai",
+          "content": "Perfeito, Jaira! Pra te apresentar as opções certas, só preciso saber a sua idade, a cidade onde o plano será usado e se a contratação será pessoa física (CPF) ou empresarial (CNPJ/MEI). Pode me informar? Pode enviar por áudio 🎙️, se preferir.",
+          "msg_time": "2026-03-08T09:09:08.169388"
+        },
+        {
+          "role": "user",
+          "content": "66 anos cabofrio.",
+          "msg_time": "2026-03-08T09:11:05.23962"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Jaira, 66 anos em Cabofrio. E como o plano será contratado? Pessoa física (CPF) ou empresarial (CNPJ/MEI)? Hoje os planos empresariais costumam ter valores até 30–40% menores, dependendo da operadora.",
+          "msg_time": "2026-03-08T09:11:05.24378"
+        },
+        {
+          "role": "user",
+          "content": "N é  empresarial",
+          "msg_time": "2026-03-08T09:11:26.170852"
+        },
+        {
+          "role": "ai",
+          "content": "Beleza, Jaira! Então vamos seguir com plano pessoa física. Você já possui algum plano hoje ou está sem? Tem algum hospital ou médico que faz questão de ter na rede?",
+          "msg_time": "2026-03-08T09:11:26.172526"
+        },
+        {
+          "role": "user",
+          "content": "Fisica\n\nEstou sem",
+          "msg_time": "2026-03-08T09:12:02.668183"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Jaira, você está sem plano no momento. E costuma priorizar mais o preço ou a qualidade no atendimento? Tem algum hospital ou clínica que gostaria de incluir na rede?",
+          "msg_time": "2026-03-08T09:12:02.671396"
+        },
+        {
+          "role": "user",
+          "content": "Preço e qualidade",
+          "msg_time": "2026-03-08T09:12:50.535328"
+        },
+        {
+          "role": "ai",
+          "content": "Entendido, Jaira, você busca um bom equilíbrio entre preço e qualidade. Com essa informação, o especialista consegue indicar o plano ideal pra você. Qual o melhor dia e horário para o especialista te ligar? Prefere contato por WhatsApp, ligação ou vídeo?",
+          "msg_time": "2026-03-08T09:12:50.537078"
+        },
+        {
+          "role": "user",
+          "content": "Zap",
+          "msg_time": "2026-03-08T09:13:43.75564"
+        },
+        {
+          "role": "ai",
+          "content": "Jaira, seu perfil está pronto para o especialista ajudar você com a melhor cotação. Qual dia e horário fica melhor para o contato via WhatsApp?",
+          "msg_time": "2026-03-08T09:13:43.759335"
+        },
+        {
+          "role": "user",
+          "content": "Pode ser amanhã de manha",
+          "msg_time": "2026-03-08T09:14:10.474317"
+        },
+        {
+          "role": "ai",
+          "content": "Combinado, Jaira! Já deixei tudo pronto para o especialista te ligar amanhã de manhã pelo WhatsApp. Obrigado por compartilhar as informações!",
+          "msg_time": "2026-03-08T09:14:10.476438"
+        },
+        {
+          "role": "system",
+          "content": "Jaira, ainda está por aí? Estou aguardando sua resposta para dar sequência.",
+          "msg_time": "2026-03-08T12:31:02.964258"
+        },
+        {
+          "role": "user",
+          "content": "Pode ser as 9 da manha",
+          "msg_time": "2026-03-08T16:07:56.257974"
+        },
+        {
+          "role": "ai",
+          "content": "Tudo pronto, Jaira! O especialista vai te ligar amanhã às 9h pelo WhatsApp. Obrigado por tudo, fica à vontade para falar com a gente quando precisar!",
+          "msg_time": "2026-03-08T16:07:56.260041"
         }
       ]
     },
@@ -185,7 +390,7 @@
       "first_message_at": "2026-03-08T03:00:00.000Z",
       "last_message_at": "2026-03-08T18:52:59.095000Z",
       "last_bot_msg_at": "2026-03-08T15:52:53.193288",
-      "tempo_sem_interacao": "3h 7min",
+      "tempo_sem_interacao": "3h 22min",
       "first_id": 17313,
       "last_id": 17314,
       "last_message_preview": "Dados Fornecidos\nNome: Andrea\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não ...",
@@ -255,7 +460,7 @@
       "first_message_at": "2026-03-08T03:00:00.000Z",
       "last_message_at": "2026-03-08T17:27:48.397000Z",
       "last_bot_msg_at": "2026-03-08T14:27:47.956207",
-      "tempo_sem_interacao": "4h 32min",
+      "tempo_sem_interacao": "4h 47min",
       "first_id": 17291,
       "last_id": 17312,
       "last_message_preview": "Pode ser amanhã",
@@ -405,7 +610,7 @@
       "first_message_at": "2026-03-08T03:00:00.000Z",
       "last_message_at": "2026-03-08T16:34:30.766000Z",
       "last_bot_msg_at": "2026-03-08T13:34:30.282706",
-      "tempo_sem_interacao": "5h 25min",
+      "tempo_sem_interacao": "5h 40min",
       "first_id": 17295,
       "last_id": 17296,
       "last_message_preview": "Formato de mensagem enviada nao suportado",
@@ -465,7 +670,7 @@
       "first_message_at": "2026-03-08T03:00:00.000Z",
       "last_message_at": "2026-03-08T16:02:58.684000Z",
       "last_bot_msg_at": "2026-03-08T13:02:53.635992",
-      "tempo_sem_interacao": "5h 57min",
+      "tempo_sem_interacao": "6h 12min",
       "first_id": 17289,
       "last_id": 17290,
       "last_message_preview": "Dados Fornecidos\nNome: Cláudio\nContem CNPJ: sim\nNumero de Vidas: 2_vidas\nOperadora de Interesse: não...",
@@ -532,7 +737,7 @@
       "first_message_at": "2026-03-08T03:00:00.000Z",
       "last_message_at": "2026-03-08T14:03:24.087000Z",
       "last_bot_msg_at": "2026-03-08T11:03:23.622633",
-      "tempo_sem_interacao": "7h 56min",
+      "tempo_sem_interacao": "8h 11min",
       "first_id": 17265,
       "last_id": 17288,
       "last_message_preview": "Tarde\n\nWhatsapp",
@@ -635,141 +840,6 @@
       ]
     },
     {
-      "session_id": "5522988590994@s.whatsapp.net",
-      "phone": "5522988590994",
-      "phone_display": "+55 22 98859-0994",
-      "lead": {
-        "baserow_id": 1055,
-        "nome": "Jairasouza",
-        "email": "",
-        "qtd_vidas": "",
-        "desinteresse": false,
-        "gilbertinho_off": false,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Jairasouza",
-        "email": "",
-        "telefone": "+55 22 98859-0994",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "MEI",
-        "profissao": "",
-        "plano_atual": "Nenhum",
-        "motivo": "Incluir novas vidas",
-        "interesse": "Amil",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Jairasouza\n📱 Contato: WhatsApp\n📞 Telefone: +55 22 98859-0994\n\n📋 Dados contratuais:\n\nContratação: CNPJ\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n\n🎯 Interesse: Amil\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "morno",
-      "bot": "preto",
-      "consultor": "",
-      "message_count": 17,
-      "first_message_at": "2026-03-08T03:00:00.000Z",
-      "last_message_at": "2026-03-08T12:14:10.876000Z",
-      "last_bot_msg_at": "2026-03-08T09:14:10.476438",
-      "tempo_sem_interacao": "9h 46min",
-      "first_id": 17249,
-      "last_id": 17287,
-      "last_message_preview": "Pode ser amanhã de manha",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Olá Gostaria de uma cotação de um Plano de Saúde Amil",
-          "msg_time": "2026-03-08T09:08:35.114318"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Eu sou Gilberto, analista em Plano Saúde da Corretora GW9. 🚀\nTrabalhamos com todos os planos, inclusive Amil. Posso te ajudar a encontrar a melhor opção. Qual o seu nome?",
-          "msg_time": "2026-03-08T09:08:35.119582"
-        },
-        {
-          "role": "user",
-          "content": "É  só  pra 1 pessoa.\n\nJaira",
-          "msg_time": "2026-03-08T09:09:08.167935"
-        },
-        {
-          "role": "ai",
-          "content": "Perfeito, Jaira! Pra te apresentar as opções certas, só preciso saber a sua idade, a cidade onde o plano será usado e se a contratação será pessoa física (CPF) ou empresarial (CNPJ/MEI). Pode me informar? Pode enviar por áudio 🎙️, se preferir.",
-          "msg_time": "2026-03-08T09:09:08.169388"
-        },
-        {
-          "role": "user",
-          "content": "66 anos cabofrio.",
-          "msg_time": "2026-03-08T09:11:05.23962"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Jaira, 66 anos em Cabofrio. E como o plano será contratado? Pessoa física (CPF) ou empresarial (CNPJ/MEI)? Hoje os planos empresariais costumam ter valores até 30–40% menores, dependendo da operadora.",
-          "msg_time": "2026-03-08T09:11:05.24378"
-        },
-        {
-          "role": "user",
-          "content": "N é  empresarial",
-          "msg_time": "2026-03-08T09:11:26.170852"
-        },
-        {
-          "role": "ai",
-          "content": "Beleza, Jaira! Então vamos seguir com plano pessoa física. Você já possui algum plano hoje ou está sem? Tem algum hospital ou médico que faz questão de ter na rede?",
-          "msg_time": "2026-03-08T09:11:26.172526"
-        },
-        {
-          "role": "user",
-          "content": "Fisica\n\nEstou sem",
-          "msg_time": "2026-03-08T09:12:02.668183"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Jaira, você está sem plano no momento. E costuma priorizar mais o preço ou a qualidade no atendimento? Tem algum hospital ou clínica que gostaria de incluir na rede?",
-          "msg_time": "2026-03-08T09:12:02.671396"
-        },
-        {
-          "role": "user",
-          "content": "Preço e qualidade",
-          "msg_time": "2026-03-08T09:12:50.535328"
-        },
-        {
-          "role": "ai",
-          "content": "Entendido, Jaira, você busca um bom equilíbrio entre preço e qualidade. Com essa informação, o especialista consegue indicar o plano ideal pra você. Qual o melhor dia e horário para o especialista te ligar? Prefere contato por WhatsApp, ligação ou vídeo?",
-          "msg_time": "2026-03-08T09:12:50.537078"
-        },
-        {
-          "role": "user",
-          "content": "Zap",
-          "msg_time": "2026-03-08T09:13:43.75564"
-        },
-        {
-          "role": "ai",
-          "content": "Jaira, seu perfil está pronto para o especialista ajudar você com a melhor cotação. Qual dia e horário fica melhor para o contato via WhatsApp?",
-          "msg_time": "2026-03-08T09:13:43.759335"
-        },
-        {
-          "role": "user",
-          "content": "Pode ser amanhã de manha",
-          "msg_time": "2026-03-08T09:14:10.474317"
-        },
-        {
-          "role": "ai",
-          "content": "Combinado, Jaira! Já deixei tudo pronto para o especialista te ligar amanhã de manhã pelo WhatsApp. Obrigado por compartilhar as informações!",
-          "msg_time": "2026-03-08T09:14:10.476438"
-        },
-        {
-          "role": "system",
-          "content": "Jaira, ainda está por aí? Estou aguardando sua resposta para dar sequência.",
-          "msg_time": "2026-03-08T12:31:02.964258"
-        }
-      ]
-    },
-    {
       "session_id": "5521982108548@s.whatsapp.net",
       "phone": "5521982108548",
       "phone_display": "+55 21 98210-8548",
@@ -812,7 +882,7 @@
       "first_message_at": "2026-03-08T03:00:00.000Z",
       "last_message_at": "2026-03-08T14:53:57.201000Z",
       "last_bot_msg_at": "2026-03-08T11:53:51.821099",
-      "tempo_sem_interacao": "7h 6min",
+      "tempo_sem_interacao": "7h 21min",
       "first_id": 17285,
       "last_id": 17286,
       "last_message_preview": "Dados Fornecidos\nNome: Souza\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não i...",
@@ -872,7 +942,7 @@
       "first_message_at": "2026-03-08T03:00:00.000Z",
       "last_message_at": "2026-03-08T14:42:56.592000Z",
       "last_bot_msg_at": "2026-03-08T11:42:51.552669",
-      "tempo_sem_interacao": "7h 17min",
+      "tempo_sem_interacao": "7h 32min",
       "first_id": 17283,
       "last_id": 17284,
       "last_message_preview": "Dados Fornecidos\nNome: Denir\nContem CNPJ: não\nNumero de Vidas: 2_vidas\nOperadora de Interesse: não i...",
@@ -932,7 +1002,7 @@
       "first_message_at": "2026-03-08T03:00:00.000Z",
       "last_message_at": "2026-03-08T07:34:07.979000Z",
       "last_bot_msg_at": "2026-03-08T04:34:07.593753",
-      "tempo_sem_interacao": "14h 26min",
+      "tempo_sem_interacao": "14h 41min",
       "first_id": 17239,
       "last_id": 17248,
       "last_message_preview": "Falamos melhor na segunda feira depois do almoço. Pode ser!?  Desde já, agradeço seu contato.\n\nBom d...",
@@ -1032,7 +1102,7 @@
       "first_message_at": "2026-03-07T03:00:00.000Z",
       "last_message_at": "2026-03-08T02:55:02.133000Z",
       "last_bot_msg_at": "2026-03-07T23:55:01.381333",
-      "tempo_sem_interacao": "19h 5min",
+      "tempo_sem_interacao": "19h 20min",
       "first_id": 17237,
       "last_id": 17238,
       "last_message_preview": "Olá Gostaria de uma cotação de um Plano de Saúde Sulamérica",
@@ -1081,7 +1151,7 @@
       "first_message_at": "2026-03-08T02:48:57.471Z",
       "last_message_at": "2026-03-08T02:48:57.474Z",
       "last_bot_msg_at": "2026-03-07T23:48:57.474649",
-      "tempo_sem_interacao": "19h 11min",
+      "tempo_sem_interacao": "19h 26min",
       "first_id": 17235,
       "last_id": 17236,
       "last_message_preview": "Dados Fornecidos\nNome: Rodrigo\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não...",
@@ -1148,7 +1218,7 @@
       "first_message_at": "2026-03-07T03:00:00.000Z",
       "last_message_at": "2026-03-08T01:10:46.520000Z",
       "last_bot_msg_at": "2026-03-07T22:10:46.034922",
-      "tempo_sem_interacao": "20h 49min",
+      "tempo_sem_interacao": "21h 4min",
       "first_id": 17123,
       "last_id": 17234,
       "last_message_preview": "E aí, amigo, eu queria ver até a possibilidade de talvez, se ficar muito caro nós três, de deixar só...",
@@ -1295,7 +1365,7 @@
       "first_message_at": "2026-03-07T03:00:00.000Z",
       "last_message_at": "2026-03-08T00:39:11.895000Z",
       "last_bot_msg_at": "2026-03-07T21:39:11.494693",
-      "tempo_sem_interacao": "21h 20min",
+      "tempo_sem_interacao": "21h 35min",
       "first_id": 17217,
       "last_id": 17230,
       "last_message_preview": "Olá gostaria de mais informações dos Planos de Saúde  Sulamérica",
@@ -1405,7 +1475,7 @@
       "first_message_at": "2026-03-07T03:00:00.000Z",
       "last_message_at": "2026-03-08T00:37:03.801000Z",
       "last_bot_msg_at": "2026-03-07T21:36:57.602821",
-      "tempo_sem_interacao": "21h 23min",
+      "tempo_sem_interacao": "21h 38min",
       "first_id": 17227,
       "last_id": 17228,
       "last_message_preview": "Dados Fornecidos\nNome: Simone\nContem CNPJ: não\nNumero de Vidas: 2_vidas\nOperadora de Interesse: não ...",
@@ -1465,7 +1535,7 @@
       "first_message_at": "2026-03-07T03:00:00.000Z",
       "last_message_at": "2026-03-07T23:28:59.683000Z",
       "last_bot_msg_at": "2026-03-07T20:28:52.503983",
-      "tempo_sem_interacao": "22h 31min",
+      "tempo_sem_interacao": "22h 46min",
       "first_id": 17215,
       "last_id": 17216,
       "last_message_preview": "Dados Fornecidos\nNome: DENISEMABEL@GMAIL.COM\nContem CNPJ: sim\nNumero de Vidas: 2_vidas\nOperadora de ...",
@@ -3697,7 +3767,7 @@
       "first_message_at": "2026-03-06T03:00:00.000Z",
       "last_message_at": "2026-03-06T22:10:36.944000Z",
       "last_bot_msg_at": "2026-03-06T19:10:36.385179",
-      "tempo_sem_interacao": "1 dia",
+      "tempo_sem_interacao": "2 dias",
       "first_id": 16894,
       "last_id": 17114,
       "last_message_preview": "Estou na Cidade do Rio de Janeiro, zona norte do Rj\n\nSeria contratação por CPF",
