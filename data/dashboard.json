@@ -1,17 +1,157 @@
 {
   "meta": {
-    "generated_at": "2026-03-08T23:30:11.377Z",
+    "generated_at": "2026-03-08T23:45:12.612Z",
     "total_conversations": 200,
-    "total_messages": 4753,
+    "total_messages": 4735,
     "stats": {
       "quente": 27,
-      "morno": 87,
-      "frio": 86,
+      "morno": 88,
+      "frio": 85,
       "desinteresse": 0,
       "sem_classificacao": 0
     }
   },
   "conversations": [
+    {
+      "session_id": "5521988479732@s.whatsapp.net",
+      "phone": "5521988479732",
+      "phone_display": "+55 21 98847-9732",
+      "lead": {
+        "baserow_id": 1070,
+        "nome": "Simone Rodrigues",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "gilbertinho_off": false,
+        "observacoes": "",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Simone Rodrigues",
+        "email": "",
+        "telefone": "+55 21 98847-9732",
+        "vidas": [],
+        "cidade": "Rio de Janeiro / RJ",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "Unimed mas gostaria de migrar",
+        "motivo": "",
+        "interesse": "Amil",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Simone Rodrigues\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98847-9732\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\n\n🏥 Plano atual: Unimed mas gostaria de migrar\n\n🎯 Interesse: Amil\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "morno",
+      "bot": "preto",
+      "consultor": "",
+      "message_count": 18,
+      "first_message_at": "2026-03-08T03:00:00.000Z",
+      "last_message_at": "2026-03-08T23:41:16.226000Z",
+      "last_bot_msg_at": "2026-03-08T20:41:15.765124",
+      "tempo_sem_interacao": "3h 3min",
+      "first_id": 17442,
+      "last_id": 17459,
+      "last_message_preview": "Pouca aceitação",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Olá Gostaria de uma cotação de um Plano de Saúde Amil\n\nBoa noite\n\nSeria apenas 1 vida",
+          "msg_time": "2026-03-08T20:37:09.733136"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Eu sou Gilberto, analista em Plano Saúde da Corretora GW9. 🚀 Trabalhamos com todos os planos no Rio de Janeiro. Para ajudar, qual seu nome? E qual cidade será para o plano? Como será a contratação: CPF ou CNPJ?",
+          "msg_time": "2026-03-08T20:37:09.735672"
+        },
+        {
+          "role": "user",
+          "content": "Tem essa cotação\n\nTe aguardando",
+          "msg_time": "2026-03-08T20:37:35.208372"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi que é para 1 vida na Amil, um plano individual, certo? Para poder te ajudar melhor, poderia me informar a sua idade e a cidade onde usará o plano? Assim consigo te passar as opções mais precisas.",
+          "msg_time": "2026-03-08T20:37:35.21021"
+        },
+        {
+          "role": "user",
+          "content": "CPF",
+          "msg_time": "2026-03-08T20:37:49.848877"
+        },
+        {
+          "role": "ai",
+          "content": "Perfeito! Para planos no CPF, qual sua profissão? Algumas administradoras solicitam essa informação para a cotação. Pode me dizer?",
+          "msg_time": "2026-03-08T20:37:49.85051"
+        },
+        {
+          "role": "user",
+          "content": "24 anos",
+          "msg_time": "2026-03-08T20:38:07.410898"
+        },
+        {
+          "role": "ai",
+          "content": "Perfeito, tenho que é um plano individual com 24 anos de idade, contratação no CPF. Qual a sua profissão? Isso ajuda a garantir as opções disponíveis certo?",
+          "msg_time": "2026-03-08T20:38:07.412732"
+        },
+        {
+          "role": "user",
+          "content": "Universitária",
+          "msg_time": "2026-03-08T20:38:35.982038"
+        },
+        {
+          "role": "ai",
+          "content": "Ótimo! Um plano individual Amil para uma universitária de 24 anos. Você já possui plano hoje ou está sem? Tem algum hospital ou médico que queira garantir na rede? Isso ajuda a personalizar a cotação.",
+          "msg_time": "2026-03-08T20:38:35.984367"
+        },
+        {
+          "role": "user",
+          "content": "Futura médica",
+          "msg_time": "2026-03-08T20:38:56.530019"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, futura médica. Muito importante essa profissão para algumas operadoras. Você já tem plano atualmente ou está buscando o primeiro? Se já tem, o que acha que pode melhorar?",
+          "msg_time": "2026-03-08T20:38:56.532361"
+        },
+        {
+          "role": "user",
+          "content": "Tenho Unimed mas gostaria de migrar",
+          "msg_time": "2026-03-08T20:39:28.402318"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi que você tem Unimed atualmente e quer migrar buscando outras opções. Tem algo que pesa mais: preço, atendimento ou cobertura da rede? Isso ajuda a focar na melhor solução pra você.",
+          "msg_time": "2026-03-08T20:39:28.404001"
+        },
+        {
+          "role": "user",
+          "content": "Preço",
+          "msg_time": "2026-03-08T20:40:49.172939"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi que seu foco principal é o preço para a migração. Qual valor mensal você paga hoje na Unimed? Isso ajuda a entender o quanto podemos melhorar.",
+          "msg_time": "2026-03-08T20:40:49.175986"
+        },
+        {
+          "role": "user",
+          "content": "Pouca aceitação",
+          "msg_time": "2026-03-08T20:41:15.76301"
+        },
+        {
+          "role": "ai",
+          "content": "🤔 Poderia explicar um pouco mais sobre essa \"pouca aceitação\"? É sobre restrição de alguma clínica, hospital ou cobertura? Assim posso levar isso em conta na sua cotação.",
+          "msg_time": "2026-03-08T20:41:15.765124"
+        }
+      ]
+    },
     {
       "session_id": "5521972397175@s.whatsapp.net",
       "phone": "5521972397175",
@@ -55,7 +195,7 @@
       "first_message_at": "2026-03-08T03:00:00.000Z",
       "last_message_at": "2026-03-08T22:49:29.082000Z",
       "last_bot_msg_at": "2026-03-08T19:49:28.667277",
-      "tempo_sem_interacao": "3h 40min",
+      "tempo_sem_interacao": "3h 55min",
       "first_id": 17426,
       "last_id": 17441,
       "last_message_preview": "A sim",
@@ -185,7 +325,7 @@
       "first_message_at": "2026-03-08T03:00:00.000Z",
       "last_message_at": "2026-03-08T22:25:47.028000Z",
       "last_bot_msg_at": "2026-03-08T19:25:46.580418",
-      "tempo_sem_interacao": "4h 4min",
+      "tempo_sem_interacao": "4h 19min",
       "first_id": 17315,
       "last_id": 17425,
       "last_message_preview": "Pode mandar por WhatsApp",
@@ -397,7 +537,7 @@
       "first_message_at": "2026-03-08T03:00:00.000Z",
       "last_message_at": "2026-03-08T22:03:08.248000Z",
       "last_bot_msg_at": "2026-03-08T19:03:07.786346",
-      "tempo_sem_interacao": "4h 27min",
+      "tempo_sem_interacao": "4h 42min",
       "first_id": 17289,
       "last_id": 17423,
       "last_message_preview": "Ok",
@@ -622,7 +762,7 @@
       "first_message_at": "2026-03-08T03:00:00.000Z",
       "last_message_at": "2026-03-08T22:00:52.565000Z",
       "last_bot_msg_at": "2026-03-08T19:00:52.057336",
-      "tempo_sem_interacao": "4h 29min",
+      "tempo_sem_interacao": "4h 44min",
       "first_id": 17391,
       "last_id": 17419,
       "last_message_preview": "Pode ser amanhã às 10h\n\nPor whatsapp",
@@ -772,7 +912,7 @@
       "first_message_at": "2026-03-08T03:00:00.000Z",
       "last_message_at": "2026-03-08T22:00:34.884000Z",
       "last_bot_msg_at": "2026-03-08T19:00:34.462571",
-      "tempo_sem_interacao": "4h 29min",
+      "tempo_sem_interacao": "4h 44min",
       "first_id": 17416,
       "last_id": 17417,
       "last_message_preview": "Olá Gostaria de uma cotação de um Plano de Saúde Amil",
@@ -842,7 +982,7 @@
       "first_message_at": "2026-03-08T03:00:00.000Z",
       "last_message_at": "2026-03-08T20:29:24.959000Z",
       "last_bot_msg_at": "2026-03-08T17:29:24.048726",
-      "tempo_sem_interacao": "6h",
+      "tempo_sem_interacao": "6h 15min",
       "first_id": 17345,
       "last_id": 17415,
       "last_message_preview": "Whatsapp",
@@ -987,7 +1127,7 @@
       "first_message_at": "2026-03-08T03:00:00.000Z",
       "last_message_at": "2026-03-08T16:34:30.766000Z",
       "last_bot_msg_at": "2026-03-08T13:34:30.282706",
-      "tempo_sem_interacao": "9h 55min",
+      "tempo_sem_interacao": "10h 10min",
       "first_id": 17295,
       "last_id": 17413,
       "last_message_preview": "Formato de mensagem enviada nao suportado",
@@ -1059,7 +1199,7 @@
       "first_message_at": "2026-03-08T03:00:00.000Z",
       "last_message_at": "2026-03-08T14:03:24.087000Z",
       "last_bot_msg_at": "2026-03-08T11:03:23.622633",
-      "tempo_sem_interacao": "12h 26min",
+      "tempo_sem_interacao": "12h 41min",
       "first_id": 17265,
       "last_id": 17411,
       "last_message_preview": "Tarde\n\nWhatsapp",
@@ -1209,7 +1349,7 @@
       "first_message_at": "2026-03-08T03:00:00.000Z",
       "last_message_at": "2026-03-08T21:54:56.435000Z",
       "last_bot_msg_at": "2026-03-08T18:54:51.003129",
-      "tempo_sem_interacao": "4h 35min",
+      "tempo_sem_interacao": "4h 50min",
       "first_id": 17393,
       "last_id": 17394,
       "last_message_preview": "Dados Fornecidos\nNome: Csh\nContem CNPJ: não\nNumero de Vidas: 2_vidas\nOperadora de Interesse: não inf...",
@@ -1269,7 +1409,7 @@
       "first_message_at": "2026-03-08T03:00:00.000Z",
       "last_message_at": "2026-03-08T21:46:57.591000Z",
       "last_bot_msg_at": "2026-03-08T18:46:52.430474",
-      "tempo_sem_interacao": "4h 43min",
+      "tempo_sem_interacao": "4h 58min",
       "first_id": 17389,
       "last_id": 17390,
       "last_message_preview": "Dados Fornecidos\nNome: Amauri\nContem CNPJ: não\nNumero de Vidas: 2_vidas\nOperadora de Interesse: não ...",
@@ -1329,7 +1469,7 @@
       "first_message_at": "2026-03-08T03:00:00.000Z",
       "last_message_at": "2026-03-08T19:07:56.740000Z",
       "last_bot_msg_at": "2026-03-08T16:07:56.260041",
-      "tempo_sem_interacao": "7h 22min",
+      "tempo_sem_interacao": "7h 37min",
       "first_id": 17249,
       "last_id": 17338,
       "last_message_preview": "Pode ser as 9 da manha",
@@ -1474,7 +1614,7 @@
       "first_message_at": "2026-03-08T03:00:00.000Z",
       "last_message_at": "2026-03-08T18:52:59.095000Z",
       "last_bot_msg_at": "2026-03-08T15:52:53.193288",
-      "tempo_sem_interacao": "7h 37min",
+      "tempo_sem_interacao": "7h 52min",
       "first_id": 17313,
       "last_id": 17314,
       "last_message_preview": "Dados Fornecidos\nNome: Andrea\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não ...",
@@ -1544,7 +1684,7 @@
       "first_message_at": "2026-03-08T03:00:00.000Z",
       "last_message_at": "2026-03-08T17:27:48.397000Z",
       "last_bot_msg_at": "2026-03-08T14:27:47.956207",
-      "tempo_sem_interacao": "9h 2min",
+      "tempo_sem_interacao": "9h 17min",
       "first_id": 17291,
       "last_id": 17312,
       "last_message_preview": "Pode ser amanhã",
@@ -1694,7 +1834,7 @@
       "first_message_at": "2026-03-08T03:00:00.000Z",
       "last_message_at": "2026-03-08T14:53:57.201000Z",
       "last_bot_msg_at": "2026-03-08T11:53:51.821099",
-      "tempo_sem_interacao": "11h 36min",
+      "tempo_sem_interacao": "11h 51min",
       "first_id": 17285,
       "last_id": 17286,
       "last_message_preview": "Dados Fornecidos\nNome: Souza\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não i...",
@@ -1754,7 +1894,7 @@
       "first_message_at": "2026-03-08T03:00:00.000Z",
       "last_message_at": "2026-03-08T14:42:56.592000Z",
       "last_bot_msg_at": "2026-03-08T11:42:51.552669",
-      "tempo_sem_interacao": "11h 47min",
+      "tempo_sem_interacao": "12h 2min",
       "first_id": 17283,
       "last_id": 17284,
       "last_message_preview": "Dados Fornecidos\nNome: Denir\nContem CNPJ: não\nNumero de Vidas: 2_vidas\nOperadora de Interesse: não i...",
@@ -1814,7 +1954,7 @@
       "first_message_at": "2026-03-08T03:00:00.000Z",
       "last_message_at": "2026-03-08T07:34:07.979000Z",
       "last_bot_msg_at": "2026-03-08T04:34:07.593753",
-      "tempo_sem_interacao": "18h 56min",
+      "tempo_sem_interacao": "19h 11min",
       "first_id": 17239,
       "last_id": 17248,
       "last_message_preview": "Falamos melhor na segunda feira depois do almoço. Pode ser!?  Desde já, agradeço seu contato.\n\nBom d...",
@@ -1914,7 +2054,7 @@
       "first_message_at": "2026-03-07T03:00:00.000Z",
       "last_message_at": "2026-03-08T02:55:02.133000Z",
       "last_bot_msg_at": "2026-03-07T23:55:01.381333",
-      "tempo_sem_interacao": "23h 35min",
+      "tempo_sem_interacao": "23h 50min",
       "first_id": 17237,
       "last_id": 17238,
       "last_message_preview": "Olá Gostaria de uma cotação de um Plano de Saúde Sulamérica",
@@ -1963,7 +2103,7 @@
       "first_message_at": "2026-03-08T02:48:57.471Z",
       "last_message_at": "2026-03-08T02:48:57.474Z",
       "last_bot_msg_at": "2026-03-07T23:48:57.474649",
-      "tempo_sem_interacao": "23h 41min",
+      "tempo_sem_interacao": "23h 56min",
       "first_id": 17235,
       "last_id": 17236,
       "last_message_preview": "Dados Fornecidos\nNome: Rodrigo\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não...",
@@ -26557,236 +26697,6 @@
         {
           "role": "system",
           "content": "Olá, boa tarde Adri! tudo bem?\nvou ajuda-los em relação aos planos de saúde.\n\nSeria para você mesmo, família ou empresa?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        }
-      ]
-    },
-    {
-      "session_id": "5521993363518@s.whatsapp.net",
-      "phone": "5521993363518",
-      "phone_display": "+55 21 99336-3518",
-      "lead": {
-        "baserow_id": 710,
-        "nome": "Ana Lúcia Lima",
-        "email": "",
-        "qtd_vidas": "",
-        "desinteresse": false,
-        "gilbertinho_off": true,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": "Frio"
-      },
-      "summary": {
-        "nome": "Ana Lúcia Lima",
-        "email": "",
-        "telefone": "+55 21 99336-3518",
-        "vidas": [],
-        "cidade": "Niteroi / RJ",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "MEI",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "AMIL BRONZE",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "",
-        "bot": "Não identificado",
-        "formatted": "👤 Cliente: Ana Lúcia Lima\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99336-3518\n\n📋 Dados contratuais:\n\nCidade: Niteroi / RJ\nContratação: CNPJ\nTipo: MEI\n\n🎯 Interesse: AMIL BRONZE\n✅ Status: Lead frio\n🤖 Bot: Não identificado"
-      },
-      "status": "frio",
-      "bot": "desconhecido",
-      "consultor": "",
-      "message_count": 36,
-      "first_message_at": "2026-02-06T03:00:00.000Z",
-      "last_message_at": "2026-03-06T01:36:17.247Z",
-      "last_bot_msg_at": "2026-03-06T01:36:17.247Z",
-      "tempo_sem_interacao": "2 dias",
-      "first_id": 13935,
-      "last_id": 14582,
-      "last_message_preview": "Formato de mensagem enviada nao suportado",
-      "messages": [
-        {
-          "role": "system",
-          "content": "Olá, bom dia Ana, tudo bem?\nRecebi seu interesse em relação aos planos de saúde e vou ajuda-la.\n\nSeria para você mesmo, empresa, familia",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Ok",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "Empresa\n\nperfeito!\n\ne vocês já possuem plano atualmente?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Nao\n\nEu 55 anos\nFilho 17",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Empresaria individual \n\nNao mei\n\nNiteroi rede atendimento\n\nRegional",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "perfeito! excelente método de contratação, pois via cnpj os planos ficam mais acessíveis.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "tem algum hospital específico que gostaria de cobertura?\n\npergunto isso para identificar o produto ideal",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Moro*\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "perfeito",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "nesses condições identifico a seguradora  AMIL para você e seu filho, pois tem aceitação de 2 vidas entrantes, tem uma ótima relação de custo e benefício e acessos",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "vou trazer o produto AMIL OURO para cobertura no Hosp. Icaraí e ao CHN como referência, dentre outros na região",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Nao\n\nAmil nao\n\nCaro\n\nentendi\n\nValor menor",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "a ASSIM é na mesma faixa orçamentária e recebemos muitas reclamações",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "para duas vidas só teremos as opções de Notredame, Klini, Assim e Amil",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "você já recebeu alguma cotação da AMIL?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Sim\n\nme informa qual faixa orçamentária mensal fica bom para você nesse investimento da sua saúde\n\nKlini",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Ok\n\nMe passa orçamento amil\n\nE essa klini é  boa\n\n?\n\nvou passar o AMIL BRONZE\n\nFiz orçamento amk passado e achei caro\n\nAmil\n\nPq?\n\nposso te mandar um áudio?\n\nNao tem rede?\n\nFormato de mensagem enviada nao suportado",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Amil, carência?\n\n Emergencia? \nConsulta? \nExames?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "pois querendo ou não, o plano de saúde é primordial e é um investimento, quando necessário precisa ser de fácil acesso, então a grande massa de reclamações deixo aqui a ressalva da minha experiência para que os meus clientes não precisem passar mais por isso.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Valored",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "Oi\n\nParou o atendimento?\n\nooi, estou gerando o orçamento",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "<ContextoPDF>\n  <TranscricaoPDF>\n\n\n\n\n\n\n\n\n\n\n\n  </TranscricaoPDF>\nContexto Extra: O usuário encaminhou a mensagem a seguir junto ao PDF.\n  <MensagemUsuario>\n\n  </MensagemUsuario>\n</ContextoPDF>\n\nverifica se esse valor está dentro da faixa orçamentária que você busca",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "fiz um comparativo do mesmo produto - com coparticipação x sem coparticipação\n\npodemos entrar nesse tema em seguida",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Sem coparticipação\n\nQual.deles é?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "Ao lado direito\n\nR$1200,79",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "Diz coparticipação tb\n\nParcial\n\nÉ copart apenas para terapias, de resto não coparticipa em nada",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "e na verdade é uma taxa mínima caso faça, de no máximo 60,00",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Com participacao ?\n\nComo funciona?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "vou mandar 1/2 áudios para te explicar ok",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Formato de mensagem enviada nao suportado",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "Oi Ana, boa tarde. Vamos lá, eu vou te explicar aqui em um e dois áudios para a gente poder entender como funciona a co-participação hoje em dia, tá bom? Vou encaminhar aqui embaixo a tabela de co-participação, como que ela funciona. A ANS, ela regulamentou uma tabela para que não haja nenhum tipo de cobrança indevida ou superfaturada, tá? Em relação à co-participação. Então, com a co-participação, primeiramente você não co-participa com o hospital, você co-participa com a operadora, tá? Com a seguradora, no caso, que é a Mil. Então, o hospital é indiferente para ele se o seu produto é com co-part ou sem co-part, tá? O que o hospital analisa é se aceita o produto ou não. No seu caso, dentro das suas redes credenciadas, você vai conseguir utilizar ele normalmente.\n\nApós essa regulamentação da ANS, a gente tem essa tabela que significa que cada evento que você faz a utilização dele e o quanto você no máximo pode co-participar juntamente a operadora. Ali em consultas, no máximo, o valor d",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "Ana, desculpa os áudios longos, mas acho importantes trazer luz sob esse tema",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "o áudio está encaminhado pois esse whatsapp que estou falando com você está em outro celular que não está próximo",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "os áudios ficaram claros, toda a informação?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "olá  boa tarde, tudo bem?\n\ncomo foi a análise das soluções eu encaminhei? gerou alguma dúvida específica?",
           "msg_time": "2026-03-05T22:36:17.247927"
         }
       ]
