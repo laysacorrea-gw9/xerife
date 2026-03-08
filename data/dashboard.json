@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_at": "2026-03-08T14:00:11.676Z",
+    "generated_at": "2026-03-08T14:15:11.094Z",
     "total_conversations": 200,
-    "total_messages": 4678,
+    "total_messages": 4688,
     "stats": {
       "quente": 27,
       "morno": 82,
@@ -45,27 +45,27 @@
         "cnpj": "",
         "tipo_empresa": "MEI",
         "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
+        "plano_atual": "Nenhum",
+        "motivo": "Incluir novas vidas",
         "interesse": "",
         "rede_preferencial": "",
         "contato": "WhatsApp",
         "consultor": "",
         "obs_crm": "",
         "bot": "Gilbertinho Amarelo (2373)",
-        "formatted": "👤 Cliente: Marcelo\n📧 E-mail: marcelomendes0502@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 22 99785-6765\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nMarcelo — 5 anos\nDependente 1 — 3 anos\n\n📋 Dados contratuais:\n\nContratação: CNPJ\nTipo: MEI\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)"
+        "formatted": "👤 Cliente: Marcelo\n📧 E-mail: marcelomendes0502@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 22 99785-6765\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nMarcelo — 5 anos\nDependente 1 — 3 anos\n\n📋 Dados contratuais:\n\nContratação: CNPJ\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)"
       },
       "status": "morno",
       "bot": "amarelo",
       "consultor": "",
-      "message_count": 8,
+      "message_count": 18,
       "first_message_at": "2026-03-08T03:00:00.000Z",
-      "last_message_at": "2026-03-08T14:00:05.123000Z",
-      "last_bot_msg_at": "2026-03-08T11:00:03.843257",
-      "tempo_sem_interacao": "3h",
+      "last_message_at": "2026-03-08T14:03:24.087000Z",
+      "last_bot_msg_at": "2026-03-08T11:03:23.622633",
+      "tempo_sem_interacao": "3h 11min",
       "first_id": 17265,
-      "last_id": 17272,
-      "last_message_preview": "42, 40, 20, 9, 3 anos",
+      "last_id": 17282,
+      "last_message_preview": "Tarde\n\nWhatsapp",
       "messages": [
         {
           "role": "user",
@@ -106,6 +106,56 @@
           "role": "ai",
           "content": "Obrigado pelas idades, Marcelo. Agora, para completar, qual cidade e estado onde o plano será usado? E a contratação vai ser por pessoa física (CPF) ou empresa (CNPJ/MEI)? Isso ajuda a verificar os planos disponíveis e valores.",
           "msg_time": "2026-03-08T11:00:03.843257"
+        },
+        {
+          "role": "user",
+          "content": "Araruama - RJ\n\nCPF",
+          "msg_time": "2026-03-08T11:00:33.714707"
+        },
+        {
+          "role": "ai",
+          "content": "Perfeito, Marcelo! Para seguir, me diz uma coisa: você ou as pessoas que vão no plano já têm algum plano de saúde atualmente ou estão sem? Além disso, tem algum hospital, clínica ou médico que considera essencial ter na rede?",
+          "msg_time": "2026-03-08T11:00:33.719832"
+        },
+        {
+          "role": "user",
+          "content": "Dá pra fazer uma simulação sendo MEI. Pretendo abrir outro em reveb\n\nBreve\n\nUnimed Araruama\n\nNão temos médico de estimação não kk",
+          "msg_time": "2026-03-08T11:01:22.965927"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Marcelo. Você está considerando abrir um MEI para usar o plano, mesmo que seja para pessoa física por enquanto. Anotei que prefere a Unimed Araruama e não tem preferência por médicos específicos.\n\nAgora, sobre sua profissão, qual é? Algumas operadoras pedem essa informação para planos no CPF.",
+          "msg_time": "2026-03-08T11:01:22.968485"
+        },
+        {
+          "role": "user",
+          "content": "Mas um pronto atendimento, exames laboratoriais e de imagem. Intenção,etc\n\nPode ser até capital\n\nTécnico em radiologia",
+          "msg_time": "2026-03-08T11:01:57.269714"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Marcelo. Você busca um plano com bom pronto atendimento, exames laboratoriais e de imagem, podendo ser até na capital. Anotei que você é técnico em radiologia; obrigado por compartilhar!\n\nAgora, qual o melhor dia e horário para o especialista entrar em contato com você? Prefere WhatsApp, ligação ou vídeo?",
+          "msg_time": "2026-03-08T11:01:57.273781"
+        },
+        {
+          "role": "user",
+          "content": "Não prefiro Unimed Araruama. Já possuímos Unimed Araruama. Queremos trocar.\n\nSegunda feira",
+          "msg_time": "2026-03-08T11:02:37.532632"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Marcelo. Você já tem Unimed Araruama e quer trocar. Qual horário na segunda-feira seria melhor para o especialista te ligar? E prefere contato via WhatsApp, ligação ou vídeo?",
+          "msg_time": "2026-03-08T11:02:37.535473"
+        },
+        {
+          "role": "user",
+          "content": "Tarde\n\nWhatsapp",
+          "msg_time": "2026-03-08T11:03:23.618743"
+        },
+        {
+          "role": "ai",
+          "content": "Combinado, Marcelo! Já deixei tudo pronto para o especialista te ligar na segunda-feira à tarde pelo WhatsApp. Obrigado por compartilhar tudo. O especialista vai ajudar a encontrar o melhor plano para você e sua família. Até breve!",
+          "msg_time": "2026-03-08T11:03:23.622633"
         }
       ]
     },
@@ -152,7 +202,7 @@
       "first_message_at": "2026-03-08T03:00:00.000Z",
       "last_message_at": "2026-03-08T12:14:10.876000Z",
       "last_bot_msg_at": "2026-03-08T09:14:10.476438",
-      "tempo_sem_interacao": "4h 46min",
+      "tempo_sem_interacao": "5h 1min",
       "first_id": 17249,
       "last_id": 17264,
       "last_message_preview": "Pode ser amanhã de manha",
@@ -282,7 +332,7 @@
       "first_message_at": "2026-03-08T03:00:00.000Z",
       "last_message_at": "2026-03-08T07:34:07.979000Z",
       "last_bot_msg_at": "2026-03-08T04:34:07.593753",
-      "tempo_sem_interacao": "9h 26min",
+      "tempo_sem_interacao": "9h 41min",
       "first_id": 17239,
       "last_id": 17248,
       "last_message_preview": "Falamos melhor na segunda feira depois do almoço. Pode ser!?  Desde já, agradeço seu contato.\n\nBom d...",
@@ -382,7 +432,7 @@
       "first_message_at": "2026-03-07T03:00:00.000Z",
       "last_message_at": "2026-03-08T02:55:02.133000Z",
       "last_bot_msg_at": "2026-03-07T23:55:01.381333",
-      "tempo_sem_interacao": "14h 5min",
+      "tempo_sem_interacao": "14h 20min",
       "first_id": 17237,
       "last_id": 17238,
       "last_message_preview": "Olá Gostaria de uma cotação de um Plano de Saúde Sulamérica",
@@ -431,7 +481,7 @@
       "first_message_at": "2026-03-08T02:48:57.471Z",
       "last_message_at": "2026-03-08T02:48:57.474Z",
       "last_bot_msg_at": "2026-03-07T23:48:57.474649",
-      "tempo_sem_interacao": "14h 11min",
+      "tempo_sem_interacao": "14h 26min",
       "first_id": 17235,
       "last_id": 17236,
       "last_message_preview": "Dados Fornecidos\nNome: Rodrigo\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não...",
@@ -498,7 +548,7 @@
       "first_message_at": "2026-03-07T03:00:00.000Z",
       "last_message_at": "2026-03-08T01:10:46.520000Z",
       "last_bot_msg_at": "2026-03-07T22:10:46.034922",
-      "tempo_sem_interacao": "15h 49min",
+      "tempo_sem_interacao": "16h 4min",
       "first_id": 17123,
       "last_id": 17234,
       "last_message_preview": "E aí, amigo, eu queria ver até a possibilidade de talvez, se ficar muito caro nós três, de deixar só...",
@@ -645,7 +695,7 @@
       "first_message_at": "2026-03-07T03:00:00.000Z",
       "last_message_at": "2026-03-08T00:39:11.895000Z",
       "last_bot_msg_at": "2026-03-07T21:39:11.494693",
-      "tempo_sem_interacao": "16h 21min",
+      "tempo_sem_interacao": "16h 35min",
       "first_id": 17217,
       "last_id": 17230,
       "last_message_preview": "Olá gostaria de mais informações dos Planos de Saúde  Sulamérica",
@@ -755,7 +805,7 @@
       "first_message_at": "2026-03-07T03:00:00.000Z",
       "last_message_at": "2026-03-08T00:37:03.801000Z",
       "last_bot_msg_at": "2026-03-07T21:36:57.602821",
-      "tempo_sem_interacao": "16h 23min",
+      "tempo_sem_interacao": "16h 38min",
       "first_id": 17227,
       "last_id": 17228,
       "last_message_preview": "Dados Fornecidos\nNome: Simone\nContem CNPJ: não\nNumero de Vidas: 2_vidas\nOperadora de Interesse: não ...",
@@ -815,7 +865,7 @@
       "first_message_at": "2026-03-07T03:00:00.000Z",
       "last_message_at": "2026-03-07T23:28:59.683000Z",
       "last_bot_msg_at": "2026-03-07T20:28:52.503983",
-      "tempo_sem_interacao": "17h 31min",
+      "tempo_sem_interacao": "17h 46min",
       "first_id": 17215,
       "last_id": 17216,
       "last_message_preview": "Dados Fornecidos\nNome: DENISEMABEL@GMAIL.COM\nContem CNPJ: sim\nNumero de Vidas: 2_vidas\nOperadora de ...",
@@ -891,7 +941,7 @@
       "first_message_at": "2026-03-07T03:00:00.000Z",
       "last_message_at": "2026-03-07T21:47:08.274000Z",
       "last_bot_msg_at": "2026-03-07T18:47:07.811763",
-      "tempo_sem_interacao": "19h 13min",
+      "tempo_sem_interacao": "19h 28min",
       "first_id": 17197,
       "last_id": 17214,
       "last_message_preview": "Sim, Bradesco",
@@ -1189,7 +1239,7 @@
       "first_message_at": "2026-03-07T03:00:00.000Z",
       "last_message_at": "2026-03-07T17:35:39.813000Z",
       "last_bot_msg_at": "2026-03-07T14:35:38.514663",
-      "tempo_sem_interacao": "23h 24min",
+      "tempo_sem_interacao": "23h 39min",
       "first_id": 17070,
       "last_id": 17210,
       "last_message_preview": "Ainda no aguardo",
@@ -1362,7 +1412,7 @@
       "first_message_at": "2026-03-07T03:00:00.000Z",
       "last_message_at": "2026-03-07T18:05:41.569000Z",
       "last_bot_msg_at": "2026-03-07T15:05:41.077645",
-      "tempo_sem_interacao": "22h 54min",
+      "tempo_sem_interacao": "23h 9min",
       "first_id": 17068,
       "last_id": 17209,
       "last_message_preview": "Belo arquitetura",
@@ -1512,7 +1562,7 @@
       "first_message_at": "2026-03-07T03:00:00.000Z",
       "last_message_at": "2026-03-07T20:26:00.778000Z",
       "last_bot_msg_at": "2026-03-07T17:26:00.188367",
-      "tempo_sem_interacao": "20h 34min",
+      "tempo_sem_interacao": "20h 49min",
       "first_id": 17181,
       "last_id": 17196,
       "last_message_preview": "Segunda-feira pela tarde",
@@ -2837,7 +2887,7 @@
       "first_message_at": "2026-03-06T03:00:00.000Z",
       "last_message_at": "2026-03-07T14:00:57.461Z",
       "last_bot_msg_at": "2026-03-07T14:00:57.461Z",
-      "tempo_sem_interacao": "23h 59min",
+      "tempo_sem_interacao": "1 dia",
       "first_id": 16909,
       "last_id": 17117,
       "last_message_preview": "",
@@ -2902,7 +2952,7 @@
       "first_message_at": "2026-03-06T03:00:00.000Z",
       "last_message_at": "2026-03-07T14:00:56.606Z",
       "last_bot_msg_at": "2026-03-07T14:00:56.606Z",
-      "tempo_sem_interacao": "23h 59min",
+      "tempo_sem_interacao": "1 dia",
       "first_id": 16908,
       "last_id": 17116,
       "last_message_preview": "",
@@ -3412,7 +3462,7 @@
       "first_message_at": "2025-12-11T03:00:00.000Z",
       "last_message_at": "2026-03-06T17:14:52.375000Z",
       "last_bot_msg_at": "2026-03-06T14:13:32.652548",
-      "tempo_sem_interacao": "1 dia",
+      "tempo_sem_interacao": "2 dias",
       "first_id": 16766,
       "last_id": 17106,
       "last_message_preview": "Quero um plano de saúde para Niterói. Eu tenho três pessoas comigo. Pelo CPF.",
