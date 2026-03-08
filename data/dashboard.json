@@ -1,17 +1,126 @@
 {
   "meta": {
-    "generated_at": "2026-03-08T02:45:10.455Z",
+    "generated_at": "2026-03-08T03:00:20.638Z",
     "total_conversations": 200,
-    "total_messages": 4841,
+    "total_messages": 4783,
     "stats": {
-      "quente": 28,
+      "quente": 27,
       "morno": 80,
-      "frio": 92,
+      "frio": 93,
       "desinteresse": 0,
       "sem_classificacao": 0
     }
   },
   "conversations": [
+    {
+      "session_id": "5521972857156@s.whatsapp.net",
+      "phone": "5521972857156",
+      "phone_display": "+55 21 97285-7156",
+      "lead": {
+        "baserow_id": 1053,
+        "nome": "Luana Silveira",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "gilbertinho_off": false,
+        "observacoes": "",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Luana Silveira",
+        "email": "",
+        "telefone": "+55 21 97285-7156",
+        "vidas": [],
+        "cidade": "Rio de Janeiro / RJ",
+        "contratacao": "",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "Sulamérica",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Luana Silveira\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97285-7156\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "frio",
+      "bot": "preto",
+      "consultor": "",
+      "message_count": 2,
+      "first_message_at": "2026-03-07T03:00:00.000Z",
+      "last_message_at": "2026-03-08T02:55:02.133000Z",
+      "last_bot_msg_at": "2026-03-07T23:55:01.381333",
+      "tempo_sem_interacao": "3h 5min",
+      "first_id": 17237,
+      "last_id": 17238,
+      "last_message_preview": "Olá Gostaria de uma cotação de um Plano de Saúde Sulamérica",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Olá Gostaria de uma cotação de um Plano de Saúde Sulamérica",
+          "msg_time": "2026-03-07T23:55:01.370908"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Eu sou Gilberto, analista em Plano Saúde da Corretora GW9. 🚀 Trabalhamos com todos os planos no Rio de Janeiro. Vou ajudar você a entender as melhores opções. Para começar, qual seu nome?",
+          "msg_time": "2026-03-07T23:55:01.381333"
+        }
+      ]
+    },
+    {
+      "session_id": "5524992648671@s.whatsapp.net",
+      "phone": "5524992648671",
+      "phone_display": "+55 24 99264-8671",
+      "lead": null,
+      "summary": {
+        "nome": "Rodrigo",
+        "email": "",
+        "telefone": "+55 24 99264-8671",
+        "vidas": [],
+        "cidade": "",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Rodrigo\n📱 Contato: WhatsApp\n📞 Telefone: +55 24 99264-8671\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "frio",
+      "bot": "preto",
+      "consultor": "",
+      "message_count": 2,
+      "first_message_at": "2026-03-08T02:48:57.471Z",
+      "last_message_at": "2026-03-08T02:48:57.474Z",
+      "last_bot_msg_at": "2026-03-07T23:48:57.474649",
+      "tempo_sem_interacao": "3h 11min",
+      "first_id": 17235,
+      "last_id": 17236,
+      "last_message_preview": "Dados Fornecidos\nNome: Rodrigo\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não...",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados Fornecidos\nNome: Rodrigo\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não informado\nRegião: Não Informado\nPropaganda:\n",
+          "msg_time": "2026-03-07T23:48:57.471005"
+        },
+        {
+          "role": "ai",
+          "content": "Oi Rodrigo, eu sou o Gilberto da GW9 Saúde. Você pediu o nosso contato para saber mais sobre um Plano de Saúde para 3 vidas e vi que já possui um CNPJ. Para te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo bem?",
+          "msg_time": "2026-03-07T23:48:57.474649"
+        }
+      ]
+    },
     {
       "session_id": "556182775885@s.whatsapp.net",
       "phone": "556182775885",
@@ -62,7 +171,7 @@
       "first_message_at": "2026-03-07T03:00:00.000Z",
       "last_message_at": "2026-03-08T01:10:46.520000Z",
       "last_bot_msg_at": "2026-03-07T22:10:46.034922",
-      "tempo_sem_interacao": "4h 34min",
+      "tempo_sem_interacao": "4h 49min",
       "first_id": 17123,
       "last_id": 17234,
       "last_message_preview": "E aí, amigo, eu queria ver até a possibilidade de talvez, se ficar muito caro nós três, de deixar só...",
@@ -209,7 +318,7 @@
       "first_message_at": "2026-03-07T03:00:00.000Z",
       "last_message_at": "2026-03-08T00:39:11.895000Z",
       "last_bot_msg_at": "2026-03-07T21:39:11.494693",
-      "tempo_sem_interacao": "5h 5min",
+      "tempo_sem_interacao": "5h 21min",
       "first_id": 17217,
       "last_id": 17230,
       "last_message_preview": "Olá gostaria de mais informações dos Planos de Saúde  Sulamérica",
@@ -319,7 +428,7 @@
       "first_message_at": "2026-03-07T03:00:00.000Z",
       "last_message_at": "2026-03-08T00:37:03.801000Z",
       "last_bot_msg_at": "2026-03-07T21:36:57.602821",
-      "tempo_sem_interacao": "5h 8min",
+      "tempo_sem_interacao": "5h 23min",
       "first_id": 17227,
       "last_id": 17228,
       "last_message_preview": "Dados Fornecidos\nNome: Simone\nContem CNPJ: não\nNumero de Vidas: 2_vidas\nOperadora de Interesse: não ...",
@@ -379,7 +488,7 @@
       "first_message_at": "2026-03-07T03:00:00.000Z",
       "last_message_at": "2026-03-07T23:28:59.683000Z",
       "last_bot_msg_at": "2026-03-07T20:28:52.503983",
-      "tempo_sem_interacao": "6h 16min",
+      "tempo_sem_interacao": "6h 31min",
       "first_id": 17215,
       "last_id": 17216,
       "last_message_preview": "Dados Fornecidos\nNome: DENISEMABEL@GMAIL.COM\nContem CNPJ: sim\nNumero de Vidas: 2_vidas\nOperadora de ...",
@@ -455,7 +564,7 @@
       "first_message_at": "2026-03-07T03:00:00.000Z",
       "last_message_at": "2026-03-07T21:47:08.274000Z",
       "last_bot_msg_at": "2026-03-07T18:47:07.811763",
-      "tempo_sem_interacao": "7h 58min",
+      "tempo_sem_interacao": "8h 13min",
       "first_id": 17197,
       "last_id": 17214,
       "last_message_preview": "Sim, Bradesco",
@@ -570,7 +679,7 @@
       "first_message_at": "2026-03-07T03:00:00.000Z",
       "last_message_at": "2026-03-07T15:03:38.212000Z",
       "last_bot_msg_at": "2026-03-07T12:03:37.772135",
-      "tempo_sem_interacao": "14h 41min",
+      "tempo_sem_interacao": "14h 56min",
       "first_id": 17139,
       "last_id": 17213,
       "last_message_preview": "Olá gostaria de mais informações dos Planos de Saúde  Sulamérica",
@@ -650,7 +759,7 @@
       "first_message_at": "2026-03-07T03:00:00.000Z",
       "last_message_at": "2026-03-07T15:05:19.318000Z",
       "last_bot_msg_at": "2026-03-07T12:05:18.742303",
-      "tempo_sem_interacao": "14h 39min",
+      "tempo_sem_interacao": "14h 55min",
       "first_id": 17086,
       "last_id": 17211,
       "last_message_preview": "Matheus",
@@ -753,7 +862,7 @@
       "first_message_at": "2026-03-07T03:00:00.000Z",
       "last_message_at": "2026-03-07T17:35:39.813000Z",
       "last_bot_msg_at": "2026-03-07T14:35:38.514663",
-      "tempo_sem_interacao": "12h 9min",
+      "tempo_sem_interacao": "12h 24min",
       "first_id": 17070,
       "last_id": 17210,
       "last_message_preview": "Ainda no aguardo",
@@ -926,7 +1035,7 @@
       "first_message_at": "2026-03-07T03:00:00.000Z",
       "last_message_at": "2026-03-07T18:05:41.569000Z",
       "last_bot_msg_at": "2026-03-07T15:05:41.077645",
-      "tempo_sem_interacao": "11h 39min",
+      "tempo_sem_interacao": "11h 54min",
       "first_id": 17068,
       "last_id": 17209,
       "last_message_preview": "Belo arquitetura",
@@ -1076,7 +1185,7 @@
       "first_message_at": "2026-03-07T03:00:00.000Z",
       "last_message_at": "2026-03-07T20:26:00.778000Z",
       "last_bot_msg_at": "2026-03-07T17:26:00.188367",
-      "tempo_sem_interacao": "9h 19min",
+      "tempo_sem_interacao": "9h 34min",
       "first_id": 17181,
       "last_id": 17196,
       "last_message_preview": "Segunda-feira pela tarde",
@@ -1643,7 +1752,7 @@
       "first_message_at": "2026-03-07T03:00:00.000Z",
       "last_message_at": "2026-03-07T15:21:26.539000Z",
       "last_bot_msg_at": "2026-03-07T12:21:25.939735",
-      "tempo_sem_interacao": "14h 23min",
+      "tempo_sem_interacao": "14h 38min",
       "first_id": 17137,
       "last_id": 17157,
       "last_message_preview": "Sim",
@@ -2401,7 +2510,7 @@
       "first_message_at": "2026-03-06T03:00:00.000Z",
       "last_message_at": "2026-03-07T14:00:57.461Z",
       "last_bot_msg_at": "2026-03-07T14:00:57.461Z",
-      "tempo_sem_interacao": "12h 44min",
+      "tempo_sem_interacao": "12h 59min",
       "first_id": 16909,
       "last_id": 17117,
       "last_message_preview": "",
@@ -2466,7 +2575,7 @@
       "first_message_at": "2026-03-06T03:00:00.000Z",
       "last_message_at": "2026-03-07T14:00:56.606Z",
       "last_bot_msg_at": "2026-03-07T14:00:56.606Z",
-      "tempo_sem_interacao": "12h 44min",
+      "tempo_sem_interacao": "12h 59min",
       "first_id": 16908,
       "last_id": 17116,
       "last_message_preview": "",
@@ -3063,7 +3172,7 @@
       "first_message_at": "2026-02-08T03:00:00.000Z",
       "last_message_at": "2026-03-07T13:29:58.866000Z",
       "last_bot_msg_at": "2026-03-07T10:29:58.47523",
-      "tempo_sem_interacao": "16h 15min",
+      "tempo_sem_interacao": "16h 30min",
       "first_id": 17088,
       "last_id": 17105,
       "last_message_preview": "Tarde",
@@ -3193,7 +3302,7 @@
       "first_message_at": "2026-03-07T03:00:00.000Z",
       "last_message_at": "2026-03-07T13:18:58.184000Z",
       "last_bot_msg_at": "2026-03-07T10:18:51.646605",
-      "tempo_sem_interacao": "16h 26min",
+      "tempo_sem_interacao": "16h 41min",
       "first_id": 17090,
       "last_id": 17091,
       "last_message_preview": "Dados Fornecidos\nNome: Cinthia\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não...",
@@ -3253,7 +3362,7 @@
       "first_message_at": "2026-03-07T03:00:00.000Z",
       "last_message_at": "2026-03-07T11:16:03.619000Z",
       "last_bot_msg_at": "2026-03-07T08:15:55.224795",
-      "tempo_sem_interacao": "18h 29min",
+      "tempo_sem_interacao": "18h 44min",
       "first_id": 17066,
       "last_id": 17067,
       "last_message_preview": "Dados Fornecidos\nNome: Claudia\nContem CNPJ: não\nNumero de Vidas: #NAME? (Unknown range name: '_6_VID...",
@@ -26549,408 +26658,6 @@
         {
           "role": "system",
           "content": "\n",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        }
-      ]
-    },
-    {
-      "session_id": "5521964327689@s.whatsapp.net",
-      "phone": "5521964327689",
-      "phone_display": "+55 21 96432-7689",
-      "lead": {
-        "baserow_id": 878,
-        "nome": "Fatima",
-        "email": "",
-        "qtd_vidas": 2,
-        "desinteresse": false,
-        "gilbertinho_off": true,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Fatima",
-        "email": "",
-        "telefone": "+55 21 96432-7689",
-        "vidas": [
-          {
-            "idade": 48
-          },
-          {
-            "idade": 10
-          }
-        ],
-        "cidade": "",
-        "contratacao": "",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "rede Dor",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "",
-        "bot": "Não identificado",
-        "formatted": "👤 Cliente: Fatima\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96432-7689\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nFatima — 48 anos\nDependente 1 — 10 anos\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: rede Dor\n✅ Status: Lead ativo\n🤖 Bot: Não identificado"
-      },
-      "status": "quente",
-      "bot": "desconhecido",
-      "consultor": "",
-      "message_count": 9,
-      "first_message_at": "2026-02-26T03:00:00.000Z",
-      "last_message_at": "2026-03-06T01:36:17.247Z",
-      "last_bot_msg_at": "2026-03-06T01:36:17.247Z",
-      "tempo_sem_interacao": "2 dias",
-      "first_id": 14171,
-      "last_id": 14358,
-      "last_message_preview": "Ok muito obg",
-      "messages": [
-        {
-          "role": "system",
-          "content": "Bom dia !!\n\nPreciso de algumas informações para conseguir te ajudar. Ok?\n\nOk\n\nO plano seria para você ? \nQual a sua idade ?\n\nVocê tem cnpj ?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "2 pessoas\n\n48 anos e 10 anos \n\nSim",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "Atualmente você tem plano de saúde ou seria primeiro plano?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Já tivemos plano,mas agora não",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "O que te motivou a procurar um novo planos de saúde?\n\nVocê quer acesso a algum hospital em específico?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Gostaria a rede Dor \nMais tem como fazer a cotação por favor",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "Sim, vou te passar para a especialista Elisa que te encaminhará a cotação e seguirá com seu atendimento. Ok?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Ok muito obg",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "\n",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        }
-      ]
-    },
-    {
-      "session_id": "5521999393257@s.whatsapp.net",
-      "phone": "5521999393257",
-      "phone_display": "+55 21 99939-3257",
-      "lead": {
-        "baserow_id": 470,
-        "nome": "Daiane Silva😍",
-        "email": "",
-        "qtd_vidas": "",
-        "desinteresse": false,
-        "gilbertinho_off": false,
-        "observacoes": "{{ $fromAI('7215', 'Gere um resumo completo do atendimento com todas as respostas coletadas') }}",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": "Frio"
-      },
-      "summary": {
-        "nome": "Daiane Silva😍",
-        "email": "",
-        "telefone": "+55 21 99939-3257",
-        "vidas": [],
-        "cidade": "Rio de Janeiro / RJ",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "MEI",
-        "profissao": "",
-        "plano_atual": "Nenhum",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "{{ $fromAI('7215', 'Gere um resumo completo do atendimento com todas as respostas coletadas') }}",
-        "bot": "Gilbertinho Amarelo (2373)",
-        "formatted": "👤 Cliente: Daiane Silva😍\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99939-3257\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n⚠️ Observação: {{ $fromAI('7215', 'Gere um resumo completo do atendimento com todas as respostas coletadas') }}\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Amarelo (2373)"
-      },
-      "status": "frio",
-      "bot": "amarelo",
-      "consultor": "",
-      "message_count": 53,
-      "first_message_at": "2026-01-05T03:00:00.000Z",
-      "last_message_at": "2026-01-09T17:00:27.349000Z",
-      "last_bot_msg_at": "2026-03-05T22:36:17.247927",
-      "tempo_sem_interacao": "2 dias",
-      "first_id": 9010,
-      "last_id": 14301,
-      "last_message_preview": "resumo do atendimento",
-      "messages": [
-        {
-          "role": "ai",
-          "content": "Obrigado, Josiane! Para começar, você vai contratar o plano como Pessoa Física, CNPJ ou MEI?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Nome: Daiane Silva😍\nNúmero de tentativas: 0 \núltima pergunta: Obrigado, Josiane! Para começar, você vai contratar o plano como Pessoa Física, CNPJ ou MEI?\n",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Daiane Silva, ainda está por aí? Te enviei algumas mensagens porém sem retorno. Estou aguardando sua resposta para dar sequência. Ainda acha importante ter informações sobre Plano de Saúde?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Nome: Daiane Silva😍\nNúmero de tentativas: 1 \núltima pergunta: Obrigado, Josiane! Para começar, você vai contratar o plano como Pessoa Física, CNPJ ou MEI?\n",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Daiane Silva😍, como comentei antes, preciso dessas informações para te enviar as melhores opções de plano de saúde. Você vai contratar como Pessoa Física, CNPJ ou MEI?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Nome: Daiane Silva😍\nNúmero de tentativas: 2 \núltima pergunta: Obrigado, Josiane! Para começar, você vai contratar o plano como Pessoa Física, CNPJ ou MEI?\n",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Imagino que não possa falar... sem problema. Só preciso de uma resposta para saber como seguir. Prefere que eu entre em contato amanhã ou hoje mesmo em algum horário específico?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "\n",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "resumo do atendimento",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Daiane Silva fez contato sobre planos de saúde. Apesar de diversas tentativas de obter informações, não informou se deseja plano para Pessoa Física, CNPJ ou MEI, nem forneceu detalhes sobre cidade, idade, operadora atual, hospital de preferência, motivo da contratação, produto de interesse ou horário para contato. Aguarda definição de data e horário para prosseguir com atendimento.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "resumo do atendimento",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Daiane Silva fez contato sobre plano de saúde, porém não informou tipo de contratação (PF, MEI ou CNPJ), cidade ou bairro, idade dos beneficiários, operadora atual, hospital de preferência, motivo da contratação, produto de interesse nem data e horário para contato. Atendimento pendente de informações para prosseguir.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "resumo do atendimento",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Daiane Silva fez contato para contratação de plano de saúde. Não informou tipo de plano, tipo de contratação (PF, MEI ou CNPJ), cidade ou bairro, idade dos beneficiários, operadora atual, hospital de preferência, motivo da contratação, produto de interesse ou data e horário para contato. Atendimento iniciado e pendente de complemento de informações para prosseguir.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "resumo do atendimento",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Daiane Silva manifestou interesse em plano de saúde, sem especificar tipo de plano, tipo de contratação (PF, MEI ou CNPJ), cidade ou bairro, idade dos beneficiários, operadora atual, hospital de preferência, motivo da contratação, produto de interesse ou data e horário para contato. Atendimento em andamento, aguardando complementação de informações para prosseguir.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "resumo do atendimento",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Daiane Silva manifestou interesse em plano de saúde. Não informou tipo de plano, tipo de contratação (PF, MEI ou CNPJ), cidade ou bairro, idade dos beneficiários, operadora atual, hospital de preferência, motivo da contratação, produto de interesse ou data e horário para contato. Atendimento pendente de informações para continuidade.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "resumo do atendimento",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Daiane Silva manifestou interesse em plano de saúde, porém não informou tipo de plano, tipo de contratação (Pessoa Física, MEI ou CNPJ), cidade ou bairro, idade dos beneficiários, operadora atual e tempo de uso, hospital de preferência, motivo da contratação, produto de interesse ou data e horário sugerido para contato. Atendimento pendente de informações para continuidade.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "resumo do atendimento",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Daiane Silva manifestou interesse em plano de saúde, não informou tipo de plano, tipo de contratação (PF, MEI ou CNPJ), cidade ou bairro, idade dos beneficiários, operadora atual, hospital de preferência, motivo da contratação, produto de interesse ou data e horário para contato. Atendimento pendente de informações para continuidade.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "resumo do atendimento",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Daiane Silva manifestou interesse em plano de saúde. Não informou tipo de plano, tipo de contratação (Pessoa Física, MEI ou CNPJ), cidade ou bairro, idade dos beneficiários, operadora atual, hospital de preferência, motivo da contratação, produto de interesse ou data e horário sugerido para contato. Atendimento pendente de informações para continuidade.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "resumo do atendimento",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Daiane Silva manifestou interesse em plano de saúde, não informou tipo de contratação (Pessoa Física, MEI ou CNPJ), cidade ou bairro, idade dos beneficiários, operadora atual e tempo de uso, hospital de preferência, motivo da contratação, produto de interesse ou data e horário para contato. Atendimento pendente de informações para continuidade.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "resumo do atendimento",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Daiane Silva manifestou interesse em plano de saúde, não informou tipo de plano, tipo de contratação (Pessoa Física, MEI ou CNPJ), cidade ou bairro, idade dos beneficiários, operadora atual, hospital de preferência, motivo da contratação, produto de interesse ou data e horário para contato. Atendimento pendente de informações para continuidade.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "resumo do atendimento",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Daiane Silva manifestou interesse em plano de saúde, não informou tipo de plano, tipo de contratação (Pessoa Física, MEI ou CNPJ), cidade ou bairro, idade dos beneficiários, operadora atual e tempo de uso, hospital de preferência, motivo da contratação, produto de interesse ou data e horário sugerido para contato. Atendimento pendente de informações para continuidade.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "resumo do atendimento",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Daiane Silva manifestou interesse em plano de saúde, não informou tipo de plano, tipo de contratação (Pessoa Física, MEI ou CNPJ), cidade ou bairro, idade dos beneficiários, operadora atual, hospital de preferência, motivo da contratação, produto de interesse ou data e horário para contato. Atendimento pendente de informações para continuidade.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "resumo do atendimento",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Daiane Silva manifestou interesse em plano de saúde. Não informou tipo de plano, tipo de contratação (Pessoa Física, MEI ou CNPJ), cidade ou bairro, idade dos beneficiários, operadora atual e tempo de uso, hospital de preferência, motivo da contratação, produto de interesse ou data e horário sugerido para contato. Atendimento pendente de informações para continuidade.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "resumo do atendimento",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Daiane Silva manifestou interesse em plano de saúde, não informou tipo de contratação (Pessoa Física, MEI ou CNPJ), cidade ou bairro, idade dos beneficiários, operadora atual, hospital de preferência, motivo da contratação, produto de interesse ou data e horário para contato. Atendimento pendente de informações para continuidade.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "resumo do atendimento",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Daiane Silva manifestou interesse em plano de saúde, não informou tipo de plano, tipo de contratação (Pessoa Física, MEI ou CNPJ), cidade ou bairro, idade dos beneficiários, operadora atual, hospital de preferência, motivo da contratação, produto de interesse ou data e horário para contato. Atendimento pendente de informações para continuidade.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "resumo do atendimento",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Daiane Silva manifestou interesse em plano de saúde. Não informou tipo de plano, tipo de contratação (Pessoa Física, MEI ou CNPJ), cidade ou bairro, idade dos beneficiários, operadora atual, hospital de preferência, motivo da contratação, produto de interesse ou data e horário para contato. Atendimento pendente de informações para continuidade.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "resumo do atendimento",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Daiane Silva manifestou interesse em plano de saúde, não informou tipo de plano, tipo de contratação (Pessoa Física, MEI ou CNPJ), cidade ou bairro, idade dos beneficiários, operadora atual, hospital de preferência, motivo da contratação, produto de interesse ou data e horário para contato. Atendimento pendente de informações para continuidade.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "resumo do atendimento",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Daiane Silva manifestou interesse em plano de saúde. Não informou tipo de plano, tipo de contratação (Pessoa Física, MEI ou CNPJ), cidade ou bairro, idade dos beneficiários, operadora atual, hospital de preferência, motivo da contratação, produto de interesse ou data e horário para contato. Atendimento pendente de informações para continuidade.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "resumo do atendimento",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Daiane Silva manifestou interesse em plano de saúde. Não informou tipo de plano, tipo de contratação (Pessoa Física, MEI ou CNPJ), cidade ou bairro, idade dos beneficiários, operadora atual e tempo de uso, hospital de preferência, motivo da contratação, produto de interesse ou data e horário sugerido para contato. Atendimento pendente de informações para continuidade.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "resumo do atendimento",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Daiane Silva manifestou interesse em plano de saúde. Não informou tipo de plano, tipo de contratação (Pessoa Física, MEI ou CNPJ), cidade ou bairro, idade dos beneficiários, operadora atual, hospital de preferência, motivo da contratação, produto de interesse ou data e horário para contato. Atendimento pendente de informações para continuidade.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "resumo do atendimento",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Daiane Silva manifestou interesse em plano de saúde. Não informou tipo de plano, tipo de contratação (Pessoa Física, MEI ou CNPJ), cidade ou bairro, idade dos beneficiários, operadora atual e tempo de uso, hospital de preferência, motivo da contratação, produto de interesse ou data e horário sugerido para contato. Atendimento pendente de informações para continuidade.",
           "msg_time": "2026-03-05T22:36:17.247927"
         }
       ]
