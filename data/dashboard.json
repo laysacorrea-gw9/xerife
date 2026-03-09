@@ -1,17 +1,77 @@
 {
   "meta": {
-    "generated_at": "2026-03-09T15:00:13.029Z",
+    "generated_at": "2026-03-09T15:15:10.523Z",
     "total_conversations": 200,
-    "total_messages": 4772,
+    "total_messages": 4764,
     "stats": {
       "quente": 27,
-      "morno": 103,
-      "frio": 70,
+      "morno": 102,
+      "frio": 71,
       "desinteresse": 0,
       "sem_classificacao": 0
     }
   },
   "conversations": [
+    {
+      "session_id": "5521999953481@s.whatsapp.net",
+      "phone": "5521999953481",
+      "phone_display": "+55 21 99995-3481",
+      "lead": {
+        "baserow_id": 1092,
+        "nome": "ESHA AMBIENTAL",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "gilbertinho_off": false,
+        "observacoes": "",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "ESHA AMBIENTAL",
+        "email": "",
+        "telefone": "+55 21 99995-3481",
+        "vidas": [],
+        "cidade": "Rio de Janeiro / RJ",
+        "contratacao": "",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "Sulamérica",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: ESHA AMBIENTAL\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99995-3481\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "frio",
+      "bot": "preto",
+      "consultor": "",
+      "message_count": 2,
+      "first_message_at": "2026-03-09T03:00:00.000Z",
+      "last_message_at": "2026-03-09T15:06:44.535000Z",
+      "last_bot_msg_at": "2026-03-09T12:06:44.084755",
+      "tempo_sem_interacao": "3h 8min",
+      "first_id": 17668,
+      "last_id": 17669,
+      "last_message_preview": "Olá gostaria de mais informações dos Planos de Saúde  Sulamérica",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Olá gostaria de mais informações dos Planos de Saúde  Sulamérica",
+          "msg_time": "2026-03-09T12:06:44.08289"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Eu sou Gilberto, analista em Plano Saúde da Corretora GW9. 🚀 Trabalho com todos os planos no Rio de Janeiro, inclusive Sulamérica. Pode me dizer seu nome para eu te ajudar com as opções certas?",
+          "msg_time": "2026-03-09T12:06:44.084755"
+        }
+      ]
+    },
     {
       "session_id": "5521988846057@s.whatsapp.net",
       "phone": "5521988846057",
@@ -37,28 +97,28 @@
         "contratacao": "CNPJ",
         "cnpj": "",
         "tipo_empresa": "MEI",
-        "profissao": "",
+        "profissao": "profissional autonoma",
         "plano_atual": "",
-        "motivo": "Encerramento do plano atual",
+        "motivo": "Prevenção\nEncerramento do plano atual",
         "interesse": "Sulamérica",
         "rede_preferencial": "",
         "contato": "WhatsApp",
         "consultor": "",
         "obs_crm": "",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Hilda\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98884-6057\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Hilda\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98884-6057\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: profissional autonoma\n\n😤 Motivo da troca:\n\nPrevenção\nEncerramento do plano atual\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
       },
       "status": "morno",
       "bot": "preto",
       "consultor": "",
-      "message_count": 8,
+      "message_count": 12,
       "first_message_at": "2026-03-09T03:00:00.000Z",
-      "last_message_at": "2026-03-09T14:54:06.164000Z",
-      "last_bot_msg_at": "2026-03-09T11:54:05.520948",
-      "tempo_sem_interacao": "3h 6min",
+      "last_message_at": "2026-03-09T15:05:36.657000Z",
+      "last_bot_msg_at": "2026-03-09T12:05:36.15003",
+      "tempo_sem_interacao": "3h 9min",
       "first_id": 17638,
-      "last_id": 17657,
-      "last_message_preview": "Olá gostaria de mais informações dos Planos de Saúde  Sulamérica",
+      "last_id": 17667,
+      "last_message_preview": "Não tenho nenhum plano de saude no momenro",
       "messages": [
         {
           "role": "user",
@@ -99,86 +159,326 @@
           "role": "ai",
           "content": "🤔 Entendi que quer saber sobre planos SulAmérica. Para te ajudar melhor, posso saber seu nome e o perfil de quem vai no plano? Assim o especialista pode oferecer as opções ideais para você.",
           "msg_time": "2026-03-09T11:54:05.520948"
+        },
+        {
+          "role": "user",
+          "content": "Sou profissional autonoma. \nArtesã w cuidadora.",
+          "msg_time": "2026-03-09T12:05:18.300153"
+        },
+        {
+          "role": "ai",
+          "content": "Obrigado, Hilda! Sua profissão como artesã e cuidadora ajuda na escolha da operadora. Você já possui algum plano hoje ou está sem? Tem algum hospital ou médico que é prioridade para você? Isso ajuda o especialista a buscar o melhor para você.",
+          "msg_time": "2026-03-09T12:05:18.301976"
+        },
+        {
+          "role": "user",
+          "content": "Não tenho nenhum plano de saude no momenro",
+          "msg_time": "2026-03-09T12:05:36.147659"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Hilda. E o que mais te motivou a buscar um plano agora? Alguma preocupação específica ou pensa mais na prevenção e segurança? Isso ajuda a encontrar o melhor para seu momento.",
+          "msg_time": "2026-03-09T12:05:36.15003"
         }
       ]
     },
     {
-      "session_id": "5521995191878@s.whatsapp.net",
-      "phone": "5521995191878",
-      "phone_display": "+55 21 99519-1878",
+      "session_id": "5521984691939@s.whatsapp.net",
+      "phone": "5521984691939",
+      "phone_display": "+55 21 98469-1939",
       "lead": {
-        "baserow_id": 1090,
-        "nome": "Antônio",
-        "email": "acrnascimento@yahoo.com.br",
+        "baserow_id": 689,
+        "nome": "Giovanna Tucci",
+        "email": "saude@gw9capital.com.br",
         "qtd_vidas": "",
         "desinteresse": false,
-        "gilbertinho_off": false,
+        "gilbertinho_off": true,
         "observacoes": "",
         "reagendamento": null,
         "corretor": "",
-        "temperatura": ""
+        "temperatura": "Frio"
       },
       "summary": {
-        "nome": "Antônio",
-        "email": "acrnascimento@yahoo.com.br",
-        "telefone": "+55 21 99519-1878",
+        "nome": "Giovanna Tucci",
+        "email": "saude@gw9capital.com.br",
+        "telefone": "+55 21 98469-1939",
         "vidas": [],
-        "cidade": "",
+        "cidade": "Rio de Janeiro / RJ",
         "contratacao": "CNPJ",
         "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "",
+        "tipo_empresa": "MEI",
+        "profissao": "também o MEI funciona",
+        "plano_atual": "Nenhum",
+        "motivo": "Dificuldade de agendamento\nIncluir novas vidas",
+        "interesse": "Sulamérica",
         "rede_preferencial": "",
         "contato": "WhatsApp",
         "consultor": "",
         "obs_crm": "",
-        "bot": "Gilbertinho Amarelo (2373)",
-        "formatted": "👤 Cliente: Antônio\n📧 E-mail: acrnascimento@yahoo.com.br\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99519-1878\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)"
+        "bot": "Não identificado",
+        "formatted": "👤 Cliente: Giovanna Tucci\n📧 E-mail: saude@gw9capital.com.br\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98469-1939\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: também o MEI funciona\n\n🏥 Plano atual: Nenhum\n\n😤 Motivo da troca:\n\nDificuldade de agendamento\nIncluir novas vidas\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead frio\n🤖 Bot: Não identificado"
       },
-      "status": "morno",
-      "bot": "amarelo",
+      "status": "frio",
+      "bot": "desconhecido",
       "consultor": "",
-      "message_count": 6,
-      "first_message_at": "2026-03-09T03:00:00.000Z",
-      "last_message_at": "2026-03-09T14:40:04.899000Z",
-      "last_bot_msg_at": "2026-03-09T11:40:04.151157",
-      "tempo_sem_interacao": "3h 20min",
-      "first_id": 17635,
-      "last_id": 17653,
-      "last_message_preview": "Não, obrigado!",
+      "message_count": 190,
+      "first_message_at": "2026-02-05T03:00:00.000Z",
+      "last_message_at": "2026-03-09T15:02:59.179Z",
+      "last_bot_msg_at": "2026-03-09T15:02:59.179Z",
+      "tempo_sem_interacao": "12min",
+      "first_id": 12448,
+      "last_id": 17663,
+      "last_message_preview": "Me mandaram agora\n\nConsegue me enviar a lista de documentos que precisa\n\no que?\n\nde qual numero?\n\nO ...",
       "messages": [
         {
-          "role": "user",
-          "content": "Dados Fornecidos\nNome: Antônio\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não informado\nRegião: Não Informado\nPropaganda:\n",
-          "msg_time": "2026-03-09T11:25:52.228023"
-        },
-        {
-          "role": "ai",
-          "content": "Oi Antônio, eu sou o Gilberto da GW9 Saúde. Você pediu o nosso contato para saber mais sobre um plano de saúde e mencionou que tem interesse para 3 pessoas e já possui um CNPJ. Pra te ajudar e ser mais assertivo, preciso confirmar mais algumas informações. Tudo bem?",
-          "msg_time": "2026-03-09T11:25:52.230782"
+          "role": "system",
+          "content": "realmente é sim rsrs",
+          "msg_time": "2026-03-05T22:36:17.247927"
         },
         {
           "role": "user",
-          "content": "Bom dia!\nEste número não é do Antônio.",
-          "msg_time": "2026-03-09T11:39:08.634063"
+          "content": "No caso, o de 633 é com apartamento e o valor mais baixo, ele é só enfermaria. Então, aí no caso, por exemplo, acho que a Rede Dóros não aceita, não é isso? Porque a Rede Dóros que só aceita com apartamento, não tem algo assim? Ou isso é o Copa Dóries, basicamente.",
+          "msg_time": "2026-03-05T22:36:17.247927"
         },
         {
-          "role": "ai",
-          "content": "Oi! Obrigado por avisar. Posso ajudar você com planos de saúde? Qual o seu nome para começarmos?",
-          "msg_time": "2026-03-09T11:39:08.635874"
+          "role": "system",
+          "content": "no caso é o clássico e o especial 100",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "system",
+          "content": "Na realidade, eu encamei para você o comparativo do clássico com o Especial 100, ali dos valores, tá? Só que no clássico não tem apartamento, só enfermaria. E no Especial 100 não tem enfermaria, apenas apartamento. Lembrando que na Rede Dó não tem enfermaria, então eles aceitam sim, sendo que você não é instalada na enfermaria, você é instalada em um apartamento. Independente se o seu plano é com enfermaria ou sem enfermaria, tá? Na Rede Dó você vai ser instalada ali dentro do apartamento.",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "system",
+          "content": "Giovana, consegui retirar todas as suas dúvidas?",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "system",
+          "content": "Qualquer solicitação estou à disposição",
+          "msg_time": "2026-03-05T22:36:17.247927"
         },
         {
           "role": "user",
-          "content": "Não, obrigado!",
-          "msg_time": "2026-03-09T11:40:04.148283"
+          "content": "Bom dia Gilberto, tudo bem?",
+          "msg_time": "2026-03-05T22:36:17.247927"
         },
         {
-          "role": "ai",
-          "content": "Entendi, obrigado pelo retorno. Se precisar de ajuda no futuro, estarei aqui. Tenha um ótimo dia!",
-          "msg_time": "2026-03-09T11:40:04.151157"
+          "role": "user",
+          "content": "Consegue me mandar o que está incluso nesse plano de desconto associado ao FNA",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "user",
+          "content": "E confirmar se essa associação é possível e porque da esse desconto",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "system",
+          "content": "Oi, bom dia, Giovanna, tudo bem? Como é que você está? Desculpa a demora. No caso, a FNA, ela é apenas a entidade que vai estar regindo ali o seu contrato, tá? O seu plano não muda. A única coisa que vai estar mudando vai ser o valor de acordo com a entidade, que vai estar como se fosse protegendo o seu contrato. Que no caso, a entidade é como se fosse um guarda-chuva, né? Ali onde ele vai estar regindo todo o seu contrato dentro da própria entidade. Então a FNA, caso você seja associada, a gente consegue prosseguir com ela. Caso não seja, a gente prossegue com a ANAPROL1, que é a associação para profissionais liberais, tá bom?",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "system",
+          "content": "É possível sim, a FNA é possível, caso você seja associada. E esse desconto é por conta da associação. Realmente algumas profissões têm benefícios, tá? Como médicos também, no caso, associação da arquitetura, entre outras.",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "system",
+          "content": "boa tarde Giovanna, consegui sanar todas as suas dúvidas?",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "user",
+          "content": "Entendi entendi\n\nBeleza\n\nVou ver se resolvo isso da associação e entro em retorno",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "system",
+          "content": "Caso no meio do ano, por exemplo, depois de abrir o cnpj, faça por empresa\n\nA mudança é tranquila?\n\nOu tem burocracia?\n\nE sobre carências\n\nOk, qualquer dúvida ou solicitação me ponha à disposição!",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "user",
+          "content": "No caso sendo esse da Sul América, volta tudo do 0, ou o tempo conta junto, só aumenta?",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "system",
+          "content": "compra parcial, para compra integral tem que ter 12 meses de plano ativo",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "system",
+          "content": "você quer alguma ajuda para pegar a carta de permanência com seu pai\n\nEu acho que não vamos conseguir\n\nPorque o plano cancelou em dezembro\n\nComeço de janeiro\n\nah entendi\n\nmas tem 60 dias\n\nde validade\n\nMas a Sul América aceita Caberj?\n\naceita sim\n\nVou checar com ele novamente\n\nverifica",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "system",
+          "content": "e te ajudo caso consiga",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "user",
+          "content": "Oi! Tudo bem?\n\nQual a diferença desses dois planos sendo associada mesmo?",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "system",
+          "content": "ooi boa tarde\n\napenas o valor, os acessos são os mesmos",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "user",
+          "content": "Mas qual a diferença desses 2 mesmo?",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "user",
+          "content": "Porque aqui é 589 e outro é 633?\n\nPorque um é 589 e outro é 633?",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "system",
+          "content": "é a ramificação da profissão, arquitetura é anaprolie-1\n\nassociado é FNA",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "system",
+          "content": "Os dois são o mesmo plano?\n\nNão entendi\n\noutras profissões que te encaminhei a foto são da anaprolie-2\n\nsim, a diferença é a entidade que vai reger o contrato",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "user",
+          "content": "589 é o valor sendo associado e 633 não associado?",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "user",
+          "content": "Porque me associei mas estou só esperando o comprovante",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "system",
+          "content": "aqui é ASSOCIADO - o produto que você deseja é o especial 100, com os acessos que você solicitou",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "user",
+          "content": "Então a pergunta que eu fiz está certa, qual a diferença dos dois planos? Me manda a tabela dnv pfvr!",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "user",
+          "content": "vou encaminhar o PDF do produto classico x especial 100 para sua análise\n\nObrigada!\n\nE a tabela de coparticipação por favor\n\nE a tabela de cooparticipação por favor",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "user",
+          "content": "Conseguiu?",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "system",
+          "content": "estava carregando\n\n<ContextoPDF>\n  <TranscricaoPDF>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  </TranscricaoPDF>\nContexto Extra: O usuário encaminhou a mensagem a seguir junto ao PDF.\n  <MensagemUsuario>\n\n  </MensagemUsuario>\n</ContextoPDF>",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "user",
+          "content": "Ok! Tem a tabela do cooperação?\n\nOk! Tem a tabela da cooperação?",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "user",
+          "content": "No especial está incluso reembolso, Odonto, emergência no Copa Dor, o que mais?",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "user",
+          "content": "O reembolso funciona como?",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "system",
+          "content": "<ContextoImagem>\n\n  <DetalheImagem>\n\n  </DetalheImagem>\n\nContexto Extra: O usuário encaminhou a mensagem a seguir junto á imagem.\n  <MensagemUsuario>\n\n  </MensagemUsuario>\n\n</ContextoImagem>",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "system",
+          "content": "No especial, tá incluso todos os eventos, tá? Consultas, eletivas ou não, atendimento de pronto-socorro, exames complementares, procedimentos ambulatoriais, exames de margem, mais especiais, internações, tá? Tudo. Terapias...",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "user",
+          "content": "Eu mudando ano que vem para cnpj, se só o mesmo plano, muda algo?\n\nEm questão de carência",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "system",
+          "content": "<ContextoImagem>\n\n  <DetalheImagem>\n\n  </DetalheImagem>\n\nContexto Extra: O usuário encaminhou a mensagem a seguir junto á imagem.\n  <MensagemUsuario>\nsobre o reembolso\n  </MensagemUsuario>\n\n</ContextoImagem>",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "system",
+          "content": "Aí na adesão, que é o plano por pessoa física, o reembolso ele tá ali só pra consulta de urgência e emergência, valor de 180 reais, tá? Aí desconta co-participação, por exemplo, co-participou ali o valor de 50 reais na urgência e emergência, na consulta, aí vai ser o reembolso de 130, tá bom?",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "system",
+          "content": "Se você ficar 12 meses, aí tem a compra efetiva integral, tá, das carências, não tem problema. Aí, mudando pra CNPJ, tá na Sul América, aceita três pessoas, tá bom? É o mínimo ali. Duas pessoas só na Mil, mas a gente já consegue verificar bons atendimentos também na Mil. Em Copacabana, na Zona Sul, tá, até com valores mais acessíveis também. Isso a gente vai vendo com o tempo, de acordo com a experiência também que você vai estar tendo no plano. A Especial Sena é um plano bem robusto, bem completo, tá, vocês vão gostar bastante.",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "user",
+          "content": "Beleza! Mas por exemplo mudando para Amil, em vez de Sul América, eu consigo mudar para cnpj duas vidas, normal?\n\nFicando 12 meses",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "user",
+          "content": "amil conseguimos comprar a carencia com 6 meses apenas\n\nconsegue sim mudar normalmennte\n\nOk!",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "user",
+          "content": "E o plano mensal manda a Sul América manda boleto por e-mail?",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "system",
+          "content": "sim sim normalmente\n\ntudo padrão",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "system",
+          "content": "boa tarde Giovanna\n\ncomo estamos?",
+          "msg_time": "2026-03-06T15:13:58.813639"
+        },
+        {
+          "role": "system",
+          "content": "Oi\n\nEstou esperando me enviarem o comprovante da associação\n\nperfeito, excelente",
+          "msg_time": "2026-03-06T15:15:04.675916"
+        },
+        {
+          "role": "user",
+          "content": "Me mandaram agora\n\nConsegue me enviar a lista de documentos que precisa\n\no que?\n\nde qual numero?\n\nO comprovante da associação\n\nah entendi, perfeito\n\nvou te encaminhar\n\nA lista de documentos que precisa para dar entrada no plano",
+          "msg_time": "2026-03-06T15:26:12.652434"
+        },
+        {
+          "role": "system",
+          "content": "*Abaixo envio a lista dos documentos necessários para seguir com o cadastro junto a seguradora:*\n\n➡Identidade e CPF de todos os participantes do plano\n➡Comprovante de residência\n➡ diploma de ensino superior\n➡Carteirinhas do plano atual\n➡️Carta de permanência (caso possua plano atual)\n➡ E-mail:\n➡ Telefone:\n➡  comprovante de pagamento no valor do plano para a chave da corretora (caso precise, solicitar boleto)\n\nOlá! , esta é nossa chave Pix Itaú Empresas. Você pode enviar transferências de qualquer banco apenas informando ela: \nsaude@gw9capital.com.br\n\nTodo o processo de assinatura é digital por isso precisamos de fotos legíveis. \nPode ser enviado por aqui mesmo ou para o meu email: joaovictor.afonso@gw9capital.com.br",
+          "msg_time": "2026-03-06T15:30:39.411788"
+        },
+        {
+          "role": "system",
+          "content": "Boa tarde Giovanna, tudo bem?",
+          "msg_time": "2026-03-09T12:02:30.592276"
+        },
+        {
+          "role": "system",
+          "content": "como estamos em relação a documentação? \n\n\nprecisando de ajuda em algo?",
+          "msg_time": "2026-03-09T12:02:59.1795"
         }
       ]
     },
@@ -221,35 +521,15 @@
       "status": "morno",
       "bot": "amarelo",
       "consultor": "",
-      "message_count": 58,
+      "message_count": 62,
       "first_message_at": "2026-03-08T03:00:00.000Z",
-      "last_message_at": "2026-03-09T14:37:38.636000Z",
-      "last_bot_msg_at": "2026-03-09T11:37:38.169899",
-      "tempo_sem_interacao": "3h 22min",
+      "last_message_at": "2026-03-09T15:02:44.950000Z",
+      "last_bot_msg_at": "2026-03-09T12:02:44.491774",
+      "tempo_sem_interacao": "3h 12min",
       "first_id": 17315,
-      "last_id": 17647,
-      "last_message_preview": "Qualidade",
+      "last_id": 17662,
+      "last_message_preview": "Tarde",
       "messages": [
-        {
-          "role": "user",
-          "content": "Queria um plano individual para minha filha de 22 anos que reside em Teresópolis rj",
-          "msg_time": "2026-03-08T15:56:11.814907"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Andréa. Plano individual para sua filha de 22 anos em Teresópolis, RJ. Ótimo perfil para cotação.\n\nO plano será contratado no CPF dela, certo? Se for, qual a profissão dela? Algumas operadoras pedem essa informação.",
-          "msg_time": "2026-03-08T15:56:11.816924"
-        },
-        {
-          "role": "user",
-          "content": "Estudante",
-          "msg_time": "2026-03-08T15:57:01.286287"
-        },
-        {
-          "role": "ai",
-          "content": "Perfeito, Andréa. Plano individual para sua filha estudante em Teresópolis, RJ. Ela já possui algum plano hoje ou está sem? E tem preferência por algum hospital ou clínica na rede?",
-          "msg_time": "2026-03-08T15:57:01.293545"
-        },
         {
           "role": "user",
           "content": "Tem unimed",
@@ -479,6 +759,106 @@
           "role": "ai",
           "content": "Entendi, Laura busca um plano com qualidade. Para finalizar, qual o melhor dia e horário para o especialista entrar em contato? Prefere WhatsApp, ligação ou vídeo?",
           "msg_time": "2026-03-09T11:37:38.169899"
+        },
+        {
+          "role": "user",
+          "content": "WhatsApp",
+          "msg_time": "2026-03-09T12:02:04.731757"
+        },
+        {
+          "role": "ai",
+          "content": "Laura, já deixei tudo pronto para o especialista te ligar pelo WhatsApp. Qual o melhor dia e horário para esse contato? Manhã, tarde ou noite?",
+          "msg_time": "2026-03-09T12:02:04.733887"
+        },
+        {
+          "role": "user",
+          "content": "Tarde",
+          "msg_time": "2026-03-09T12:02:44.49025"
+        },
+        {
+          "role": "ai",
+          "content": "Laura, já deixei tudo organizado para o especialista entrar em contato com você pelo WhatsApp na parte da tarde. Obrigado pelas informações!",
+          "msg_time": "2026-03-09T12:02:44.491774"
+        }
+      ]
+    },
+    {
+      "session_id": "5521995191878@s.whatsapp.net",
+      "phone": "5521995191878",
+      "phone_display": "+55 21 99519-1878",
+      "lead": {
+        "baserow_id": 1090,
+        "nome": "Antônio",
+        "email": "acrnascimento@yahoo.com.br",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "gilbertinho_off": false,
+        "observacoes": "",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Antônio",
+        "email": "acrnascimento@yahoo.com.br",
+        "telefone": "+55 21 99519-1878",
+        "vidas": [],
+        "cidade": "",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "",
+        "bot": "Gilbertinho Amarelo (2373)",
+        "formatted": "👤 Cliente: Antônio\n📧 E-mail: acrnascimento@yahoo.com.br\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99519-1878\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)"
+      },
+      "status": "morno",
+      "bot": "amarelo",
+      "consultor": "",
+      "message_count": 6,
+      "first_message_at": "2026-03-09T03:00:00.000Z",
+      "last_message_at": "2026-03-09T14:40:04.899000Z",
+      "last_bot_msg_at": "2026-03-09T11:40:04.151157",
+      "tempo_sem_interacao": "3h 35min",
+      "first_id": 17635,
+      "last_id": 17653,
+      "last_message_preview": "Não, obrigado!",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados Fornecidos\nNome: Antônio\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não informado\nRegião: Não Informado\nPropaganda:\n",
+          "msg_time": "2026-03-09T11:25:52.228023"
+        },
+        {
+          "role": "ai",
+          "content": "Oi Antônio, eu sou o Gilberto da GW9 Saúde. Você pediu o nosso contato para saber mais sobre um plano de saúde e mencionou que tem interesse para 3 pessoas e já possui um CNPJ. Pra te ajudar e ser mais assertivo, preciso confirmar mais algumas informações. Tudo bem?",
+          "msg_time": "2026-03-09T11:25:52.230782"
+        },
+        {
+          "role": "user",
+          "content": "Bom dia!\nEste número não é do Antônio.",
+          "msg_time": "2026-03-09T11:39:08.634063"
+        },
+        {
+          "role": "ai",
+          "content": "Oi! Obrigado por avisar. Posso ajudar você com planos de saúde? Qual o seu nome para começarmos?",
+          "msg_time": "2026-03-09T11:39:08.635874"
+        },
+        {
+          "role": "user",
+          "content": "Não, obrigado!",
+          "msg_time": "2026-03-09T11:40:04.148283"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, obrigado pelo retorno. Se precisar de ajuda no futuro, estarei aqui. Tenha um ótimo dia!",
+          "msg_time": "2026-03-09T11:40:04.151157"
         }
       ]
     },
@@ -670,7 +1050,7 @@
       "first_message_at": "2026-03-09T03:00:00.000Z",
       "last_message_at": "2026-03-09T14:21:30.443Z",
       "last_bot_msg_at": "2026-03-09T11:21:30.443269",
-      "tempo_sem_interacao": "3h 38min",
+      "tempo_sem_interacao": "3h 53min",
       "first_id": 17633,
       "last_id": 17634,
       "last_message_preview": "BOM DIA FAMILIA GALLO.\nConvocação geral em nome do nosso Vereador Gallo , amanhã às 10:00hs no Teatr...",
@@ -730,7 +1110,7 @@
       "first_message_at": "2026-03-08T03:00:00.000Z",
       "last_message_at": "2026-03-09T14:07:08.814000Z",
       "last_bot_msg_at": "2026-03-09T11:07:08.393137",
-      "tempo_sem_interacao": "3h 53min",
+      "tempo_sem_interacao": "4h 8min",
       "first_id": 17426,
       "last_id": 17632,
       "last_message_preview": "Oi bom dia agora no momento não vai dar imprevisto",
@@ -882,7 +1262,7 @@
       "first_message_at": "2026-03-07T03:00:00.000Z",
       "last_message_at": "2026-03-09T14:06:56.759000Z",
       "last_bot_msg_at": "2026-03-09T11:06:56.256997",
-      "tempo_sem_interacao": "3h 53min",
+      "tempo_sem_interacao": "4h 8min",
       "first_id": 17123,
       "last_id": 17630,
       "last_message_preview": "Bom. Dia amigo pode ser as 14:00?",
@@ -1044,7 +1424,7 @@
       "first_message_at": "2026-03-08T03:00:00.000Z",
       "last_message_at": "2026-03-09T14:03:07.961000Z",
       "last_bot_msg_at": "2026-03-09T11:03:07.285058",
-      "tempo_sem_interacao": "3h 57min",
+      "tempo_sem_interacao": "4h 12min",
       "first_id": 17289,
       "last_id": 17628,
       "last_message_preview": "Se ligar e aparecer spam ,eu não atendo.\n\nvai chamar via wpp\n\nOk",
@@ -1284,7 +1664,7 @@
       "first_message_at": "2026-03-08T03:00:00.000Z",
       "last_message_at": "2026-03-08T22:00:34.884000Z",
       "last_bot_msg_at": "2026-03-08T19:00:34.462571",
-      "tempo_sem_interacao": "19h 59min",
+      "tempo_sem_interacao": "20h 14min",
       "first_id": 17416,
       "last_id": 17621,
       "last_message_preview": "Olá Gostaria de uma cotação de um Plano de Saúde Amil",
@@ -1349,7 +1729,7 @@
       "first_message_at": "2026-03-08T03:00:00.000Z",
       "last_message_at": "2026-03-08T21:54:56.435000Z",
       "last_bot_msg_at": "2026-03-08T18:54:51.003129",
-      "tempo_sem_interacao": "20h 5min",
+      "tempo_sem_interacao": "20h 20min",
       "first_id": 17393,
       "last_id": 17620,
       "last_message_preview": "Dados Fornecidos\nNome: Csh\nContem CNPJ: não\nNumero de Vidas: 2_vidas\nOperadora de Interesse: não inf...",
@@ -1414,7 +1794,7 @@
       "first_message_at": "2026-03-08T03:00:00.000Z",
       "last_message_at": "2026-03-08T21:46:57.591000Z",
       "last_bot_msg_at": "2026-03-08T18:46:52.430474",
-      "tempo_sem_interacao": "20h 13min",
+      "tempo_sem_interacao": "20h 28min",
       "first_id": 17389,
       "last_id": 17619,
       "last_message_preview": "Dados Fornecidos\nNome: Amauri\nContem CNPJ: não\nNumero de Vidas: 2_vidas\nOperadora de Interesse: não ...",
@@ -1479,7 +1859,7 @@
       "first_message_at": "2026-03-08T03:00:00.000Z",
       "last_message_at": "2026-03-08T18:52:59.095000Z",
       "last_bot_msg_at": "2026-03-08T15:52:53.193288",
-      "tempo_sem_interacao": "23h 7min",
+      "tempo_sem_interacao": "23h 22min",
       "first_id": 17313,
       "last_id": 17618,
       "last_message_preview": "Dados Fornecidos\nNome: Andrea\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não ...",
@@ -2095,7 +2475,7 @@
       "first_message_at": "2026-03-09T03:00:00.000Z",
       "last_message_at": "2026-03-09T13:24:25.502000Z",
       "last_bot_msg_at": "2026-03-09T10:24:24.96542",
-      "tempo_sem_interacao": "4h 35min",
+      "tempo_sem_interacao": "4h 50min",
       "first_id": 17514,
       "last_id": 17609,
       "last_message_preview": "Eu queria sabe o mais em conta nessa idade 73.90",
@@ -2260,7 +2640,7 @@
       "first_message_at": "2026-03-09T03:00:00.000Z",
       "last_message_at": "2026-03-09T13:20:05.226000Z",
       "last_bot_msg_at": "2026-03-09T10:20:04.422232",
-      "tempo_sem_interacao": "4h 40min",
+      "tempo_sem_interacao": "4h 55min",
       "first_id": 17546,
       "last_id": 17605,
       "last_message_preview": "Obrigado!",
@@ -2445,7 +2825,7 @@
       "first_message_at": "2026-03-09T03:00:00.000Z",
       "last_message_at": "2026-03-09T13:20:04.237000Z",
       "last_bot_msg_at": "2026-03-09T10:20:03.527699",
-      "tempo_sem_interacao": "4h 40min",
+      "tempo_sem_interacao": "4h 55min",
       "first_id": 17602,
       "last_id": 17603,
       "last_message_preview": "Ola, gostaria de uma cotação de um plano de saúde Barra D'or",
@@ -2505,7 +2885,7 @@
       "first_message_at": "2026-03-09T03:00:00.000Z",
       "last_message_at": "2026-03-09T13:12:10.538000Z",
       "last_bot_msg_at": "2026-03-09T10:12:10.056284",
-      "tempo_sem_interacao": "4h 48min",
+      "tempo_sem_interacao": "5h 3min",
       "first_id": 17592,
       "last_id": 17595,
       "last_message_preview": "Márcia",
@@ -2575,7 +2955,7 @@
       "first_message_at": "2026-03-09T03:00:00.000Z",
       "last_message_at": "2026-03-09T13:04:57.744000Z",
       "last_bot_msg_at": "2026-03-09T10:04:52.499812",
-      "tempo_sem_interacao": "4h 55min",
+      "tempo_sem_interacao": "5h 10min",
       "first_id": 17590,
       "last_id": 17591,
       "last_message_preview": "Dados Fornecidos\nNome: Débora\nContem CNPJ: sim\nNumero de Vidas: 4_vidas\nOperadora de Interesse: não ...",
@@ -2635,7 +3015,7 @@
       "first_message_at": "2026-03-09T03:00:00.000Z",
       "last_message_at": "2026-03-09T12:52:26.313000Z",
       "last_bot_msg_at": "2026-03-09T09:52:25.695067",
-      "tempo_sem_interacao": "5h 7min",
+      "tempo_sem_interacao": "5h 22min",
       "first_id": 17586,
       "last_id": 17589,
       "last_message_preview": "Ok",
@@ -2705,7 +3085,7 @@
       "first_message_at": "2026-03-09T03:00:00.000Z",
       "last_message_at": "2026-03-09T11:31:48.834000Z",
       "last_bot_msg_at": "2026-03-09T08:31:48.419284",
-      "tempo_sem_interacao": "6h 28min",
+      "tempo_sem_interacao": "6h 43min",
       "first_id": 17550,
       "last_id": 17573,
       "last_message_preview": "Eh para nos 2 apenas",
@@ -2810,7 +3190,7 @@
       "first_message_at": "2026-03-09T03:00:00.000Z",
       "last_message_at": "2026-03-09T03:55:34.800000Z",
       "last_bot_msg_at": "2026-03-09T00:55:34.381763",
-      "tempo_sem_interacao": "14h 4min",
+      "tempo_sem_interacao": "14h 19min",
       "first_id": 17512,
       "last_id": 17570,
       "last_message_preview": "Olá Gostaria de uma cotação de um Plano de Saúde Amil",
@@ -2875,7 +3255,7 @@
       "first_message_at": "2026-03-08T03:00:00.000Z",
       "last_message_at": "2026-03-09T03:43:24.454000Z",
       "last_bot_msg_at": "2026-03-09T00:43:23.440702",
-      "tempo_sem_interacao": "14h 16min",
+      "tempo_sem_interacao": "14h 31min",
       "first_id": 17442,
       "last_id": 17569,
       "last_message_preview": "Olá Gostaria de uma cotação de um Plano de Saúde Amil",
@@ -3060,7 +3440,7 @@
       "first_message_at": "2026-03-08T03:00:00.000Z",
       "last_message_at": "2026-03-09T03:43:28.209000Z",
       "last_bot_msg_at": "2026-03-09T00:43:27.731062",
-      "tempo_sem_interacao": "14h 16min",
+      "tempo_sem_interacao": "14h 31min",
       "first_id": 17345,
       "last_id": 17568,
       "last_message_preview": "Olá Gostaria de uma cotação de um Plano de Saúde Sulamérica",
@@ -3220,7 +3600,7 @@
       "first_message_at": "2026-03-08T03:00:00.000Z",
       "last_message_at": "2026-03-09T03:43:26.391000Z",
       "last_bot_msg_at": "2026-03-09T00:43:25.882192",
-      "tempo_sem_interacao": "14h 16min",
+      "tempo_sem_interacao": "14h 31min",
       "first_id": 17295,
       "last_id": 17566,
       "last_message_preview": "Olá gostaria de mais informações dos Planos de Saúde  Sulamérica",
@@ -3300,7 +3680,7 @@
       "first_message_at": "2026-03-09T03:00:00.000Z",
       "last_message_at": "2026-03-09T11:55:56.778000Z",
       "last_bot_msg_at": "2026-03-09T08:55:51.563529",
-      "tempo_sem_interacao": "6h 4min",
+      "tempo_sem_interacao": "6h 19min",
       "first_id": 17564,
       "last_id": 17565,
       "last_message_preview": "Dados Fornecidos\nNome: Juvenil\nContem CNPJ: não\nNumero de Vidas: 2_vidas\nOperadora de Interesse: não...",
@@ -3360,7 +3740,7 @@
       "first_message_at": "2026-03-09T03:00:00.000Z",
       "last_message_at": "2026-03-09T11:08:58.952000Z",
       "last_bot_msg_at": "2026-03-09T08:08:52.924314",
-      "tempo_sem_interacao": "6h 51min",
+      "tempo_sem_interacao": "7h 6min",
       "first_id": 17548,
       "last_id": 17549,
       "last_message_preview": "Dados Fornecidos\nNome: Anderson\nContem CNPJ: não\nNumero de Vidas: 3_vidas\nOperadora de Interesse: nã...",
@@ -3436,7 +3816,7 @@
       "first_message_at": "2026-03-08T03:00:00.000Z",
       "last_message_at": "2026-03-09T00:19:58.921000Z",
       "last_bot_msg_at": "2026-03-09T00:43:26.069072",
-      "tempo_sem_interacao": "14h 16min",
+      "tempo_sem_interacao": "14h 31min",
       "first_id": 17464,
       "last_id": 17509,
       "last_message_preview": "Olá Gostaria de uma cotação de um Plano de Saúde Amil\n\nOlá Gostaria de uma cotação de um Plano de Sa...",
@@ -3626,7 +4006,7 @@
       "first_message_at": "2026-03-08T03:00:00.000Z",
       "last_message_at": "2026-03-09T02:00:33.360000Z",
       "last_bot_msg_at": "2026-03-08T23:00:32.915219",
-      "tempo_sem_interacao": "15h 59min",
+      "tempo_sem_interacao": "16h 14min",
       "first_id": 17492,
       "last_id": 17495,
       "last_message_preview": "Sou mei",
@@ -3696,7 +4076,7 @@
       "first_message_at": "2026-03-08T03:00:00.000Z",
       "last_message_at": "2026-03-09T01:47:56.812000Z",
       "last_bot_msg_at": "2026-03-08T22:47:52.311495",
-      "tempo_sem_interacao": "16h 12min",
+      "tempo_sem_interacao": "16h 27min",
       "first_id": 17490,
       "last_id": 17491,
       "last_message_preview": "Dados Fornecidos\nNome: Rosimara\nContem CNPJ: sim\nNumero de Vidas: 2_vidas\nOperadora de Interesse: nã...",
@@ -3756,7 +4136,7 @@
       "first_message_at": "2026-03-08T03:00:00.000Z",
       "last_message_at": "2026-03-09T01:47:20.822000Z",
       "last_bot_msg_at": "2026-03-08T22:47:20.331384",
-      "tempo_sem_interacao": "16h 12min",
+      "tempo_sem_interacao": "16h 27min",
       "first_id": 17488,
       "last_id": 17489,
       "last_message_preview": "Olá Gostaria de uma cotação de um Plano de Saúde Amil",
@@ -3816,7 +4196,7 @@
       "first_message_at": "2026-03-08T03:00:00.000Z",
       "last_message_at": "2026-03-09T01:04:57.840000Z",
       "last_bot_msg_at": "2026-03-08T22:04:52.078764",
-      "tempo_sem_interacao": "16h 55min",
+      "tempo_sem_interacao": "17h 10min",
       "first_id": 17478,
       "last_id": 17479,
       "last_message_preview": "Dados Fornecidos\nNome: Bianca\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não ...",
@@ -3876,7 +4256,7 @@
       "first_message_at": "2026-03-08T03:00:00.000Z",
       "last_message_at": "2026-03-09T00:49:59.662000Z",
       "last_bot_msg_at": "2026-03-08T21:49:53.847826",
-      "tempo_sem_interacao": "17h 10min",
+      "tempo_sem_interacao": "17h 25min",
       "first_id": 17476,
       "last_id": 17477,
       "last_message_preview": "Dados Fornecidos\nNome: Cassiana\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: nã...",
@@ -3946,7 +4326,7 @@
       "first_message_at": "2026-03-08T03:00:00.000Z",
       "last_message_at": "2026-03-08T22:00:52.565000Z",
       "last_bot_msg_at": "2026-03-08T19:00:52.057336",
-      "tempo_sem_interacao": "19h 59min",
+      "tempo_sem_interacao": "20h 14min",
       "first_id": 17391,
       "last_id": 17419,
       "last_message_preview": "Pode ser amanhã às 10h\n\nPor whatsapp",
@@ -4096,7 +4476,7 @@
       "first_message_at": "2026-03-08T03:00:00.000Z",
       "last_message_at": "2026-03-08T19:07:56.740000Z",
       "last_bot_msg_at": "2026-03-08T16:07:56.260041",
-      "tempo_sem_interacao": "22h 52min",
+      "tempo_sem_interacao": "23h 7min",
       "first_id": 17249,
       "last_id": 17338,
       "last_message_preview": "Pode ser as 9 da manha",
@@ -5097,7 +5477,7 @@
       "first_message_at": "2026-03-07T03:00:00.000Z",
       "last_message_at": "2026-03-07T18:05:41.569000Z",
       "last_bot_msg_at": "2026-03-07T15:05:41.077645",
-      "tempo_sem_interacao": "1 dia",
+      "tempo_sem_interacao": "2 dias",
       "first_id": 17068,
       "last_id": 17209,
       "last_message_preview": "Belo arquitetura",
@@ -6872,7 +7252,7 @@
       "first_message_at": "2026-03-06T03:00:00.000Z",
       "last_message_at": "2026-03-06T18:14:36.551000Z",
       "last_bot_msg_at": "2026-03-06T15:14:36.034609",
-      "tempo_sem_interacao": "2 dias",
+      "tempo_sem_interacao": "3 dias",
       "first_id": 16875,
       "last_id": 17113,
       "last_message_preview": "Olá gostaria de mais informações dos Planos de Saúde  Sulamérica",
@@ -8835,306 +9215,6 @@
           "role": "system",
           "content": "5521992914188@s.whatsapp.net",
           "msg_time": "2026-03-06T17:50:14.011456"
-        }
-      ]
-    },
-    {
-      "session_id": "5521984691939@s.whatsapp.net",
-      "phone": "5521984691939",
-      "phone_display": "+55 21 98469-1939",
-      "lead": {
-        "baserow_id": 689,
-        "nome": "Giovanna Tucci",
-        "email": "saude@gw9capital.com.br",
-        "qtd_vidas": "",
-        "desinteresse": false,
-        "gilbertinho_off": true,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": "Frio"
-      },
-      "summary": {
-        "nome": "Giovanna Tucci",
-        "email": "saude@gw9capital.com.br",
-        "telefone": "+55 21 98469-1939",
-        "vidas": [],
-        "cidade": "Rio de Janeiro / RJ",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "MEI",
-        "profissao": "também o MEI funciona",
-        "plano_atual": "Nenhum",
-        "motivo": "Dificuldade de agendamento\nIncluir novas vidas",
-        "interesse": "Sulamérica",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "",
-        "bot": "Não identificado",
-        "formatted": "👤 Cliente: Giovanna Tucci\n📧 E-mail: saude@gw9capital.com.br\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98469-1939\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: também o MEI funciona\n\n🏥 Plano atual: Nenhum\n\n😤 Motivo da troca:\n\nDificuldade de agendamento\nIncluir novas vidas\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead frio\n🤖 Bot: Não identificado"
-      },
-      "status": "frio",
-      "bot": "desconhecido",
-      "consultor": "",
-      "message_count": 188,
-      "first_message_at": "2026-02-05T03:00:00.000Z",
-      "last_message_at": "2026-03-06T18:30:39.411Z",
-      "last_bot_msg_at": "2026-03-06T18:30:39.411Z",
-      "tempo_sem_interacao": "2 dias",
-      "first_id": 12448,
-      "last_id": 16893,
-      "last_message_preview": "Me mandaram agora\n\nConsegue me enviar a lista de documentos que precisa\n\no que?\n\nde qual numero?\n\nO ...",
-      "messages": [
-        {
-          "role": "system",
-          "content": "mas é importante que você seja associada, você é?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Então, eu não sou associada, mas eu estou em processo porque me deram essa dica e no total faz uma diferença. Eu só tava querendo confirmar se é isso mesmo, entendeu? Tô confirmando com eles e com vocês.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "realmente é sim rsrs",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "No caso, o de 633 é com apartamento e o valor mais baixo, ele é só enfermaria. Então, aí no caso, por exemplo, acho que a Rede Dóros não aceita, não é isso? Porque a Rede Dóros que só aceita com apartamento, não tem algo assim? Ou isso é o Copa Dóries, basicamente.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "no caso é o clássico e o especial 100",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "Na realidade, eu encamei para você o comparativo do clássico com o Especial 100, ali dos valores, tá? Só que no clássico não tem apartamento, só enfermaria. E no Especial 100 não tem enfermaria, apenas apartamento. Lembrando que na Rede Dó não tem enfermaria, então eles aceitam sim, sendo que você não é instalada na enfermaria, você é instalada em um apartamento. Independente se o seu plano é com enfermaria ou sem enfermaria, tá? Na Rede Dó você vai ser instalada ali dentro do apartamento.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "Giovana, consegui retirar todas as suas dúvidas?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "Qualquer solicitação estou à disposição",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Bom dia Gilberto, tudo bem?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Consegue me mandar o que está incluso nesse plano de desconto associado ao FNA",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "E confirmar se essa associação é possível e porque da esse desconto",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "Oi, bom dia, Giovanna, tudo bem? Como é que você está? Desculpa a demora. No caso, a FNA, ela é apenas a entidade que vai estar regindo ali o seu contrato, tá? O seu plano não muda. A única coisa que vai estar mudando vai ser o valor de acordo com a entidade, que vai estar como se fosse protegendo o seu contrato. Que no caso, a entidade é como se fosse um guarda-chuva, né? Ali onde ele vai estar regindo todo o seu contrato dentro da própria entidade. Então a FNA, caso você seja associada, a gente consegue prosseguir com ela. Caso não seja, a gente prossegue com a ANAPROL1, que é a associação para profissionais liberais, tá bom?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "É possível sim, a FNA é possível, caso você seja associada. E esse desconto é por conta da associação. Realmente algumas profissões têm benefícios, tá? Como médicos também, no caso, associação da arquitetura, entre outras.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "boa tarde Giovanna, consegui sanar todas as suas dúvidas?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Entendi entendi\n\nBeleza\n\nVou ver se resolvo isso da associação e entro em retorno",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "Caso no meio do ano, por exemplo, depois de abrir o cnpj, faça por empresa\n\nA mudança é tranquila?\n\nOu tem burocracia?\n\nE sobre carências\n\nOk, qualquer dúvida ou solicitação me ponha à disposição!",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "No caso sendo esse da Sul América, volta tudo do 0, ou o tempo conta junto, só aumenta?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "compra parcial, para compra integral tem que ter 12 meses de plano ativo",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "você quer alguma ajuda para pegar a carta de permanência com seu pai\n\nEu acho que não vamos conseguir\n\nPorque o plano cancelou em dezembro\n\nComeço de janeiro\n\nah entendi\n\nmas tem 60 dias\n\nde validade\n\nMas a Sul América aceita Caberj?\n\naceita sim\n\nVou checar com ele novamente\n\nverifica",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "e te ajudo caso consiga",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Oi! Tudo bem?\n\nQual a diferença desses dois planos sendo associada mesmo?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "ooi boa tarde\n\napenas o valor, os acessos são os mesmos",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Mas qual a diferença desses 2 mesmo?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Porque aqui é 589 e outro é 633?\n\nPorque um é 589 e outro é 633?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "é a ramificação da profissão, arquitetura é anaprolie-1\n\nassociado é FNA",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "Os dois são o mesmo plano?\n\nNão entendi\n\noutras profissões que te encaminhei a foto são da anaprolie-2\n\nsim, a diferença é a entidade que vai reger o contrato",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "589 é o valor sendo associado e 633 não associado?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Porque me associei mas estou só esperando o comprovante",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "aqui é ASSOCIADO - o produto que você deseja é o especial 100, com os acessos que você solicitou",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Então a pergunta que eu fiz está certa, qual a diferença dos dois planos? Me manda a tabela dnv pfvr!",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "vou encaminhar o PDF do produto classico x especial 100 para sua análise\n\nObrigada!\n\nE a tabela de coparticipação por favor\n\nE a tabela de cooparticipação por favor",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Conseguiu?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "estava carregando\n\n<ContextoPDF>\n  <TranscricaoPDF>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  </TranscricaoPDF>\nContexto Extra: O usuário encaminhou a mensagem a seguir junto ao PDF.\n  <MensagemUsuario>\n\n  </MensagemUsuario>\n</ContextoPDF>",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Ok! Tem a tabela do cooperação?\n\nOk! Tem a tabela da cooperação?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "No especial está incluso reembolso, Odonto, emergência no Copa Dor, o que mais?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "O reembolso funciona como?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "<ContextoImagem>\n\n  <DetalheImagem>\n\n  </DetalheImagem>\n\nContexto Extra: O usuário encaminhou a mensagem a seguir junto á imagem.\n  <MensagemUsuario>\n\n  </MensagemUsuario>\n\n</ContextoImagem>",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "No especial, tá incluso todos os eventos, tá? Consultas, eletivas ou não, atendimento de pronto-socorro, exames complementares, procedimentos ambulatoriais, exames de margem, mais especiais, internações, tá? Tudo. Terapias...",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Eu mudando ano que vem para cnpj, se só o mesmo plano, muda algo?\n\nEm questão de carência",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "<ContextoImagem>\n\n  <DetalheImagem>\n\n  </DetalheImagem>\n\nContexto Extra: O usuário encaminhou a mensagem a seguir junto á imagem.\n  <MensagemUsuario>\nsobre o reembolso\n  </MensagemUsuario>\n\n</ContextoImagem>",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "Aí na adesão, que é o plano por pessoa física, o reembolso ele tá ali só pra consulta de urgência e emergência, valor de 180 reais, tá? Aí desconta co-participação, por exemplo, co-participou ali o valor de 50 reais na urgência e emergência, na consulta, aí vai ser o reembolso de 130, tá bom?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "Se você ficar 12 meses, aí tem a compra efetiva integral, tá, das carências, não tem problema. Aí, mudando pra CNPJ, tá na Sul América, aceita três pessoas, tá bom? É o mínimo ali. Duas pessoas só na Mil, mas a gente já consegue verificar bons atendimentos também na Mil. Em Copacabana, na Zona Sul, tá, até com valores mais acessíveis também. Isso a gente vai vendo com o tempo, de acordo com a experiência também que você vai estar tendo no plano. A Especial Sena é um plano bem robusto, bem completo, tá, vocês vão gostar bastante.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Beleza! Mas por exemplo mudando para Amil, em vez de Sul América, eu consigo mudar para cnpj duas vidas, normal?\n\nFicando 12 meses",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "amil conseguimos comprar a carencia com 6 meses apenas\n\nconsegue sim mudar normalmennte\n\nOk!",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "E o plano mensal manda a Sul América manda boleto por e-mail?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "sim sim normalmente\n\ntudo padrão",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "boa tarde Giovanna\n\ncomo estamos?",
-          "msg_time": "2026-03-06T15:13:58.813639"
-        },
-        {
-          "role": "system",
-          "content": "Oi\n\nEstou esperando me enviarem o comprovante da associação\n\nperfeito, excelente",
-          "msg_time": "2026-03-06T15:15:04.675916"
-        },
-        {
-          "role": "user",
-          "content": "Me mandaram agora\n\nConsegue me enviar a lista de documentos que precisa\n\no que?\n\nde qual numero?\n\nO comprovante da associação\n\nah entendi, perfeito\n\nvou te encaminhar\n\nA lista de documentos que precisa para dar entrada no plano",
-          "msg_time": "2026-03-06T15:26:12.652434"
-        },
-        {
-          "role": "system",
-          "content": "*Abaixo envio a lista dos documentos necessários para seguir com o cadastro junto a seguradora:*\n\n➡Identidade e CPF de todos os participantes do plano\n➡Comprovante de residência\n➡ diploma de ensino superior\n➡Carteirinhas do plano atual\n➡️Carta de permanência (caso possua plano atual)\n➡ E-mail:\n➡ Telefone:\n➡  comprovante de pagamento no valor do plano para a chave da corretora (caso precise, solicitar boleto)\n\nOlá! , esta é nossa chave Pix Itaú Empresas. Você pode enviar transferências de qualquer banco apenas informando ela: \nsaude@gw9capital.com.br\n\nTodo o processo de assinatura é digital por isso precisamos de fotos legíveis. \nPode ser enviado por aqui mesmo ou para o meu email: joaovictor.afonso@gw9capital.com.br",
-          "msg_time": "2026-03-06T15:30:39.411788"
         }
       ]
     },
@@ -26681,156 +26761,6 @@
         {
           "role": "ai",
           "content": "Oi Aline, eu sou o Gilberto da GW9 Saúde. Você pediu o nosso contato para saber mais sobre plano de saúde e que tem um CNPJ para 5 pessoas. Para te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo bem?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        }
-      ]
-    },
-    {
-      "session_id": "5522999593437@s.whatsapp.net",
-      "phone": "5522999593437",
-      "phone_display": "+55 22 99959-3437",
-      "lead": {
-        "baserow_id": 925,
-        "nome": "Eva Schuenk",
-        "email": "evaschuenk@hotmail.com",
-        "qtd_vidas": "",
-        "desinteresse": false,
-        "gilbertinho_off": true,
-        "observacoes": "Eva",
-        "reagendamento": "2026-03-07T20:00:00Z",
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Eva Schuenk",
-        "email": "evaschuenk@hotmail.com",
-        "telefone": "+55 22 99959-3437",
-        "vidas": [],
-        "cidade": "Rio de Janeiro / RJ",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "Nenhum",
-        "motivo": "Incluir novas vidas",
-        "interesse": "Amil",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "Eva",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Eva Schuenk\n📧 E-mail: evaschuenk@hotmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 22 99959-3437\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\n\n🏥 Plano atual: Nenhum\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Eva\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "morno",
-      "bot": "preto",
-      "consultor": "",
-      "message_count": 20,
-      "first_message_at": "2026-03-01T03:00:00.000Z",
-      "last_message_at": "2026-03-01T21:07:35.499000Z",
-      "last_bot_msg_at": "2026-03-05T22:36:17.247927",
-      "tempo_sem_interacao": "3 dias",
-      "first_id": 14864,
-      "last_id": 14883,
-      "last_message_preview": "Obg\n\nBoa noite",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Olá Gostaria de uma cotação de um Plano de Saúde Amil",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Eu sou Gilberto, analista em Plano Saúde da Corretora GW9. 🚀\nTrabalhamos com todos os Planos de saúde no Rio de Janeiro. Vou te ajudar a entender as melhores opções de plano e, se fizer sentido, já deixo tudo organizado para o especialista te atender de forma objetiva. Pode ser?\nQual o seu nome?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Eva.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Perfeito, Eva!\nPra eu te apresentar as opções certas, preciso entender o perfil de quem vai entrar no plano.\nPode me dizer:\n1️⃣ Quantas pessoas são e as idades?\n2️⃣ Qual a cidade?\n3️⃣ Prefere fazer no CPF ou CNPJ (se tiver)?\n(Pode responder por áudio 🎙️ se preferir)",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Eu 64. Marido 71\n\nNova Friburgo",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Eva, são vocês dois, com 64 e 71 anos, em Nova Friburgo. Isso ajuda muito para achar o plano certo.\nVai ser no CPF, certo? Também queria confirmar se vocês já têm plano hoje ou estão buscando algo novo.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Não tenho",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Eva, vocês ainda não têm plano. Isso é ótimo para a gente pensar numa opção que traga segurança e cuidado para vocês.\nPara fechar, tem algum hospital ou médico que vocês queiram ter na rede? E me fala se prefere priorizar preço ou atendimento.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Preço com atendimento",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Eva, o foco é preço com bom atendimento. Muito importante mesmo.\nVocê poderia me informar sua profissão? Isso ajuda a validar algumas opções no CPF.\nE qual seu e-mail para enviar as cotações?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Os dois aposentados\n\nevaschuenk@hotmail.com",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Obrigado, Eva. Vou registrar que são dois aposentados e seu e-mail evaschuenk@hotmail.com.\nEntão, Eva, só para confirmar: é um plano para você e seu marido, em Nova Friburgo, sem plano atual, buscando preço com atendimento de qualidade. Tá certo?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Sim",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Obrigado pela confirmação, Eva.\nSó para organizar, qual o melhor dia e horário para o especialista entrar em contato? Prefere WhatsApp, ligação ou vídeo?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Zap",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Parece que tivemos um problema técnico para agendar o contato agora. Enquanto isso, qual o melhor dia e horário para o especialista te ligar pelo WhatsApp?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Terça. 17h",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Combinado, Eva! Já deixei tudo pronto para o especialista te ligar na terça-feira, 07/03, às 17h pelo WhatsApp. Obrigado por compartilhar as informações!",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Obg\n\nBoa noite",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Obrigado, Eva! Boa noite para você também. Já estou encaminhando suas informações para o especialista entrar em contato na terça às 17h pelo WhatsApp. Qualquer coisa, estou por aqui.",
           "msg_time": "2026-03-05T22:36:17.247927"
         }
       ]
