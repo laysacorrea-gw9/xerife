@@ -1,17 +1,282 @@
 {
   "meta": {
-    "generated_at": "2026-03-10T14:45:10.171Z",
+    "generated_at": "2026-03-10T15:00:11.949Z",
     "total_conversations": 200,
-    "total_messages": 4899,
+    "total_messages": 4891,
     "stats": {
       "quente": 31,
-      "morno": 120,
-      "frio": 49,
+      "morno": 119,
+      "frio": 50,
       "desinteresse": 0,
       "sem_classificacao": 0
     }
   },
   "conversations": [
+    {
+      "session_id": "5521964229888@s.whatsapp.net",
+      "phone": "5521964229888",
+      "phone_display": "+55 21 96422-9888",
+      "lead": {
+        "baserow_id": 1114,
+        "nome": "Noemi",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "gilbertinho_off": false,
+        "observacoes": "",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Noemi",
+        "email": "",
+        "telefone": "+55 21 96422-9888",
+        "vidas": [],
+        "cidade": "Rio de Janeiro / RJ",
+        "contratacao": "",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "Barra D'or",
+        "rede_preferencial": "Barra D'Or",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Noemi\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96422-9888\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\n🎯 Rede preferencial: Barra D'Or\n\n🎯 Interesse: Barra D'or\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "frio",
+      "bot": "preto",
+      "consultor": "",
+      "message_count": 2,
+      "first_message_at": "2026-03-10T03:00:00.000Z",
+      "last_message_at": "2026-03-10T14:59:45.578000Z",
+      "last_bot_msg_at": "2026-03-10T11:59:45.061373",
+      "tempo_sem_interacao": "3h",
+      "first_id": 18140,
+      "last_id": 18141,
+      "last_message_preview": "Ola, gostaria de uma cotação de um plano de saúde Barra D'or",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Ola, gostaria de uma cotação de um plano de saúde Barra D'or",
+          "msg_time": "2026-03-10T11:59:45.059545"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Eu sou o Gilberto, analista em Plano Saúde da Corretora GW9. 🚀\nTrabalhamos com todos os Planos de saúde no Rio de Janeiro. Vou te ajudar a entender as melhores opções e deixar tudo organizado para o especialista te atender. Pode ser?\nQual o seu nome?",
+          "msg_time": "2026-03-10T11:59:45.061373"
+        }
+      ]
+    },
+    {
+      "session_id": "5521988846057@s.whatsapp.net",
+      "phone": "5521988846057",
+      "phone_display": "+55 21 98884-6057",
+      "lead": {
+        "baserow_id": 1091,
+        "nome": "Hilda",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "gilbertinho_off": true,
+        "observacoes": "",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Hilda",
+        "email": "",
+        "telefone": "+55 21 98884-6057",
+        "vidas": [],
+        "cidade": "Rio de Janeiro / RJ",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "MEI",
+        "profissao": "profissional autonoma",
+        "plano_atual": "",
+        "motivo": "Prevenção\nEncerramento do plano atual",
+        "interesse": "Sulamérica",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Hilda\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98884-6057\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: profissional autonoma\n\n😤 Motivo da troca:\n\nPrevenção\nEncerramento do plano atual\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "morno",
+      "bot": "preto",
+      "consultor": "",
+      "message_count": 16,
+      "first_message_at": "2026-03-09T03:00:00.000Z",
+      "last_message_at": "2026-03-09T15:05:36.657000Z",
+      "last_bot_msg_at": "2026-03-09T12:05:36.15003",
+      "tempo_sem_interacao": "1 dia",
+      "first_id": 17638,
+      "last_id": 18139,
+      "last_message_preview": "Não tenho nenhum plano de saude no momenro",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Formato de mensagem enviada nao suportado",
+          "msg_time": "2026-03-09T11:33:55.637472"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou Gilberto, analista em Plano Saúde da Corretora GW9. 🚀\nEstamos aqui para ajudar você com planos de saúde. Pode me dizer seu nome para começarmos?",
+          "msg_time": "2026-03-09T11:33:55.639852"
+        },
+        {
+          "role": "user",
+          "content": "Bom dia !\nMe chamo Hilda\nTenho 55 anos e gostaria de uma cotação pra minha facha etária",
+          "msg_time": "2026-03-09T11:39:26.392926"
+        },
+        {
+          "role": "ai",
+          "content": "Olá, Hilda! Entendi que é para você, com 55 anos. Para fazer a cotação certinha, preciso saber se o plano será individual só seu ou terá mais alguma pessoa? Também preciso saber a cidade onde usará o plano e se será no seu CPF ou CNPJ/MEI.",
+          "msg_time": "2026-03-09T11:39:26.394344"
+        },
+        {
+          "role": "user",
+          "content": "Seria só pra mim.\nMoro na cidade do RJ\n\nCpf 02717635742",
+          "msg_time": "2026-03-09T11:48:27.725853"
+        },
+        {
+          "role": "ai",
+          "content": "Perfeito, Hilda! Compreendo que é um plano individual no Rio de Janeiro, contratado no CPF. Para finalizar, qual sua profissão? Algumas operadoras pedem essa informação para oferecer as melhores opções. Além disso, você já tem plano hoje ou está sem?",
+          "msg_time": "2026-03-09T11:48:27.728874"
+        },
+        {
+          "role": "user",
+          "content": "Olá gostaria de mais informações dos Planos de Saúde  Sulamérica",
+          "msg_time": "2026-03-09T11:54:05.514594"
+        },
+        {
+          "role": "ai",
+          "content": "🤔 Entendi que quer saber sobre planos SulAmérica. Para te ajudar melhor, posso saber seu nome e o perfil de quem vai no plano? Assim o especialista pode oferecer as opções ideais para você.",
+          "msg_time": "2026-03-09T11:54:05.520948"
+        },
+        {
+          "role": "user",
+          "content": "Sou profissional autonoma. \nArtesã w cuidadora.",
+          "msg_time": "2026-03-09T12:05:18.300153"
+        },
+        {
+          "role": "ai",
+          "content": "Obrigado, Hilda! Sua profissão como artesã e cuidadora ajuda na escolha da operadora. Você já possui algum plano hoje ou está sem? Tem algum hospital ou médico que é prioridade para você? Isso ajuda o especialista a buscar o melhor para você.",
+          "msg_time": "2026-03-09T12:05:18.301976"
+        },
+        {
+          "role": "user",
+          "content": "Não tenho nenhum plano de saude no momenro",
+          "msg_time": "2026-03-09T12:05:36.147659"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Hilda. E o que mais te motivou a buscar um plano agora? Alguma preocupação específica ou pensa mais na prevenção e segurança? Isso ajuda a encontrar o melhor para seu momento.",
+          "msg_time": "2026-03-09T12:05:36.15003"
+        },
+        {
+          "role": "system",
+          "content": "Hilda, ainda está por aí? Estou aguardando sua resposta para dar sequência. O que mais te motivou a buscar um plano agora? Alguma preocupação específica ou pensa mais na prevenção e segurança?",
+          "msg_time": "2026-03-09T12:31:49.652772"
+        },
+        {
+          "role": "system",
+          "content": "Hilda \n\nA Elisa vai te contatar para te passar algumas opçoes combinado ?",
+          "msg_time": "2026-03-09T17:01:45.703425"
+        },
+        {
+          "role": "system",
+          "content": "\n",
+          "msg_time": "2026-03-10T11:02:20.697514"
+        },
+        {
+          "role": "system",
+          "content": "Olá, bom dia. A Elisa já fez contato. Agradeço\n\nFormato de mensagem enviada nao suportado\n\nCerto!",
+          "msg_time": "2026-03-10T11:59:18.627727"
+        }
+      ]
+    },
+    {
+      "session_id": "5521991886897@s.whatsapp.net",
+      "phone": "5521991886897",
+      "phone_display": "+55 21 99188-6897",
+      "lead": {
+        "baserow_id": 1074,
+        "nome": "Bianca",
+        "email": "biamef@yahoo.com.br",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "gilbertinho_off": false,
+        "observacoes": "",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Bianca",
+        "email": "biamef@yahoo.com.br",
+        "telefone": "+55 21 99188-6897",
+        "vidas": [],
+        "cidade": "",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "",
+        "bot": "Gilbertinho Amarelo (2373)",
+        "formatted": "👤 Cliente: Bianca\n📧 E-mail: biamef@yahoo.com.br\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99188-6897\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)"
+      },
+      "status": "morno",
+      "bot": "amarelo",
+      "consultor": "",
+      "message_count": 5,
+      "first_message_at": "2026-03-08T03:00:00.000Z",
+      "last_message_at": "2026-03-10T14:58:58.702000Z",
+      "last_bot_msg_at": "2026-03-10T11:58:58.24996",
+      "tempo_sem_interacao": "3h 1min",
+      "first_id": 17478,
+      "last_id": 18138,
+      "last_message_preview": "Não tenho interesse . Obrigada",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados Fornecidos\nNome: Bianca\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não informado\nRegião: Não Informado\nPropaganda:\n",
+          "msg_time": "2026-03-08T22:04:52.074864"
+        },
+        {
+          "role": "ai",
+          "content": "Oi Bianca, eu sou o Gilberto da GW9 Saúde. Você pediu o nosso contato para saber mais sobre um plano de saúde e mencionou que tem interesse para 3 pessoas e que já possui um CNPJ. Pra te ajudar e ser mais assertivo, preciso confirmar mais algumas informações. Tudo bem?",
+          "msg_time": "2026-03-08T22:04:52.078764"
+        },
+        {
+          "role": "system",
+          "content": "\n",
+          "msg_time": "2026-03-10T11:00:59.855457"
+        },
+        {
+          "role": "user",
+          "content": "Não tenho interesse . Obrigada",
+          "msg_time": "2026-03-10T11:58:58.247585"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Bianca. Obrigado por avisar. Se mudar de ideia, estaremos aqui para ajudar. Tenha um ótimo dia!",
+          "msg_time": "2026-03-10T11:58:58.24996"
+        }
+      ]
+    },
     {
       "session_id": "5521975924935@s.whatsapp.net",
       "phone": "5521975924935",
@@ -55,7 +320,7 @@
       "first_message_at": "2026-03-07T03:00:00.000Z",
       "last_message_at": "2026-03-10T14:44:23.351000Z",
       "last_bot_msg_at": "2026-03-10T11:44:22.928736",
-      "tempo_sem_interacao": "3h",
+      "tempo_sem_interacao": "3h 15min",
       "first_id": 17137,
       "last_id": 18136,
       "last_message_preview": "Hoje as 15 hs",
@@ -180,7 +445,7 @@
       "first_message_at": "2026-03-09T03:00:00.000Z",
       "last_message_at": "2026-03-09T21:56:36.612000Z",
       "last_bot_msg_at": "2026-03-09T18:56:35.626074",
-      "tempo_sem_interacao": "19h 48min",
+      "tempo_sem_interacao": "20h 3min",
       "first_id": 17918,
       "last_id": 18132,
       "last_message_preview": "Você pode, então, cotar para mim aí nesses termos que eu te passei no auge acima e mandar aqui para ...",
@@ -370,7 +635,7 @@
       "first_message_at": "2026-03-09T03:00:00.000Z",
       "last_message_at": "2026-03-10T14:23:24.298000Z",
       "last_bot_msg_at": "2026-03-10T11:23:23.766236",
-      "tempo_sem_interacao": "3h 21min",
+      "tempo_sem_interacao": "3h 36min",
       "first_id": 17779,
       "last_id": 18130,
       "last_message_preview": "Nao tenho mais interese por enquanto.",
@@ -445,7 +710,7 @@
       "first_message_at": "2026-03-09T03:00:00.000Z",
       "last_message_at": "2026-03-10T14:06:36.946000Z",
       "last_bot_msg_at": "2026-03-10T11:06:36.507226",
-      "tempo_sem_interacao": "3h 38min",
+      "tempo_sem_interacao": "3h 53min",
       "first_id": 17822,
       "last_id": 18128,
       "last_message_preview": "Pode ser hoje",
@@ -685,7 +950,7 @@
       "first_message_at": "2026-03-10T03:00:00.000Z",
       "last_message_at": "2026-03-10T14:06:10.077000Z",
       "last_bot_msg_at": "2026-03-10T11:06:09.572625",
-      "tempo_sem_interacao": "3h 39min",
+      "tempo_sem_interacao": "3h 54min",
       "first_id": 18125,
       "last_id": 18126,
       "last_message_preview": "Olá Gostaria de uma cotação de um Plano de Saúde Sulamérica",
@@ -752,7 +1017,7 @@
       "first_message_at": "2026-03-09T03:00:00.000Z",
       "last_message_at": "2026-03-09T23:50:12.605000Z",
       "last_bot_msg_at": "2026-03-09T20:50:12.174613",
-      "tempo_sem_interacao": "17h 54min",
+      "tempo_sem_interacao": "18h 9min",
       "first_id": 17976,
       "last_id": 18122,
       "last_message_preview": "Manda logo o valor\n\nCoisa chata",
@@ -899,7 +1164,7 @@
       "first_message_at": "2026-03-09T03:00:00.000Z",
       "last_message_at": "2026-03-09T21:36:34.671000Z",
       "last_bot_msg_at": "2026-03-09T18:36:34.188458",
-      "tempo_sem_interacao": "20h 8min",
+      "tempo_sem_interacao": "20h 23min",
       "first_id": 17906,
       "last_id": 18120,
       "last_message_preview": "ok, obrigado por vossa atenção!!!",
@@ -1014,7 +1279,7 @@
       "first_message_at": "2026-03-09T03:00:00.000Z",
       "last_message_at": "2026-03-09T19:06:57.427000Z",
       "last_bot_msg_at": "2026-03-09T16:20:45.241363",
-      "tempo_sem_interacao": "22h 24min",
+      "tempo_sem_interacao": "22h 39min",
       "first_id": 17805,
       "last_id": 18118,
       "last_message_preview": "Não tinha opção 1  Niterói\n\nNão tinha opção 1  Niterói",
@@ -1159,7 +1424,7 @@
       "first_message_at": "2026-03-09T03:00:00.000Z",
       "last_message_at": "2026-03-10T14:02:59.632000Z",
       "last_bot_msg_at": "2026-03-10T11:02:59.186683",
-      "tempo_sem_interacao": "3h 42min",
+      "tempo_sem_interacao": "3h 57min",
       "first_id": 17512,
       "last_id": 18116,
       "last_message_preview": "Não, não, não precisa mais não, eu já vi o anúncio lá, já, o anúncio tinha uma letrinha pequenininha...",
@@ -1259,7 +1524,7 @@
       "first_message_at": "2026-03-09T03:00:00.000Z",
       "last_message_at": "2026-03-09T18:27:57.781000Z",
       "last_bot_msg_at": "2026-03-09T15:27:51.854032",
-      "tempo_sem_interacao": "23h 17min",
+      "tempo_sem_interacao": "23h 32min",
       "first_id": 17803,
       "last_id": 18114,
       "last_message_preview": "Dados Fornecidos\nNome: Rosane\nContem CNPJ: não\nNumero de Vidas: 2_vidas\nOperadora de Interesse: não ...",
@@ -1724,131 +1989,6 @@
       ]
     },
     {
-      "session_id": "5521988846057@s.whatsapp.net",
-      "phone": "5521988846057",
-      "phone_display": "+55 21 98884-6057",
-      "lead": {
-        "baserow_id": 1091,
-        "nome": "Hilda",
-        "email": "",
-        "qtd_vidas": "",
-        "desinteresse": false,
-        "gilbertinho_off": true,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Hilda",
-        "email": "",
-        "telefone": "+55 21 98884-6057",
-        "vidas": [],
-        "cidade": "Rio de Janeiro / RJ",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "MEI",
-        "profissao": "profissional autonoma",
-        "plano_atual": "",
-        "motivo": "Prevenção\nEncerramento do plano atual",
-        "interesse": "Sulamérica",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Hilda\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98884-6057\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: profissional autonoma\n\n😤 Motivo da troca:\n\nPrevenção\nEncerramento do plano atual\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "morno",
-      "bot": "preto",
-      "consultor": "",
-      "message_count": 15,
-      "first_message_at": "2026-03-09T03:00:00.000Z",
-      "last_message_at": "2026-03-09T15:05:36.657000Z",
-      "last_bot_msg_at": "2026-03-09T12:05:36.15003",
-      "tempo_sem_interacao": "1 dia",
-      "first_id": 17638,
-      "last_id": 18107,
-      "last_message_preview": "Não tenho nenhum plano de saude no momenro",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Formato de mensagem enviada nao suportado",
-          "msg_time": "2026-03-09T11:33:55.637472"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Sou Gilberto, analista em Plano Saúde da Corretora GW9. 🚀\nEstamos aqui para ajudar você com planos de saúde. Pode me dizer seu nome para começarmos?",
-          "msg_time": "2026-03-09T11:33:55.639852"
-        },
-        {
-          "role": "user",
-          "content": "Bom dia !\nMe chamo Hilda\nTenho 55 anos e gostaria de uma cotação pra minha facha etária",
-          "msg_time": "2026-03-09T11:39:26.392926"
-        },
-        {
-          "role": "ai",
-          "content": "Olá, Hilda! Entendi que é para você, com 55 anos. Para fazer a cotação certinha, preciso saber se o plano será individual só seu ou terá mais alguma pessoa? Também preciso saber a cidade onde usará o plano e se será no seu CPF ou CNPJ/MEI.",
-          "msg_time": "2026-03-09T11:39:26.394344"
-        },
-        {
-          "role": "user",
-          "content": "Seria só pra mim.\nMoro na cidade do RJ\n\nCpf 02717635742",
-          "msg_time": "2026-03-09T11:48:27.725853"
-        },
-        {
-          "role": "ai",
-          "content": "Perfeito, Hilda! Compreendo que é um plano individual no Rio de Janeiro, contratado no CPF. Para finalizar, qual sua profissão? Algumas operadoras pedem essa informação para oferecer as melhores opções. Além disso, você já tem plano hoje ou está sem?",
-          "msg_time": "2026-03-09T11:48:27.728874"
-        },
-        {
-          "role": "user",
-          "content": "Olá gostaria de mais informações dos Planos de Saúde  Sulamérica",
-          "msg_time": "2026-03-09T11:54:05.514594"
-        },
-        {
-          "role": "ai",
-          "content": "🤔 Entendi que quer saber sobre planos SulAmérica. Para te ajudar melhor, posso saber seu nome e o perfil de quem vai no plano? Assim o especialista pode oferecer as opções ideais para você.",
-          "msg_time": "2026-03-09T11:54:05.520948"
-        },
-        {
-          "role": "user",
-          "content": "Sou profissional autonoma. \nArtesã w cuidadora.",
-          "msg_time": "2026-03-09T12:05:18.300153"
-        },
-        {
-          "role": "ai",
-          "content": "Obrigado, Hilda! Sua profissão como artesã e cuidadora ajuda na escolha da operadora. Você já possui algum plano hoje ou está sem? Tem algum hospital ou médico que é prioridade para você? Isso ajuda o especialista a buscar o melhor para você.",
-          "msg_time": "2026-03-09T12:05:18.301976"
-        },
-        {
-          "role": "user",
-          "content": "Não tenho nenhum plano de saude no momenro",
-          "msg_time": "2026-03-09T12:05:36.147659"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Hilda. E o que mais te motivou a buscar um plano agora? Alguma preocupação específica ou pensa mais na prevenção e segurança? Isso ajuda a encontrar o melhor para seu momento.",
-          "msg_time": "2026-03-09T12:05:36.15003"
-        },
-        {
-          "role": "system",
-          "content": "Hilda, ainda está por aí? Estou aguardando sua resposta para dar sequência. O que mais te motivou a buscar um plano agora? Alguma preocupação específica ou pensa mais na prevenção e segurança?",
-          "msg_time": "2026-03-09T12:31:49.652772"
-        },
-        {
-          "role": "system",
-          "content": "Hilda \n\nA Elisa vai te contatar para te passar algumas opçoes combinado ?",
-          "msg_time": "2026-03-09T17:01:45.703425"
-        },
-        {
-          "role": "system",
-          "content": "\n",
-          "msg_time": "2026-03-10T11:02:20.697514"
-        }
-      ]
-    },
-    {
       "session_id": "5521995191878@s.whatsapp.net",
       "phone": "5521995191878",
       "phone_display": "+55 21 99519-1878",
@@ -2086,7 +2226,7 @@
       "first_message_at": "2026-03-09T03:00:00.000Z",
       "last_message_at": "2026-03-09T22:16:33.975000Z",
       "last_bot_msg_at": "2026-03-09T19:16:33.456012",
-      "tempo_sem_interacao": "19h 28min",
+      "tempo_sem_interacao": "19h 43min",
       "first_id": 17602,
       "last_id": 18101,
       "last_message_preview": "Agradecemos sua mensagem. Não estamos disponíveis no momento, mas responderemos assim que possível.",
@@ -2725,7 +2865,7 @@
       "first_message_at": "2026-03-09T03:00:00.000Z",
       "last_message_at": "2026-03-09T22:17:06.922000Z",
       "last_bot_msg_at": "2026-03-09T19:17:06.399483",
-      "tempo_sem_interacao": "19h 28min",
+      "tempo_sem_interacao": "19h 43min",
       "first_id": 17514,
       "last_id": 18094,
       "last_message_preview": "Ok",
@@ -3084,71 +3224,6 @@
           "role": "system",
           "content": "\n",
           "msg_time": "2026-03-10T11:01:05.123932"
-        }
-      ]
-    },
-    {
-      "session_id": "5521991886897@s.whatsapp.net",
-      "phone": "5521991886897",
-      "phone_display": "+55 21 99188-6897",
-      "lead": {
-        "baserow_id": 1074,
-        "nome": "Bianca",
-        "email": "biamef@yahoo.com.br",
-        "qtd_vidas": "",
-        "desinteresse": false,
-        "gilbertinho_off": false,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Bianca",
-        "email": "biamef@yahoo.com.br",
-        "telefone": "+55 21 99188-6897",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "",
-        "bot": "Gilbertinho Amarelo (2373)",
-        "formatted": "👤 Cliente: Bianca\n📧 E-mail: biamef@yahoo.com.br\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99188-6897\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)"
-      },
-      "status": "morno",
-      "bot": "amarelo",
-      "consultor": "",
-      "message_count": 3,
-      "first_message_at": "2026-03-08T03:00:00.000Z",
-      "last_message_at": "2026-03-09T01:04:57.840000Z",
-      "last_bot_msg_at": "2026-03-08T22:04:52.078764",
-      "tempo_sem_interacao": "1 dia",
-      "first_id": 17478,
-      "last_id": 18089,
-      "last_message_preview": "Dados Fornecidos\nNome: Bianca\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não ...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados Fornecidos\nNome: Bianca\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não informado\nRegião: Não Informado\nPropaganda:\n",
-          "msg_time": "2026-03-08T22:04:52.074864"
-        },
-        {
-          "role": "ai",
-          "content": "Oi Bianca, eu sou o Gilberto da GW9 Saúde. Você pediu o nosso contato para saber mais sobre um plano de saúde e mencionou que tem interesse para 3 pessoas e que já possui um CNPJ. Pra te ajudar e ser mais assertivo, preciso confirmar mais algumas informações. Tudo bem?",
-          "msg_time": "2026-03-08T22:04:52.078764"
-        },
-        {
-          "role": "system",
-          "content": "\n",
-          "msg_time": "2026-03-10T11:00:59.855457"
         }
       ]
     },
@@ -4581,7 +4656,7 @@
       "first_message_at": "2026-03-10T03:00:00.000Z",
       "last_message_at": "2026-03-10T13:26:58.370000Z",
       "last_bot_msg_at": "2026-03-10T10:26:52.086822",
-      "tempo_sem_interacao": "4h 18min",
+      "tempo_sem_interacao": "4h 33min",
       "first_id": 18078,
       "last_id": 18079,
       "last_message_preview": "Dados Fornecidos\nNome: Cláudia\nContem CNPJ: não\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não...",
@@ -4648,7 +4723,7 @@
       "first_message_at": "2026-03-10T03:00:00.000Z",
       "last_message_at": "2026-03-10T13:09:15.815000Z",
       "last_bot_msg_at": "2026-03-10T10:09:15.284832",
-      "tempo_sem_interacao": "4h 35min",
+      "tempo_sem_interacao": "4h 50min",
       "first_id": 18049,
       "last_id": 18075,
       "last_message_preview": "Olá gostaria de mais informações dos Planos de Saúde  Sulamérica",
@@ -4831,7 +4906,7 @@
       "first_message_at": "2026-03-09T03:00:00.000Z",
       "last_message_at": "2026-03-10T12:26:01.951000Z",
       "last_bot_msg_at": "2026-03-10T09:26:01.281522",
-      "tempo_sem_interacao": "5h 19min",
+      "tempo_sem_interacao": "5h 34min",
       "first_id": 17992,
       "last_id": 18073,
       "last_message_preview": "Ok, aguardando",
@@ -6011,7 +6086,7 @@
       "first_message_at": "2026-03-10T10:50:37.569Z",
       "last_message_at": "2026-03-10T10:50:37.571Z",
       "last_bot_msg_at": "2026-03-10T07:50:37.571109",
-      "tempo_sem_interacao": "6h 54min",
+      "tempo_sem_interacao": "7h 9min",
       "first_id": 18035,
       "last_id": 18036,
       "last_message_preview": "Dados Fornecidos\nNome: Glaucia\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não...",
@@ -6071,7 +6146,7 @@
       "first_message_at": "2026-03-10T03:00:00.000Z",
       "last_message_at": "2026-03-10T10:48:56.648000Z",
       "last_bot_msg_at": "2026-03-10T07:48:51.636995",
-      "tempo_sem_interacao": "6h 56min",
+      "tempo_sem_interacao": "7h 11min",
       "first_id": 18033,
       "last_id": 18034,
       "last_message_preview": "Dados Fornecidos\nNome: Sumas\nContem CNPJ: não\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não i...",
@@ -6131,7 +6206,7 @@
       "first_message_at": "2026-03-09T03:00:00.000Z",
       "last_message_at": "2026-03-10T02:42:58.972000Z",
       "last_bot_msg_at": "2026-03-09T23:42:53.597042",
-      "tempo_sem_interacao": "15h 2min",
+      "tempo_sem_interacao": "15h 17min",
       "first_id": 18015,
       "last_id": 18016,
       "last_message_preview": "Dados Fornecidos\nNome: Alan\nContem CNPJ: sim\nNumero de Vidas: 4_vidas\nOperadora de Interesse: não in...",
@@ -6191,7 +6266,7 @@
       "first_message_at": "2026-03-09T03:00:00.000Z",
       "last_message_at": "2026-03-10T00:43:46.004000Z",
       "last_bot_msg_at": "2026-03-09T21:43:45.468561",
-      "tempo_sem_interacao": "17h 1min",
+      "tempo_sem_interacao": "17h 16min",
       "first_id": 18013,
       "last_id": 18014,
       "last_message_preview": "Olá Gostaria de uma cotação de um Plano de Saúde Amil",
@@ -6251,7 +6326,7 @@
       "first_message_at": "2025-12-15T03:00:00.000Z",
       "last_message_at": "2026-03-10T00:40:34.183Z",
       "last_bot_msg_at": "2026-03-10T00:40:34.183Z",
-      "tempo_sem_interacao": "14h 4min",
+      "tempo_sem_interacao": "14h 19min",
       "first_id": 742,
       "last_id": 18012,
       "last_message_preview": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de men...",
@@ -6708,7 +6783,7 @@
       "first_message_at": "2025-12-08T03:00:00.000Z",
       "last_message_at": "2026-03-10T00:37:13.347Z",
       "last_bot_msg_at": "2026-03-10T00:37:13.347Z",
-      "tempo_sem_interacao": "14h 7min",
+      "tempo_sem_interacao": "14h 22min",
       "first_id": 77,
       "last_id": 18006,
       "last_message_preview": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de men...",
@@ -7008,7 +7083,7 @@
       "first_message_at": "2026-03-09T03:00:00.000Z",
       "last_message_at": "2026-03-10T00:11:59.623000Z",
       "last_bot_msg_at": "2026-03-09T21:11:52.705032",
-      "tempo_sem_interacao": "17h 33min",
+      "tempo_sem_interacao": "17h 48min",
       "first_id": 17994,
       "last_id": 17995,
       "last_message_preview": "Dados Fornecidos\nNome: juan\nContem CNPJ: não\nNumero de Vidas: 4_vidas\nOperadora de Interesse: não in...",
@@ -7721,7 +7796,7 @@
       "first_message_at": "2025-12-15T03:00:00.000Z",
       "last_message_at": "2026-03-09T20:28:45.173Z",
       "last_bot_msg_at": "2026-03-09T20:28:45.173Z",
-      "tempo_sem_interacao": "18h 16min",
+      "tempo_sem_interacao": "18h 31min",
       "first_id": 1156,
       "last_id": 17893,
       "last_message_preview": "Mandei áudio lá",
@@ -8670,7 +8745,7 @@
       "first_message_at": "2026-02-05T03:00:00.000Z",
       "last_message_at": "2026-03-09T15:02:59.179Z",
       "last_bot_msg_at": "2026-03-09T15:02:59.179Z",
-      "tempo_sem_interacao": "23h 42min",
+      "tempo_sem_interacao": "23h 57min",
       "first_id": 12448,
       "last_id": 17663,
       "last_message_preview": "Me mandaram agora\n\nConsegue me enviar a lista de documentos que precisa\n\no que?\n\nde qual numero?\n\nO ...",
@@ -13751,7 +13826,7 @@
       "first_message_at": "2026-03-06T03:00:00.000Z",
       "last_message_at": "2026-03-06T17:50:09.068000Z",
       "last_bot_msg_at": "2026-03-06T14:50:08.280082",
-      "tempo_sem_interacao": "3 dias",
+      "tempo_sem_interacao": "4 dias",
       "first_id": 16809,
       "last_id": 16852,
       "last_message_preview": "Bt",
@@ -27034,121 +27109,6 @@
         {
           "role": "ai",
           "content": "Oi Rosa, eu sou o Gilberto da GW9 Saúde. Você pediu nosso contato porque está interessada em contratar um plano de saúde para 2 pessoas! Para te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo bem?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        }
-      ]
-    },
-    {
-      "session_id": "5521998423486@s.whatsapp.net",
-      "phone": "5521998423486",
-      "phone_display": "+55 21 99842-3486",
-      "lead": {
-        "baserow_id": 897,
-        "nome": "Janaina",
-        "email": "janainaenf13@gmail.com",
-        "qtd_vidas": "",
-        "desinteresse": false,
-        "gilbertinho_off": true,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Janaina",
-        "email": "janainaenf13@gmail.com",
-        "telefone": "+55 21 99842-3486",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "",
-        "bot": "Gilbertinho Amarelo (2373)",
-        "formatted": "👤 Cliente: Janaina\n📧 E-mail: janainaenf13@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99842-3486\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)"
-      },
-      "status": "morno",
-      "bot": "amarelo",
-      "consultor": "",
-      "message_count": 13,
-      "first_message_at": "2026-02-28T03:00:00.000Z",
-      "last_message_at": "2026-02-28T14:31:43.468000Z",
-      "last_bot_msg_at": "2026-03-05T22:36:17.247927",
-      "tempo_sem_interacao": "4 dias",
-      "first_id": 14470,
-      "last_id": 15239,
-      "last_message_preview": "eu ja mandei ontem",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados Fornecidos\nNome: Janaina\nContem CNPJ: não\nNumero de Vidas: 2_vidas\nOperadora de Interesse: não informado\nRegião: Não Informado\nPropaganda:\n",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Oi Janaina, eu sou o Gilberto da GW9 Saúde. Você pediu o nosso contato para saber mais sobre plano de saúde e mencionou que está interessada em contratar para 2 vidas. Para te ajudar melhor, preciso confirmar algumas informações rápidas, tudo bem?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "sim",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Legal, Janaina! 😊 Para entender certinho, me diga por favor: as duas pessoas são você e mais alguém? Quais as idades e em qual cidade vocês querem usar o plano? E prefere plano no CPF ou em alguma empresa? Pode falar tudo de uma vez ou por áudio 🎙️.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "Janaina, ainda está por aí? Estou aguardando sua resposta para dar sequência.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Qual??\n\nessa",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Janaina, você quer confirmar se é esse plano para 2 vidas mesmo, certo? Para seguir, só preciso saber as idades e a cidade onde o plano será usado. Pode me passar?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "pode ser esse q eu te mandei ontem quando vc pediu",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Janaina, obrigado por avisar! Para garantir que eu tenho todas as informações corretas do plano que me enviou ontem, poderia me confirmar as idades das pessoas e a cidade onde vão usar o plano? Isso ajuda o especialista a preparar as melhores opções pra você.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "eu ja mandei ontem",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Janaina, entendi que você já enviou antes. Pra garantir que nada ficou faltando, só preciso confirmar rapidamente: as idades são as mesmas que você enviou ontem e a cidade também, certo?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "Janaina, ainda está por aí? Estou aguardando sua resposta para dar sequência.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "Boa tarde, tudo bem? \n\nPreciso de algumas informações para conseguir te ajudar, ok?",
           "msg_time": "2026-03-05T22:36:17.247927"
         }
       ]
