@@ -1,17 +1,94 @@
 {
   "meta": {
-    "generated_at": "2026-03-13T13:00:49.130Z",
+    "generated_at": "2026-03-13T13:15:44.487Z",
     "total_conversations": 200,
-    "total_messages": 4751,
+    "total_messages": 4753,
     "stats": {
-      "quente": 36,
+      "quente": 37,
       "morno": 125,
-      "frio": 39,
+      "frio": 38,
       "desinteresse": 0,
       "sem_classificacao": 0
     }
   },
   "conversations": [
+    {
+      "session_id": "5521974375756@s.whatsapp.net",
+      "phone": "5521974375756",
+      "phone_display": "+55 21 97437-5756",
+      "lead": {
+        "baserow_id": 1164,
+        "nome": "Débora Leal",
+        "email": "",
+        "qtd_vidas": 2,
+        "desinteresse": false,
+        "gilbertinho_off": false,
+        "observacoes": "",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Débora Leal",
+        "email": "",
+        "telefone": "+55 21 97437-5756",
+        "vidas": [
+          {
+            "idade": 43
+          },
+          {
+            "idade": 7
+          }
+        ],
+        "cidade": "Rio de Janeiro / RJ",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "MEI",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "Sulamérica",
+        "rede_preferencial": "Rede D'Or",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Débora Leal\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97437-5756\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nDébora Leal — 43 anos\nDependente 1 — 7 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n🎯 Rede preferencial: Rede D'Or\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "quente",
+      "bot": "preto",
+      "consultor": "",
+      "message_count": 4,
+      "first_message_at": "2026-03-13T03:00:00.000Z",
+      "last_message_at": "2026-03-13T13:01:11.388000Z",
+      "last_bot_msg_at": "2026-03-13T10:01:10.811317",
+      "tempo_sem_interacao": "3h 14min",
+      "first_id": 18876,
+      "last_id": 18881,
+      "last_message_preview": "Dados do lead no sistema:\nNome: Débora Leal\n\nMensagem(ns) do cliente:\n2 pessoas \n43 anos e 7 anos \nR...",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: \n\nMensagem(ns) do cliente:\nOlá gostaria de mais informações dos Planos de Saúde  Sulamérica",
+          "msg_time": "2026-03-13T09:46:06.071766"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Eu sou Gilberto, analista em Plano Saúde da Corretora GW9.\nTrabalhamos com todos os Planos de saúde no Rio de Janeiro. 🚀\nComo os valores dos Planos de saúde são tabelados e os preços mudam de acordo com a rede credenciada. Minha missão é de te ajudar a encontrar o produto que melhor lhe atenda na relação custo x acesso.\n\nPor isso vou te fazer algumas perguntas, pode me dizer:\n1️⃣ Quantas pessoas são e as idades?\n2️⃣ Qual a cidade que busca atendimento? Se tiver algum hospital de sua preferência, me informe, também nos ajuda.\n3️⃣ Como o plano será contratado: empresarial (CNPJ/MEI)?\n4️⃣ Já possui Plano atualmente? Se sim qual?\n\nPode responder por áudio se preferir. 🎙️",
+          "msg_time": "2026-03-13T09:46:06.074268"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: Débora Leal\n\nMensagem(ns) do cliente:\n2 pessoas \n43 anos e 7 anos \nRio de Janeiro \nRede Dor ou hospital Vitória \nMei",
+          "msg_time": "2026-03-13T10:01:10.80654"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Débora. São 2 pessoas, idades 43 e 7 anos, no Rio de Janeiro, com preferência pela Rede D'Or ou Hospital Vitória, e o plano será contratado como MEI. Só para confirmar, você já possui plano atualmente? Se sim, qual?",
+          "msg_time": "2026-03-13T10:01:10.811317"
+        }
+      ]
+    },
     {
       "session_id": "5521964354897@s.whatsapp.net",
       "phone": "5521964354897",
@@ -55,7 +132,7 @@
       "first_message_at": "2026-03-13T03:00:00.000Z",
       "last_message_at": "2026-03-13T12:49:00.352000Z",
       "last_bot_msg_at": "2026-03-13T09:48:53.180871",
-      "tempo_sem_interacao": "3h 11min",
+      "tempo_sem_interacao": "3h 26min",
       "first_id": 18878,
       "last_id": 18879,
       "last_message_preview": "Dados Fornecidos\nNome: Sergio\nContem CNPJ: sim\nNumero de Vidas: 2_vidas\nOperadora de Interesse: não ...",
@@ -69,66 +146,6 @@
           "role": "ai",
           "content": "Oi Sergio, eu sou o Gilberto da GW9 Saúde. Você pediu o nosso contato para saber mais sobre Plano de Saúde e mencionou que possui um CNPJ e que está buscando para 2 pessoas. Pra te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo certo?",
           "msg_time": "2026-03-13T09:48:53.180871"
-        }
-      ]
-    },
-    {
-      "session_id": "5521974375756@s.whatsapp.net",
-      "phone": "5521974375756",
-      "phone_display": "+55 21 97437-5756",
-      "lead": {
-        "baserow_id": 1164,
-        "nome": "Débora Leal",
-        "email": "",
-        "qtd_vidas": "",
-        "desinteresse": false,
-        "gilbertinho_off": false,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Débora Leal",
-        "email": "",
-        "telefone": "+55 21 97437-5756",
-        "vidas": [],
-        "cidade": "Rio de Janeiro / RJ",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "MEI",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "Sulamérica",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Débora Leal\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97437-5756\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "frio",
-      "bot": "preto",
-      "consultor": "",
-      "message_count": 2,
-      "first_message_at": "2026-03-13T03:00:00.000Z",
-      "last_message_at": "2026-03-13T12:46:06.709000Z",
-      "last_bot_msg_at": "2026-03-13T09:46:06.074268",
-      "tempo_sem_interacao": "3h 14min",
-      "first_id": 18876,
-      "last_id": 18877,
-      "last_message_preview": "Dados do lead no sistema:\nNome: \n\nMensagem(ns) do cliente:\nOlá gostaria de mais informações dos Plan...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: \n\nMensagem(ns) do cliente:\nOlá gostaria de mais informações dos Planos de Saúde  Sulamérica",
-          "msg_time": "2026-03-13T09:46:06.071766"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Eu sou Gilberto, analista em Plano Saúde da Corretora GW9.\nTrabalhamos com todos os Planos de saúde no Rio de Janeiro. 🚀\nComo os valores dos Planos de saúde são tabelados e os preços mudam de acordo com a rede credenciada. Minha missão é de te ajudar a encontrar o produto que melhor lhe atenda na relação custo x acesso.\n\nPor isso vou te fazer algumas perguntas, pode me dizer:\n1️⃣ Quantas pessoas são e as idades?\n2️⃣ Qual a cidade que busca atendimento? Se tiver algum hospital de sua preferência, me informe, também nos ajuda.\n3️⃣ Como o plano será contratado: empresarial (CNPJ/MEI)?\n4️⃣ Já possui Plano atualmente? Se sim qual?\n\nPode responder por áudio se preferir. 🎙️",
-          "msg_time": "2026-03-13T09:46:06.074268"
         }
       ]
     },
@@ -175,7 +192,7 @@
       "first_message_at": "2026-03-12T03:00:00.000Z",
       "last_message_at": "2026-03-12T17:53:30.807000Z",
       "last_bot_msg_at": "2026-03-12T14:53:30.27148",
-      "tempo_sem_interacao": "22h 7min",
+      "tempo_sem_interacao": "22h 22min",
       "first_id": 18641,
       "last_id": 18875,
       "last_message_preview": "Já repassei a diretora agora estou aguardando",
@@ -773,7 +790,7 @@
       "first_message_at": "2026-03-13T03:00:00.000Z",
       "last_message_at": "2026-03-13T12:11:02.136000Z",
       "last_bot_msg_at": "2026-03-13T09:11:01.429462",
-      "tempo_sem_interacao": "3h 49min",
+      "tempo_sem_interacao": "4h 4min",
       "first_id": 18847,
       "last_id": 18870,
       "last_message_preview": "Dados do lead no sistema:\nNome: Luan\n\nMensagem(ns) do cliente:\nSim",
@@ -878,7 +895,7 @@
       "first_message_at": "2026-03-13T03:00:00.000Z",
       "last_message_at": "2026-03-13T12:04:43.098000Z",
       "last_bot_msg_at": "2026-03-13T09:04:42.568179",
-      "tempo_sem_interacao": "3h 56min",
+      "tempo_sem_interacao": "4h 11min",
       "first_id": 18864,
       "last_id": 18865,
       "last_message_preview": "Dados do lead no sistema:\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano d...",
@@ -954,7 +971,7 @@
       "first_message_at": "2026-03-12T03:00:00.000Z",
       "last_message_at": "2026-03-13T11:35:32.754000Z",
       "last_bot_msg_at": "2026-03-13T08:35:32.251369",
-      "tempo_sem_interacao": "4h 25min",
+      "tempo_sem_interacao": "4h 40min",
       "first_id": 18841,
       "last_id": 18862,
       "last_message_preview": "Dados do lead no sistema:\nNome: Laysa Corrêa\n\nMensagem(ns) do cliente:\n10, 1, 36 , 37 e 63",
@@ -1314,7 +1331,7 @@
       "first_message_at": "2026-03-13T03:00:00.000Z",
       "last_message_at": "2026-03-13T10:20:00.917000Z",
       "last_bot_msg_at": "2026-03-13T07:19:52.833102",
-      "tempo_sem_interacao": "5h 40min",
+      "tempo_sem_interacao": "5h 55min",
       "first_id": 18855,
       "last_id": 18856,
       "last_message_preview": "Dados Fornecidos\nNome: Anderson\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: nã...",
@@ -1374,7 +1391,7 @@
       "first_message_at": "2026-03-12T03:00:00.000Z",
       "last_message_at": "2026-03-13T01:45:36.664000Z",
       "last_bot_msg_at": "2026-03-12T22:45:36.160952",
-      "tempo_sem_interacao": "14h 15min",
+      "tempo_sem_interacao": "14h 30min",
       "first_id": 18843,
       "last_id": 18844,
       "last_message_preview": "Dados do lead no sistema:\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano d...",
@@ -1434,7 +1451,7 @@
       "first_message_at": "2026-03-12T03:00:00.000Z",
       "last_message_at": "2026-03-12T20:59:24.258000Z",
       "last_bot_msg_at": "2026-03-12T17:59:23.785716",
-      "tempo_sem_interacao": "19h 1min",
+      "tempo_sem_interacao": "19h 16min",
       "first_id": 18718,
       "last_id": 18802,
       "last_message_preview": "Eu era mei e tive que mudar para o simples nacional",
@@ -1744,7 +1761,7 @@
       "first_message_at": "2026-03-12T03:00:00.000Z",
       "last_message_at": "2026-03-12T20:36:16.047000Z",
       "last_bot_msg_at": "2026-03-12T17:36:15.5301",
-      "tempo_sem_interacao": "19h 24min",
+      "tempo_sem_interacao": "19h 39min",
       "first_id": 18721,
       "last_id": 18722,
       "last_message_preview": "Dados do lead no sistema:\nNome: \n\nMensagem(ns) do cliente:\nBoa Tarde ! No momento não tenho interess...",
@@ -1811,7 +1828,7 @@
       "first_message_at": "2025-12-08T03:00:00.000Z",
       "last_message_at": "2026-03-12T20:12:10.423Z",
       "last_bot_msg_at": "2026-03-12T20:12:10.423Z",
-      "tempo_sem_interacao": "16h 48min",
+      "tempo_sem_interacao": "17h 3min",
       "first_id": 77,
       "last_id": 18716,
       "last_message_preview": "<ContextoPDF>\n  <TranscricaoPDF>\nREDE CREDENCIADA\nBronze Mais\nHOSPITAIS\nZONA NORTE\nRio de Janeiro\n• ...",
@@ -2118,7 +2135,7 @@
       "first_message_at": "2025-12-15T03:00:00.000Z",
       "last_message_at": "2026-03-12T18:57:05.706Z",
       "last_bot_msg_at": "2026-03-12T18:57:05.706Z",
-      "tempo_sem_interacao": "18h 3min",
+      "tempo_sem_interacao": "18h 18min",
       "first_id": 742,
       "last_id": 18695,
       "last_message_preview": "sim, esperando rsponder",
@@ -7789,7 +7806,7 @@
       "first_message_at": "2026-03-10T03:00:00.000Z",
       "last_message_at": "2026-03-10T16:11:59.785000Z",
       "last_bot_msg_at": "2026-03-10T13:11:53.052873",
-      "tempo_sem_interacao": "2 dias",
+      "tempo_sem_interacao": "3 dias",
       "first_id": 18258,
       "last_id": 18259,
       "last_message_preview": "Dados Fornecidos\nNome: Vera\nContem CNPJ: sim\nNumero de Vidas: 4_vidas\nOperadora de Interesse: não in...",
@@ -9736,7 +9753,7 @@
       "first_message_at": "2026-03-08T03:00:00.000Z",
       "last_message_at": "2026-03-09T16:02:35.877000Z",
       "last_bot_msg_at": "2026-03-09T13:02:35.32078",
-      "tempo_sem_interacao": "3 dias",
+      "tempo_sem_interacao": "4 dias",
       "first_id": 17315,
       "last_id": 18176,
       "last_message_preview": "Estou aguardando a cotação\n\nPode me enviar por WhatsApp",
@@ -13135,8 +13152,8 @@
         "email": "j.siquara@yahoo.com.br",
         "qtd_vidas": "",
         "desinteresse": false,
-        "gilbertinho_off": false,
-        "observacoes": "",
+        "gilbertinho_off": true,
+        "observacoes": "Registro interno: Encaminhado ao consultor.\nNome do lead: juan\nQuantidade de vidas: 4",
         "reagendamento": null,
         "corretor": "",
         "temperatura": ""
@@ -13157,9 +13174,9 @@
         "rede_preferencial": "",
         "contato": "WhatsApp",
         "consultor": "",
-        "obs_crm": "",
+        "obs_crm": "Registro interno: Encaminhado ao consultor.\nNome do lead: juan\nQuantidade de vidas: 4",
         "bot": "Gilbertinho Amarelo (2373)",
-        "formatted": "👤 Cliente: juan\n📧 E-mail: j.siquara@yahoo.com.br\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97152-4670\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Amarelo (2373)"
+        "formatted": "👤 Cliente: juan\n📧 E-mail: j.siquara@yahoo.com.br\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97152-4670\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: juan\nQuantidade de vidas: 4\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Amarelo (2373)"
       },
       "status": "frio",
       "bot": "amarelo",
@@ -13636,7 +13653,7 @@
       "first_message_at": "2026-03-07T03:00:00.000Z",
       "last_message_at": "2026-03-09T16:08:31.061000Z",
       "last_bot_msg_at": "2026-03-09T13:08:30.614223",
-      "tempo_sem_interacao": "3 dias",
+      "tempo_sem_interacao": "4 dias",
       "first_id": 17237,
       "last_id": 17928,
       "last_message_preview": "Combinado",
@@ -14268,7 +14285,7 @@
       "first_message_at": "2026-03-09T03:00:00.000Z",
       "last_message_at": "2026-03-09T16:15:41.613000Z",
       "last_bot_msg_at": "2026-03-09T13:15:41.197945",
-      "tempo_sem_interacao": "3 dias",
+      "tempo_sem_interacao": "4 dias",
       "first_id": 17743,
       "last_id": 17762,
       "last_message_preview": "Hoje a tarde",
