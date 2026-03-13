@@ -1,17 +1,137 @@
 {
   "meta": {
-    "generated_at": "2026-03-13T12:45:42.229Z",
+    "generated_at": "2026-03-13T13:00:49.130Z",
     "total_conversations": 200,
-    "total_messages": 4817,
+    "total_messages": 4751,
     "stats": {
       "quente": 36,
-      "morno": 127,
-      "frio": 37,
+      "morno": 125,
+      "frio": 39,
       "desinteresse": 0,
       "sem_classificacao": 0
     }
   },
   "conversations": [
+    {
+      "session_id": "5521964354897@s.whatsapp.net",
+      "phone": "5521964354897",
+      "phone_display": "+55 21 96435-4897",
+      "lead": {
+        "baserow_id": 1165,
+        "nome": "Sergio",
+        "email": "drsergiovasconcelos3@gmail.com",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "gilbertinho_off": false,
+        "observacoes": "",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Sergio",
+        "email": "drsergiovasconcelos3@gmail.com",
+        "telefone": "+55 21 96435-4897",
+        "vidas": [],
+        "cidade": "",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "",
+        "bot": "Gilbertinho Amarelo (2373)",
+        "formatted": "👤 Cliente: Sergio\n📧 E-mail: drsergiovasconcelos3@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96435-4897\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Amarelo (2373)"
+      },
+      "status": "frio",
+      "bot": "amarelo",
+      "consultor": "",
+      "message_count": 2,
+      "first_message_at": "2026-03-13T03:00:00.000Z",
+      "last_message_at": "2026-03-13T12:49:00.352000Z",
+      "last_bot_msg_at": "2026-03-13T09:48:53.180871",
+      "tempo_sem_interacao": "3h 11min",
+      "first_id": 18878,
+      "last_id": 18879,
+      "last_message_preview": "Dados Fornecidos\nNome: Sergio\nContem CNPJ: sim\nNumero de Vidas: 2_vidas\nOperadora de Interesse: não ...",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados Fornecidos\nNome: Sergio\nContem CNPJ: sim\nNumero de Vidas: 2_vidas\nOperadora de Interesse: não informado\nRegião: Não Informado\nPropaganda:\n",
+          "msg_time": "2026-03-13T09:48:53.177684"
+        },
+        {
+          "role": "ai",
+          "content": "Oi Sergio, eu sou o Gilberto da GW9 Saúde. Você pediu o nosso contato para saber mais sobre Plano de Saúde e mencionou que possui um CNPJ e que está buscando para 2 pessoas. Pra te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo certo?",
+          "msg_time": "2026-03-13T09:48:53.180871"
+        }
+      ]
+    },
+    {
+      "session_id": "5521974375756@s.whatsapp.net",
+      "phone": "5521974375756",
+      "phone_display": "+55 21 97437-5756",
+      "lead": {
+        "baserow_id": 1164,
+        "nome": "Débora Leal",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "gilbertinho_off": false,
+        "observacoes": "",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Débora Leal",
+        "email": "",
+        "telefone": "+55 21 97437-5756",
+        "vidas": [],
+        "cidade": "Rio de Janeiro / RJ",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "MEI",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "Sulamérica",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Débora Leal\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97437-5756\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "frio",
+      "bot": "preto",
+      "consultor": "",
+      "message_count": 2,
+      "first_message_at": "2026-03-13T03:00:00.000Z",
+      "last_message_at": "2026-03-13T12:46:06.709000Z",
+      "last_bot_msg_at": "2026-03-13T09:46:06.074268",
+      "tempo_sem_interacao": "3h 14min",
+      "first_id": 18876,
+      "last_id": 18877,
+      "last_message_preview": "Dados do lead no sistema:\nNome: \n\nMensagem(ns) do cliente:\nOlá gostaria de mais informações dos Plan...",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: \n\nMensagem(ns) do cliente:\nOlá gostaria de mais informações dos Planos de Saúde  Sulamérica",
+          "msg_time": "2026-03-13T09:46:06.071766"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Eu sou Gilberto, analista em Plano Saúde da Corretora GW9.\nTrabalhamos com todos os Planos de saúde no Rio de Janeiro. 🚀\nComo os valores dos Planos de saúde são tabelados e os preços mudam de acordo com a rede credenciada. Minha missão é de te ajudar a encontrar o produto que melhor lhe atenda na relação custo x acesso.\n\nPor isso vou te fazer algumas perguntas, pode me dizer:\n1️⃣ Quantas pessoas são e as idades?\n2️⃣ Qual a cidade que busca atendimento? Se tiver algum hospital de sua preferência, me informe, também nos ajuda.\n3️⃣ Como o plano será contratado: empresarial (CNPJ/MEI)?\n4️⃣ Já possui Plano atualmente? Se sim qual?\n\nPode responder por áudio se preferir. 🎙️",
+          "msg_time": "2026-03-13T09:46:06.074268"
+        }
+      ]
+    },
     {
       "session_id": "5521981881979@s.whatsapp.net",
       "phone": "5521981881979",
@@ -55,7 +175,7 @@
       "first_message_at": "2026-03-12T03:00:00.000Z",
       "last_message_at": "2026-03-12T17:53:30.807000Z",
       "last_bot_msg_at": "2026-03-12T14:53:30.27148",
-      "tempo_sem_interacao": "21h 52min",
+      "tempo_sem_interacao": "22h 7min",
       "first_id": 18641,
       "last_id": 18875,
       "last_message_preview": "Já repassei a diretora agora estou aguardando",
@@ -653,7 +773,7 @@
       "first_message_at": "2026-03-13T03:00:00.000Z",
       "last_message_at": "2026-03-13T12:11:02.136000Z",
       "last_bot_msg_at": "2026-03-13T09:11:01.429462",
-      "tempo_sem_interacao": "3h 34min",
+      "tempo_sem_interacao": "3h 49min",
       "first_id": 18847,
       "last_id": 18870,
       "last_message_preview": "Dados do lead no sistema:\nNome: Luan\n\nMensagem(ns) do cliente:\nSim",
@@ -758,7 +878,7 @@
       "first_message_at": "2026-03-13T03:00:00.000Z",
       "last_message_at": "2026-03-13T12:04:43.098000Z",
       "last_bot_msg_at": "2026-03-13T09:04:42.568179",
-      "tempo_sem_interacao": "3h 40min",
+      "tempo_sem_interacao": "3h 56min",
       "first_id": 18864,
       "last_id": 18865,
       "last_message_preview": "Dados do lead no sistema:\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano d...",
@@ -834,7 +954,7 @@
       "first_message_at": "2026-03-12T03:00:00.000Z",
       "last_message_at": "2026-03-13T11:35:32.754000Z",
       "last_bot_msg_at": "2026-03-13T08:35:32.251369",
-      "tempo_sem_interacao": "4h 10min",
+      "tempo_sem_interacao": "4h 25min",
       "first_id": 18841,
       "last_id": 18862,
       "last_message_preview": "Dados do lead no sistema:\nNome: Laysa Corrêa\n\nMensagem(ns) do cliente:\n10, 1, 36 , 37 e 63",
@@ -1194,7 +1314,7 @@
       "first_message_at": "2026-03-13T03:00:00.000Z",
       "last_message_at": "2026-03-13T10:20:00.917000Z",
       "last_bot_msg_at": "2026-03-13T07:19:52.833102",
-      "tempo_sem_interacao": "5h 25min",
+      "tempo_sem_interacao": "5h 40min",
       "first_id": 18855,
       "last_id": 18856,
       "last_message_preview": "Dados Fornecidos\nNome: Anderson\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: nã...",
@@ -1254,7 +1374,7 @@
       "first_message_at": "2026-03-12T03:00:00.000Z",
       "last_message_at": "2026-03-13T01:45:36.664000Z",
       "last_bot_msg_at": "2026-03-12T22:45:36.160952",
-      "tempo_sem_interacao": "14h",
+      "tempo_sem_interacao": "14h 15min",
       "first_id": 18843,
       "last_id": 18844,
       "last_message_preview": "Dados do lead no sistema:\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano d...",
@@ -1314,7 +1434,7 @@
       "first_message_at": "2026-03-12T03:00:00.000Z",
       "last_message_at": "2026-03-12T20:59:24.258000Z",
       "last_bot_msg_at": "2026-03-12T17:59:23.785716",
-      "tempo_sem_interacao": "18h 46min",
+      "tempo_sem_interacao": "19h 1min",
       "first_id": 18718,
       "last_id": 18802,
       "last_message_preview": "Eu era mei e tive que mudar para o simples nacional",
@@ -1624,7 +1744,7 @@
       "first_message_at": "2026-03-12T03:00:00.000Z",
       "last_message_at": "2026-03-12T20:36:16.047000Z",
       "last_bot_msg_at": "2026-03-12T17:36:15.5301",
-      "tempo_sem_interacao": "19h 9min",
+      "tempo_sem_interacao": "19h 24min",
       "first_id": 18721,
       "last_id": 18722,
       "last_message_preview": "Dados do lead no sistema:\nNome: \n\nMensagem(ns) do cliente:\nBoa Tarde ! No momento não tenho interess...",
@@ -1691,7 +1811,7 @@
       "first_message_at": "2025-12-08T03:00:00.000Z",
       "last_message_at": "2026-03-12T20:12:10.423Z",
       "last_bot_msg_at": "2026-03-12T20:12:10.423Z",
-      "tempo_sem_interacao": "16h 33min",
+      "tempo_sem_interacao": "16h 48min",
       "first_id": 77,
       "last_id": 18716,
       "last_message_preview": "<ContextoPDF>\n  <TranscricaoPDF>\nREDE CREDENCIADA\nBronze Mais\nHOSPITAIS\nZONA NORTE\nRio de Janeiro\n• ...",
@@ -1998,7 +2118,7 @@
       "first_message_at": "2025-12-15T03:00:00.000Z",
       "last_message_at": "2026-03-12T18:57:05.706Z",
       "last_bot_msg_at": "2026-03-12T18:57:05.706Z",
-      "tempo_sem_interacao": "17h 48min",
+      "tempo_sem_interacao": "18h 3min",
       "first_id": 742,
       "last_id": 18695,
       "last_message_preview": "sim, esperando rsponder",
@@ -5892,7 +6012,7 @@
       "first_message_at": "2026-03-10T03:00:00.000Z",
       "last_message_at": "2026-03-10T15:54:55.200000Z",
       "last_bot_msg_at": "2026-03-10T12:54:54.721322",
-      "tempo_sem_interacao": "2 dias",
+      "tempo_sem_interacao": "3 dias",
       "first_id": 18140,
       "last_id": 18279,
       "last_message_preview": "Obrigada!",
@@ -7739,7 +7859,7 @@
       "first_message_at": "2026-03-10T03:00:00.000Z",
       "last_message_at": "2026-03-10T15:49:18.031000Z",
       "last_bot_msg_at": "2026-03-10T12:49:17.573718",
-      "tempo_sem_interacao": "2 dias",
+      "tempo_sem_interacao": "3 dias",
       "first_id": 18240,
       "last_id": 18253,
       "last_message_preview": "O Especialista João vai te passar algumas opções para você avaliar.\n\nCombinado ?\n\nOk",
@@ -26074,456 +26194,6 @@
         {
           "role": "system",
           "content": "Elaine, imagino que esteja ocupada, sem problema. Quando tiver um tempo, estou à disposição para te ajudar com qualquer dúvida sobre planos de saúde.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "\n",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        }
-      ]
-    },
-    {
-      "session_id": "5521983954144@s.whatsapp.net",
-      "phone": "5521983954144",
-      "phone_display": "+55 21 98395-4144",
-      "lead": {
-        "baserow_id": 939,
-        "nome": "Sensei Adriana",
-        "email": "",
-        "qtd_vidas": "",
-        "desinteresse": false,
-        "gilbertinho_off": true,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Sensei Adriana",
-        "email": "",
-        "telefone": "+55 21 98395-4144",
-        "vidas": [],
-        "cidade": "Rio de Janeiro / RJ",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "Nenhum",
-        "motivo": "Prevenção\nIncluir novas vidas",
-        "interesse": "Sulamérica",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Sensei Adriana\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98395-4144\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\n\n🏥 Plano atual: Nenhum\n\n😤 Motivo da troca:\n\nPrevenção\nIncluir novas vidas\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "morno",
-      "bot": "preto",
-      "consultor": "",
-      "message_count": 25,
-      "first_message_at": "2026-03-02T03:00:00.000Z",
-      "last_message_at": "2026-03-03T01:07:08.280000Z",
-      "last_bot_msg_at": "2026-03-05T22:36:17.247927",
-      "tempo_sem_interacao": "7 dias",
-      "first_id": 15056,
-      "last_id": 16225,
-      "last_message_preview": "Terça ou quinta período da tarde",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Olá gostaria de mais informações dos Planos de Saúde  Sulamérica",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Eu sou Gilberto, analista em Plano Saúde da Corretora GW9. 🚀\nTrabalhamos com todos os Planos de saúde no Rio de Janeiro. Vou te ajudar a entender as melhores opções de plano e, se fizer sentido, já deixo tudo organizado para o especialista te atender de forma objetiva. Pode ser?\nQual o seu nome?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "[Nome], ainda está por aí? Estou aguardando sua resposta para dar sequência.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "Como comentei antes, preciso dessas informações para te enviar as melhores opções de plano de saúde. Qual é o seu nome?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Adriana",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Perfeito, Adriana!\nPra eu te apresentar as opções certas, preciso entender o perfil de quem vai entrar no plano.\n\nPode me dizer:\n1️⃣ Quantas pessoas são e as idades?\n2️⃣ Qual a cidade?\n3️⃣ Prefere fazer no CPF ou CNPJ?\n\n(Pode responder por áudio 🎙️ se preferir)",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "1 pessoa\nRj\nCPF",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Adriana, para você mesmo no Rio de Janeiro e CPF.\nE pra fechar essa parte inicial:\nVocê já possui algum plano hoje ou está sem?\nTem algum hospital ou médico que fazem questão de ter na rede?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Estou sem plano\n\nNenhum",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Adriana. Sem plano atualmente e sem preferência especial por rede.\n\nE o que mais te motivou a buscar essa segurança agora? Alguma preocupação ou prevenção específica?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Idade",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Claro! Para confirmar, qual a sua idade, Adriana? Isso ajuda a definir as melhores opções para você.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "51",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Obrigado, Adriana. Agora só para fechar, qual sua profissão ou ocupação principal? Isso ajuda no contato com as seguradoras.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Professora",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Então, Adriana, pelo que entendi, é um plano individual no RJ, você está sem plano atualmente, tem 51 anos e é professora. Está correto?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Sim",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Com esse contexto, o especialista consegue ir direto ao ponto e evitar opções que não façam sentido pra você.\n\nQual o melhor dia e horário para o especialista entrar em contato?\nPrefere WhatsApp, ligação ou vídeo?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "WhatsApp",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Qual o melhor dia e horário para o contato pelo WhatsApp? Pode me informar a data e hora que prefere, por favor?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Terça ou quinta período da tarde",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Obrigado, Adriana. Para confirmar, terça-feira 14h ou quinta-feira 15h, qual prefere? Assim já deixo tudo certo para o especialista te ligar no WhatsApp.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "\n",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "\n",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "\n",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        }
-      ]
-    },
-    {
-      "session_id": "5521964297283@s.whatsapp.net",
-      "phone": "5521964297283",
-      "phone_display": "+55 21 96429-7283",
-      "lead": {
-        "baserow_id": 937,
-        "nome": "Elaine Cristine",
-        "email": "nanycris2000@hotmail.com",
-        "qtd_vidas": "",
-        "desinteresse": false,
-        "gilbertinho_off": true,
-        "observacoes": "Elaine",
-        "reagendamento": "2026-03-03T13:00:00Z",
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Elaine Cristine",
-        "email": "nanycris2000@hotmail.com",
-        "telefone": "+55 21 96429-7283",
-        "vidas": [],
-        "cidade": "Rio de Janeiro / RJ",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "MEI",
-        "profissao": "proprietária \nMas não seria para mim",
-        "plano_atual": "",
-        "motivo": "Incluir novas vidas",
-        "interesse": "rede dor",
-        "rede_preferencial": "Barra D'Or",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "Elaine",
-        "bot": "Gilbertinho Amarelo (2373)",
-        "formatted": "👤 Cliente: Elaine Cristine\n📧 E-mail: nanycris2000@hotmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96429-7283\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: proprietária \nMas não seria para mim\n🎯 Rede preferencial: Barra D'Or\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n\n🎯 Interesse: rede dor\n\n⚠️ Observação: Elaine\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)"
-      },
-      "status": "morno",
-      "bot": "amarelo",
-      "consultor": "",
-      "message_count": 45,
-      "first_message_at": "2026-03-02T03:00:00.000Z",
-      "last_message_at": "2026-03-04T14:03:42.731000Z",
-      "last_bot_msg_at": "2026-03-05T22:36:17.247927",
-      "tempo_sem_interacao": "7 dias",
-      "first_id": 15004,
-      "last_id": 16224,
-      "last_message_preview": "Bom dia\n\nJá fechei o plano amigo\n\nObrigada",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Ola, gostaria de uma cotação de um plano de saúde Barra D'or",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Eu sou Gilberto, analista em Plano Saúde da Corretora GW9. 🚀\nTrabalhamos com todos os Planos de saúde no Rio de Janeiro. Vou te ajudar a entender as melhores opções de plano e, se fizer sentido, já deixo tudo organizado para o especialista te atender de forma objetiva. Pode ser?\nQual o seu nome?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Bom dia\n\nMe chamo Elaine",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Bom dia, Elaine! Pra eu te apresentar as opções certas, preciso entender o perfil de quem vai entrar no plano.\n\nPode me dizer:\n1️⃣ Quantas pessoas são e as idades?\n2️⃣ Qual a cidade?\n3️⃣ Prefere fazer no CPF ou CNPJ (se tiver)?\n\n(Pode responder por áudio 🎙️ se preferir)",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Pode ser cnpj Mei?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Elaine! Usar o CNPJ como MEI ajuda na contratação empresarial e pode trazer benefícios. Agora só preciso saber: quantas pessoas vão no plano e as idades, e em qual cidade será usado?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Duas pessoas \nUma de 45 outra de 27\n\nRio de Janeiro\n\nO mais em conta que aceite na rede dir\n\nDor",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Perfeito, Elaine! Dois vidas no plano empresarial MEI para Rio de Janeiro, buscando custo baixo e aceitação na rede DIR. Vocês têm algum plano hoje? Algum hospital ou médico de preferência?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Eles não têm plano\nHospital da rede dor",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Elaine. Buscar segurança e custo acessível, mantendo o Hospital da Rede Dor, faz todo sentido.\n\nE na contratação MEI, qual é a sua atividade principal/profissão?\n\nAssim já deixo tudo correto para o consultor.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Eu sou proprietária \nMas não seria para mim, seria meu marido e minha sobrinha",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Elaine. Para o MEI, você como proprietária contrata para seu marido e sobrinha. Isso facilita muito o processo.\n\nPor favor, me confirme seu e-mail para enviar as simulações e o melhor dia e horário para o especialista falar com vocês. Prefere WhatsApp, ligação ou vídeo?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Pode ser vídeo e pode ser hj\nEstarei disponível até as 12:30 hj",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Combinado, Elaine! Já deixei tudo pronto para o especialista falar com você por vídeo até as 12h30 de hoje. Se precisar ajustar algo, é só avisar. Obrigado por compartilhar as informações!",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "email\nnanycris2000@hotmail.com\nSe puder copiar aqui seria perfeito",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Já registrei seu e-mail nanycris2000@hotmail.com e organizei tudo para o especialista te contatar hoje por vídeo até 12h30. Obrigado, Elaine! O consultor vai te ajudar com as melhores opções.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Obrigada!",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "🙌 Elaine, agradeço a confiança! Seu contato está encaminhado ao especialista para ajudar com as melhores opções. Qualquer coisa, estou por aqui. Tenha um ótimo dia!",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Obrigada",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Fico à disposição, Elaine! Tenha um excelente dia!",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Igualmente",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Muito obrigado, Elaine! Até mais!",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "Elaine, ainda está por aí? Estou aguardando sua resposta para dar sequência.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Oii",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Olá, Elaine! Que bom que voltou. Posso ajudar em algo mais com seu plano de saúde?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Oi, querido. Ele pode me contar que tá agora. Eu só vou estar disponível até meio-dia, que depois eu tenho curso. Mas ele pode ligar agora, se ele quiser.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Elaine. Vou informar para o especialista que pode ligar agora e que você estará disponível só até meio-dia por causa do curso. Será uma conversa rápida e objetiva. Obrigado por avisar!",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Obrigada",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Já informei o especialista, Elaine. Ele vai entrar em contato o quanto antes para aproveitar seu tempo disponível até meio-dia. Qualquer coisa, estou por aqui.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "Elaine, imagino que esteja ocupada. Estou à disposição para te ajudar com o resultado da chamada do especialista. Quando tiver um tempinho, é só avisar!",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Eu não recebi nenhuma chamada",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Elaine, desculpe pelo transtorno. Vou reforçar para o especialista entrar em contato agora mesmo. Pode aguardar um momento?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Agora de fato não vou mais conseguir atender",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Entendo, Elaine. Quando for melhor para você, só avisar aqui que reprogramamos o contato. Estou à disposição para ajudar quando quiser.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Se for mt rápido sim",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Elaine. Vou avisar o especialista para uma ligação rápida. Qual o melhor horário para você, considerando sua agenda?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Agora só amanhã a partir das 10 hs",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Elaine. Agendei com o especialista para entrar em contato amanhã a partir das 10h, pelo meio que você preferir. Fique tranquila que avisarei para ser uma conversa rápida. Qualquer coisa estou por aqui.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "\n",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Bom dia\n\nJá fechei o plano amigo\n\nObrigada",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "🎉 Que ótimo, Elaine! Fico muito feliz por você. Se precisar de algo mais no futuro, estarei por aqui para ajudar. Obrigado por tudo e aproveite seu novo plano!",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "\n",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "Elaine, ainda está por aí? Estou aguardando sua resposta para dar sequência.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "Elaine, imagino que esteja bem ocupada. Quando tiver um tempinho, estou aqui para ajudar com qualquer dúvida ou informação que precisar sobre seu novo plano.",
           "msg_time": "2026-03-05T22:36:17.247927"
         },
         {
