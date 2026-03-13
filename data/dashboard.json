@@ -1,17 +1,107 @@
 {
   "meta": {
-    "generated_at": "2026-03-13T08:30:41.254Z",
+    "generated_at": "2026-03-13T08:45:42.183Z",
     "total_conversations": 200,
-    "total_messages": 4877,
+    "total_messages": 4845,
     "stats": {
       "quente": 37,
-      "morno": 127,
-      "frio": 36,
+      "morno": 128,
+      "frio": 35,
       "desinteresse": 0,
       "sem_classificacao": 0
     }
   },
   "conversations": [
+    {
+      "session_id": "5521969149049@s.whatsapp.net",
+      "phone": "5521969149049",
+      "phone_display": "+55 21 96914-9049",
+      "lead": {
+        "baserow_id": 1161,
+        "nome": "Luan",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "gilbertinho_off": false,
+        "observacoes": "",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Luan",
+        "email": "",
+        "telefone": "+55 21 96914-9049",
+        "vidas": [],
+        "cidade": "Rio de Janeiro / RJ",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "MEI",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Luan\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96914-9049\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "morno",
+      "bot": "preto",
+      "consultor": "",
+      "message_count": 8,
+      "first_message_at": "2026-03-13T03:00:00.000Z",
+      "last_message_at": "2026-03-13T08:37:08.751000Z",
+      "last_bot_msg_at": "2026-03-13T05:37:08.038927",
+      "tempo_sem_interacao": "3h 8min",
+      "first_id": 18847,
+      "last_id": 18854,
+      "last_message_preview": "Dados do lead no sistema:\nNome: Luan\n\nMensagem(ns) do cliente:\nSim",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: \n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação de um plano de saúde Empresarial",
+          "msg_time": "2026-03-13T05:31:18.579626"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Qual o seu nome, por favor?\n\nEu sou Gilberto, analista em Plano Saúde da Corretora GW9.\nTrabalhamos com todos os Planos de saúde no Rio de Janeiro. 🚀\nComo os valores dos Planos de saúde são tabelados e os preços mudam de acordo com a rede credenciada. Minha missão é de te ajudar a encontrar o produto que melhor lhe atenda na relação custo x acesso.\n\nPor isso vou te fazer algumas perguntas, pode me dizer:\n1️⃣ Quantas pessoas são e as idades?\n2️⃣ Qual a cidade que busca atendimento? Se tiver algum hospital de sua preferência, me informe, também nos ajuda.\n3️⃣ Como o plano será contratado: empresarial (CNPJ/MEI)?\n4️⃣ Já possui Plano atualmente? Se sim qual?\n\nPode responder por áudio se preferir. 🎙️",
+          "msg_time": "2026-03-13T05:31:18.584966"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: Luan\n\nMensagem(ns) do cliente:\nLuan\n1 pessoa\nSao Gonçalo\nCnpj\nNao",
+          "msg_time": "2026-03-13T05:33:18.24595"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Luan. Para o plano de 1 pessoa em São Gonçalo com contratação via CNPJ, só preciso saber a idade dessa pessoa para completar a cotação e encaminhar para o consultor. Qual a idade, por favor?",
+          "msg_time": "2026-03-13T05:33:18.24894"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: Luan\n\nMensagem(ns) do cliente:\n34",
+          "msg_time": "2026-03-13T05:35:35.612622"
+        },
+        {
+          "role": "ai",
+          "content": "Luan, então pelo que entendi: 1 pessoa, em São Gonçalo, contratação via CNPJ. Correto?",
+          "msg_time": "2026-03-13T05:35:35.614378"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: Luan\n\nMensagem(ns) do cliente:\nSim",
+          "msg_time": "2026-03-13T05:37:08.037318"
+        },
+        {
+          "role": "ai",
+          "content": "Luan, obrigado por compartilhar as informações! O consultor já recebeu tudo sobre o plano para 1 vida em São Gonçalo e vai te chamar aqui no WhatsApp. Obrigado!",
+          "msg_time": "2026-03-13T05:37:08.038927"
+        }
+      ]
+    },
     {
       "session_id": "5521993257007@s.whatsapp.net",
       "phone": "5521993257007",
@@ -55,7 +145,7 @@
       "first_message_at": "2026-03-12T03:00:00.000Z",
       "last_message_at": "2026-03-13T01:49:10.308000Z",
       "last_bot_msg_at": "2026-03-12T22:49:09.760044",
-      "tempo_sem_interacao": "9h 41min",
+      "tempo_sem_interacao": "9h 56min",
       "first_id": 18841,
       "last_id": 18846,
       "last_message_preview": "Dados do lead no sistema:\nNome: Laysa Corrêa\n\nMensagem(ns) do cliente:\nSão 5 pessoas \nMoro em Niteró...",
@@ -125,7 +215,7 @@
       "first_message_at": "2026-03-12T03:00:00.000Z",
       "last_message_at": "2026-03-13T01:45:36.664000Z",
       "last_bot_msg_at": "2026-03-12T22:45:36.160952",
-      "tempo_sem_interacao": "9h 45min",
+      "tempo_sem_interacao": "10h",
       "first_id": 18843,
       "last_id": 18844,
       "last_message_preview": "Dados do lead no sistema:\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano d...",
@@ -185,7 +275,7 @@
       "first_message_at": "2026-03-12T03:00:00.000Z",
       "last_message_at": "2026-03-12T20:59:24.258000Z",
       "last_bot_msg_at": "2026-03-12T17:59:23.785716",
-      "tempo_sem_interacao": "14h 31min",
+      "tempo_sem_interacao": "14h 46min",
       "first_id": 18718,
       "last_id": 18802,
       "last_message_preview": "Eu era mei e tive que mudar para o simples nacional",
@@ -723,7 +813,7 @@
       "first_message_at": "2026-03-12T03:00:00.000Z",
       "last_message_at": "2026-03-12T13:15:26.314000Z",
       "last_bot_msg_at": "2026-03-12T10:15:25.764183",
-      "tempo_sem_interacao": "22h 15min",
+      "tempo_sem_interacao": "22h 30min",
       "first_id": 18599,
       "last_id": 18798,
       "last_message_preview": "Dados do lead no sistema:\nNome: R B Coelho\n\nMensagem(ns) do cliente:\nBom dia",
@@ -808,7 +898,7 @@
       "first_message_at": "2026-03-12T03:00:00.000Z",
       "last_message_at": "2026-03-12T17:53:30.807000Z",
       "last_bot_msg_at": "2026-03-12T14:53:30.27148",
-      "tempo_sem_interacao": "17h 37min",
+      "tempo_sem_interacao": "17h 52min",
       "first_id": 18641,
       "last_id": 18723,
       "last_message_preview": "Muito obrigado",
@@ -1073,7 +1163,7 @@
       "first_message_at": "2026-03-12T03:00:00.000Z",
       "last_message_at": "2026-03-12T20:36:16.047000Z",
       "last_bot_msg_at": "2026-03-12T17:36:15.5301",
-      "tempo_sem_interacao": "14h 54min",
+      "tempo_sem_interacao": "15h 9min",
       "first_id": 18721,
       "last_id": 18722,
       "last_message_preview": "Dados do lead no sistema:\nNome: \n\nMensagem(ns) do cliente:\nBoa Tarde ! No momento não tenho interess...",
@@ -1140,7 +1230,7 @@
       "first_message_at": "2025-12-08T03:00:00.000Z",
       "last_message_at": "2026-03-12T20:12:10.423Z",
       "last_bot_msg_at": "2026-03-12T20:12:10.423Z",
-      "tempo_sem_interacao": "12h 18min",
+      "tempo_sem_interacao": "12h 33min",
       "first_id": 77,
       "last_id": 18716,
       "last_message_preview": "<ContextoPDF>\n  <TranscricaoPDF>\nREDE CREDENCIADA\nBronze Mais\nHOSPITAIS\nZONA NORTE\nRio de Janeiro\n• ...",
@@ -1447,7 +1537,7 @@
       "first_message_at": "2025-12-15T03:00:00.000Z",
       "last_message_at": "2026-03-12T18:57:05.706Z",
       "last_bot_msg_at": "2026-03-12T18:57:05.706Z",
-      "tempo_sem_interacao": "13h 33min",
+      "tempo_sem_interacao": "13h 48min",
       "first_id": 742,
       "last_id": 18695,
       "last_message_preview": "sim, esperando rsponder",
@@ -10531,7 +10621,7 @@
       "first_message_at": "2026-03-09T03:00:00.000Z",
       "last_message_at": "2026-03-09T11:31:48.834000Z",
       "last_bot_msg_at": "2026-03-09T08:31:48.419284",
-      "tempo_sem_interacao": "3 dias",
+      "tempo_sem_interacao": "4 dias",
       "first_id": 17550,
       "last_id": 18096,
       "last_message_preview": "Eh para nos 2 apenas",
@@ -26593,272 +26683,6 @@
         {
           "role": "user",
           "content": "Já estou falando com ele\nObrigada",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        }
-      ]
-    },
-    {
-      "session_id": "5521976530153@s.whatsapp.net",
-      "phone": "5521976530153",
-      "phone_display": "+55 21 97653-0153",
-      "lead": {
-        "baserow_id": 826,
-        "nome": "Ronni Santos",
-        "email": "",
-        "qtd_vidas": 5,
-        "desinteresse": false,
-        "gilbertinho_off": true,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": "Frio"
-      },
-      "summary": {
-        "nome": "Ronni Santos",
-        "email": "",
-        "telefone": "+55 21 97653-0153",
-        "vidas": [
-          {
-            "idade": 28
-          },
-          {
-            "idade": 18
-          },
-          {
-            "idade": 15
-          },
-          {
-            "idade": 53
-          },
-          {
-            "idade": 52
-          }
-        ],
-        "cidade": "Maricá / RJ",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "MEI",
-        "profissao": "clínica",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "",
-        "bot": "Não identificado",
-        "formatted": "👤 Cliente: Ronni Santos\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97653-0153\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nRonni Santos — 28 anos\nDependente 1 — 18 anos\nDependente 2 — 15 anos\nDependente 3 — 53 anos\nDependente 4 — 52 anos\n\n📋 Dados contratuais:\n\nCidade: Maricá / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: clínica\n✅ Status: Lead frio\n🤖 Bot: Não identificado"
-      },
-      "status": "frio",
-      "bot": "desconhecido",
-      "consultor": "",
-      "message_count": 40,
-      "first_message_at": "2026-02-20T03:00:00.000Z",
-      "last_message_at": "2026-03-06T01:36:17.247Z",
-      "last_bot_msg_at": "2026-03-06T01:36:17.247Z",
-      "tempo_sem_interacao": "7 dias",
-      "first_id": 13636,
-      "last_id": 16069,
-      "last_message_preview": "Vou analisar aqui.",
-      "messages": [
-        {
-          "role": "system",
-          "content": "Boa noite, tudo bem com você? \n\nSeria para você mesmo, família, empresa?\npreciso também dessas informações:\n\nidades:\nCnpj é MEI ou LTDA:\nPossui plano de saúde, se sim, qual?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Seria para empresa.\nSão 5 vidas. Idades: 28, 18, 15, 53 e 52. MEI. Possuímos o plano leve saúde empresarial.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "Olá Ronni\n\nOlá Tudo bem ?\nAqui é o Gil e vou ajuda-lá com seu plano de saúde , ok ?\n\nPreciso de algumas informações ; \nIdades \nCNPJ ou MEI ; \nTem plano ativo , se sim , qual ?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Seria para empresa.\nSão 5 vidas. Idades: 28, 18, 15, 53 e 52. MEI. Possuímos o plano leve saúde empresarial.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Só cotação.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "Entendi \n\nPara ser um pouco mais assertivo , qual o plano Leve Saúde vcs tem e a região onde vcs residem ou desejam mais acesso ? \n\nAssim facilita encontrar o produto ideal e não te encher de cotações e dificultar o entendimento , ok ?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Eu moro em Maricá RJ.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "Ah sim \n\nAe é difícil de atendimento\n\nLeve saúde então\n\nDevem estar com dificuldades",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "Amil Bronze + tem mais acesso em Marica, Muito mais em Niterói e SG",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "Vai atende-los perfeitamente , nos somos de Niterói e centenas de clientes tem o Amil Bronze + e estão super satisfeitos",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Faz a cotação.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "Estamos de plantão hoje até as 15:00 \n\nMas o site da Amil está fora desde que Chegamos , as 9:00",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "Já abrimos um protocolo , mas sendo Sábado , já sabemos né",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "Olá Ronni\n\nBoa tarde\n\nO sistema só retornou agora a tarde\n\nVou te enviar",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Ok",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "<ContextoPDF>\n  <TranscricaoPDF>\n\n\n\n\n\n\n\n\n\n  </TranscricaoPDF>\nContexto Extra: O usuário encaminhou a mensagem a seguir junto ao PDF.\n  <MensagemUsuario>\n\n  </MensagemUsuario>\n</ContextoPDF>",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "É uma solução estadual , vcs tem o Hospital Icarai como referência para interações e urgências .. \n\nTem Dental incluso para todos , sem custo por 12 meses",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "Vai melhorar muito suas opções de atendimento",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "Do ponto de vista orçamentário , está dentro da sua expectativa ?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "Olá Ronny\n\nBoa-tarde\n\nConseguir analisar essa opção ?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Queria um plano",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Até 1.500,00 ou menos.\n\nqual seu custo na leve saúde atualmente?\n\n1.494,00",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "vou verificar na PORTO SAÚDE o que consigo para você\n\npois em maricá os atendimentos são restritos\n\nAtendimento em Sg e Niterói, te ajuda?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "Ok\n\nAjuda\n\nvou trazer agora",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "TB.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "só tem o MEMORIAL em Maricá\n\nnão tem outro hospítal",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Memorial aqui é uma clínica.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "infelizmente, não tem hospital particular em maricá",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Sim. Mas algumas clínicas.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "sim, vou ver se na porto tem boa aceitação nas clínicas em maricá",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "<ContextoPDF>\n  <TranscricaoPDF>\n\n\n\n\n\n\n\n\n\n\n\n  </TranscricaoPDF>\nContexto Extra: O usuário encaminhou a mensagem a seguir junto ao PDF.\n  <MensagemUsuario>\n\n  </MensagemUsuario>\n</ContextoPDF>",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "Ronni, abaixo de R$1500,00 conseguimos apenas no modelo de coparticipação",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "Tem também dois produtos da Porto diferentes, que é o P221 e o P211 Pro. Um é nacional e o outro é regional, e é no modelo de coparticipação. Vocês já conhecem um pouco sobre esse tema? Ele deixa o plano de saúde mais acessível, é uma rede de acessos aos hospitais bons, dentro de laboratórios excelentes também, e deixa o valor mais acessível. E o modelo de coparticipação, dentro de um ou dois áudios, eu consigo estar te auxiliando, passando todas as informações necessárias, para você ter a ciência de como funciona. Porque aí você só coparticipa quando utiliza o evento.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "O que eu consigo ver pra você é o produto Porto Bairro, a gente escolhe ali, se eu não me engano, um, dois ou três bairros de atendimento, então a gente consegue identificar ali esse produto com cem copartes também abaixo de 1.500, vou verificar aqui qual o valor que fica e a gente analisa todas essas possibilidades, tá?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "Só me informa se pra você é interessante esse produto Porto Bairro, que a gente escolhe os bairros que deseja atendimento e ele se torna municipal.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "todos esses 3 produtos que estou conversando com você, é superior à acessos em relação ao leve saúde",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Vou analisar aqui.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "fala meu amigo, bom dia!\ntudo bem?\n\nem relação aos 2 produtos que eu encaminhei da PORTO, gerou alguma dúvida?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "pergunto isso para entender por completo todo cenário e ser assertivo no produto ideal, com boas coberturas e com o valor de investimento mais acessível",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "+55 21 97653‑0153",
           "msg_time": "2026-03-05T22:36:17.247927"
         }
       ]
