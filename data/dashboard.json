@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_at": "2026-03-13T22:00:22.009Z",
+    "generated_at": "2026-03-13T22:15:22.882Z",
     "total_conversations": 200,
-    "total_messages": 4810,
+    "total_messages": 4818,
     "stats": {
       "quente": 38,
       "morno": 125,
@@ -13,13 +13,13 @@
   },
   "conversations": [
     {
-      "session_id": "5521999699878@s.whatsapp.net",
-      "phone": "5521999699878",
-      "phone_display": "+55 21 99969-9878",
+      "session_id": "5521966780530@s.whatsapp.net",
+      "phone": "5521966780530",
+      "phone_display": "+55 21 96678-0530",
       "lead": {
-        "baserow_id": 1151,
-        "nome": "Leila",
-        "email": "wleiloca@gmail.com",
+        "baserow_id": 1147,
+        "nome": "Bea Lopes",
+        "email": "",
         "qtd_vidas": "",
         "desinteresse": false,
         "gilbertinho_off": false,
@@ -29,46 +29,81 @@
         "temperatura": ""
       },
       "summary": {
-        "nome": "Leila",
-        "email": "wleiloca@gmail.com",
-        "telefone": "+55 21 99969-9878",
+        "nome": "Bea Lopes",
+        "email": "",
+        "telefone": "+55 21 96678-0530",
         "vidas": [],
-        "cidade": "",
+        "cidade": "Rio de Janeiro / RJ",
         "contratacao": "CNPJ",
         "cnpj": "",
-        "tipo_empresa": "",
+        "tipo_empresa": "MEI",
         "profissao": "",
         "plano_atual": "",
-        "motivo": "",
-        "interesse": "SulAmérica",
+        "motivo": "Incluir novas vidas",
+        "interesse": "",
         "rede_preferencial": "",
         "contato": "WhatsApp",
         "consultor": "",
         "obs_crm": "",
-        "bot": "Gilbertinho Amarelo (2373)",
-        "formatted": "👤 Cliente: Leila\n📧 E-mail: wleiloca@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99969-9878\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n\n🎯 Interesse: SulAmérica\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Amarelo (2373)"
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Bea Lopes\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96678-0530\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
       },
-      "status": "frio",
-      "bot": "amarelo",
+      "status": "morno",
+      "bot": "preto",
       "consultor": "",
-      "message_count": 2,
+      "message_count": 9,
       "first_message_at": "2026-03-13T03:00:00.000Z",
-      "last_message_at": "2026-03-13T21:39:30.900000Z",
-      "last_bot_msg_at": "2026-03-13T18:39:25.257679",
-      "tempo_sem_interacao": "3h 20min",
-      "first_id": 18607,
-      "last_id": 18608,
-      "last_message_preview": "Dados Fornecidos\nNome: Leila\nContem CNPJ: Sim\nNumero de Vidas: 1 a 2 Vidas\nOperadora de Interesse: A...",
+      "last_message_at": "2026-03-13T22:11:47.849000Z",
+      "last_bot_msg_at": "2026-03-13T19:11:47.391021",
+      "tempo_sem_interacao": "3h 3min",
+      "first_id": 18599,
+      "last_id": 18616,
+      "last_message_preview": "Dados do lead no sistema:\nNome: Bea Lopes\n\nMensagem(ns) do cliente:\nAchei que fosse só aguardar",
       "messages": [
         {
           "role": "user",
-          "content": "Dados Fornecidos\nNome: Leila\nContem CNPJ: Sim\nNumero de Vidas: 1 a 2 Vidas\nOperadora de Interesse: Amil, Bradesco, Intermédica, Assim Saúde, SulAmérica, Receber todos os valores\nRegião: Não Informado\nPropaganda:\n",
-          "msg_time": "2026-03-13T18:39:25.255559"
+          "content": "Dados do lead no sistema:\nNome: \n\nMensagem(ns) do cliente:\nFormato de mensagem enviada nao suportado",
+          "msg_time": "2026-03-13T17:40:42.350892"
         },
         {
           "role": "ai",
-          "content": "Oi Leila, eu sou o Gilberto da GW9 Saúde. Você pediu nosso contato para saber mais sobre planos de saúde e mencionou interesse em algumas operadoras, como Amil e Bradesco, para 1 a 2 vidas e que já possui um CNPJ. Para te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo bem?",
-          "msg_time": "2026-03-13T18:39:25.257679"
+          "content": "Olá! Eu sou Gilberto, analista em Plano Saúde da Corretora GW9. 🚀 Trabalhamos com todos os Planos de saúde no Rio de Janeiro. Vou ajudar você a entender as melhores opções e, se fizer sentido, deixar tudo pronto para o consultor te atender. Posso ajudar? Qual o seu nome?",
+          "msg_time": "2026-03-13T17:40:42.3636"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: \n\nMensagem(ns) do cliente:\nFormato de mensagem enviada nao suportado",
+          "msg_time": "2026-03-13T17:40:42.982209"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Eu sou Gilberto, analista em Plano Saúde da Corretora GW9. 🚀 Trabalhamos com todos os Planos de saúde no Rio de Janeiro. Vou te ajudar a entender as melhores opções de plano e, se fizer sentido, já deixo tudo organizado para o especialista te atender de forma objetiva. Pode ser? Qual o seu nome?",
+          "msg_time": "2026-03-13T17:40:42.989492"
+        },
+        {
+          "role": "system",
+          "content": "Bea, ainda está por aí? Estou aguardando sua resposta para dar sequência.",
+          "msg_time": "2026-03-13T19:00:59.957893"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: Bea Lopes\n\nMensagem(ns) do cliente:\nSim",
+          "msg_time": "2026-03-13T19:11:32.702608"
+        },
+        {
+          "role": "ai",
+          "content": "Perfeito, Bea! Pra eu te apresentar as opções certas, preciso entender o perfil de quem vai entrar no plano. Pode me informar quantas pessoas são, as idades, a cidade onde o plano será usado e se vai contratar como pessoa física (CPF) ou empresarial (CNPJ/MEI)? Pode enviar por áudio 🎙️ se preferir.",
+          "msg_time": "2026-03-13T19:11:32.704291"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: Bea Lopes\n\nMensagem(ns) do cliente:\nAchei que fosse só aguardar",
+          "msg_time": "2026-03-13T19:11:47.388246"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Bea. Normalmente, para encontrar o plano ideal, preciso dessas informações porque elas impactam direto na cotação e opções disponíveis. Se quiser, posso aguardar você reunir os dados com calma. Quando estiver pronta, me avise, tá bom?",
+          "msg_time": "2026-03-13T19:11:47.391021"
         }
       ]
     },
@@ -121,14 +156,14 @@
       "status": "quente",
       "bot": "preto",
       "consultor": "",
-      "message_count": 4,
+      "message_count": 7,
       "first_message_at": "2026-03-13T03:00:00.000Z",
-      "last_message_at": "2026-03-13T21:39:12.077000Z",
-      "last_bot_msg_at": "2026-03-13T18:39:11.663459",
-      "tempo_sem_interacao": "3h 21min",
+      "last_message_at": "2026-03-13T22:08:32.885000Z",
+      "last_bot_msg_at": "2026-03-13T19:08:32.496751",
+      "tempo_sem_interacao": "3h 6min",
       "first_id": 18603,
-      "last_id": 18606,
-      "last_message_preview": "Dados do lead no sistema:\nNome: Paulla\n\nMensagem(ns) do cliente:\n?",
+      "last_id": 18612,
+      "last_message_preview": "Dados do lead no sistema:\nNome: Paulla\n\nMensagem(ns) do cliente:\nResposta ?!?!\n\nEu quem estou aguard...",
       "messages": [
         {
           "role": "user",
@@ -149,17 +184,32 @@
           "role": "ai",
           "content": "Oi Paulla, obrigado por retornar! Entendi o perfil: 3 pessoas (27, 54 e 62 anos) para MEI Sulamérica. Agora só preciso confirmar a cidade onde o plano será usado para continuar. Pode me dizer?",
           "msg_time": "2026-03-13T18:39:11.663459"
+        },
+        {
+          "role": "system",
+          "content": "Paulla, ainda está por aí? Estou aguardando sua resposta para dar sequência.",
+          "msg_time": "2026-03-13T19:01:04.976471"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: Paulla\n\nMensagem(ns) do cliente:\nResposta ?!?!\n\nEu quem estou aguardando valores",
+          "msg_time": "2026-03-13T19:08:32.49461"
+        },
+        {
+          "role": "ai",
+          "content": "Paulla, para enviar os valores corretos preciso confirmar sua cidade e se o plano será contratado como MEI (CNPJ) mesmo. Pode me informar? Assim consigo ver as opções mais adequadas para você.",
+          "msg_time": "2026-03-13T19:08:32.496751"
         }
       ]
     },
     {
-      "session_id": "5521966780530@s.whatsapp.net",
-      "phone": "5521966780530",
-      "phone_display": "+55 21 96678-0530",
+      "session_id": "5521999699878@s.whatsapp.net",
+      "phone": "5521999699878",
+      "phone_display": "+55 21 99969-9878",
       "lead": {
-        "baserow_id": 1147,
-        "nome": "Bea Lopes",
-        "email": "",
+        "baserow_id": 1151,
+        "nome": "Leila",
+        "email": "wleiloca@gmail.com",
         "qtd_vidas": "",
         "desinteresse": false,
         "gilbertinho_off": false,
@@ -169,56 +219,46 @@
         "temperatura": ""
       },
       "summary": {
-        "nome": "Bea Lopes",
-        "email": "",
-        "telefone": "+55 21 96678-0530",
+        "nome": "Leila",
+        "email": "wleiloca@gmail.com",
+        "telefone": "+55 21 99969-9878",
         "vidas": [],
-        "cidade": "Rio de Janeiro / RJ",
-        "contratacao": "",
+        "cidade": "",
+        "contratacao": "CNPJ",
         "cnpj": "",
         "tipo_empresa": "",
         "profissao": "",
         "plano_atual": "",
         "motivo": "",
-        "interesse": "",
+        "interesse": "SulAmérica",
         "rede_preferencial": "",
         "contato": "WhatsApp",
         "consultor": "",
         "obs_crm": "",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Bea Lopes\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96678-0530\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
+        "bot": "Gilbertinho Amarelo (2373)",
+        "formatted": "👤 Cliente: Leila\n📧 E-mail: wleiloca@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99969-9878\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n\n🎯 Interesse: SulAmérica\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Amarelo (2373)"
       },
-      "status": "morno",
-      "bot": "preto",
+      "status": "frio",
+      "bot": "amarelo",
       "consultor": "",
-      "message_count": 4,
+      "message_count": 2,
       "first_message_at": "2026-03-13T03:00:00.000Z",
-      "last_message_at": "2026-03-13T20:40:42.902000Z",
-      "last_bot_msg_at": "2026-03-13T17:40:42.989492",
-      "tempo_sem_interacao": "4h 19min",
-      "first_id": 18599,
-      "last_id": 18602,
-      "last_message_preview": "Dados do lead no sistema:\nNome: \n\nMensagem(ns) do cliente:\nFormato de mensagem enviada nao suportado",
+      "last_message_at": "2026-03-13T21:39:30.900000Z",
+      "last_bot_msg_at": "2026-03-13T18:39:25.257679",
+      "tempo_sem_interacao": "3h 35min",
+      "first_id": 18607,
+      "last_id": 18608,
+      "last_message_preview": "Dados Fornecidos\nNome: Leila\nContem CNPJ: Sim\nNumero de Vidas: 1 a 2 Vidas\nOperadora de Interesse: A...",
       "messages": [
         {
           "role": "user",
-          "content": "Dados do lead no sistema:\nNome: \n\nMensagem(ns) do cliente:\nFormato de mensagem enviada nao suportado",
-          "msg_time": "2026-03-13T17:40:42.350892"
+          "content": "Dados Fornecidos\nNome: Leila\nContem CNPJ: Sim\nNumero de Vidas: 1 a 2 Vidas\nOperadora de Interesse: Amil, Bradesco, Intermédica, Assim Saúde, SulAmérica, Receber todos os valores\nRegião: Não Informado\nPropaganda:\n",
+          "msg_time": "2026-03-13T18:39:25.255559"
         },
         {
           "role": "ai",
-          "content": "Olá! Eu sou Gilberto, analista em Plano Saúde da Corretora GW9. 🚀 Trabalhamos com todos os Planos de saúde no Rio de Janeiro. Vou ajudar você a entender as melhores opções e, se fizer sentido, deixar tudo pronto para o consultor te atender. Posso ajudar? Qual o seu nome?",
-          "msg_time": "2026-03-13T17:40:42.3636"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: \n\nMensagem(ns) do cliente:\nFormato de mensagem enviada nao suportado",
-          "msg_time": "2026-03-13T17:40:42.982209"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Eu sou Gilberto, analista em Plano Saúde da Corretora GW9. 🚀 Trabalhamos com todos os Planos de saúde no Rio de Janeiro. Vou te ajudar a entender as melhores opções de plano e, se fizer sentido, já deixo tudo organizado para o especialista te atender de forma objetiva. Pode ser? Qual o seu nome?",
-          "msg_time": "2026-03-13T17:40:42.989492"
+          "content": "Oi Leila, eu sou o Gilberto da GW9 Saúde. Você pediu nosso contato para saber mais sobre planos de saúde e mencionou interesse em algumas operadoras, como Amil e Bradesco, para 1 a 2 vidas e que já possui um CNPJ. Para te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo bem?",
+          "msg_time": "2026-03-13T18:39:25.257679"
         }
       ]
     },
@@ -4224,7 +4264,7 @@
       "first_message_at": "2026-03-10T03:00:00.000Z",
       "last_message_at": "2026-03-11T01:03:00.891000Z",
       "last_bot_msg_at": "2026-03-10T22:03:00.306716",
-      "tempo_sem_interacao": "2 dias",
+      "tempo_sem_interacao": "3 dias",
       "first_id": 18337,
       "last_id": 18338,
       "last_message_preview": "Olá Gostaria de uma cotação de um Plano de Saúde Amil",
