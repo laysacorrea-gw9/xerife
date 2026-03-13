@@ -1,17 +1,87 @@
 {
   "meta": {
-    "generated_at": "2026-03-13T01:45:41.815Z",
+    "generated_at": "2026-03-13T02:00:41.450Z",
     "total_conversations": 200,
-    "total_messages": 4875,
+    "total_messages": 4877,
     "stats": {
       "quente": 37,
-      "morno": 126,
-      "frio": 37,
+      "morno": 127,
+      "frio": 36,
       "desinteresse": 0,
       "sem_classificacao": 0
     }
   },
   "conversations": [
+    {
+      "session_id": "5521993257007@s.whatsapp.net",
+      "phone": "5521993257007",
+      "phone_display": "+55 21 99325-7007",
+      "lead": {
+        "baserow_id": 1159,
+        "nome": "Laysa Corrêa",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "gilbertinho_off": false,
+        "observacoes": "",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Laysa Corrêa",
+        "email": "",
+        "telefone": "+55 21 99325-7007",
+        "vidas": [],
+        "cidade": "Niterói / RJ",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "MEI",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "Laysa",
+        "obs_crm": "",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Laysa Corrêa\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99325-7007\n\n📋 Dados contratuais:\n\nCidade: Niterói / RJ\nContratação: CNPJ\nTipo: MEI\n👤 Consultor: Laysa\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "morno",
+      "bot": "preto",
+      "consultor": "Laysa",
+      "message_count": 4,
+      "first_message_at": "2026-03-12T03:00:00.000Z",
+      "last_message_at": "2026-03-13T01:49:10.308000Z",
+      "last_bot_msg_at": "2026-03-12T22:49:09.760044",
+      "tempo_sem_interacao": "3h 11min",
+      "first_id": 18841,
+      "last_id": 18846,
+      "last_message_preview": "Dados do lead no sistema:\nNome: Laysa Corrêa\n\nMensagem(ns) do cliente:\nSão 5 pessoas \nMoro em Niteró...",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: Laysa Corrêa\n\nMensagem(ns) do cliente:\noi quero um plano",
+          "msg_time": "2026-03-12T22:18:05.147735"
+        },
+        {
+          "role": "ai",
+          "content": "Olá, Laysa Corrêa!\nEu sou Gilberto, analista em Plano Saúde da Corretora GW9.\nTrabalhamos com todos os Planos de saúde no Rio de Janeiro. 🚀\nComo os valores dos Planos de saúde são tabelados e os preços mudam de acordo com a rede credenciada. Minha missão é de te ajudar a encontrar o produto que melhor lhe atenda na relação custo x acesso.\n\nPor isso vou te fazer algumas perguntas, pode me dizer:\n1️⃣ Quantas pessoas são e as idades?\n2️⃣ Qual a cidade que busca atendimento? Se tiver algum hospital de sua preferência, me informe, também nos ajuda.\n3️⃣ Como o plano será contratado: empresarial (CNPJ/MEI)?\n4️⃣ Já possui Plano atualmente? Se sim qual?\n\nPode responder por áudio se preferir. 🎙️",
+          "msg_time": "2026-03-12T22:18:05.15079"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: Laysa Corrêa\n\nMensagem(ns) do cliente:\nSão 5 pessoas \nMoro em Niterói \nCNPJ \nTenho sim",
+          "msg_time": "2026-03-12T22:49:09.751094"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Laysa! 5 pessoas, morando em Niterói, contratação por CNPJ e já tem plano atual. Poderia me informar as idades de todas as pessoas? Isso é importante para a cotação correta, mesmo que aproximadas.",
+          "msg_time": "2026-03-12T22:49:09.760044"
+        }
+      ]
+    },
     {
       "session_id": "5521971513737@s.whatsapp.net",
       "phone": "5521971513737",
@@ -55,7 +125,7 @@
       "first_message_at": "2026-03-12T03:00:00.000Z",
       "last_message_at": "2026-03-13T01:45:36.664000Z",
       "last_bot_msg_at": "2026-03-12T22:45:36.160952",
-      "tempo_sem_interacao": "3h",
+      "tempo_sem_interacao": "3h 15min",
       "first_id": 18843,
       "last_id": 18844,
       "last_message_preview": "Dados do lead no sistema:\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano d...",
@@ -69,66 +139,6 @@
           "role": "ai",
           "content": "Olá! Eu sou Gilberto, analista em Plano Saúde da Corretora GW9.  \nTrabalhamos com todos os Planos de saúde no Rio de Janeiro. 🚀  \nComo os valores dos Planos de saúde são tabelados e os preços mudam de acordo com a rede credenciada. Minha missão é de te ajudar a encontrar o produto que melhor lhe atenda na relação custo x acesso.\n\nE para o nosso especialista te apresentar as opções certas, eu preciso entender o perfil de quem vai entrar no plano.  \n\nPor isso vou te fazer algumas perguntas, pode me dizer:  \n1️⃣ Quantas pessoas são e as idades?  \n2️⃣ Qual a cidade que busca atendimento? Se tiver algum hospital de sua preferência, me informe, também nos ajuda.  \n3️⃣ Como o plano será contratado: empresarial (CNPJ/MEI)?  \n4️⃣ Já possui Plano atualmente? Se sim qual?  \n\nPode responder por áudio se preferir. 🎙️",
           "msg_time": "2026-03-12T22:45:36.160952"
-        }
-      ]
-    },
-    {
-      "session_id": "5521993257007@s.whatsapp.net",
-      "phone": "5521993257007",
-      "phone_display": "+55 21 99325-7007",
-      "lead": {
-        "baserow_id": 1159,
-        "nome": "Laysa Corrêa",
-        "email": "",
-        "qtd_vidas": "",
-        "desinteresse": false,
-        "gilbertinho_off": false,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Laysa Corrêa",
-        "email": "",
-        "telefone": "+55 21 99325-7007",
-        "vidas": [],
-        "cidade": "Rio de Janeiro / RJ",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "MEI",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "Laysa",
-        "obs_crm": "",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Laysa Corrêa\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99325-7007\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n👤 Consultor: Laysa\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "frio",
-      "bot": "preto",
-      "consultor": "Laysa",
-      "message_count": 2,
-      "first_message_at": "2026-03-12T03:00:00.000Z",
-      "last_message_at": "2026-03-13T01:18:05.641000Z",
-      "last_bot_msg_at": "2026-03-12T22:18:05.15079",
-      "tempo_sem_interacao": "3h 27min",
-      "first_id": 18841,
-      "last_id": 18842,
-      "last_message_preview": "Dados do lead no sistema:\nNome: Laysa Corrêa\n\nMensagem(ns) do cliente:\noi quero um plano",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Laysa Corrêa\n\nMensagem(ns) do cliente:\noi quero um plano",
-          "msg_time": "2026-03-12T22:18:05.147735"
-        },
-        {
-          "role": "ai",
-          "content": "Olá, Laysa Corrêa!\nEu sou Gilberto, analista em Plano Saúde da Corretora GW9.\nTrabalhamos com todos os Planos de saúde no Rio de Janeiro. 🚀\nComo os valores dos Planos de saúde são tabelados e os preços mudam de acordo com a rede credenciada. Minha missão é de te ajudar a encontrar o produto que melhor lhe atenda na relação custo x acesso.\n\nPor isso vou te fazer algumas perguntas, pode me dizer:\n1️⃣ Quantas pessoas são e as idades?\n2️⃣ Qual a cidade que busca atendimento? Se tiver algum hospital de sua preferência, me informe, também nos ajuda.\n3️⃣ Como o plano será contratado: empresarial (CNPJ/MEI)?\n4️⃣ Já possui Plano atualmente? Se sim qual?\n\nPode responder por áudio se preferir. 🎙️",
-          "msg_time": "2026-03-12T22:18:05.15079"
         }
       ]
     },
@@ -175,7 +185,7 @@
       "first_message_at": "2026-03-12T03:00:00.000Z",
       "last_message_at": "2026-03-12T20:59:24.258000Z",
       "last_bot_msg_at": "2026-03-12T17:59:23.785716",
-      "tempo_sem_interacao": "7h 46min",
+      "tempo_sem_interacao": "8h 1min",
       "first_id": 18718,
       "last_id": 18802,
       "last_message_preview": "Eu era mei e tive que mudar para o simples nacional",
@@ -713,7 +723,7 @@
       "first_message_at": "2026-03-12T03:00:00.000Z",
       "last_message_at": "2026-03-12T13:15:26.314000Z",
       "last_bot_msg_at": "2026-03-12T10:15:25.764183",
-      "tempo_sem_interacao": "15h 30min",
+      "tempo_sem_interacao": "15h 45min",
       "first_id": 18599,
       "last_id": 18798,
       "last_message_preview": "Dados do lead no sistema:\nNome: R B Coelho\n\nMensagem(ns) do cliente:\nBom dia",
@@ -798,7 +808,7 @@
       "first_message_at": "2026-03-12T03:00:00.000Z",
       "last_message_at": "2026-03-12T17:53:30.807000Z",
       "last_bot_msg_at": "2026-03-12T14:53:30.27148",
-      "tempo_sem_interacao": "10h 52min",
+      "tempo_sem_interacao": "11h 7min",
       "first_id": 18641,
       "last_id": 18723,
       "last_message_preview": "Muito obrigado",
@@ -1063,7 +1073,7 @@
       "first_message_at": "2026-03-12T03:00:00.000Z",
       "last_message_at": "2026-03-12T20:36:16.047000Z",
       "last_bot_msg_at": "2026-03-12T17:36:15.5301",
-      "tempo_sem_interacao": "8h 9min",
+      "tempo_sem_interacao": "8h 24min",
       "first_id": 18721,
       "last_id": 18722,
       "last_message_preview": "Dados do lead no sistema:\nNome: \n\nMensagem(ns) do cliente:\nBoa Tarde ! No momento não tenho interess...",
@@ -1130,7 +1140,7 @@
       "first_message_at": "2025-12-08T03:00:00.000Z",
       "last_message_at": "2026-03-12T20:12:10.423Z",
       "last_bot_msg_at": "2026-03-12T20:12:10.423Z",
-      "tempo_sem_interacao": "5h 33min",
+      "tempo_sem_interacao": "5h 48min",
       "first_id": 77,
       "last_id": 18716,
       "last_message_preview": "<ContextoPDF>\n  <TranscricaoPDF>\nREDE CREDENCIADA\nBronze Mais\nHOSPITAIS\nZONA NORTE\nRio de Janeiro\n• ...",
@@ -1437,7 +1447,7 @@
       "first_message_at": "2025-12-15T03:00:00.000Z",
       "last_message_at": "2026-03-12T18:57:05.706Z",
       "last_bot_msg_at": "2026-03-12T18:57:05.706Z",
-      "tempo_sem_interacao": "6h 48min",
+      "tempo_sem_interacao": "7h 3min",
       "first_id": 742,
       "last_id": 18695,
       "last_message_preview": "sim, esperando rsponder",
