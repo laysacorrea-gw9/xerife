@@ -1,12 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-03-13T00:33:54.242Z",
+    "generated_at": "2026-03-13T00:45:42.664Z",
     "total_conversations": 200,
-    "total_messages": 4889,
+    "total_messages": 4896,
     "stats": {
       "quente": 37,
-      "morno": 127,
-      "frio": 36,
+      "morno": 128,
+      "frio": 35,
       "desinteresse": 0,
       "sem_classificacao": 0
     }
@@ -17,7 +17,7 @@
       "phone": "5521993257007",
       "phone_display": "+55 21 99325-7007",
       "lead": {
-        "baserow_id": 1157,
+        "baserow_id": 1159,
         "nome": "Laysa Corrêa",
         "email": "",
         "qtd_vidas": "",
@@ -46,19 +46,19 @@
         "consultor": "Laysa",
         "obs_crm": "",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Laysa Corrêa\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99325-7007\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n👤 Consultor: Laysa\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Laysa Corrêa\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99325-7007\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n👤 Consultor: Laysa\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
       },
-      "status": "frio",
+      "status": "morno",
       "bot": "preto",
       "consultor": "Laysa",
-      "message_count": 2,
+      "message_count": 9,
       "first_message_at": "2026-03-12T03:00:00.000Z",
-      "last_message_at": "2026-03-12T23:45:26.895000Z",
-      "last_bot_msg_at": "2026-03-12T20:45:26.005558",
-      "tempo_sem_interacao": "3h 48min",
+      "last_message_at": "2026-03-13T00:43:44.561000Z",
+      "last_bot_msg_at": "2026-03-12T21:43:43.960513",
+      "tempo_sem_interacao": "3h 1min",
       "first_id": 18822,
-      "last_id": 18823,
-      "last_message_preview": "Dados do lead no sistema:\nNome: Laysa Corrêa\n\nMensagem(ns) do cliente:\noi",
+      "last_id": 18830,
+      "last_message_preview": "Dados do lead no sistema:\nNome: Laysa Corrêa\n\nMensagem(ns) do cliente:\nLaysa",
       "messages": [
         {
           "role": "user",
@@ -69,6 +69,41 @@
           "role": "ai",
           "content": "Olá, Laysa Corrêa!\nEu sou Gilberto, analista em Plano Saúde da Corretora GW9.\nTrabalhamos com todos os Planos de saúde no Rio de Janeiro. 🚀\nVou te ajudar a entender as melhores opções de plano e, se fizer sentido, já deixo tudo organizado para o especialista te atender de forma objetiva.\n\nPara eu te apresentar as opções certas, preciso entender o perfil de quem vai entrar no plano.\nPode responder por áudio se preferir. 🎙️\n\nPode me dizer:\n1️⃣ Quantas pessoas são e as idades?\n2️⃣ Qual a cidade que busca atendimento? Se tiver algum hospital de sua preferência, também nos ajuda.\n3️⃣ Como o plano será contratado: empresarial (CNPJ/MEI)?\n4️⃣ Já possui Plano atualmente? Se sim qual?",
           "msg_time": "2026-03-12T20:45:26.005558"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: \n\nMensagem(ns) do cliente:\noi",
+          "msg_time": "2026-03-12T21:36:41.257285"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Qual o seu nome, por favor?\n\nEu sou Gilberto, analista em Plano Saúde da Corretora GW9.\nTrabalhamos com todos os Planos de saúde no Rio de Janeiro. 🚀\nVou te ajudar a entender as melhores opções de plano e, se fizer sentido, já deixo tudo organizado para o especialista te atender de forma objetiva.\n\nPara eu te apresentar as opções certas, preciso entender o perfil de quem vai entrar no plano.",
+          "msg_time": "2026-03-12T21:36:41.260436"
+        },
+        {
+          "role": "system",
+          "content": "sim",
+          "msg_time": "2026-03-12T21:37:26.324302"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: \n\nMensagem(ns) do cliente:\nOi",
+          "msg_time": "2026-03-12T21:41:31.548909"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Qual o seu nome, por favor?\n\nEu sou Gilberto, analista em Plano Saúde da Corretora GW9.\nTrabalhamos com todos os Planos de saúde no Rio de Janeiro. 🚀\nVou te ajudar a encontrar o plano que melhor atenda suas necessidades, com um bom custo-benefício.\n\nPara te apresentar opções certas, preciso entender o perfil de quem vai entrar no plano.",
+          "msg_time": "2026-03-12T21:41:31.551233"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: Laysa Corrêa\n\nMensagem(ns) do cliente:\nLaysa",
+          "msg_time": "2026-03-12T21:43:43.95636"
+        },
+        {
+          "role": "ai",
+          "content": "Pode me dizer:\n1️⃣ Quantas pessoas são e as idades?\n2️⃣ Qual a cidade que busca atendimento? Se tiver algum hospital de sua preferência, também nos ajuda.\n3️⃣ Como o plano será contratado: empresarial (CNPJ/MEI)?\n4️⃣ Já possui Plano atualmente? Se sim qual?",
+          "msg_time": "2026-03-12T21:43:43.960513"
         }
       ]
     },
@@ -115,7 +150,7 @@
       "first_message_at": "2026-03-12T03:00:00.000Z",
       "last_message_at": "2026-03-12T20:59:24.258000Z",
       "last_bot_msg_at": "2026-03-12T17:59:23.785716",
-      "tempo_sem_interacao": "6h 34min",
+      "tempo_sem_interacao": "6h 46min",
       "first_id": 18718,
       "last_id": 18802,
       "last_message_preview": "Eu era mei e tive que mudar para o simples nacional",
@@ -653,7 +688,7 @@
       "first_message_at": "2026-03-12T03:00:00.000Z",
       "last_message_at": "2026-03-12T13:15:26.314000Z",
       "last_bot_msg_at": "2026-03-12T10:15:25.764183",
-      "tempo_sem_interacao": "14h 18min",
+      "tempo_sem_interacao": "14h 30min",
       "first_id": 18599,
       "last_id": 18798,
       "last_message_preview": "Dados do lead no sistema:\nNome: R B Coelho\n\nMensagem(ns) do cliente:\nBom dia",
@@ -738,7 +773,7 @@
       "first_message_at": "2026-03-12T03:00:00.000Z",
       "last_message_at": "2026-03-12T17:53:30.807000Z",
       "last_bot_msg_at": "2026-03-12T14:53:30.27148",
-      "tempo_sem_interacao": "9h 40min",
+      "tempo_sem_interacao": "9h 52min",
       "first_id": 18641,
       "last_id": 18723,
       "last_message_preview": "Muito obrigado",
@@ -1003,7 +1038,7 @@
       "first_message_at": "2026-03-12T03:00:00.000Z",
       "last_message_at": "2026-03-12T20:36:16.047000Z",
       "last_bot_msg_at": "2026-03-12T17:36:15.5301",
-      "tempo_sem_interacao": "6h 57min",
+      "tempo_sem_interacao": "7h 9min",
       "first_id": 18721,
       "last_id": 18722,
       "last_message_preview": "Dados do lead no sistema:\nNome: \n\nMensagem(ns) do cliente:\nBoa Tarde ! No momento não tenho interess...",
@@ -1070,7 +1105,7 @@
       "first_message_at": "2025-12-08T03:00:00.000Z",
       "last_message_at": "2026-03-12T20:12:10.423Z",
       "last_bot_msg_at": "2026-03-12T20:12:10.423Z",
-      "tempo_sem_interacao": "4h 21min",
+      "tempo_sem_interacao": "4h 33min",
       "first_id": 77,
       "last_id": 18716,
       "last_message_preview": "<ContextoPDF>\n  <TranscricaoPDF>\nREDE CREDENCIADA\nBronze Mais\nHOSPITAIS\nZONA NORTE\nRio de Janeiro\n• ...",
@@ -1377,7 +1412,7 @@
       "first_message_at": "2025-12-15T03:00:00.000Z",
       "last_message_at": "2026-03-12T18:57:05.706Z",
       "last_bot_msg_at": "2026-03-12T18:57:05.706Z",
-      "tempo_sem_interacao": "5h 36min",
+      "tempo_sem_interacao": "5h 48min",
       "first_id": 742,
       "last_id": 18695,
       "last_message_preview": "sim, esperando rsponder",
@@ -9075,7 +9110,7 @@
       "first_message_at": "2026-03-08T03:00:00.000Z",
       "last_message_at": "2026-03-09T03:43:28.209000Z",
       "last_bot_msg_at": "2026-03-09T00:43:27.731062",
-      "tempo_sem_interacao": "3 dias",
+      "tempo_sem_interacao": "4 dias",
       "first_id": 17345,
       "last_id": 18177,
       "last_message_preview": "Olá Gostaria de uma cotação de um Plano de Saúde Sulamérica",
@@ -9555,7 +9590,7 @@
       "first_message_at": "2026-03-08T03:00:00.000Z",
       "last_message_at": "2026-03-09T03:43:26.391000Z",
       "last_bot_msg_at": "2026-03-09T00:43:25.882192",
-      "tempo_sem_interacao": "3 dias",
+      "tempo_sem_interacao": "4 dias",
       "first_id": 17295,
       "last_id": 18175,
       "last_message_preview": "Olá gostaria de mais informações dos Planos de Saúde  Sulamérica",
@@ -10602,7 +10637,7 @@
       "first_message_at": "2026-03-08T03:00:00.000Z",
       "last_message_at": "2026-03-09T00:19:58.921000Z",
       "last_bot_msg_at": "2026-03-09T00:43:26.069072",
-      "tempo_sem_interacao": "3 dias",
+      "tempo_sem_interacao": "4 dias",
       "first_id": 17464,
       "last_id": 18087,
       "last_message_preview": "Olá Gostaria de uma cotação de um Plano de Saúde Amil\n\nOlá Gostaria de uma cotação de um Plano de Sa...",
@@ -10807,7 +10842,7 @@
       "first_message_at": "2026-03-08T03:00:00.000Z",
       "last_message_at": "2026-03-09T03:43:24.454000Z",
       "last_bot_msg_at": "2026-03-09T00:43:23.440702",
-      "tempo_sem_interacao": "3 dias",
+      "tempo_sem_interacao": "4 dias",
       "first_id": 17442,
       "last_id": 18086,
       "last_message_preview": "Olá Gostaria de uma cotação de um Plano de Saúde Amil",
