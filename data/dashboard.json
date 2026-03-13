@@ -1,17 +1,77 @@
 {
   "meta": {
-    "generated_at": "2026-03-13T21:30:21.977Z",
+    "generated_at": "2026-03-13T21:45:22.139Z",
     "total_conversations": 200,
-    "total_messages": 4828,
+    "total_messages": 4810,
     "stats": {
       "quente": 38,
-      "morno": 126,
-      "frio": 36,
+      "morno": 125,
+      "frio": 37,
       "desinteresse": 0,
       "sem_classificacao": 0
     }
   },
   "conversations": [
+    {
+      "session_id": "5521999699878@s.whatsapp.net",
+      "phone": "5521999699878",
+      "phone_display": "+55 21 99969-9878",
+      "lead": {
+        "baserow_id": 1151,
+        "nome": "Leila",
+        "email": "wleiloca@gmail.com",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "gilbertinho_off": false,
+        "observacoes": "",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Leila",
+        "email": "wleiloca@gmail.com",
+        "telefone": "+55 21 99969-9878",
+        "vidas": [],
+        "cidade": "",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "SulAmérica",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "",
+        "bot": "Gilbertinho Amarelo (2373)",
+        "formatted": "👤 Cliente: Leila\n📧 E-mail: wleiloca@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99969-9878\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n\n🎯 Interesse: SulAmérica\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Amarelo (2373)"
+      },
+      "status": "frio",
+      "bot": "amarelo",
+      "consultor": "",
+      "message_count": 2,
+      "first_message_at": "2026-03-13T03:00:00.000Z",
+      "last_message_at": "2026-03-13T21:39:30.900000Z",
+      "last_bot_msg_at": "2026-03-13T18:39:25.257679",
+      "tempo_sem_interacao": "3h 5min",
+      "first_id": 18607,
+      "last_id": 18608,
+      "last_message_preview": "Dados Fornecidos\nNome: Leila\nContem CNPJ: Sim\nNumero de Vidas: 1 a 2 Vidas\nOperadora de Interesse: A...",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados Fornecidos\nNome: Leila\nContem CNPJ: Sim\nNumero de Vidas: 1 a 2 Vidas\nOperadora de Interesse: Amil, Bradesco, Intermédica, Assim Saúde, SulAmérica, Receber todos os valores\nRegião: Não Informado\nPropaganda:\n",
+          "msg_time": "2026-03-13T18:39:25.255559"
+        },
+        {
+          "role": "ai",
+          "content": "Oi Leila, eu sou o Gilberto da GW9 Saúde. Você pediu nosso contato para saber mais sobre planos de saúde e mencionou interesse em algumas operadoras, como Amil e Bradesco, para 1 a 2 vidas e que já possui um CNPJ. Para te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo bem?",
+          "msg_time": "2026-03-13T18:39:25.257679"
+        }
+      ]
+    },
     {
       "session_id": "5521995502888@s.whatsapp.net",
       "phone": "5521995502888",
@@ -61,14 +121,14 @@
       "status": "quente",
       "bot": "preto",
       "consultor": "",
-      "message_count": 2,
+      "message_count": 4,
       "first_message_at": "2026-03-13T03:00:00.000Z",
-      "last_message_at": "2026-03-13T21:02:29.537000Z",
-      "last_bot_msg_at": "2026-03-13T18:02:29.093362",
-      "tempo_sem_interacao": "3h 27min",
+      "last_message_at": "2026-03-13T21:39:12.077000Z",
+      "last_bot_msg_at": "2026-03-13T18:39:11.663459",
+      "tempo_sem_interacao": "3h 6min",
       "first_id": 18603,
-      "last_id": 18604,
-      "last_message_preview": "Dados do lead no sistema:\nNome: \n\nMensagem(ns) do cliente:\nOlá gostaria de mais informações dos Plan...",
+      "last_id": 18606,
+      "last_message_preview": "Dados do lead no sistema:\nNome: Paulla\n\nMensagem(ns) do cliente:\n?",
       "messages": [
         {
           "role": "user",
@@ -79,6 +139,16 @@
           "role": "ai",
           "content": "Olá! Vou te ajudar a entender as melhores opções de plano Sulamérica para MEI com 3 pessoas, idades 27, 54 e 62 anos. Para isso, preciso confirmar a cidade onde o plano será utilizado e se prefere pessoa física (CPF) ou MEI (CNPJ). Poderia informar?",
           "msg_time": "2026-03-13T18:02:29.093362"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: Paulla\n\nMensagem(ns) do cliente:\n?",
+          "msg_time": "2026-03-13T18:39:11.661534"
+        },
+        {
+          "role": "ai",
+          "content": "Oi Paulla, obrigado por retornar! Entendi o perfil: 3 pessoas (27, 54 e 62 anos) para MEI Sulamérica. Agora só preciso confirmar a cidade onde o plano será usado para continuar. Pode me dizer?",
+          "msg_time": "2026-03-13T18:39:11.663459"
         }
       ]
     },
@@ -125,7 +195,7 @@
       "first_message_at": "2026-03-13T03:00:00.000Z",
       "last_message_at": "2026-03-13T20:40:42.902000Z",
       "last_bot_msg_at": "2026-03-13T17:40:42.989492",
-      "tempo_sem_interacao": "3h 49min",
+      "tempo_sem_interacao": "4h 4min",
       "first_id": 18599,
       "last_id": 18602,
       "last_message_preview": "Dados do lead no sistema:\nNome: \n\nMensagem(ns) do cliente:\nFormato de mensagem enviada nao suportado",
@@ -10924,7 +10994,7 @@
       "first_message_at": "2026-03-07T03:00:00.000Z",
       "last_message_at": "2026-03-08T00:37:03.801000Z",
       "last_bot_msg_at": "2026-03-07T21:36:57.602821",
-      "tempo_sem_interacao": "5 dias",
+      "tempo_sem_interacao": "6 dias",
       "first_id": 17227,
       "last_id": 18039,
       "last_message_preview": "Dados Fornecidos\nNome: Simone\nContem CNPJ: não\nNumero de Vidas: 2_vidas\nOperadora de Interesse: não ...",
@@ -11006,7 +11076,7 @@
       "first_message_at": "2026-03-07T03:00:00.000Z",
       "last_message_at": "2026-03-08T00:39:11.895000Z",
       "last_bot_msg_at": "2026-03-07T21:39:11.494693",
-      "tempo_sem_interacao": "5 dias",
+      "tempo_sem_interacao": "6 dias",
       "first_id": 17217,
       "last_id": 18038,
       "last_message_preview": "Olá gostaria de mais informações dos Planos de Saúde  Sulamérica",
@@ -11482,7 +11552,7 @@
       "first_message_at": "2026-03-09T03:00:00.000Z",
       "last_message_at": "2026-03-10T00:43:46.004000Z",
       "last_bot_msg_at": "2026-03-09T21:43:45.468561",
-      "tempo_sem_interacao": "3 dias",
+      "tempo_sem_interacao": "4 dias",
       "first_id": 18013,
       "last_id": 18014,
       "last_message_preview": "Olá Gostaria de uma cotação de um Plano de Saúde Amil",
@@ -26527,166 +26597,6 @@
         {
           "role": "ai",
           "content": "Mônica, parece que sua mensagem não foi compreendida aqui. Pode, por favor, tentar enviar novamente em texto ou áudio? Estou à disposição para ajudar!",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        }
-      ]
-    },
-    {
-      "session_id": "5522998186671@s.whatsapp.net",
-      "phone": "5522998186671",
-      "phone_display": "+55 22 99818-6671",
-      "lead": {
-        "baserow_id": 991,
-        "nome": "Ana",
-        "email": "",
-        "qtd_vidas": "",
-        "desinteresse": false,
-        "gilbertinho_off": true,
-        "observacoes": "Ana",
-        "reagendamento": "2026-03-05T16:00:00Z",
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Ana",
-        "email": "",
-        "telefone": "+55 22 99818-6671",
-        "vidas": [],
-        "cidade": "Campos dos Goytacazes / RJ",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "Nenhum",
-        "motivo": "Redução de custo\nIncluir novas vidas",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "Ana",
-        "bot": "Gilbertinho Amarelo (2373)",
-        "formatted": "👤 Cliente: Ana\n📱 Contato: WhatsApp\n📞 Telefone: +55 22 99818-6671\n\n📋 Dados contratuais:\n\nCidade: Campos dos Goytacazes / RJ\nContratação: CNPJ\n\n🏥 Plano atual: Nenhum\n\n😤 Motivo da troca:\n\nRedução de custo\nIncluir novas vidas\n\n⚠️ Observação: Ana\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)"
-      },
-      "status": "morno",
-      "bot": "amarelo",
-      "consultor": "",
-      "message_count": 22,
-      "first_message_at": "2026-03-04T03:00:00.000Z",
-      "last_message_at": "2026-03-04T16:33:59.012000Z",
-      "last_bot_msg_at": "2026-03-05T22:36:17.247927",
-      "tempo_sem_interacao": "7 dias",
-      "first_id": 15966,
-      "last_id": 15987,
-      "last_message_preview": "Grata",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados Fornecidos\nNome: Ana\nContem CNPJ: não\nNumero de Vidas: 2_vidas\nOperadora de Interesse: não informado\nRegião: Não Informado\nPropaganda:\n",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Oi Ana, eu sou o Gilberto da GW9 Saúde. Você pediu o nosso contato porque está interessada em contratar um plano de saúde para 2 pessoas. Para te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo certo?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Ok",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Legal, Ana! Para entender melhor o que você precisa, me fala a idade das duas pessoas e em qual cidade o plano será utilizado. Também, prefere fazer no CPF ou empresarial? Pode responder por áudio se quiser.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Uma 60 anos e outra 63.\nCampos dos goytacazes \nPlano que eu possa conseguir pagar.  CPF ou empresa",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Ana, você busca um plano acessível para duas pessoas, de 60 e 63 anos, em Campos dos Goytacazes, e prefere no CPF mesmo. Vocês já possuem algum plano hoje ou estão sem? Tem algum hospital ou médico que queiram garantir na rede?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Hoje utilizamos o Unimed coopartipativo porém o valor está muito alto. \nNão tenho interesse em mamter caso consiga outro com melhor preço só desejo não perder o tempo de uso.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Então, Ana, entendi que buscam exatamente reduzir o valor, mantendo a portabilidade para não perder o tempo de uso. Está correto? Qual a sua profissão? Isso ajuda a encontrar opções mais alinhadas.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Enfermeira",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Ana, então você é enfermeira e quer um plano pelo CPF para 2 vidas em Campos dos Goytacazes, buscando portabilidade da Unimed cooperativo para pagar menos.\n\nCom isso, o especialista vai direto ao ponto.\n\nQual o melhor dia e horário para te ligar? Prefere WhatsApp, ligação ou vídeo?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "WhatsApp\n\n13 16h",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Combinado, Ana! Já organizei tudo para o especialista te ligar pelo WhatsApp no dia 13, às 16h. Obrigado por compartilhar as informações! Se precisar de algo antes, só avisar.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Tenho minha filha que tem CNPJ ela tem 26 anos e é médica",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Obrigado por avisar, Ana! Então a sua filha, que tem 26 anos, é médica e possui CNPJ próprio. Se quiser, posso incluir ela na avaliação do plano. Posso seguir com isso?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Atualmente ela é minha dependente",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Ana. Sua filha de 26 anos, médica com CNPJ, é atualmente sua dependente. Quer que eu atualize o número de vidas para incluir ela também, então seriam 3 vidas no total?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Ok",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Ana, atualizei para 3 vidas, incluindo sua filha médica como dependente. O especialista ainda fará o contato pelo WhatsApp no dia 13, às 16h, conforme combinado. Se precisar de algo mais, estou à disposição!",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Pode ser das 13h até às 16h \nAmanhã mesmo",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Vou acertar o horário para o especialista te ligar amanhã, dia 5, pelo WhatsApp entre 13h e 16h. Obrigado pela atualização, Ana! Se precisar de algo antes, estou por aqui.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Grata",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Anotado, Ana! Seu atendimento está agendado para amanhã, dia 5, entre 13h e 16h pelo WhatsApp com o especialista. Se precisar de algo antes, estou aqui para ajudar. Obrigado!",
           "msg_time": "2026-03-05T22:36:17.247927"
         }
       ]
