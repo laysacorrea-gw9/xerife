@@ -1,17 +1,531 @@
 {
   "meta": {
-    "generated_at": "2026-03-13T14:30:42.066Z",
+    "generated_at": "2026-03-13T15:00:44.092Z",
     "total_conversations": 200,
-    "total_messages": 4727,
+    "total_messages": 4710,
     "stats": {
-      "quente": 38,
-      "morno": 124,
+      "quente": 37,
+      "morno": 125,
       "frio": 38,
       "desinteresse": 0,
       "sem_classificacao": 0
     }
   },
   "conversations": [
+    {
+      "session_id": "5521974375756@s.whatsapp.net",
+      "phone": "5521974375756",
+      "phone_display": "+55 21 97437-5756",
+      "lead": {
+        "baserow_id": 1164,
+        "nome": "Débora Leal",
+        "email": "",
+        "qtd_vidas": 2,
+        "desinteresse": false,
+        "gilbertinho_off": true,
+        "observacoes": "",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Débora Leal",
+        "email": "",
+        "telefone": "+55 21 97437-5756",
+        "vidas": [
+          {
+            "idade": 43
+          },
+          {
+            "idade": 7
+          }
+        ],
+        "cidade": "Rio de Janeiro / RJ",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "MEI",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "Sulamérica",
+        "rede_preferencial": "Rede D'Or",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Débora Leal\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97437-5756\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nDébora Leal — 43 anos\nDependente 1 — 7 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n🎯 Rede preferencial: Rede D'Or\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "quente",
+      "bot": "preto",
+      "consultor": "",
+      "message_count": 10,
+      "first_message_at": "2026-03-13T03:00:00.000Z",
+      "last_message_at": "2026-03-13T13:01:11.388000Z",
+      "last_bot_msg_at": "2026-03-13T10:01:10.811317",
+      "tempo_sem_interacao": "4h 59min",
+      "first_id": 18876,
+      "last_id": 18942,
+      "last_message_preview": "Tem q ser do da minha família ??\n\npode ser minha tia ?",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: \n\nMensagem(ns) do cliente:\nOlá gostaria de mais informações dos Planos de Saúde  Sulamérica",
+          "msg_time": "2026-03-13T09:46:06.071766"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Eu sou Gilberto, analista em Plano Saúde da Corretora GW9.\nTrabalhamos com todos os Planos de saúde no Rio de Janeiro. 🚀\nComo os valores dos Planos de saúde são tabelados e os preços mudam de acordo com a rede credenciada. Minha missão é de te ajudar a encontrar o produto que melhor lhe atenda na relação custo x acesso.\n\nPor isso vou te fazer algumas perguntas, pode me dizer:\n1️⃣ Quantas pessoas são e as idades?\n2️⃣ Qual a cidade que busca atendimento? Se tiver algum hospital de sua preferência, me informe, também nos ajuda.\n3️⃣ Como o plano será contratado: empresarial (CNPJ/MEI)?\n4️⃣ Já possui Plano atualmente? Se sim qual?\n\nPode responder por áudio se preferir. 🎙️",
+          "msg_time": "2026-03-13T09:46:06.074268"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: Débora Leal\n\nMensagem(ns) do cliente:\n2 pessoas \n43 anos e 7 anos \nRio de Janeiro \nRede Dor ou hospital Vitória \nMei",
+          "msg_time": "2026-03-13T10:01:10.80654"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Débora. São 2 pessoas, idades 43 e 7 anos, no Rio de Janeiro, com preferência pela Rede D'Or ou Hospital Vitória, e o plano será contratado como MEI. Só para confirmar, você já possui plano atualmente? Se sim, qual?",
+          "msg_time": "2026-03-13T10:01:10.811317"
+        },
+        {
+          "role": "system",
+          "content": "Vocês já possuem plano atualmente?",
+          "msg_time": "2026-03-13T11:53:41.572201"
+        },
+        {
+          "role": "system",
+          "content": "pergunto isso para identificar o congênere e compra das carências já cumpridas",
+          "msg_time": "2026-03-13T11:54:19.183796"
+        },
+        {
+          "role": "user",
+          "content": "Sim",
+          "msg_time": "2026-03-13T11:54:51.415445"
+        },
+        {
+          "role": "user",
+          "content": "Minha filha Amil\n\nEu o klini\n\nO meu é pela prefeitura",
+          "msg_time": "2026-03-13T11:55:25.681188"
+        },
+        {
+          "role": "system",
+          "content": "entendi, para ter acesso a rede D'or e sul américa eles solicitam a entrada de 3 vidas no mínimo na apólice, teria mais alguém para entrar com vocês?\n\nsomente para analisarmos o cenário",
+          "msg_time": "2026-03-13T11:56:34.436938"
+        },
+        {
+          "role": "user",
+          "content": "Tem q ser do da minha família ??\n\npode ser minha tia ?",
+          "msg_time": "2026-03-13T12:00:08.811997"
+        }
+      ]
+    },
+    {
+      "session_id": "5521974541204@s.whatsapp.net",
+      "phone": "5521974541204",
+      "phone_display": "+55 21 97454-1204",
+      "lead": {
+        "baserow_id": 1167,
+        "nome": "Márcia",
+        "email": "marciabov123@gmail.com",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "gilbertinho_off": false,
+        "observacoes": "",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Márcia",
+        "email": "marciabov123@gmail.com",
+        "telefone": "+55 21 97454-1204",
+        "vidas": [],
+        "cidade": "",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "MEI",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "Incluir novas vidas",
+        "interesse": "",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "",
+        "bot": "Gilbertinho Amarelo (2373)",
+        "formatted": "👤 Cliente: Márcia\n📧 E-mail: marciabov123@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97454-1204\n\n📋 Dados contratuais:\n\nContratação: CNPJ\nTipo: MEI\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)"
+      },
+      "status": "morno",
+      "bot": "amarelo",
+      "consultor": "",
+      "message_count": 10,
+      "first_message_at": "2026-03-13T03:00:00.000Z",
+      "last_message_at": "2026-03-13T14:59:19.360000Z",
+      "last_bot_msg_at": "2026-03-13T11:59:18.889378",
+      "tempo_sem_interacao": "3h 1min",
+      "first_id": 18925,
+      "last_id": 18941,
+      "last_message_preview": "Dados do lead no sistema:\nNome: Márcia\n\nMensagem(ns) do cliente:\nEstou sendo desligada do bradesco\n\n...",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados Fornecidos\nNome: Márcia\nContem CNPJ: Sim\nNumero de Vidas: 1 a 2 Vidas\nOperadora de Interesse: Receber todos os valores\nRegião: Não Informado\nPropaganda:\n",
+          "msg_time": "2026-03-13T11:37:52.856665"
+        },
+        {
+          "role": "ai",
+          "content": "Oi Márcia, eu sou o Gilberto da GW9 Saúde. Você pediu o nosso contato para saber mais sobre o plano de saúde e mencionou que tem interesse em \"Receber todos os valores\" para 1 a 2 vidas e que já tem um CNPJ. Pra te ajudar melhor, preciso confirmar mais algumas informações. Tudo bem?",
+          "msg_time": "2026-03-13T11:37:52.85867"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: Márcia\n\nMensagem(ns) do cliente:\nSeja bem vinda!💁🏼‍♀️espero que o seu dia esteja sendo incrível 🌞nossa missão aqui na Estética Alma Feminina  é cuidar, acolher e buscar sua melhor versão.  Já  vamos lhe atender com todo respeito  e carinho que vc merece. 🥰Aguarde só  um instante... que já chamo vc.",
+          "msg_time": "2026-03-13T11:38:25.40718"
+        },
+        {
+          "role": "ai",
+          "content": "Olá, Márcia! Que mensagem acolhedora, muito obrigada! 😊\n\nPara continuar, só para garantir que vamos te apresentar as opções certas, pode me confirmar quantas pessoas serão incluídas no plano e as idades delas? E também em qual cidade o plano será utilizado?",
+          "msg_time": "2026-03-13T11:38:25.410594"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: Márcia\n\nMensagem(ns) do cliente:\nE para apenas 1 pessoa tenho mei",
+          "msg_time": "2026-03-13T11:58:03.245499"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Márcia, para apenas 1 pessoa e você tem MEI, certo? Isso ajuda muito para a gente buscar opções com descontos. Qual a idade da pessoa que vai entrar no plano? E em qual cidade será usado o plano?",
+          "msg_time": "2026-03-13T11:58:03.249931"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: Márcia\n\nMensagem(ns) do cliente:\nQuero um plano  que tenha emergência e i terna ao num preço acessível",
+          "msg_time": "2026-03-13T11:58:36.061448"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Márcia, você quer um plano com cobertura para emergência e internação que caiba no seu bolso. Para encontrar o melhor custo-benefício, qual a idade da pessoa que vai usar o plano? E em qual cidade será utilizado?",
+          "msg_time": "2026-03-13T11:58:36.062993"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: Márcia\n\nMensagem(ns) do cliente:\nEstou sendo desligada do bradesco\n\n4 anos",
+          "msg_time": "2026-03-13T11:59:18.886387"
+        },
+        {
+          "role": "ai",
+          "content": "Márcia, obrigado por compartilhar. Entendi que você está sendo desligada do Bradesco e tem 4 anos de idade para o beneficiário, certo? Só para confirmar, o plano será usado em qual cidade?",
+          "msg_time": "2026-03-13T11:59:18.889378"
+        }
+      ]
+    },
+    {
+      "session_id": "5521978944636@s.whatsapp.net",
+      "phone": "5521978944636",
+      "phone_display": "+55 21 97894-4636",
+      "lead": {
+        "baserow_id": 8,
+        "nome": "Lead 4636",
+        "email": "elisa.oliveira@gw9capital.com.br",
+        "qtd_vidas": 2,
+        "desinteresse": false,
+        "gilbertinho_off": true,
+        "observacoes": "",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": "Frio"
+      },
+      "summary": {
+        "nome": "Lead 4636",
+        "email": "elisa.oliveira@gw9capital.com.br",
+        "telefone": "+55 21 97894-4636",
+        "vidas": [
+          {
+            "idade": 5
+          },
+          {
+            "idade": 6
+          }
+        ],
+        "cidade": "RJ e MG",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "MEI",
+        "profissao": "Clínica",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "Rede Dor",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "",
+        "bot": "Não identificado",
+        "formatted": "👤 Cliente: Lead 4636\n📧 E-mail: elisa.oliveira@gw9capital.com.br\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97894-4636\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nLead 4636 — 5 anos\nDependente 1 — 6 anos\n\n📋 Dados contratuais:\n\nCidade: RJ e MG\nContratação: CNPJ\nTipo: MEI\nProfissão: Clínica\n\n🎯 Interesse: Rede Dor\n✅ Status: Lead frio\n🤖 Bot: Não identificado"
+      },
+      "status": "frio",
+      "bot": "desconhecido",
+      "consultor": "",
+      "message_count": 438,
+      "first_message_at": "2025-12-08T03:00:00.000Z",
+      "last_message_at": "2026-03-13T14:43:17.159Z",
+      "last_bot_msg_at": "2026-03-13T14:43:17.159Z",
+      "tempo_sem_interacao": "17min",
+      "first_id": 77,
+      "last_id": 18930,
+      "last_message_preview": "Pega esa :\n\n?\n\nsim",
+      "messages": [
+        {
+          "role": "system",
+          "content": "👤 Cliente: Hilda\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98884-6057\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: profissional autonoma\n\n😤 Motivo da troca:\n\nPrevenção\nEncerramento do plano atual\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Hilda\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98884-6057\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: profissional autonoma\n\n😤 Motivo da troca:\n\nPrevenção\nEncerramento do plano atual\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Hilda\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98884-6057\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: profissional autonoma\n\n😤 Motivo da troca:\n\nPrevenção\nEncerramento do plano atual\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)",
+          "msg_time": "2026-03-09T17:01:59.703157"
+        },
+        {
+          "role": "system",
+          "content": "👤 Cliente: Hilda\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98884-6057\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: profissional autonoma\n\n😤 Motivo da troca:\n\nPrevenção\nEncerramento do plano atual\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Hilda\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98884-6057\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: profissional autonoma\n\n😤 Motivo da troca:\n\nPrevenção\nEncerramento do plano atual\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Hilda\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98884-6057\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: profissional autonoma\n\n😤 Motivo da troca:\n\nPrevenção\nEncerramento do plano atual\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)",
+          "msg_time": "2026-03-09T17:02:00.282488"
+        },
+        {
+          "role": "system",
+          "content": "👤 Cliente: Jaciara Magalhães Francisco\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99315-0772\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nJaciara Magalhães Francisco — 2 anos\nDependente 1 — 58 anos\nDependente 2 — 62 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Jaciara Magalhães Francisco\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99315-0772\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nJaciara Magalhães Francisco — 2 anos\nDependente 1 — 58 anos\nDependente 2 — 62 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Jaciara Magalhães Francisco\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99315-0772\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nJaciara Magalhães Francisco — 2 anos\nDependente 1 — 58 anos\nDependente 2 — ",
+          "msg_time": "2026-03-09T17:11:13.005311"
+        },
+        {
+          "role": "system",
+          "content": "👤 Cliente: Jaciara Magalhães Francisco\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99315-0772\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nJaciara Magalhães Francisco — 2 anos\nDependente 1 — 58 anos\nDependente 2 — 62 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Jaciara Magalhães Francisco\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99315-0772\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nJaciara Magalhães Francisco — 2 anos\nDependente 1 — 58 anos\nDependente 2 — 62 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Jaciara Magalhães Francisco\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99315-0772\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nJaciara Magalhães Francisco — 2 anos\nDependente 1 — 58 anos\nDependente 2 — ",
+          "msg_time": "2026-03-09T17:11:13.597738"
+        },
+        {
+          "role": "system",
+          "content": "👤 Cliente: Jaciara Magalhães Francisco\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99315-0772\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nJaciara Magalhães Francisco — 2 anos\nDependente 1 — 58 anos\nDependente 2 — 62 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Jaciara Magalhães Francisco\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99315-0772\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nJaciara Magalhães Francisco — 2 anos\nDependente 1 — 58 anos\nDependente 2 — 62 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Jaciara Magalhães Francisco\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99315-0772\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nJaciara Magalhães Francisco — 2 anos\nDependente 1 — 58 anos\nDependente 2 — ",
+          "msg_time": "2026-03-09T17:11:13.742626"
+        },
+        {
+          "role": "user",
+          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado",
+          "msg_time": "2026-03-09T17:30:40.764641"
+        },
+        {
+          "role": "user",
+          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado",
+          "msg_time": "2026-03-09T17:30:41.411833"
+        },
+        {
+          "role": "user",
+          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado",
+          "msg_time": "2026-03-09T17:30:41.557211"
+        },
+        {
+          "role": "user",
+          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado",
+          "msg_time": "2026-03-09T17:31:09.488546"
+        },
+        {
+          "role": "user",
+          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado",
+          "msg_time": "2026-03-09T17:31:09.586083"
+        },
+        {
+          "role": "user",
+          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado",
+          "msg_time": "2026-03-09T17:31:10.415213"
+        },
+        {
+          "role": "user",
+          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado",
+          "msg_time": "2026-03-09T17:50:06.631086"
+        },
+        {
+          "role": "user",
+          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado",
+          "msg_time": "2026-03-09T17:50:06.917659"
+        },
+        {
+          "role": "user",
+          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado",
+          "msg_time": "2026-03-09T17:50:07.51217"
+        },
+        {
+          "role": "system",
+          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de ",
+          "msg_time": "2026-03-09T21:28:40.900549"
+        },
+        {
+          "role": "system",
+          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de ",
+          "msg_time": "2026-03-09T21:28:40.980771"
+        },
+        {
+          "role": "system",
+          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de ",
+          "msg_time": "2026-03-09T21:28:41.319224"
+        },
+        {
+          "role": "system",
+          "content": "Lead Bom\n\nLead Bom\n\nLead Bom",
+          "msg_time": "2026-03-09T21:29:26.140321"
+        },
+        {
+          "role": "system",
+          "content": "Lead Bom\n\nLead Bom\n\nLead Bom",
+          "msg_time": "2026-03-09T21:29:26.231315"
+        },
+        {
+          "role": "system",
+          "content": "Lead Bom\n\nLead Bom\n\nLead Bom",
+          "msg_time": "2026-03-09T21:29:26.563956"
+        },
+        {
+          "role": "system",
+          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\n42, 40, 20, 9, 3 anos\n\nAraruama  (Unimed araruama)\n\nCPF mas está abrindo MEI\n\n42, 40, 20, 9, 3 anos\n\nAraruama  (Unimed araruama)\n\nCPF mas está abrindo MEI\n\n42, 40, 20, 9, 3 anos\n\nAraruama  (Unimed araruama)\n\nCPF mas está abrindo MEI",
+          "msg_time": "2026-03-09T21:37:12.514186"
+        },
+        {
+          "role": "system",
+          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\n42, 40, 20, 9, 3 anos\n\nAraruama  (Unimed araruama)\n\nCPF mas está abrindo MEI\n\n42, 40, 20, 9, 3 anos\n\nAraruama  (Unimed araruama)\n\nCPF mas está abrindo MEI\n\n42, 40, 20, 9, 3 anos\n\nAraruama  (Unimed araruama)\n\nCPF mas está abrindo MEI",
+          "msg_time": "2026-03-09T21:37:13.237134"
+        },
+        {
+          "role": "system",
+          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\n42, 40, 20, 9, 3 anos\n\nAraruama  (Unimed araruama)\n\nCPF mas está abrindo MEI\n\n42, 40, 20, 9, 3 anos\n\nAraruama  (Unimed araruama)\n\nCPF mas está abrindo MEI\n\n42, 40, 20, 9, 3 anos\n\nAraruama  (Unimed araruama)\n\nCPF mas está abrindo MEI",
+          "msg_time": "2026-03-09T21:37:13.347835"
+        },
+        {
+          "role": "system",
+          "content": "👤 Cliente: Carla\n📧 E-mail: carlacampos.cpmc@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96499-9238\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nCarla — 23 anos\nDependente 1 — 19 anos\n\n📋 Dados contratuais:\n\nContratação: CNPJ\nTipo: MEI\nProfissão: responsável pelo pagamento do plano de saúde do meu irmão\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\nIncluir novas vidas\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)",
+          "msg_time": "2026-03-11T12:49:33.209502"
+        },
+        {
+          "role": "system",
+          "content": "**👤 Cliente:** Sr. Marcelo (contato via Ana, sua assistente)\n**📱 Contato:** WhatsApp — amanhã após as 10h\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- Bebê — 7 meses\n- Criança — 4 anos\n- Adulto — 29 anos\n\n---\n\n**📋 Dados contratuais:**\n- Cidade: São Gonçalo / RJ\n- Contratação: MEI (mais de 10 anos de abertura)\n\n---\n\n**🏥 Plano atual:** Assim Saúde — quase 6 meses de uso\n\n---\n\n**😤 Motivo da troca:**\n- Sem emergência em São Gonçalo\n- Insatisfação geral com a rede local\n\n---\n\n**🎯 Interesse:** Amil — sem coparticipação\n**Prioridades:** Emergência, pediatria e ginecologia em São Gonçalo + info sobre carências\n\n---\n\n**⚠️ Observação:** Bebê de 7 meses — atenção especial à cobertura pediátrica. Com 6 meses na Assim, portabilidade pode ser estratégia para carências. Ana cuida dos assuntos do Sr. Marcelo — tratar ela como interlocutora principal.\n\n**✅ Status:** Lead ativo — agendado para amanhã após as 10h",
+          "msg_time": "2026-03-11T14:11:04.022506"
+        },
+        {
+          "role": "user",
+          "content": "Formato de mensagem enviada nao suportado",
+          "msg_time": "2026-03-11T14:14:37.330223"
+        },
+        {
+          "role": "system",
+          "content": "👤 Cliente: Renata\n📧 E-mail: rebbrindes@hotmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96419-8995\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nRenata — 67 anos\nDependente 1 — 56 anos\nDependente 2 — 8 anos\n\n\n📋 Dados contratuais:\n\nCidade: São Gonçalo / RJ\nContratação: CNPJ\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n\n🎯 Interesse: Amil\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Preto (0479)",
+          "msg_time": "2026-03-11T15:47:09.502736"
+        },
+        {
+          "role": "system",
+          "content": "Formato de mensagem enviada nao suportado\n\n👤 Cliente: Noemi\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96422-9888\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nNoemi — 52 anos\nDependente 1 — 16 anos\nDependente 2 — 2 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 18.674.653/0001-11\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n🎯 Rede preferencial: Barra D'Or\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n\n🎯 Interesse: Barra D'or\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Preto (0479)",
+          "msg_time": "2026-03-11T15:50:25.678071"
+        },
+        {
+          "role": "user",
+          "content": "Formato de mensagem enviada nao suportado",
+          "msg_time": "2026-03-11T15:52:57.081907"
+        },
+        {
+          "role": "system",
+          "content": "CNPJ 58.315.004/0001-49\n\n71\n46\n47\n25\n22",
+          "msg_time": "2026-03-12T14:58:56.401394"
+        },
+        {
+          "role": "user",
+          "content": "<ContextoPDF>\n  <TranscricaoPDF>\nREDE CREDENCIADA\nDireto Nacional\nHOSPITAIS\nZONA NORTE\nRio de Janeiro\n• Hospital Badim - Rede Dor São Luiz - H/PS\n• Hospital Balbino - H/PS\n• Hospital da Criança - Grupo Prontobaby - H/PSI\n• Hospital de Irajá - PS\n• Hospital Ilha do Governador - Antigo Hospital Santa Maria Madalena\n- H/PS\n• Hospital Norte Dor - Rede Dor São Luiz - H/PS/PSI\n• Hospital Pan-Americano - Antigo Casa de Saúde Santa Therezinha -\nH/PS\n• Hospital Pasteur - Unidade Avançada Tijuca - H/M/PS/PSI\n• Hospital Pasteur - Unidade Meier - H/M/PS/PSI\n• Hospital Procor - Pronto Socorro Clinico e Cardiológico - H/PSI\n• Hospital São Francisco na Providência de Deus - Antigo Hospital\nOrdem Terceira da Penitência - H/PS\n• Hospital São Vicente de Paulo - H/PS\n• TijuTrauma Clínica & Hospital - H\nZONA SUL\nRio de Janeiro\n• Clínica da Gávea - H\n• CSPM Casa de Saúde Pinheiro Machado - H/PS\n• Hospital Casa Rio Laranjeiras - Grupo Hospital Casa - H/PS\n• Hospital e Maternidade Santa Bárbara - M\n• Hospita",
+          "msg_time": "2026-03-12T15:01:33.806454"
+        },
+        {
+          "role": "user",
+          "content": "<ContextoPDF>\n  <TranscricaoPDF>\nREDE CREDENCIADA\nRJ 1\nHOSPITAIS\nZONA NORTE\nRio de Janeiro\n• Hosp. De Irajá - H/PS\n• Hosp. Marcos Moraes - H\n• Hosp. Pan-Americano - Antigo Casa De\nSaúde Sta. Therezinha - H/PS\n• Hosp. Pasteur - Un. Meier - H\n• Hosp. Procor - PS. Clinico E Cardiológico -\nH/PS\n• Hosp. São Francisco Na Providência De Deus\n- Antigo Hosp. Ordem Terceira Da Penitência -\nH/PS\nZONA SUL\nRio de Janeiro\n• Hosp. Quali Ipanema - Antigo Hosp.\nIpanema Plus - Intituto Cirúrgico Gabriel\nLucena - H\n• Medsênior - Un. Botafogo - A/PA\n• São Carlos Saúde Oncológica - H\nZONA OESTE\nRio de Janeiro\n• Amil Espaço Saúde - Un. Campo Grande - PS\n• CSNSC Casa De Saude Nsa. Sra. Do Carmo -\nGrupo Carmo - H\n• Hosp. De Clinicas De Jacarepaguá - H\n• Medsênior - Un. Rio Barra Da Tijuca - A/PA\nCENTRO\nRio de Janeiro\n• Hosp. Casa De Portugal - Hosp. Casa\nProcordis - Grupo Hosp. Casa - H/PS\nREGIÃO METROPOLITANA\nDuque de Caxias\n• Hosp. De Clinicas Mario Lioni - H/PS\n• HSCOR Hosp. Do Coração De Duque De\nCaxias -",
+          "msg_time": "2026-03-12T15:01:56.515261"
+        },
+        {
+          "role": "user",
+          "content": "<ContextoPDF>\n  <TranscricaoPDF>\nAmil Saúde | Linha Amil | 30 a 99 vidas - Rio de Janeiro\nSAÚDE - PME\nCompulsório: indiferente\nCoparticipação: indiferente\nAcomodação: indiferente\nAceita MEI:\nCorretor: Elisa - elisa.oliveira@gw9capital.com.br\nValores\nPME | PORTE II - DE 30 A 99 | 1 TIT. | EXCETO MEI - GRUPO DE MUNICÍPIOS - COMPULSÓRIO - COPART. - OBSTETRÍCIA\n30 a 99 Até 31/03/2026 Coparticipação Compulsório\nIdade Bronze QC | Grupo de Municípios | Compulsório | Copart. | Exceto MEI Bronze Mais QC | Grupo de Municípios | Compulsório | Copart. | Exceto MEI\n00 a 18 117,32 162,71\n19 a 23 159,32 190,37\n24 a 28 187,03 232,25\n29 a 33 187,03 278,70\n34 a 38 187,03 292,64\n39 a 43 208,91 321,90\n44 a 48 288,50 402,38\n49 a 53 344,47 442,62\n54 a 58 495,35 553,28\n59 ou + 702,41 968,24\n\nRedes\nRio de Janeiro\nCENTRO\nREGIÃO METROPOLITANA\nZONA NORTE\nLAB LAB\nLAB LAB\nLAB LAB\n- LAB\n- LAB\nLAB LAB\nLAB LAB\nLAB LAB\n- LAB\nBronze QC | Grupo de Municípios | Compulsório | Copart. |\nExceto MEI\nBronze Mais QC | Grupo d",
+          "msg_time": "2026-03-12T15:54:37.01318"
+        },
+        {
+          "role": "user",
+          "content": "*LINK COTAÇÃO ONLINE* : https://abrir.in/n577e",
+          "msg_time": "2026-03-12T15:56:04.307119"
+        },
+        {
+          "role": "system",
+          "content": "assim ?",
+          "msg_time": "2026-03-12T16:07:56.018594"
+        },
+        {
+          "role": "system",
+          "content": "Eu faço ou você  faz ?\n\nvc\n\nsó to compilando",
+          "msg_time": "2026-03-12T16:08:39.825582"
+        },
+        {
+          "role": "user",
+          "content": "https://abrir.in/c25u2\n\nlink cotação porto",
+          "msg_time": "2026-03-12T16:13:23.192953"
+        },
+        {
+          "role": "system",
+          "content": "AMIL ?",
+          "msg_time": "2026-03-12T16:21:53.597594"
+        },
+        {
+          "role": "system",
+          "content": "esses links nao estao abrindo a rede credenciada\n\ngera a rede no pdf e me envia",
+          "msg_time": "2026-03-12T16:25:32.42738"
+        },
+        {
+          "role": "user",
+          "content": "https://abrir.in/c25u2\n\nok",
+          "msg_time": "2026-03-12T16:26:52.219288"
+        },
+        {
+          "role": "user",
+          "content": "<ContextoPDF>\n  <TranscricaoPDF>\nPorto | Linha Pro | Capital - Rio de Janeiro\nSAÚDE - PME\nCompulsório: indiferente\nCoparticipação: indiferente\nAcomodação: indiferente\nAceita MEI:\nCorretor: Elisa - elisa.oliveira@gw9capital.com.br\nValores\nPME | DE 30 A 99 | 1 TIT. | EXCETO MEI - OBSTETRÍCIA\n30 a 99 Até 13/08/2026\nBronze Pro QC | De 30 a 99 vidas | Exceto MEI\n188,08\n228,09\n275,15\n315,00\n341,31\n352,48\n421,05\n453,28\n560,06\n941,41\nPME | DE 30 A 99 | 1 TIT. | EXCETO MEI - 30&PERCNT; COPART. - OBSTETRÍCIA\n30 a 99 Até 13/08/2026 Coparticipação 30,00 %\nBronze Pro QC | De 30 a 99 vidas | 30&percnt; Copart. | Exceto MEI\n137,30\n166,51\n200,86\n229,95\n249,15\n257,31\n307,37\n330,89\n408,84\n687,23\n\nRedes\nRio de Janeiro\nCENTRO\nHOSP, PS HOSP, PS\n00 a 18\n19 a 23\n24 a 28\n29 a 33\n34 a 38\n39 a 43\n44 a 48\n49 a 53\n54 a 58\n59 ou +\n00 a 18\n19 a 23\n24 a 28\n29 a 33\n34 a 38\n39 a 43\n44 a 48\n49 a 53\n54 a 58\n59 ou +\nBronze Pro QC | De 30 a 99 vidas | Exceto MEI \nBronze Pro QC | De 30 a 99 vidas | 30&percnt; Copart. | Ex",
+          "msg_time": "2026-03-12T16:27:36.631948"
+        },
+        {
+          "role": "user",
+          "content": "<ContextoPDF>\n  <TranscricaoPDF>\nAssim Saúde - Rio de Janeiro\nSAÚDE - PME\nCompulsório: indiferente\nCoparticipação: indiferente\nAcomodação: indiferente\nAceita MEI:\nCorretor: Elisa - elisa.oliveira@gw9capital.com.br\nValores\nPME | DE 10 A 99 | 1 TIT. | PROMOCIONAL | EXCETO MEI - COPART. TOTAL\n10 a 99 Até 07/05/2026 Coparticipação\nIdade A20 QC | De 10 a 99 vidas | Copart. Total | Exceto MEI | 10% de Desc. nas 6 primeiras mensalidades\n00 a 18 80,60\n19 a 23 109,45\n24 a 28 120,39\n29 a 33 131,23\n34 a 38 133,20\n39 a 43 139,86\n44 a 48 198,18\n49 a 53 267,54\n54 a 58 321,05\n59 ou + 483,50\nPME | DE 10 A 99 | 1 TIT. | PROMOCIONAL | EXCETO MEI - COPART. PARCIAL\n10 a 99 Até 07/05/2026 Coparticipação\nIdade A20 QC | De 10 a 99 vidas | Copart. Parcial | Exceto MEI | 10% de Desc. nas 6 primeiras mensalidades\n00 a 18 87,61\n19 a 23 118,97\n24 a 28 130,87\n29 a 33 142,65\n34 a 38 144,79\n39 a 43 152,03\n44 a 48 215,42\n49 a 53 290,83\n54 a 58 348,99\n59 ou + 525,58\n\nRedes\nRio de Janeiro\nCENTRO\nSIM SIM\nA20 QC | De 10",
+          "msg_time": "2026-03-12T16:29:18.829084"
+        },
+        {
+          "role": "system",
+          "content": "gera no antigo\n\nsó a logo\n\nsó a rede esse está ruim",
+          "msg_time": "2026-03-12T16:32:04.12292"
+        },
+        {
+          "role": "user",
+          "content": "<ContextoPDF>\n  <TranscricaoPDF>\nREDE CREDENCIADA\nA20\nHOSPITAIS\nZONA NORTE\nRio de Janeiro\n• Centro Medico Grupo Assim Saúde - Unidade Tijuca -\n• Clinica de Repouso Santa Alice -\n• Hospital da Criança - Grupo Prontobaby -\n• Hospital de Clínicas Engenho de Dentro - Grupo Memorial -\n• Hospital Grupo Assim Saúde - Unidade Meier -\n• Hospital Memorial Fuad Chidid - Grupo Memorial -\n• Hospital São Victor - Clinicas Reunidas São Victor -\n• Septo Otorrinolaringologia - Unidade Tijuca 24 Horas -\nZONA SUL\nRio de Janeiro\n• Hospital Ênio Serra -\nZONA OESTE\nRio de Janeiro\n• Centro Medico Memorial Campo Grande - Grupo Memorial -\n• Centro Medico Memorial Santa Cruz - Grupo Memorial -\n• CHAJ Centro Hospitalar Amep - Unidade Jacarepaguá -\n• Clínica Pediátrica da Barra -\n• Hospital São Matheus - Ama Assistência Médica Alternativa -\n• Instituto de Olhos da Tijuca - Americas Oftalmocenter -\nCENTRO\nRio de Janeiro\n• Hospital Assim Medical Doutor Aloan - Grupo Assim Saúde -\nREGIÃO METROPOLITANA\nDuque de Caxia",
+          "msg_time": "2026-03-12T16:35:35.349332"
+        },
+        {
+          "role": "user",
+          "content": "<ContextoPDF>\n  <TranscricaoPDF>\nREDE CREDENCIADA\nBronze\nHOSPITAIS\nZONA NORTE\nRio de Janeiro\n• AmericanCor Hospital - Antigo Nortecor Hospital de Clínica - H\n• Hospital da Criança - Grupo Prontobaby - H/PSI\n• Hospital Ilha do Governador - Antigo Hospital Santa Maria Madalena - H/PS\n• Hospital Pan-Americano - Antigo Casa de Saúde Santa Therezinha - H/PS\n• Hospital Pasteur - Unidade Meier - H/M/PS/PSI\n• TijuTrauma Clínica & Hospital - H/PS\nZONA SUL\nRio de Janeiro\n• AMIU Memorial Infantil Botafogo - Grupo Memorial - H/PSI\n• CPL Centro Pediátrico Lagoa - Grupo Prontobaby - H/PSI\n• CSPM Casa de Saúde Pinheiro Machado - H\n• Santa Lucia Hospital e Maternidade - Grupo Américas Serviços Médicos - H\nZONA OESTE\nRio de Janeiro\n• Amil Espaço Saúde - Unidade Campo Grande - PS/PSI\n• Cemeru Grupo de Saúde - H/PS/PSI\n• Clínica Pediátrica da Barra - H/PSI\n• CSNSC Casa de Saude Nossa Senhora do Carmo - Grupo Carmo - H/M/PS/PSI\n• Hospital Casa São Bernardo - Grupo Hospital Casa - H\n• Hospital de Clínicas ",
+          "msg_time": "2026-03-12T16:36:09.611269"
+        },
+        {
+          "role": "user",
+          "content": "<ContextoPDF>\n  <TranscricaoPDF>\nREDE CREDENCIADA\n1- Bronze Pro\nHOSPITAIS\nZONA NORTE\nRio de Janeiro\n• AmericanCor Hospital - Antigo Nortecor Hospital de Clínica - H/PS\n• Hospital Casa Evangélico - Grupo Hospital Casa - H/PS\n• Hospital Casa Italiano - Grupo Hospital Casa Menssana - H/PS\n• Hospital Clínica Grajaú - Casa de Saúde Grajau - H/PS\n• Hospital de Irajá - H/PS\n• Hospital Ilha do Governador - Antigo Hospital Santa Maria Madalena - H/PS\n• Hospital Procor - Pronto Socorro Clinico e Cardiológico - H/PS\n• Hospital Semiu - Alvin & Almeida Grupo Hospitalar - H/PS/PSI\n• Prontobaby Méier Criança 24h - Grupo Prontobaby - H/PS\nZONA SUL\nRio de Janeiro\n• AMIU Memorial Infantil Botafogo - Grupo Memorial - H/PS\n• Clínica da Gávea - H/PS\n• Cob Centro Oftalmológico de Botafogo - H/PS\n• Hospital Casa Rio Laranjeiras - Grupo Hospital Casa - H/PS\n• Hospital Casa Rio Laranjeiras - Grupo Hospital Casa - Unidade Bambina - H/PS\n• Hospital e Maternidade Santa Bárbara - H/M/PS\n• Hospital Quali Ipanema - ",
+          "msg_time": "2026-03-12T16:36:43.346135"
+        },
+        {
+          "role": "user",
+          "content": "esse aqui!!",
+          "msg_time": "2026-03-12T17:02:50.231756"
+        },
+        {
+          "role": "user",
+          "content": "<ContextoPDF>\n  <TranscricaoPDF>\nREDE CREDENCIADA\nBronze Mais\nHOSPITAIS\nZONA NORTE\nRio de Janeiro\n• AmericanCor Hospital - Antigo Nortecor Hospital de Clínica - H\n• Hospital da Criança - Grupo Prontobaby - H/PSI\n• Hospital Ilha do Governador - Antigo Hospital Santa Maria Madalena - H/PS\n• Hospital Pan-Americano - Antigo Casa de Saúde Santa Therezinha - H/PS\n• Hospital Pasteur - Unidade Meier - H/M/PS/PSI\n• Rio Day Hospital - Day Hospital CCA - H\n• TijuTrauma Clínica & Hospital - H/PS\nZONA SUL\nRio de Janeiro\n• AMIU Memorial Infantil Botafogo - Grupo Memorial - H/PSI\n• Centro Avançado de Oftalmologia - H\n• CPL Centro Pediátrico Lagoa - Grupo Prontobaby - H/PSI\n• CSPM Casa de Saúde Pinheiro Machado - H\n• Hospital Ipanema Care - Antigo Hospital Clínica Ipanema - H\n• Santa Lucia Hospital e Maternidade - Grupo Américas Serviços Médicos - H\nZONA OESTE\nRio de Janeiro\n• Amil Espaço Saúde - Unidade Campo Grande - PS/PSI\n• Cemeru Grupo de Saúde - H/PS/PSI\n• Clinipam - Clínica Paranaense de Assist",
+          "msg_time": "2026-03-12T17:12:10.42321"
+        },
+        {
+          "role": "system",
+          "content": "👤 Cliente: Susy\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99055-8298\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nSusy — 1 anos\nDependente 1 — 4 anos\n\n📋 Dados contratuais:\n\nCidade: São Gonçalo / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: de São Gonçalo\nDados do lead no sistema\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n\n🎯 Interesse: Amil\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Preto (0479)",
+          "msg_time": "2026-03-13T11:42:30.459511"
+        },
+        {
+          "role": "user",
+          "content": "Pega esa :\n\n?\n\nsim",
+          "msg_time": "2026-03-13T11:43:17.159207"
+        }
+      ]
+    },
     {
       "session_id": "5521984691939@s.whatsapp.net",
       "phone": "5521984691939",
@@ -55,7 +569,7 @@
       "first_message_at": "2026-02-05T03:00:00.000Z",
       "last_message_at": "2026-03-13T14:23:46.093Z",
       "last_bot_msg_at": "2026-03-13T14:23:46.093Z",
-      "tempo_sem_interacao": "6min",
+      "tempo_sem_interacao": "36min",
       "first_id": 12448,
       "last_id": 18924,
       "last_message_preview": "Me mandaram agora\n\nConsegue me enviar a lista de documentos que precisa\n\no que?\n\nde qual numero?\n\nO ...",
@@ -355,7 +869,7 @@
       "first_message_at": "2026-03-13T03:00:00.000Z",
       "last_message_at": "2026-03-13T12:04:43.098000Z",
       "last_bot_msg_at": "2026-03-13T09:04:42.568179",
-      "tempo_sem_interacao": "5h 25min",
+      "tempo_sem_interacao": "5h 56min",
       "first_id": 18864,
       "last_id": 18923,
       "last_message_preview": "Manda o valor leve saúde",
@@ -490,7 +1004,7 @@
       "first_message_at": "2026-03-11T03:00:00.000Z",
       "last_message_at": "2026-03-13T14:17:39.275000Z",
       "last_bot_msg_at": "2026-03-13T11:17:38.613087",
-      "tempo_sem_interacao": "3h 13min",
+      "tempo_sem_interacao": "3h 43min",
       "first_id": 18429,
       "last_id": 18919,
       "last_message_preview": "Dados do lead no sistema:\nNome: Gelson\n\nMensagem(ns) do cliente:\nOii",
@@ -595,7 +1109,7 @@
       "first_message_at": "2026-03-12T03:00:00.000Z",
       "last_message_at": "2026-03-12T17:53:30.807000Z",
       "last_bot_msg_at": "2026-03-12T14:53:30.27148",
-      "tempo_sem_interacao": "23h 37min",
+      "tempo_sem_interacao": "1 dia",
       "first_id": 18641,
       "last_id": 18911,
       "last_message_preview": "Já repassei a diretora agora estou aguardando",
@@ -975,7 +1489,7 @@
       "first_message_at": "2026-03-12T03:00:00.000Z",
       "last_message_at": "2026-03-12T20:59:24.258000Z",
       "last_bot_msg_at": "2026-03-12T17:59:23.785716",
-      "tempo_sem_interacao": "20h 31min",
+      "tempo_sem_interacao": "21h 1min",
       "first_id": 18718,
       "last_id": 18906,
       "last_message_preview": "nada, precisando futuramente, pode salvar o meu contato!\n\nboa gestação para vocês ❤️\n\nOk\n\nObrigado",
@@ -1324,7 +1838,7 @@
       "first_message_at": "2026-03-13T13:40:52.956Z",
       "last_message_at": "2026-03-13T13:40:52.962Z",
       "last_bot_msg_at": "2026-03-13T10:40:52.962698",
-      "tempo_sem_interacao": "3h 49min",
+      "tempo_sem_interacao": "4h 19min",
       "first_id": 18895,
       "last_id": 18896,
       "last_message_preview": "Dados Fornecidos\nNome: Ana\nContem CNPJ: não\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não inf...",
@@ -1391,7 +1905,7 @@
       "first_message_at": "2026-03-13T03:00:00.000Z",
       "last_message_at": "2026-03-13T13:31:11.476000Z",
       "last_bot_msg_at": "2026-03-13T10:31:10.912142",
-      "tempo_sem_interacao": "3h 59min",
+      "tempo_sem_interacao": "4h 29min",
       "first_id": 18882,
       "last_id": 18893,
       "last_message_preview": "Dados do lead no sistema:\nNome: Susy\n\nMensagem(ns) do cliente:\nObrigada",
@@ -1459,83 +1973,6 @@
       ]
     },
     {
-      "session_id": "5521974375756@s.whatsapp.net",
-      "phone": "5521974375756",
-      "phone_display": "+55 21 97437-5756",
-      "lead": {
-        "baserow_id": 1164,
-        "nome": "Débora Leal",
-        "email": "",
-        "qtd_vidas": 2,
-        "desinteresse": false,
-        "gilbertinho_off": false,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Débora Leal",
-        "email": "",
-        "telefone": "+55 21 97437-5756",
-        "vidas": [
-          {
-            "idade": 43
-          },
-          {
-            "idade": 7
-          }
-        ],
-        "cidade": "Rio de Janeiro / RJ",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "MEI",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "Sulamérica",
-        "rede_preferencial": "Rede D'Or",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Débora Leal\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97437-5756\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nDébora Leal — 43 anos\nDependente 1 — 7 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n🎯 Rede preferencial: Rede D'Or\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "quente",
-      "bot": "preto",
-      "consultor": "",
-      "message_count": 4,
-      "first_message_at": "2026-03-13T03:00:00.000Z",
-      "last_message_at": "2026-03-13T13:01:11.388000Z",
-      "last_bot_msg_at": "2026-03-13T10:01:10.811317",
-      "tempo_sem_interacao": "4h 29min",
-      "first_id": 18876,
-      "last_id": 18881,
-      "last_message_preview": "Dados do lead no sistema:\nNome: Débora Leal\n\nMensagem(ns) do cliente:\n2 pessoas \n43 anos e 7 anos \nR...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: \n\nMensagem(ns) do cliente:\nOlá gostaria de mais informações dos Planos de Saúde  Sulamérica",
-          "msg_time": "2026-03-13T09:46:06.071766"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Eu sou Gilberto, analista em Plano Saúde da Corretora GW9.\nTrabalhamos com todos os Planos de saúde no Rio de Janeiro. 🚀\nComo os valores dos Planos de saúde são tabelados e os preços mudam de acordo com a rede credenciada. Minha missão é de te ajudar a encontrar o produto que melhor lhe atenda na relação custo x acesso.\n\nPor isso vou te fazer algumas perguntas, pode me dizer:\n1️⃣ Quantas pessoas são e as idades?\n2️⃣ Qual a cidade que busca atendimento? Se tiver algum hospital de sua preferência, me informe, também nos ajuda.\n3️⃣ Como o plano será contratado: empresarial (CNPJ/MEI)?\n4️⃣ Já possui Plano atualmente? Se sim qual?\n\nPode responder por áudio se preferir. 🎙️",
-          "msg_time": "2026-03-13T09:46:06.074268"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Débora Leal\n\nMensagem(ns) do cliente:\n2 pessoas \n43 anos e 7 anos \nRio de Janeiro \nRede Dor ou hospital Vitória \nMei",
-          "msg_time": "2026-03-13T10:01:10.80654"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Débora. São 2 pessoas, idades 43 e 7 anos, no Rio de Janeiro, com preferência pela Rede D'Or ou Hospital Vitória, e o plano será contratado como MEI. Só para confirmar, você já possui plano atualmente? Se sim, qual?",
-          "msg_time": "2026-03-13T10:01:10.811317"
-        }
-      ]
-    },
-    {
       "session_id": "5521964354897@s.whatsapp.net",
       "phone": "5521964354897",
       "phone_display": "+55 21 96435-4897",
@@ -1578,7 +2015,7 @@
       "first_message_at": "2026-03-13T03:00:00.000Z",
       "last_message_at": "2026-03-13T12:49:00.352000Z",
       "last_bot_msg_at": "2026-03-13T09:48:53.180871",
-      "tempo_sem_interacao": "4h 41min",
+      "tempo_sem_interacao": "5h 11min",
       "first_id": 18878,
       "last_id": 18879,
       "last_message_preview": "Dados Fornecidos\nNome: Sergio\nContem CNPJ: sim\nNumero de Vidas: 2_vidas\nOperadora de Interesse: não ...",
@@ -1951,7 +2388,7 @@
       "first_message_at": "2026-03-13T03:00:00.000Z",
       "last_message_at": "2026-03-13T12:11:02.136000Z",
       "last_bot_msg_at": "2026-03-13T09:11:01.429462",
-      "tempo_sem_interacao": "5h 19min",
+      "tempo_sem_interacao": "5h 49min",
       "first_id": 18847,
       "last_id": 18870,
       "last_message_preview": "Dados do lead no sistema:\nNome: Luan\n\nMensagem(ns) do cliente:\nSim",
@@ -2072,7 +2509,7 @@
       "first_message_at": "2026-03-12T03:00:00.000Z",
       "last_message_at": "2026-03-13T11:35:32.754000Z",
       "last_bot_msg_at": "2026-03-13T08:35:32.251369",
-      "tempo_sem_interacao": "5h 55min",
+      "tempo_sem_interacao": "6h 25min",
       "first_id": 18841,
       "last_id": 18862,
       "last_message_preview": "Dados do lead no sistema:\nNome: Laysa Corrêa\n\nMensagem(ns) do cliente:\n10, 1, 36 , 37 e 63",
@@ -2247,7 +2684,7 @@
       "first_message_at": "2026-03-13T03:00:00.000Z",
       "last_message_at": "2026-03-13T10:20:00.917000Z",
       "last_bot_msg_at": "2026-03-13T07:19:52.833102",
-      "tempo_sem_interacao": "7h 10min",
+      "tempo_sem_interacao": "7h 40min",
       "first_id": 18855,
       "last_id": 18856,
       "last_message_preview": "Dados Fornecidos\nNome: Anderson\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: nã...",
@@ -2307,7 +2744,7 @@
       "first_message_at": "2026-03-12T03:00:00.000Z",
       "last_message_at": "2026-03-13T01:45:36.664000Z",
       "last_bot_msg_at": "2026-03-12T22:45:36.160952",
-      "tempo_sem_interacao": "15h 45min",
+      "tempo_sem_interacao": "16h 15min",
       "first_id": 18843,
       "last_id": 18844,
       "last_message_preview": "Dados do lead no sistema:\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano d...",
@@ -2367,7 +2804,7 @@
       "first_message_at": "2026-03-12T03:00:00.000Z",
       "last_message_at": "2026-03-12T20:36:16.047000Z",
       "last_bot_msg_at": "2026-03-12T17:36:15.5301",
-      "tempo_sem_interacao": "20h 54min",
+      "tempo_sem_interacao": "21h 24min",
       "first_id": 18721,
       "last_id": 18722,
       "last_message_preview": "Dados do lead no sistema:\nNome: \n\nMensagem(ns) do cliente:\nBoa Tarde ! No momento não tenho interess...",
@@ -2381,313 +2818,6 @@
           "role": "ai",
           "content": "Obrigado por avisar. Vou deixar registrado para te contatar no final de maio. Quando estiver pronto, estarei aqui para ajudar com qualquer dúvida sobre planos de saúde. Qualquer coisa, é só chamar!",
           "msg_time": "2026-03-12T17:36:15.5301"
-        }
-      ]
-    },
-    {
-      "session_id": "5521978944636@s.whatsapp.net",
-      "phone": "5521978944636",
-      "phone_display": "+55 21 97894-4636",
-      "lead": {
-        "baserow_id": 8,
-        "nome": "Lead 4636",
-        "email": "elisa.oliveira@gw9capital.com.br",
-        "qtd_vidas": 2,
-        "desinteresse": false,
-        "gilbertinho_off": true,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": "Frio"
-      },
-      "summary": {
-        "nome": "Lead 4636",
-        "email": "elisa.oliveira@gw9capital.com.br",
-        "telefone": "+55 21 97894-4636",
-        "vidas": [
-          {
-            "idade": 5
-          },
-          {
-            "idade": 6
-          }
-        ],
-        "cidade": "RJ e MG",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "MEI",
-        "profissao": "Clínica",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "Rede Dor",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "",
-        "bot": "Não identificado",
-        "formatted": "👤 Cliente: Lead 4636\n📧 E-mail: elisa.oliveira@gw9capital.com.br\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97894-4636\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nLead 4636 — 5 anos\nDependente 1 — 6 anos\n\n📋 Dados contratuais:\n\nCidade: RJ e MG\nContratação: CNPJ\nTipo: MEI\nProfissão: Clínica\n\n🎯 Interesse: Rede Dor\n✅ Status: Lead frio\n🤖 Bot: Não identificado"
-      },
-      "status": "frio",
-      "bot": "desconhecido",
-      "consultor": "",
-      "message_count": 436,
-      "first_message_at": "2025-12-08T03:00:00.000Z",
-      "last_message_at": "2026-03-12T20:12:10.423Z",
-      "last_bot_msg_at": "2026-03-12T20:12:10.423Z",
-      "tempo_sem_interacao": "18h 18min",
-      "first_id": 77,
-      "last_id": 18716,
-      "last_message_preview": "<ContextoPDF>\n  <TranscricaoPDF>\nREDE CREDENCIADA\nBronze Mais\nHOSPITAIS\nZONA NORTE\nRio de Janeiro\n• ...",
-      "messages": [
-        {
-          "role": "system",
-          "content": "👤 Cliente: Luana Silveira\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97285-7156\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 61.807.168/0001-06\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Luana Silveira\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97285-7156\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 61.807.168/0001-06\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Luana Silveira\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97285-7156\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 61.807.168/0001-06\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)",
-          "msg_time": "2026-03-09T16:59:58.726104"
-        },
-        {
-          "role": "system",
-          "content": "👤 Cliente: Hilda\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98884-6057\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: profissional autonoma\n\n😤 Motivo da troca:\n\nPrevenção\nEncerramento do plano atual\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Hilda\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98884-6057\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: profissional autonoma\n\n😤 Motivo da troca:\n\nPrevenção\nEncerramento do plano atual\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Hilda\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98884-6057\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: profissional autonoma\n\n😤 Motivo da troca:\n\nPrevenção\nEncerramento do plano atual\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)",
-          "msg_time": "2026-03-09T17:01:59.61545"
-        },
-        {
-          "role": "system",
-          "content": "👤 Cliente: Hilda\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98884-6057\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: profissional autonoma\n\n😤 Motivo da troca:\n\nPrevenção\nEncerramento do plano atual\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Hilda\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98884-6057\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: profissional autonoma\n\n😤 Motivo da troca:\n\nPrevenção\nEncerramento do plano atual\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Hilda\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98884-6057\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: profissional autonoma\n\n😤 Motivo da troca:\n\nPrevenção\nEncerramento do plano atual\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)",
-          "msg_time": "2026-03-09T17:01:59.703157"
-        },
-        {
-          "role": "system",
-          "content": "👤 Cliente: Hilda\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98884-6057\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: profissional autonoma\n\n😤 Motivo da troca:\n\nPrevenção\nEncerramento do plano atual\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Hilda\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98884-6057\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: profissional autonoma\n\n😤 Motivo da troca:\n\nPrevenção\nEncerramento do plano atual\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Hilda\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98884-6057\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: profissional autonoma\n\n😤 Motivo da troca:\n\nPrevenção\nEncerramento do plano atual\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)",
-          "msg_time": "2026-03-09T17:02:00.282488"
-        },
-        {
-          "role": "system",
-          "content": "👤 Cliente: Jaciara Magalhães Francisco\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99315-0772\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nJaciara Magalhães Francisco — 2 anos\nDependente 1 — 58 anos\nDependente 2 — 62 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Jaciara Magalhães Francisco\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99315-0772\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nJaciara Magalhães Francisco — 2 anos\nDependente 1 — 58 anos\nDependente 2 — 62 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Jaciara Magalhães Francisco\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99315-0772\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nJaciara Magalhães Francisco — 2 anos\nDependente 1 — 58 anos\nDependente 2 — ",
-          "msg_time": "2026-03-09T17:11:13.005311"
-        },
-        {
-          "role": "system",
-          "content": "👤 Cliente: Jaciara Magalhães Francisco\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99315-0772\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nJaciara Magalhães Francisco — 2 anos\nDependente 1 — 58 anos\nDependente 2 — 62 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Jaciara Magalhães Francisco\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99315-0772\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nJaciara Magalhães Francisco — 2 anos\nDependente 1 — 58 anos\nDependente 2 — 62 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Jaciara Magalhães Francisco\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99315-0772\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nJaciara Magalhães Francisco — 2 anos\nDependente 1 — 58 anos\nDependente 2 — ",
-          "msg_time": "2026-03-09T17:11:13.597738"
-        },
-        {
-          "role": "system",
-          "content": "👤 Cliente: Jaciara Magalhães Francisco\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99315-0772\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nJaciara Magalhães Francisco — 2 anos\nDependente 1 — 58 anos\nDependente 2 — 62 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Jaciara Magalhães Francisco\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99315-0772\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nJaciara Magalhães Francisco — 2 anos\nDependente 1 — 58 anos\nDependente 2 — 62 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Jaciara Magalhães Francisco\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99315-0772\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nJaciara Magalhães Francisco — 2 anos\nDependente 1 — 58 anos\nDependente 2 — ",
-          "msg_time": "2026-03-09T17:11:13.742626"
-        },
-        {
-          "role": "user",
-          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado",
-          "msg_time": "2026-03-09T17:30:40.764641"
-        },
-        {
-          "role": "user",
-          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado",
-          "msg_time": "2026-03-09T17:30:41.411833"
-        },
-        {
-          "role": "user",
-          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado",
-          "msg_time": "2026-03-09T17:30:41.557211"
-        },
-        {
-          "role": "user",
-          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado",
-          "msg_time": "2026-03-09T17:31:09.488546"
-        },
-        {
-          "role": "user",
-          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado",
-          "msg_time": "2026-03-09T17:31:09.586083"
-        },
-        {
-          "role": "user",
-          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado",
-          "msg_time": "2026-03-09T17:31:10.415213"
-        },
-        {
-          "role": "user",
-          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado",
-          "msg_time": "2026-03-09T17:50:06.631086"
-        },
-        {
-          "role": "user",
-          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado",
-          "msg_time": "2026-03-09T17:50:06.917659"
-        },
-        {
-          "role": "user",
-          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado",
-          "msg_time": "2026-03-09T17:50:07.51217"
-        },
-        {
-          "role": "system",
-          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de ",
-          "msg_time": "2026-03-09T21:28:40.900549"
-        },
-        {
-          "role": "system",
-          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de ",
-          "msg_time": "2026-03-09T21:28:40.980771"
-        },
-        {
-          "role": "system",
-          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de ",
-          "msg_time": "2026-03-09T21:28:41.319224"
-        },
-        {
-          "role": "system",
-          "content": "Lead Bom\n\nLead Bom\n\nLead Bom",
-          "msg_time": "2026-03-09T21:29:26.140321"
-        },
-        {
-          "role": "system",
-          "content": "Lead Bom\n\nLead Bom\n\nLead Bom",
-          "msg_time": "2026-03-09T21:29:26.231315"
-        },
-        {
-          "role": "system",
-          "content": "Lead Bom\n\nLead Bom\n\nLead Bom",
-          "msg_time": "2026-03-09T21:29:26.563956"
-        },
-        {
-          "role": "system",
-          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\n42, 40, 20, 9, 3 anos\n\nAraruama  (Unimed araruama)\n\nCPF mas está abrindo MEI\n\n42, 40, 20, 9, 3 anos\n\nAraruama  (Unimed araruama)\n\nCPF mas está abrindo MEI\n\n42, 40, 20, 9, 3 anos\n\nAraruama  (Unimed araruama)\n\nCPF mas está abrindo MEI",
-          "msg_time": "2026-03-09T21:37:12.514186"
-        },
-        {
-          "role": "system",
-          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\n42, 40, 20, 9, 3 anos\n\nAraruama  (Unimed araruama)\n\nCPF mas está abrindo MEI\n\n42, 40, 20, 9, 3 anos\n\nAraruama  (Unimed araruama)\n\nCPF mas está abrindo MEI\n\n42, 40, 20, 9, 3 anos\n\nAraruama  (Unimed araruama)\n\nCPF mas está abrindo MEI",
-          "msg_time": "2026-03-09T21:37:13.237134"
-        },
-        {
-          "role": "system",
-          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\n42, 40, 20, 9, 3 anos\n\nAraruama  (Unimed araruama)\n\nCPF mas está abrindo MEI\n\n42, 40, 20, 9, 3 anos\n\nAraruama  (Unimed araruama)\n\nCPF mas está abrindo MEI\n\n42, 40, 20, 9, 3 anos\n\nAraruama  (Unimed araruama)\n\nCPF mas está abrindo MEI",
-          "msg_time": "2026-03-09T21:37:13.347835"
-        },
-        {
-          "role": "system",
-          "content": "👤 Cliente: Carla\n📧 E-mail: carlacampos.cpmc@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96499-9238\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nCarla — 23 anos\nDependente 1 — 19 anos\n\n📋 Dados contratuais:\n\nContratação: CNPJ\nTipo: MEI\nProfissão: responsável pelo pagamento do plano de saúde do meu irmão\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\nIncluir novas vidas\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)",
-          "msg_time": "2026-03-11T12:49:33.209502"
-        },
-        {
-          "role": "system",
-          "content": "**👤 Cliente:** Sr. Marcelo (contato via Ana, sua assistente)\n**📱 Contato:** WhatsApp — amanhã após as 10h\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- Bebê — 7 meses\n- Criança — 4 anos\n- Adulto — 29 anos\n\n---\n\n**📋 Dados contratuais:**\n- Cidade: São Gonçalo / RJ\n- Contratação: MEI (mais de 10 anos de abertura)\n\n---\n\n**🏥 Plano atual:** Assim Saúde — quase 6 meses de uso\n\n---\n\n**😤 Motivo da troca:**\n- Sem emergência em São Gonçalo\n- Insatisfação geral com a rede local\n\n---\n\n**🎯 Interesse:** Amil — sem coparticipação\n**Prioridades:** Emergência, pediatria e ginecologia em São Gonçalo + info sobre carências\n\n---\n\n**⚠️ Observação:** Bebê de 7 meses — atenção especial à cobertura pediátrica. Com 6 meses na Assim, portabilidade pode ser estratégia para carências. Ana cuida dos assuntos do Sr. Marcelo — tratar ela como interlocutora principal.\n\n**✅ Status:** Lead ativo — agendado para amanhã após as 10h",
-          "msg_time": "2026-03-11T14:11:04.022506"
-        },
-        {
-          "role": "user",
-          "content": "Formato de mensagem enviada nao suportado",
-          "msg_time": "2026-03-11T14:14:37.330223"
-        },
-        {
-          "role": "system",
-          "content": "👤 Cliente: Renata\n📧 E-mail: rebbrindes@hotmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96419-8995\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nRenata — 67 anos\nDependente 1 — 56 anos\nDependente 2 — 8 anos\n\n\n📋 Dados contratuais:\n\nCidade: São Gonçalo / RJ\nContratação: CNPJ\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n\n🎯 Interesse: Amil\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Preto (0479)",
-          "msg_time": "2026-03-11T15:47:09.502736"
-        },
-        {
-          "role": "system",
-          "content": "Formato de mensagem enviada nao suportado\n\n👤 Cliente: Noemi\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96422-9888\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nNoemi — 52 anos\nDependente 1 — 16 anos\nDependente 2 — 2 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 18.674.653/0001-11\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n🎯 Rede preferencial: Barra D'Or\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n\n🎯 Interesse: Barra D'or\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Preto (0479)",
-          "msg_time": "2026-03-11T15:50:25.678071"
-        },
-        {
-          "role": "user",
-          "content": "Formato de mensagem enviada nao suportado",
-          "msg_time": "2026-03-11T15:52:57.081907"
-        },
-        {
-          "role": "system",
-          "content": "CNPJ 58.315.004/0001-49\n\n71\n46\n47\n25\n22",
-          "msg_time": "2026-03-12T14:58:56.401394"
-        },
-        {
-          "role": "user",
-          "content": "<ContextoPDF>\n  <TranscricaoPDF>\nREDE CREDENCIADA\nDireto Nacional\nHOSPITAIS\nZONA NORTE\nRio de Janeiro\n• Hospital Badim - Rede Dor São Luiz - H/PS\n• Hospital Balbino - H/PS\n• Hospital da Criança - Grupo Prontobaby - H/PSI\n• Hospital de Irajá - PS\n• Hospital Ilha do Governador - Antigo Hospital Santa Maria Madalena\n- H/PS\n• Hospital Norte Dor - Rede Dor São Luiz - H/PS/PSI\n• Hospital Pan-Americano - Antigo Casa de Saúde Santa Therezinha -\nH/PS\n• Hospital Pasteur - Unidade Avançada Tijuca - H/M/PS/PSI\n• Hospital Pasteur - Unidade Meier - H/M/PS/PSI\n• Hospital Procor - Pronto Socorro Clinico e Cardiológico - H/PSI\n• Hospital São Francisco na Providência de Deus - Antigo Hospital\nOrdem Terceira da Penitência - H/PS\n• Hospital São Vicente de Paulo - H/PS\n• TijuTrauma Clínica & Hospital - H\nZONA SUL\nRio de Janeiro\n• Clínica da Gávea - H\n• CSPM Casa de Saúde Pinheiro Machado - H/PS\n• Hospital Casa Rio Laranjeiras - Grupo Hospital Casa - H/PS\n• Hospital e Maternidade Santa Bárbara - M\n• Hospita",
-          "msg_time": "2026-03-12T15:01:33.806454"
-        },
-        {
-          "role": "user",
-          "content": "<ContextoPDF>\n  <TranscricaoPDF>\nREDE CREDENCIADA\nRJ 1\nHOSPITAIS\nZONA NORTE\nRio de Janeiro\n• Hosp. De Irajá - H/PS\n• Hosp. Marcos Moraes - H\n• Hosp. Pan-Americano - Antigo Casa De\nSaúde Sta. Therezinha - H/PS\n• Hosp. Pasteur - Un. Meier - H\n• Hosp. Procor - PS. Clinico E Cardiológico -\nH/PS\n• Hosp. São Francisco Na Providência De Deus\n- Antigo Hosp. Ordem Terceira Da Penitência -\nH/PS\nZONA SUL\nRio de Janeiro\n• Hosp. Quali Ipanema - Antigo Hosp.\nIpanema Plus - Intituto Cirúrgico Gabriel\nLucena - H\n• Medsênior - Un. Botafogo - A/PA\n• São Carlos Saúde Oncológica - H\nZONA OESTE\nRio de Janeiro\n• Amil Espaço Saúde - Un. Campo Grande - PS\n• CSNSC Casa De Saude Nsa. Sra. Do Carmo -\nGrupo Carmo - H\n• Hosp. De Clinicas De Jacarepaguá - H\n• Medsênior - Un. Rio Barra Da Tijuca - A/PA\nCENTRO\nRio de Janeiro\n• Hosp. Casa De Portugal - Hosp. Casa\nProcordis - Grupo Hosp. Casa - H/PS\nREGIÃO METROPOLITANA\nDuque de Caxias\n• Hosp. De Clinicas Mario Lioni - H/PS\n• HSCOR Hosp. Do Coração De Duque De\nCaxias -",
-          "msg_time": "2026-03-12T15:01:56.515261"
-        },
-        {
-          "role": "user",
-          "content": "<ContextoPDF>\n  <TranscricaoPDF>\nAmil Saúde | Linha Amil | 30 a 99 vidas - Rio de Janeiro\nSAÚDE - PME\nCompulsório: indiferente\nCoparticipação: indiferente\nAcomodação: indiferente\nAceita MEI:\nCorretor: Elisa - elisa.oliveira@gw9capital.com.br\nValores\nPME | PORTE II - DE 30 A 99 | 1 TIT. | EXCETO MEI - GRUPO DE MUNICÍPIOS - COMPULSÓRIO - COPART. - OBSTETRÍCIA\n30 a 99 Até 31/03/2026 Coparticipação Compulsório\nIdade Bronze QC | Grupo de Municípios | Compulsório | Copart. | Exceto MEI Bronze Mais QC | Grupo de Municípios | Compulsório | Copart. | Exceto MEI\n00 a 18 117,32 162,71\n19 a 23 159,32 190,37\n24 a 28 187,03 232,25\n29 a 33 187,03 278,70\n34 a 38 187,03 292,64\n39 a 43 208,91 321,90\n44 a 48 288,50 402,38\n49 a 53 344,47 442,62\n54 a 58 495,35 553,28\n59 ou + 702,41 968,24\n\nRedes\nRio de Janeiro\nCENTRO\nREGIÃO METROPOLITANA\nZONA NORTE\nLAB LAB\nLAB LAB\nLAB LAB\n- LAB\n- LAB\nLAB LAB\nLAB LAB\nLAB LAB\n- LAB\nBronze QC | Grupo de Municípios | Compulsório | Copart. |\nExceto MEI\nBronze Mais QC | Grupo d",
-          "msg_time": "2026-03-12T15:54:37.01318"
-        },
-        {
-          "role": "user",
-          "content": "*LINK COTAÇÃO ONLINE* : https://abrir.in/n577e",
-          "msg_time": "2026-03-12T15:56:04.307119"
-        },
-        {
-          "role": "system",
-          "content": "assim ?",
-          "msg_time": "2026-03-12T16:07:56.018594"
-        },
-        {
-          "role": "system",
-          "content": "Eu faço ou você  faz ?\n\nvc\n\nsó to compilando",
-          "msg_time": "2026-03-12T16:08:39.825582"
-        },
-        {
-          "role": "user",
-          "content": "https://abrir.in/c25u2\n\nlink cotação porto",
-          "msg_time": "2026-03-12T16:13:23.192953"
-        },
-        {
-          "role": "system",
-          "content": "AMIL ?",
-          "msg_time": "2026-03-12T16:21:53.597594"
-        },
-        {
-          "role": "system",
-          "content": "esses links nao estao abrindo a rede credenciada\n\ngera a rede no pdf e me envia",
-          "msg_time": "2026-03-12T16:25:32.42738"
-        },
-        {
-          "role": "user",
-          "content": "https://abrir.in/c25u2\n\nok",
-          "msg_time": "2026-03-12T16:26:52.219288"
-        },
-        {
-          "role": "user",
-          "content": "<ContextoPDF>\n  <TranscricaoPDF>\nPorto | Linha Pro | Capital - Rio de Janeiro\nSAÚDE - PME\nCompulsório: indiferente\nCoparticipação: indiferente\nAcomodação: indiferente\nAceita MEI:\nCorretor: Elisa - elisa.oliveira@gw9capital.com.br\nValores\nPME | DE 30 A 99 | 1 TIT. | EXCETO MEI - OBSTETRÍCIA\n30 a 99 Até 13/08/2026\nBronze Pro QC | De 30 a 99 vidas | Exceto MEI\n188,08\n228,09\n275,15\n315,00\n341,31\n352,48\n421,05\n453,28\n560,06\n941,41\nPME | DE 30 A 99 | 1 TIT. | EXCETO MEI - 30&PERCNT; COPART. - OBSTETRÍCIA\n30 a 99 Até 13/08/2026 Coparticipação 30,00 %\nBronze Pro QC | De 30 a 99 vidas | 30&percnt; Copart. | Exceto MEI\n137,30\n166,51\n200,86\n229,95\n249,15\n257,31\n307,37\n330,89\n408,84\n687,23\n\nRedes\nRio de Janeiro\nCENTRO\nHOSP, PS HOSP, PS\n00 a 18\n19 a 23\n24 a 28\n29 a 33\n34 a 38\n39 a 43\n44 a 48\n49 a 53\n54 a 58\n59 ou +\n00 a 18\n19 a 23\n24 a 28\n29 a 33\n34 a 38\n39 a 43\n44 a 48\n49 a 53\n54 a 58\n59 ou +\nBronze Pro QC | De 30 a 99 vidas | Exceto MEI \nBronze Pro QC | De 30 a 99 vidas | 30&percnt; Copart. | Ex",
-          "msg_time": "2026-03-12T16:27:36.631948"
-        },
-        {
-          "role": "user",
-          "content": "<ContextoPDF>\n  <TranscricaoPDF>\nAssim Saúde - Rio de Janeiro\nSAÚDE - PME\nCompulsório: indiferente\nCoparticipação: indiferente\nAcomodação: indiferente\nAceita MEI:\nCorretor: Elisa - elisa.oliveira@gw9capital.com.br\nValores\nPME | DE 10 A 99 | 1 TIT. | PROMOCIONAL | EXCETO MEI - COPART. TOTAL\n10 a 99 Até 07/05/2026 Coparticipação\nIdade A20 QC | De 10 a 99 vidas | Copart. Total | Exceto MEI | 10% de Desc. nas 6 primeiras mensalidades\n00 a 18 80,60\n19 a 23 109,45\n24 a 28 120,39\n29 a 33 131,23\n34 a 38 133,20\n39 a 43 139,86\n44 a 48 198,18\n49 a 53 267,54\n54 a 58 321,05\n59 ou + 483,50\nPME | DE 10 A 99 | 1 TIT. | PROMOCIONAL | EXCETO MEI - COPART. PARCIAL\n10 a 99 Até 07/05/2026 Coparticipação\nIdade A20 QC | De 10 a 99 vidas | Copart. Parcial | Exceto MEI | 10% de Desc. nas 6 primeiras mensalidades\n00 a 18 87,61\n19 a 23 118,97\n24 a 28 130,87\n29 a 33 142,65\n34 a 38 144,79\n39 a 43 152,03\n44 a 48 215,42\n49 a 53 290,83\n54 a 58 348,99\n59 ou + 525,58\n\nRedes\nRio de Janeiro\nCENTRO\nSIM SIM\nA20 QC | De 10",
-          "msg_time": "2026-03-12T16:29:18.829084"
-        },
-        {
-          "role": "system",
-          "content": "gera no antigo\n\nsó a logo\n\nsó a rede esse está ruim",
-          "msg_time": "2026-03-12T16:32:04.12292"
-        },
-        {
-          "role": "user",
-          "content": "<ContextoPDF>\n  <TranscricaoPDF>\nREDE CREDENCIADA\nA20\nHOSPITAIS\nZONA NORTE\nRio de Janeiro\n• Centro Medico Grupo Assim Saúde - Unidade Tijuca -\n• Clinica de Repouso Santa Alice -\n• Hospital da Criança - Grupo Prontobaby -\n• Hospital de Clínicas Engenho de Dentro - Grupo Memorial -\n• Hospital Grupo Assim Saúde - Unidade Meier -\n• Hospital Memorial Fuad Chidid - Grupo Memorial -\n• Hospital São Victor - Clinicas Reunidas São Victor -\n• Septo Otorrinolaringologia - Unidade Tijuca 24 Horas -\nZONA SUL\nRio de Janeiro\n• Hospital Ênio Serra -\nZONA OESTE\nRio de Janeiro\n• Centro Medico Memorial Campo Grande - Grupo Memorial -\n• Centro Medico Memorial Santa Cruz - Grupo Memorial -\n• CHAJ Centro Hospitalar Amep - Unidade Jacarepaguá -\n• Clínica Pediátrica da Barra -\n• Hospital São Matheus - Ama Assistência Médica Alternativa -\n• Instituto de Olhos da Tijuca - Americas Oftalmocenter -\nCENTRO\nRio de Janeiro\n• Hospital Assim Medical Doutor Aloan - Grupo Assim Saúde -\nREGIÃO METROPOLITANA\nDuque de Caxia",
-          "msg_time": "2026-03-12T16:35:35.349332"
-        },
-        {
-          "role": "user",
-          "content": "<ContextoPDF>\n  <TranscricaoPDF>\nREDE CREDENCIADA\nBronze\nHOSPITAIS\nZONA NORTE\nRio de Janeiro\n• AmericanCor Hospital - Antigo Nortecor Hospital de Clínica - H\n• Hospital da Criança - Grupo Prontobaby - H/PSI\n• Hospital Ilha do Governador - Antigo Hospital Santa Maria Madalena - H/PS\n• Hospital Pan-Americano - Antigo Casa de Saúde Santa Therezinha - H/PS\n• Hospital Pasteur - Unidade Meier - H/M/PS/PSI\n• TijuTrauma Clínica & Hospital - H/PS\nZONA SUL\nRio de Janeiro\n• AMIU Memorial Infantil Botafogo - Grupo Memorial - H/PSI\n• CPL Centro Pediátrico Lagoa - Grupo Prontobaby - H/PSI\n• CSPM Casa de Saúde Pinheiro Machado - H\n• Santa Lucia Hospital e Maternidade - Grupo Américas Serviços Médicos - H\nZONA OESTE\nRio de Janeiro\n• Amil Espaço Saúde - Unidade Campo Grande - PS/PSI\n• Cemeru Grupo de Saúde - H/PS/PSI\n• Clínica Pediátrica da Barra - H/PSI\n• CSNSC Casa de Saude Nossa Senhora do Carmo - Grupo Carmo - H/M/PS/PSI\n• Hospital Casa São Bernardo - Grupo Hospital Casa - H\n• Hospital de Clínicas ",
-          "msg_time": "2026-03-12T16:36:09.611269"
-        },
-        {
-          "role": "user",
-          "content": "<ContextoPDF>\n  <TranscricaoPDF>\nREDE CREDENCIADA\n1- Bronze Pro\nHOSPITAIS\nZONA NORTE\nRio de Janeiro\n• AmericanCor Hospital - Antigo Nortecor Hospital de Clínica - H/PS\n• Hospital Casa Evangélico - Grupo Hospital Casa - H/PS\n• Hospital Casa Italiano - Grupo Hospital Casa Menssana - H/PS\n• Hospital Clínica Grajaú - Casa de Saúde Grajau - H/PS\n• Hospital de Irajá - H/PS\n• Hospital Ilha do Governador - Antigo Hospital Santa Maria Madalena - H/PS\n• Hospital Procor - Pronto Socorro Clinico e Cardiológico - H/PS\n• Hospital Semiu - Alvin & Almeida Grupo Hospitalar - H/PS/PSI\n• Prontobaby Méier Criança 24h - Grupo Prontobaby - H/PS\nZONA SUL\nRio de Janeiro\n• AMIU Memorial Infantil Botafogo - Grupo Memorial - H/PS\n• Clínica da Gávea - H/PS\n• Cob Centro Oftalmológico de Botafogo - H/PS\n• Hospital Casa Rio Laranjeiras - Grupo Hospital Casa - H/PS\n• Hospital Casa Rio Laranjeiras - Grupo Hospital Casa - Unidade Bambina - H/PS\n• Hospital e Maternidade Santa Bárbara - H/M/PS\n• Hospital Quali Ipanema - ",
-          "msg_time": "2026-03-12T16:36:43.346135"
-        },
-        {
-          "role": "user",
-          "content": "esse aqui!!",
-          "msg_time": "2026-03-12T17:02:50.231756"
-        },
-        {
-          "role": "user",
-          "content": "<ContextoPDF>\n  <TranscricaoPDF>\nREDE CREDENCIADA\nBronze Mais\nHOSPITAIS\nZONA NORTE\nRio de Janeiro\n• AmericanCor Hospital - Antigo Nortecor Hospital de Clínica - H\n• Hospital da Criança - Grupo Prontobaby - H/PSI\n• Hospital Ilha do Governador - Antigo Hospital Santa Maria Madalena - H/PS\n• Hospital Pan-Americano - Antigo Casa de Saúde Santa Therezinha - H/PS\n• Hospital Pasteur - Unidade Meier - H/M/PS/PSI\n• Rio Day Hospital - Day Hospital CCA - H\n• TijuTrauma Clínica & Hospital - H/PS\nZONA SUL\nRio de Janeiro\n• AMIU Memorial Infantil Botafogo - Grupo Memorial - H/PSI\n• Centro Avançado de Oftalmologia - H\n• CPL Centro Pediátrico Lagoa - Grupo Prontobaby - H/PSI\n• CSPM Casa de Saúde Pinheiro Machado - H\n• Hospital Ipanema Care - Antigo Hospital Clínica Ipanema - H\n• Santa Lucia Hospital e Maternidade - Grupo Américas Serviços Médicos - H\nZONA OESTE\nRio de Janeiro\n• Amil Espaço Saúde - Unidade Campo Grande - PS/PSI\n• Cemeru Grupo de Saúde - H/PS/PSI\n• Clinipam - Clínica Paranaense de Assist",
-          "msg_time": "2026-03-12T17:12:10.42321"
         }
       ]
     },
@@ -2741,7 +2871,7 @@
       "first_message_at": "2025-12-15T03:00:00.000Z",
       "last_message_at": "2026-03-12T18:57:05.706Z",
       "last_bot_msg_at": "2026-03-12T18:57:05.706Z",
-      "tempo_sem_interacao": "19h 33min",
+      "tempo_sem_interacao": "20h 3min",
       "first_id": 742,
       "last_id": 18695,
       "last_message_preview": "sim, esperando rsponder",
@@ -8677,7 +8807,7 @@
       "first_message_at": "2026-03-09T03:00:00.000Z",
       "last_message_at": "2026-03-09T17:41:09.462000Z",
       "last_bot_msg_at": "2026-03-09T14:41:08.916001",
-      "tempo_sem_interacao": "3 dias",
+      "tempo_sem_interacao": "4 dias",
       "first_id": 17801,
       "last_id": 18206,
       "last_message_preview": "Ola, gostaria de uma cotação de um plano de saúde Barra D'or",
@@ -16041,7 +16171,7 @@
       "first_message_at": "2026-03-07T03:00:00.000Z",
       "last_message_at": "2026-03-07T17:35:39.813000Z",
       "last_bot_msg_at": "2026-03-07T14:35:38.514663",
-      "tempo_sem_interacao": "5 dias",
+      "tempo_sem_interacao": "6 dias",
       "first_id": 17070,
       "last_id": 17210,
       "last_message_preview": "Ainda no aguardo",
@@ -19269,7 +19399,7 @@
       "first_message_at": "2026-03-06T03:00:00.000Z",
       "last_message_at": "2026-03-06T17:50:09.068000Z",
       "last_bot_msg_at": "2026-03-06T14:50:08.280082",
-      "tempo_sem_interacao": "6 dias",
+      "tempo_sem_interacao": "7 dias",
       "first_id": 16809,
       "last_id": 16852,
       "last_message_preview": "Bt",
@@ -25823,238 +25953,6 @@
         {
           "role": "ai",
           "content": "Olá! Eu sou Gilberto, analista em Plano Saúde da Corretora GW9. 🚀\nTrabalhamos com todos os Planos de saúde no Rio de Janeiro. Vou te ajudar a entender as melhores opções de plano e, se fizer sentido, já deixo tudo organizado para o especialista te atender de forma objetiva. Pode ser?\nQual o seu nome?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "\n",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "\n",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "\n",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        }
-      ]
-    },
-    {
-      "session_id": "5521988439645@s.whatsapp.net",
-      "phone": "5521988439645",
-      "phone_display": "+55 21 98843-9645",
-      "lead": {
-        "baserow_id": 947,
-        "nome": "Mylla Machado 💝",
-        "email": "valentinamilla69@gmail.com",
-        "qtd_vidas": 2,
-        "desinteresse": false,
-        "gilbertinho_off": true,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Mylla Machado 💝",
-        "email": "valentinamilla69@gmail.com",
-        "telefone": "+55 21 98843-9645",
-        "vidas": [
-          {
-            "idade": 9
-          },
-          {
-            "idade": 28
-          }
-        ],
-        "cidade": "Duque de Caxias / RJ",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "Nenhum",
-        "motivo": "Prevenção\nEncerramento do plano atual\nIncluir novas vidas",
-        "interesse": "Barra D'or",
-        "rede_preferencial": "Barra D'Or",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "",
-        "bot": "Gilbertinho Amarelo (2373)",
-        "formatted": "👤 Cliente: Mylla Machado 💝\n📧 E-mail: valentinamilla69@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98843-9645\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nMylla Machado 💝 — 9 anos\nDependente 1 — 28 anos\n\n📋 Dados contratuais:\n\nCidade: Duque de Caxias / RJ\nContratação: CNPJ\n\n🏥 Plano atual: Nenhum\n🎯 Rede preferencial: Barra D'Or\n\n😤 Motivo da troca:\n\nPrevenção\nEncerramento do plano atual\nIncluir novas vidas\n\n🎯 Interesse: Barra D'or\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Amarelo (2373)"
-      },
-      "status": "quente",
-      "bot": "amarelo",
-      "consultor": "",
-      "message_count": 35,
-      "first_message_at": "2026-03-02T03:00:00.000Z",
-      "last_message_at": "2026-03-03T17:00:33.561000Z",
-      "last_bot_msg_at": "2026-03-05T22:36:17.247927",
-      "tempo_sem_interacao": "7 dias",
-      "first_id": 15204,
-      "last_id": 16228,
-      "last_message_preview": "Qualidade de atendimento",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Ola, gostaria de uma cotação de um plano de saúde Barra D'or",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Eu sou Gilberto, analista em Plano Saúde da Corretora GW9. 🚀\nTrabalhamos com todos os Planos de saúde no Rio de Janeiro. Vou te ajudar a entender as melhores opções de plano e, se fizer sentido, já deixo tudo organizado para o especialista te atender de forma objetiva. Pode ser?\nQual o seu nome?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Camila Machado",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Perfeito, Camila!\nPra eu te apresentar as opções certas, preciso entender o perfil de quem vai entrar no plano.\n\nPode me dizer:\n1️⃣ Quantas pessoas são e as idades?\n2️⃣ Qual a cidade?\n3️⃣ Prefere fazer no CPF ou CNPJ (se tiver)?\n\n(Pode responder por áudio 🎙️ se preferir)",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "2 pessoas de 9 e 28 anos \nDuque de caxias \nCPF",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Camila. Um plano para duas pessoas de 9 e 28 anos em Duque de Caxias, no CPF. \nMe diz uma coisa, vocês já possuem algum plano hoje ou estão sem? Tem algum hospital ou médico que são importantes para vocês?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Estamos sem",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Camila. E o que mais te motivou a buscar essa segurança agora? Alguma preocupação específica ou é prevenção? Também queria saber sua profissão para ajustar as opções, pode me falar?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Não",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Camila. Última coisa para completar: qual seu e-mail para eu enviar as simulações?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Prevenção\n\nCuidadora de idosos",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Obrigado, Camila. Então, um plano para duas pessoas em Duque de Caxias, CPF, sem plano atual, buscando prevenção, você como cuidadora de idosos. Está correto? Se sim, qual o melhor dia e horário para o especialista entrar em contato? Prefere WhatsApp, ligação ou vídeo?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "valentinamilla69@gmail.com",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Ótimo, Camila. Anotado seu e-mail: valentinamilla69@gmail.com.\n\nQual o melhor dia e horário para o especialista entrar em contato? Prefere WhatsApp, ligação ou vídeo?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Whatsapp\n\nPode ser qualquer momento",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Combinado, Camila! Já deixei tudo pronto para o especialista entrar em contato com você pelo WhatsApp no melhor momento. Obrigado por compartilhar as informações!",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Pode ser qualquer dia e prefiro contato pelo whatsapp",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Obrigado, Camila! Confirmando: contato pelo WhatsApp, pode ser qualquer dia mesmo? Vou deixar tudo encaminhado para o especialista. Qualquer coisa, ele vai entrar em contato no melhor horário para você.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Tá ok",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Camila, já deixei tudo organizado para o especialista entrar em contato pelo WhatsApp no melhor dia e horário para você. Obrigado por compartilhar as informações!",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Formato de mensagem enviada nao suportado",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Camila, já encaminhei seu pedido para o especialista. Ele vai entrar em contato pelo WhatsApp no melhor dia e horário para você. Se precisar de algo mais, estou por aqui!",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Formato de mensagem enviada nao suportado",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Camila, estou finalizando seu atendimento e encaminhando para o especialista entrar em contato pelo WhatsApp no melhor dia e horário para você. Obrigado pela confiança!",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "Camila, ainda está por aí? Estou aguardando sua resposta para dar sequência.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Bom dia\n\nBoa tarde",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Bom dia, Camila! Estou aqui para ajudar. Quer continuar de onde paramos?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Preciso dos valores",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Camila, vou organizar seu perfil para o especialista apresentar as opções e valores mais adequados para você. Me confirme só mais um detalhe: para você, pesa mais preço ou a qualidade do atendimento?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Qualidade de atendimento",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Camila: prioridade na qualidade do atendimento. Com isso, o especialista vai focar em planos com boa rede de hospitais e médicos. Quer já agendarmos a ligação pelo WhatsApp para ele explicar tudo?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "Camila, ainda está por aí? Estou aguardando sua resposta sobre agendar a ligação pelo WhatsApp com o especialista para explicar os planos e valores.",
           "msg_time": "2026-03-05T22:36:17.247927"
         },
         {
