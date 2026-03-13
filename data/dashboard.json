@@ -1,17 +1,605 @@
 {
   "meta": {
-    "generated_at": "2026-03-13T12:00:41.932Z",
+    "generated_at": "2026-03-13T12:15:41.569Z",
     "total_conversations": 200,
-    "total_messages": 4819,
+    "total_messages": 4815,
     "stats": {
-      "quente": 37,
+      "quente": 36,
       "morno": 127,
-      "frio": 36,
+      "frio": 37,
       "desinteresse": 0,
       "sem_classificacao": 0
     }
   },
   "conversations": [
+    {
+      "session_id": "5521964639694@s.whatsapp.net",
+      "phone": "5521964639694",
+      "phone_display": "+55 21 96463-9694",
+      "lead": {
+        "baserow_id": 1041,
+        "nome": "Flavia Araujo",
+        "email": "",
+        "qtd_vidas": 4,
+        "desinteresse": false,
+        "gilbertinho_off": true,
+        "observacoes": "",
+        "reagendamento": null,
+        "corretor": "João",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Flavia Araujo",
+        "email": "",
+        "telefone": "+55 21 96463-9694",
+        "vidas": [
+          {
+            "idade": 71
+          },
+          {
+            "idade": 46
+          },
+          {
+            "idade": 47
+          },
+          {
+            "idade": 25
+          }
+        ],
+        "cidade": "Rio de Janeiro / RJ",
+        "contratacao": "CNPJ",
+        "cnpj": "58.315.004/0001-49",
+        "tipo_empresa": "MEI",
+        "profissao": "",
+        "plano_atual": "Nenhum",
+        "motivo": "",
+        "interesse": "Sulamérica",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "João",
+        "obs_crm": "",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Flavia Araujo\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96463-9694\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nFlavia Araujo — 71 anos\nDependente 1 — 46 anos\nDependente 2 — 47 anos\nDependente 3 — 25 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 58.315.004/0001-49\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n🎯 Interesse: Sulamérica\n👤 Consultor: João\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "quente",
+      "bot": "preto",
+      "consultor": "João",
+      "message_count": 61,
+      "first_message_at": "2026-03-07T03:00:00.000Z",
+      "last_message_at": "2026-03-07T18:05:41.569000Z",
+      "last_bot_msg_at": "2026-03-07T15:05:41.077645",
+      "tempo_sem_interacao": "5 dias",
+      "first_id": 17068,
+      "last_id": 18873,
+      "last_message_preview": "Bom dia \nEla vai ficar até junho com esse plano",
+      "messages": [
+        {
+          "role": "user",
+          "content": "71\n46\n47\n25\n223\n\n71\n46\n47\n25\n22",
+          "msg_time": "2026-03-07T12:45:36.049654"
+        },
+        {
+          "role": "ai",
+          "content": "Só para confirmar, você mencionou 6 pessoas e cinco idades: 71, 46, 47, 25, 22. Pode confirmar a idade da sexta pessoa? E qual o nome da empresa?",
+          "msg_time": "2026-03-07T12:45:36.052131"
+        },
+        {
+          "role": "user",
+          "content": "26",
+          "msg_time": "2026-03-07T14:04:42.571998"
+        },
+        {
+          "role": "ai",
+          "content": "Obrigado pelas idades e pela informação do número de vidas. Para seguir, preciso do nome completo da empresa vinculada ao CNPJ para registrar corretamente. Pode me informar?",
+          "msg_time": "2026-03-07T14:04:42.575119"
+        },
+        {
+          "role": "user",
+          "content": "Belo arquitetura",
+          "msg_time": "2026-03-07T15:05:41.075197"
+        },
+        {
+          "role": "ai",
+          "content": "Então, são 6 pessoas, idades 71, 46, 47, 25, 22 e 26, no plano empresarial para Belo Arquitetura no RJ, certo? Já que temos tudo, vou preparar para o especialista falar com você e ajudar a achar a melhor opção. Qual o melhor dia e horário para o contato? Prefere WhatsApp, ligação ou vídeo?",
+          "msg_time": "2026-03-07T15:05:41.077645"
+        },
+        {
+          "role": "system",
+          "content": "Ainda está por aí? Estou aguardando sua resposta para dar sequência. Qual o melhor dia e horário para o especialista te contatar? Prefere WhatsApp, ligação ou vídeo?",
+          "msg_time": "2026-03-07T19:00:04.000669"
+        },
+        {
+          "role": "user",
+          "content": "Olq",
+          "msg_time": "2026-03-12T13:03:53.342678"
+        },
+        {
+          "role": "system",
+          "content": "Perfeito Flavia!",
+          "msg_time": "2026-03-12T13:06:36.913249"
+        },
+        {
+          "role": "system",
+          "content": "Oi, Flávia, tudo bem? Boa tarde. Quem tá falando aqui é o Gilberto, vou dar sequência aqui no atendimento. Então, são seis vidas, né? Deixa eu te perguntar. Você já tem um plano ativo? Se sim, qual é o plano? É importante eu saber por quê, né? Aí eu já consigo filtrar aqui no mercado algum plano que seja congênero ao que você tem na Sulamérica, né? Já que você tem demonstrado interesse na Sulamérica. Se você tiver alguma unidade, principalmente da rede DOR, que você gostaria de ter no portfólio, que você não tem ou que você gostaria de manter, manda também, que aí eu já tenho uma ideia de qual produto do mercado a gente pode comparar. Me passa, então, esses dois detalhes. Qual é o plano atual de vocês? E se vocês têm alguma unidade hospitalar, especialmente da rede DOR, que você gostaria de ter.",
+          "msg_time": "2026-03-12T13:08:30.786276"
+        },
+        {
+          "role": "user",
+          "content": "Não temos plano",
+          "msg_time": "2026-03-12T13:10:08.306996"
+        },
+        {
+          "role": "system",
+          "content": "Entendi",
+          "msg_time": "2026-03-12T13:15:01.572957"
+        },
+        {
+          "role": "system",
+          "content": "Alguma unidade hospitalar de preferência ?",
+          "msg_time": "2026-03-12T13:15:30.888998"
+        },
+        {
+          "role": "system",
+          "content": "Um outro detalhe importante é a vida de 71 anos , pois essa faixa etária temos que ter uma atenção maior\n\nEle é sócio do CNPJ ?",
+          "msg_time": "2026-03-12T13:16:56.461151"
+        },
+        {
+          "role": "system",
+          "content": "Se não for sócio , temos que pensar em um plano individual para ele e o restante do Grupo sim , ir para a Sulamerica \n\nOs planos Individuais são os aqueles característicos para a terceira idade \n\nSão ótimos",
+          "msg_time": "2026-03-12T13:21:04.28572"
+        },
+        {
+          "role": "user",
+          "content": "Não",
+          "msg_time": "2026-03-12T13:21:40.560229"
+        },
+        {
+          "role": "system",
+          "content": "Entendi",
+          "msg_time": "2026-03-12T13:36:03.140819"
+        },
+        {
+          "role": "system",
+          "content": "algo específico motivou vocês a buscarem um plano no momento?",
+          "msg_time": "2026-03-12T13:36:26.580546"
+        },
+        {
+          "role": "user",
+          "content": "Sim\n\nPor conta da pessoa de 71 anos\n\npergunto isso para analisar todo cenário e ser mais assertivo em relação a seguradoras e produtos dentro delas\n\nentendi\n\nvocês são de qual região no Rio de Janeiro?\n\nCapital",
+          "msg_time": "2026-03-12T13:39:22.084751"
+        },
+        {
+          "role": "system",
+          "content": "O ideal é fazer um plano específico para idosos",
+          "msg_time": "2026-03-12T13:39:43.491475"
+        },
+        {
+          "role": "system",
+          "content": "Pode vê pfvr tbm\n\nPois as regras de contratação limitam\n\nSeparado\n\nClaro",
+          "msg_time": "2026-03-12T13:40:26.708562"
+        },
+        {
+          "role": "system",
+          "content": "Vamos ver um MedSenior e Leve Saúde para ele \n\nO restante do Grupo vemos pelo CNPJ na Sulamerica \n\nVou te enviar a solução de entrada que já é ótima , tem muitas unidades da Rede Dor , cobertura Nacional e até Dental Incluso para todos , combinado ?",
+          "msg_time": "2026-03-12T13:41:38.141341"
+        },
+        {
+          "role": "user",
+          "content": "Ok",
+          "msg_time": "2026-03-12T13:42:03.33952"
+        },
+        {
+          "role": "system",
+          "content": "Ok\n\nRetornei aqui , estávamos em uma call",
+          "msg_time": "2026-03-12T15:00:09.815193"
+        },
+        {
+          "role": "system",
+          "content": "<ContextoPDF>\n  <TranscricaoPDF>\nREDE CREDENCIADA\nRJ 1\nHOSPITAIS\nZONA NORTE\nRio de Janeiro\n• Hosp. De Irajá - H/PS\n• Hosp. Marcos Moraes - H\n• Hosp. Pan-Americano - Antigo Casa De\nSaúde Sta. Therezinha - H/PS\n• Hosp. Pasteur - Un. Meier - H\n• Hosp. Procor - PS. Clinico E Cardiológico -\nH/PS\n• Hosp. São Francisco Na Providência De Deus\n- Antigo Hosp. Ordem Terceira Da Penitência -\nH/PS\nZONA SUL\nRio de Janeiro\n• Hosp. Quali Ipanema - Antigo Hosp.\nIpanema Plus - Intituto Cirúrgico Gabriel\nLucena - H\n• Medsênior - Un. Botafogo - A/PA\n• São Carlos Saúde Oncológica - H\nZONA OESTE\nRio de Janeiro\n• Amil Espaço Saúde - Un. Campo Grande - PS\n• CSNSC Casa De Saude Nsa. Sra. Do Carmo -\nGrupo Carmo - H\n• Hosp. De Clinicas De Jacarepaguá - H\n• Medsênior - Un. Rio Barra Da Tijuca - A/PA\nCENTRO\nRio de Janeiro\n• Hosp. Casa De Portugal - Hosp. Casa\nProcordis - Grupo Hosp. Casa - H/PS\nREGIÃO METROPOLITANA\nDuque de Caxias\n• Hosp. De Clinicas Mario Lioni - H/PS\n• HSCOR Hosp. Do Coração De Duque De\nCaxias -",
+          "msg_time": "2026-03-12T15:13:04.941022"
+        },
+        {
+          "role": "system",
+          "content": "Flávia \n\nAqui as soluções da MedSenior .. \n\nSão muito , mas muito completas e atendem muito bem a idade dele",
+          "msg_time": "2026-03-12T15:13:40.682833"
+        },
+        {
+          "role": "system",
+          "content": "<ContextoPDF>\n  <TranscricaoPDF>\nREDE CREDENCIADA\nDireto Nacional\nHOSPITAIS\nZONA NORTE\nRio de Janeiro\n• Hospital Badim - Rede Dor São Luiz - H/PS\n• Hospital Balbino - H/PS\n• Hospital da Criança - Grupo Prontobaby - H/PSI\n• Hospital de Irajá - PS\n• Hospital Ilha do Governador - Antigo Hospital Santa Maria Madalena\n- H/PS\n• Hospital Norte Dor - Rede Dor São Luiz - H/PS/PSI\n• Hospital Pan-Americano - Antigo Casa de Saúde Santa Therezinha -\nH/PS\n• Hospital Pasteur - Unidade Avançada Tijuca - H/M/PS/PSI\n• Hospital Pasteur - Unidade Meier - H/M/PS/PSI\n• Hospital Procor - Pronto Socorro Clinico e Cardiológico - H/PSI\n• Hospital São Francisco na Providência de Deus - Antigo Hospital\nOrdem Terceira da Penitência - H/PS\n• Hospital São Vicente de Paulo - H/PS\n• TijuTrauma Clínica & Hospital - H\nZONA SUL\nRio de Janeiro\n• Clínica da Gávea - H\n• CSPM Casa de Saúde Pinheiro Machado - H/PS\n• Hospital Casa Rio Laranjeiras - Grupo Hospital Casa - H/PS\n• Hospital e Maternidade Santa Bárbara - M\n• Hospita",
+          "msg_time": "2026-03-12T15:18:21.726958"
+        },
+        {
+          "role": "system",
+          "content": "Flavia\n\nO produto da Sulamerica, direto nacional, vai te dar acesso  a boa parte da Rede Dor.\nVocê busca atendimento em algum Hospital em específico ?",
+          "msg_time": "2026-03-12T15:30:12.429759"
+        },
+        {
+          "role": "user",
+          "content": "Cirurgia ?",
+          "msg_time": "2026-03-12T15:36:32.91934"
+        },
+        {
+          "role": "system",
+          "content": "Aqui é a solução de entrada da Sulamerica para os 4 \n\nColoquei em Coparticipação e sem .. \n\nMas por ora , analisa a rede credenciada e o valor \n\nSe precisarmos ajustar o orçamento , podemos pensar em Porto Seguro que está em campanha e o valor está muito competitivo",
+          "msg_time": "2026-03-12T15:38:18.778028"
+        },
+        {
+          "role": "system",
+          "content": "O plano é completo , tem cirurgias , desde que não seja uma preexistência , ou seja , uma doença sabida antes de fazer o plano",
+          "msg_time": "2026-03-12T15:38:56.867211"
+        },
+        {
+          "role": "system",
+          "content": "Ele tem alguma condição  de saúde no momento que necessite de uma intervenção cirúrgica para os próximos meses ?",
+          "msg_time": "2026-03-12T15:39:55.51081"
+        },
+        {
+          "role": "user",
+          "content": "Não ,mas tivemos um susto ano passado",
+          "msg_time": "2026-03-12T16:33:46.914014"
+        },
+        {
+          "role": "system",
+          "content": "Entendo \n\nNessa faixa etária , acontece muita coisa de forma repentina\n\nTemos que nos previnir mesmo é o plano é um seguro",
+          "msg_time": "2026-03-12T16:35:36.185096"
+        },
+        {
+          "role": "system",
+          "content": "Posso enviar um áudio explicando os possíveis cenários de carências ?",
+          "msg_time": "2026-03-12T16:37:22.245745"
+        },
+        {
+          "role": "user",
+          "content": "Sim",
+          "msg_time": "2026-03-12T17:45:47.139493"
+        },
+        {
+          "role": "user",
+          "content": "Me tira uma dúvida,\nSe uma pessoa tem um plano ,e deseja trocar ?",
+          "msg_time": "2026-03-12T18:38:33.41014"
+        },
+        {
+          "role": "system",
+          "content": "Nesse caso , em relação as carências , pode comprar",
+          "msg_time": "2026-03-12T18:50:08.384349"
+        },
+        {
+          "role": "system",
+          "content": "Vc se refere a alguém do seu grupo ?",
+          "msg_time": "2026-03-12T18:50:25.752603"
+        },
+        {
+          "role": "user",
+          "content": "O plano que ela tem é Amil  dix",
+          "msg_time": "2026-03-12T18:51:58.110587"
+        },
+        {
+          "role": "user",
+          "content": "Pra consulta e exames é ótimo\n\nPorém não tem grande cobertura",
+          "msg_time": "2026-03-12T18:52:24.117176"
+        },
+        {
+          "role": "system",
+          "content": "Sim , se for um produto congênere irá entrar com compra total de carências a não ser que tenh uma comorbidade!\n\nAlguém tem algo de risco a vida?\n\nSim , se for um produto congênere irá entrar com compra total de carências a não ser que tenha uma comorbidade!",
+          "msg_time": "2026-03-12T18:57:10.609241"
+        },
+        {
+          "role": "system",
+          "content": "E em específico , na Sul-america compra a carência desse vida",
+          "msg_time": "2026-03-12T18:58:33.575392"
+        },
+        {
+          "role": "user",
+          "content": "Não",
+          "msg_time": "2026-03-12T19:03:37.204764"
+        },
+        {
+          "role": "user",
+          "content": "O valor muda ?",
+          "msg_time": "2026-03-12T19:04:05.030259"
+        },
+        {
+          "role": "system",
+          "content": "Não não, mas na análise vem a declaração de saúde no qual pergunta se tem alguma comorbidade e se falar que \"SIM\"  entra com carências para doenças pré existentes. Ok?",
+          "msg_time": "2026-03-12T19:08:10.868271"
+        },
+        {
+          "role": "system",
+          "content": "Bom dia Flávia",
+          "msg_time": "2026-03-13T09:09:51.286375"
+        },
+        {
+          "role": "system",
+          "content": "Vamos seguir para a análise de docs na MedSenior e Sulamerica ?",
+          "msg_time": "2026-03-13T09:10:44.02813"
+        },
+        {
+          "role": "user",
+          "content": "Bom dia \nEla vai ficar até junho com esse plano",
+          "msg_time": "2026-03-13T09:12:07.385541"
+        },
+        {
+          "role": "system",
+          "content": "Entendi \n\nEla , vc se refere a quem do grupo ? \n\nEu entendi que vamos com vida de 71 anos pensar em MedSenior e o restante do grupo Sulamerica \n\nA quem vc se refere em relação a Dix ?",
+          "msg_time": "2026-03-13T09:14:14.765198"
+        }
+      ]
+    },
+    {
+      "session_id": "5521981881979@s.whatsapp.net",
+      "phone": "5521981881979",
+      "phone_display": "+55 21 98188-1979",
+      "lead": {
+        "baserow_id": 1148,
+        "nome": "Deise",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "gilbertinho_off": true,
+        "observacoes": "",
+        "reagendamento": null,
+        "corretor": "Gilberto",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Deise",
+        "email": "",
+        "telefone": "+55 21 98188-1979",
+        "vidas": [],
+        "cidade": "Rio de Janeiro / RJ",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "Incluir novas vidas",
+        "interesse": "",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "Gilberto",
+        "obs_crm": "",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Deise\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98188-1979\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n👤 Consultor: Gilberto\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "morno",
+      "bot": "preto",
+      "consultor": "Gilberto",
+      "message_count": 45,
+      "first_message_at": "2026-03-12T03:00:00.000Z",
+      "last_message_at": "2026-03-12T17:53:30.807000Z",
+      "last_bot_msg_at": "2026-03-12T14:53:30.27148",
+      "tempo_sem_interacao": "21h 22min",
+      "first_id": 18641,
+      "last_id": 18872,
+      "last_message_preview": "Muito obrigado",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: \n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação de um plano de saúde Empresarial",
+          "msg_time": "2026-03-12T14:52:14.224771"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Eu sou Gilberto, analista em Plano Saúde da Corretora GW9. 🚀 Trabalhamos com todos os Planos de saúde no Rio de Janeiro. Vou ajudar a entender as melhores opções para seu plano empresarial. Para começarmos, como posso chamar você?",
+          "msg_time": "2026-03-12T14:52:14.230718"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: Recursos Humanos\n\nMensagem(ns) do cliente:\nBoa tarde estou cotando plano de saúde e odontológico para rio de janeiro, 97 colaboradores na faixa etária de 18 a 40 anos, plano empresarial sem coparticipação",
+          "msg_time": "2026-03-12T14:53:30.269198"
+        },
+        {
+          "role": "ai",
+          "content": "Olá, Recursos Humanos! Entendi, são 97 colaboradores com idade entre 18 e 40 anos para um plano empresarial sem coparticipação no Rio de Janeiro. Para confirmarmos, além disso, preciso do CNPJ da empresa, pode informar?",
+          "msg_time": "2026-03-12T14:53:30.27148"
+        },
+        {
+          "role": "system",
+          "content": "Olá\n\nPerfeito\n\nVamos ajudá-los\n\nOlá Deise!\n\nBoa tarde! Eu sou Gilberto, analista em Plano Saúde da Corretora GW9. 🚀\nTrabalhamos com todos os Planos de saúde no Rio de Janeiro. Vou te ajudar a entender as melhores opções de plano e, se fizer sentido, já deixo tudo organizado para o especialista te atender de forma objetiva.\n\nPosso retornar a ligação ?",
+          "msg_time": "2026-03-12T15:05:59.079956"
+        },
+        {
+          "role": "user",
+          "content": "Estou no whatsapp no computador não vou conseguir receber ligações",
+          "msg_time": "2026-03-12T15:07:00.488829"
+        },
+        {
+          "role": "user",
+          "content": "Ok\n\nConsigo ouvir áudios",
+          "msg_time": "2026-03-12T15:07:20.914865"
+        },
+        {
+          "role": "system",
+          "content": "Vamos seguir aqui , me chamo Gilberto .. \n\nO grupo tem plano ativo ? Se sim , qual ?",
+          "msg_time": "2026-03-12T15:07:45.976961"
+        },
+        {
+          "role": "user",
+          "content": "Não temos",
+          "msg_time": "2026-03-12T15:08:03.081849"
+        },
+        {
+          "role": "user",
+          "content": "Estamos em contratação de 97 colaboradores sendo 40 homens e 57 mulheres ambos na faixa etária de 20 a 43 anos",
+          "msg_time": "2026-03-12T15:08:57.200434"
+        },
+        {
+          "role": "user",
+          "content": "Entre eles os cargos de agente de portaria, ASG e recepção",
+          "msg_time": "2026-03-12T15:09:33.23203"
+        },
+        {
+          "role": "system",
+          "content": "Ok \n\nTem alguma regra específica no contrato de prestação de serviço ou convenção sindical que vcs precisem cumprir com os planos ?",
+          "msg_time": "2026-03-12T15:10:08.928"
+        },
+        {
+          "role": "system",
+          "content": "Ou a ideia é ter um benefício ?",
+          "msg_time": "2026-03-12T15:10:25.378453"
+        },
+        {
+          "role": "system",
+          "content": "Entendi a demanda , como buscam 100% sem coparticipação e o grupo é menor que 100 vidas \n\nA Porto Seguro Saúde  vai ter a solução mais acessível do mercado",
+          "msg_time": "2026-03-12T15:11:28.340906"
+        },
+        {
+          "role": "system",
+          "content": "Mas se vc não se incomodar ainda tenho algumas perguntas",
+          "msg_time": "2026-03-12T15:11:52.423016"
+        },
+        {
+          "role": "system",
+          "content": "Assim facilita para apresentar com mais assertividade o que buscam e encontrar uma solução que encaixe perfeitamente na relação de Custo x Acesso",
+          "msg_time": "2026-03-12T15:12:44.310439"
+        },
+        {
+          "role": "user",
+          "content": "Pode perguntar",
+          "msg_time": "2026-03-12T15:16:46.81704"
+        },
+        {
+          "role": "system",
+          "content": "A alguma possibilidade de chegar a + 100 vidas , pergunto pois , a regra de contratação passaria a ser EMPRESARIAL , é mais flexível do que até 99 vidas e o custo reduz cerca de 20%\n\nTemos essa possibilidade ?",
+          "msg_time": "2026-03-12T15:17:45.02574"
+        },
+        {
+          "role": "user",
+          "content": "até podemos estudar a possibilidade, temos a contratação para 97, e se for o caso podemos incluir mais 3 que já são funcionários, você consegue passar tanto para 100 quanto para 97 vidas",
+          "msg_time": "2026-03-12T15:19:35.795375"
+        },
+        {
+          "role": "system",
+          "content": "Sim \n\nContudo a Proposta para + 100 vidas eu não consigo fazer “na ponta” aqui no sistema da Amil por exemplo .. \n\nPois como é seria um grupo Empresarial , nós preenchemos alguns formulários , perguntas sobre a saúde do grupo e a operadora nos envia uma proposta personalizada \n\nAté 99 vidas , é preço de tabela",
+          "msg_time": "2026-03-12T15:21:21.876372"
+        },
+        {
+          "role": "system",
+          "content": "Esse grupo é todo RJ ?",
+          "msg_time": "2026-03-12T15:22:10.658745"
+        },
+        {
+          "role": "system",
+          "content": "aqui pra fora, sair lá do salão, já que você pode ouvir áudio, vai ficar melhor. Então, vamos lá. A ideia aqui dessas perguntas, não é te incomodar muito, não, é mais saber exatamente o que você precisa, porque você tá bem no limite, né, da gente fazer um produto personalizado pra uma ITAC, pra esse grupo de vidas. Pode ser a partir de 100 vidas a gente já consegue fazer, mas aí eu preciso de mais informações. Um exemplo, se tem gestante no grupo, se tem alguém doente, se esse alguém doente tá afastado, se ele incide, enfim, aí é a operadora, seja ela a Mil, Porto Seguro, Sul América. Eu citei Porto Seguro e a Mil porque elas são, até pra quem você falou aí que é esse grupo de trabalhadores, a Mil e a Porto Seguro é que tem 99% desse mercado, que são produtos mais acessíveis. Então a gente vai ficar por ali, mas se você quiser alguma coisa assim mais apresentável e do ponto de vista financeiro, buscar um desconto, aí a opção pra mais de 100 vidas com certeza é melhor. Esse contrato tam",
+          "msg_time": "2026-03-12T15:25:08.928996"
+        },
+        {
+          "role": "system",
+          "content": "Me perdoa o tamanho do áudio\n\nRs",
+          "msg_time": "2026-03-12T15:26:08.517176"
+        },
+        {
+          "role": "system",
+          "content": "Tem outra vantagem no + 100 vidas",
+          "msg_time": "2026-03-12T15:27:39.619061"
+        },
+        {
+          "role": "system",
+          "content": "Então são todos novos é um contrato novo não teremos ninguém com afastamento serão todos novos\n\nMas sem vidas também é uma modalidade de preço médio O que quer dizer isso? Todos os colaboradores que pagariam teriam o mesmo valor Então, independente se ele tem 50 anos ou 25 anos, o valor é o mesmo E é óbvio que isso é uma conta feita de acordo com essa quantidade de vidas De acordo com a faixa etária das vidas Por isso que demora mais um pouquinho Eu acabei de fazer uma agora para uma empresa de volta redonda 130 vidas Tem alguém aqui Foi aqui o valor",
+          "msg_time": "2026-03-12T15:28:18.450991"
+        },
+        {
+          "role": "system",
+          "content": "Ótimo\n\nMais um bom sinal\n\nVcs tem prazo para apresentar o plano no contrato ?",
+          "msg_time": "2026-03-12T15:30:04.6807"
+        },
+        {
+          "role": "system",
+          "content": "Olha um exemplo com + 100 vidas na Amil \n\nQue atenderia muito bem a vcs e ainda consigo DENTAL para 100% da massa com isenção de 12 meses",
+          "msg_time": "2026-03-12T15:30:54.531484"
+        },
+        {
+          "role": "system",
+          "content": "R$ 301.32\n( Sem Coparticipação ) \nNo Amil Bronze Rj",
+          "msg_time": "2026-03-12T15:31:54.089352"
+        },
+        {
+          "role": "user",
+          "content": "eu não tenho prazo estou orçando para enviar ainda hoje para diretoria",
+          "msg_time": "2026-03-12T15:32:22.403341"
+        },
+        {
+          "role": "system",
+          "content": "Eita\n\nEntendi",
+          "msg_time": "2026-03-12T15:32:51.764789"
+        },
+        {
+          "role": "system",
+          "content": "É ali eu te dei um exemplo e aquele exemplo ali é bem próximo de vocês, e olha que ele ainda tem CID, tem afastado, é um grupo que está na Unimed. O de vocês ficaria certamente mais barato, lá tem pessoas de 50 e poucos anos, eu estou dando ali só um exemplo. Você tem a faixa etária do grupo, desse grupo de 97? Me manda aí as faixas etárias que eu faço logo aqui uma cotação para você na Mil e na Porto Seguro. Contudo, eu ainda vou insistir que, caso a diretoria queira uma proposta personalizada com o grupo, enfim, vocês podem sugerir regras contratuais com os advogados, se vai entrar dependente, se não vai, vocês podem montar o contrato junto com a Mil, é uma solução assim, talvez mais assertiva para vocês. Mas eu vou te mandar aqui, até porque você está com celebridade de enviar para a diretoria alguma coisa, eu vou te mandar o preço de tabela, ou seja, um produto que já é de prateleira. Eu preciso das idades do grupo, você consegue me mandar? Não precisa distinguir nesse momento agor",
+          "msg_time": "2026-03-12T15:34:10.725777"
+        },
+        {
+          "role": "system",
+          "content": "Tem as idades do grupo ?",
+          "msg_time": "2026-03-12T15:40:09.714002"
+        },
+        {
+          "role": "system",
+          "content": "Pq eu posso te enviar a tabela por faixa etária , mas se me enviar as idades do grupo faço exatamente o valor de fatura",
+          "msg_time": "2026-03-12T15:40:52.18614"
+        },
+        {
+          "role": "user",
+          "content": "97 colaboradores sendo 40 homens e 57 mulheres ambos na faixa etária de 20 a 43 anos",
+          "msg_time": "2026-03-12T15:41:42.096673"
+        },
+        {
+          "role": "system",
+          "content": "Ok \nVou enviar os valores pela faixa etária no Amil Bronze Rj \nAmil Bronze + Rj \n\nEssas são soluções de entrada e a diferença é a rede Regional e Estadual \n\nPorto Seguro Bairros \nPorto Bronze Pro Rio \n\nAssim Saúde A20",
+          "msg_time": "2026-03-12T15:49:48.324054"
+        },
+        {
+          "role": "system",
+          "content": "Com isso já terá uma base de comparação",
+          "msg_time": "2026-03-12T15:50:08.802987"
+        },
+        {
+          "role": "user",
+          "content": "obrigado",
+          "msg_time": "2026-03-12T15:57:56.690762"
+        },
+        {
+          "role": "system",
+          "content": "Ok \n\nSó vou insistir na opção com + 100 vidas \n\nPq tenho certeza que apresentaremos uma solução mais adequada para Humanitta dessa forma \n\nMas , nesse sentido , precisaríamos das idades exatas de cada colaborador \n\nSaber se tem dependentes , se sim , quem são?\n\nPrecisamos tb saber se o colaborador  paga algum % do plano .. \n\nEnfim mais informações para montar a proposta personalizada , ok ?",
+          "msg_time": "2026-03-12T16:08:47.791331"
+        },
+        {
+          "role": "system",
+          "content": "Estamos trabalhando aqui na ferramenta para facilitar sua apresentação a diretoria \n\nVou separar as redes credenciadas , e me coloco a disposição para agenda de uma vídeo para explicar com maior riqueza de detalhes as diferenças , incluindo a coparticipação",
+          "msg_time": "2026-03-12T17:04:43.306123"
+        },
+        {
+          "role": "system",
+          "content": "Olá! Tudo bem?\n\nConforme conversamos, segue a proposta de plano de saúde empresarial elaborada especialmente para a Humanitta Serviços e Soluções Corporativas.\n\nPreparamos um comparativo completo entre Porto Saúde, Amil e Assim Saúde, com todas as faixas etárias e valores detalhados. \n*A proposta também conta com um simulador interativo* , basta selecionar o plano e informar a quantidade de vidas por faixa para ver o valor total automaticamente.\n\n\nFico à disposição para esclarecer qualquer dúvida ou ajustar conforme a necessidade da empresa.\n\nhttps://laysacorrea-gw9.github.io/proposta-humanitta/",
+          "msg_time": "2026-03-12T17:10:59.688973"
+        },
+        {
+          "role": "system",
+          "content": "Atente-se no final da página tem um simulador para colocar  as idades do grupo ( exata ) só escolher o produto",
+          "msg_time": "2026-03-12T17:18:30.740793"
+        },
+        {
+          "role": "user",
+          "content": "Muito obrigado",
+          "msg_time": "2026-03-12T17:31:18.936888"
+        },
+        {
+          "role": "system",
+          "content": "Estou aqui para possíveis dúvidas \n\nEspero que a ferramenta facilite sua apresentação",
+          "msg_time": "2026-03-12T17:36:37.368263"
+        },
+        {
+          "role": "system",
+          "content": "Olá Deise \n\nBom dia , td bem ?",
+          "msg_time": "2026-03-13T09:11:00.982443"
+        },
+        {
+          "role": "system",
+          "content": "Conseguiu navegar( simular )  no link acima ? \nSobre os produtos , avalie se\nEstamos na mesma “página” e fica a lembrança que podemos articular uma call ou vídeo para tratar dúvidas como a coparticipação , ok ?",
+          "msg_time": "2026-03-13T09:12:38.522985"
+        }
+      ]
+    },
     {
       "session_id": "5521969149049@s.whatsapp.net",
       "phone": "5521969149049",
@@ -51,13 +639,13 @@
       "status": "morno",
       "bot": "preto",
       "consultor": "",
-      "message_count": 9,
+      "message_count": 11,
       "first_message_at": "2026-03-13T03:00:00.000Z",
-      "last_message_at": "2026-03-13T08:37:08.751000Z",
-      "last_bot_msg_at": "2026-03-13T05:37:08.038927",
-      "tempo_sem_interacao": "6h 23min",
+      "last_message_at": "2026-03-13T12:11:02.136000Z",
+      "last_bot_msg_at": "2026-03-13T09:11:01.429462",
+      "tempo_sem_interacao": "3h 4min",
       "first_id": 18847,
-      "last_id": 18863,
+      "last_id": 18870,
       "last_message_preview": "Dados do lead no sistema:\nNome: Luan\n\nMensagem(ns) do cliente:\nSim",
       "messages": [
         {
@@ -104,6 +692,76 @@
           "role": "system",
           "content": "Luan, ainda está por aí? Estou aguardando sua resposta para dar sequência.",
           "msg_time": "2026-03-13T09:00:16.190136"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: Luan\n\nMensagem(ns) do cliente:\nSim",
+          "msg_time": "2026-03-13T09:11:01.426382"
+        },
+        {
+          "role": "ai",
+          "content": "Luan, obrigado por confirmar! O consultor está preparando tudo e vai te chamar aqui no WhatsApp em breve para seguir com a cotação. Qualquer dúvida estou por aqui.",
+          "msg_time": "2026-03-13T09:11:01.429462"
+        }
+      ]
+    },
+    {
+      "session_id": "5521965997753@s.whatsapp.net",
+      "phone": "5521965997753",
+      "phone_display": "+55 21 96599-7753",
+      "lead": {
+        "baserow_id": 1163,
+        "nome": "Eduardo Vilaça",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "gilbertinho_off": false,
+        "observacoes": "",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Eduardo Vilaça",
+        "email": "",
+        "telefone": "+55 21 96599-7753",
+        "vidas": [],
+        "cidade": "Rio de Janeiro / RJ",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "MEI",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "Amil",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Eduardo Vilaça\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96599-7753\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n🎯 Interesse: Amil\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "frio",
+      "bot": "preto",
+      "consultor": "",
+      "message_count": 2,
+      "first_message_at": "2026-03-13T03:00:00.000Z",
+      "last_message_at": "2026-03-13T12:04:43.098000Z",
+      "last_bot_msg_at": "2026-03-13T09:04:42.568179",
+      "tempo_sem_interacao": "3h 10min",
+      "first_id": 18864,
+      "last_id": 18865,
+      "last_message_preview": "Dados do lead no sistema:\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano d...",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Amil",
+          "msg_time": "2026-03-13T09:04:42.564438"
+        },
+        {
+          "role": "ai",
+          "content": "Olá!\nEu sou Gilberto, analista em Plano Saúde da Corretora GW9.\nTrabalhamos com todos os Planos de saúde no Rio de Janeiro. 🚀\nComo os valores dos Planos de saúde são tabelados e os preços mudam de acordo com a rede credenciada. Minha missão é de te ajudar a encontrar o produto que melhor lhe atenda na relação custo x acesso.\n\nPor isso vou te fazer algumas perguntas, pode me dizer:\n1️⃣ Quantas pessoas são e as idades?\n2️⃣ Qual a cidade que busca atendimento? Se tiver algum hospital de sua preferência, me informe, também nos ajuda.\n3️⃣ Como o plano será contratado: empresarial (CNPJ/MEI)?\n4️⃣ Já possui Plano atualmente? Se sim qual?\n\nPode responder por áudio se preferir. 🎙️",
+          "msg_time": "2026-03-13T09:04:42.568179"
         }
       ]
     },
@@ -166,7 +824,7 @@
       "first_message_at": "2026-03-12T03:00:00.000Z",
       "last_message_at": "2026-03-13T11:35:32.754000Z",
       "last_bot_msg_at": "2026-03-13T08:35:32.251369",
-      "tempo_sem_interacao": "3h 25min",
+      "tempo_sem_interacao": "3h 40min",
       "first_id": 18841,
       "last_id": 18862,
       "last_message_preview": "Dados do lead no sistema:\nNome: Laysa Corrêa\n\nMensagem(ns) do cliente:\n10, 1, 36 , 37 e 63",
@@ -526,7 +1184,7 @@
       "first_message_at": "2026-03-13T03:00:00.000Z",
       "last_message_at": "2026-03-13T10:20:00.917000Z",
       "last_bot_msg_at": "2026-03-13T07:19:52.833102",
-      "tempo_sem_interacao": "4h 40min",
+      "tempo_sem_interacao": "4h 55min",
       "first_id": 18855,
       "last_id": 18856,
       "last_message_preview": "Dados Fornecidos\nNome: Anderson\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: nã...",
@@ -586,7 +1244,7 @@
       "first_message_at": "2026-03-12T03:00:00.000Z",
       "last_message_at": "2026-03-13T01:45:36.664000Z",
       "last_bot_msg_at": "2026-03-12T22:45:36.160952",
-      "tempo_sem_interacao": "13h 15min",
+      "tempo_sem_interacao": "13h 30min",
       "first_id": 18843,
       "last_id": 18844,
       "last_message_preview": "Dados do lead no sistema:\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano d...",
@@ -646,7 +1304,7 @@
       "first_message_at": "2026-03-12T03:00:00.000Z",
       "last_message_at": "2026-03-12T20:59:24.258000Z",
       "last_bot_msg_at": "2026-03-12T17:59:23.785716",
-      "tempo_sem_interacao": "18h 1min",
+      "tempo_sem_interacao": "18h 16min",
       "first_id": 18718,
       "last_id": 18802,
       "last_message_preview": "Eu era mei e tive que mudar para o simples nacional",
@@ -829,319 +1487,6 @@
       ]
     },
     {
-      "session_id": "5521964639694@s.whatsapp.net",
-      "phone": "5521964639694",
-      "phone_display": "+55 21 96463-9694",
-      "lead": {
-        "baserow_id": 1041,
-        "nome": "Flavia Araujo",
-        "email": "",
-        "qtd_vidas": 4,
-        "desinteresse": false,
-        "gilbertinho_off": true,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "João",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Flavia Araujo",
-        "email": "",
-        "telefone": "+55 21 96463-9694",
-        "vidas": [
-          {
-            "idade": 71
-          },
-          {
-            "idade": 46
-          },
-          {
-            "idade": 47
-          },
-          {
-            "idade": 25
-          }
-        ],
-        "cidade": "Rio de Janeiro / RJ",
-        "contratacao": "CNPJ",
-        "cnpj": "58.315.004/0001-49",
-        "tipo_empresa": "MEI",
-        "profissao": "",
-        "plano_atual": "Nenhum",
-        "motivo": "",
-        "interesse": "Sulamérica",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "João",
-        "obs_crm": "",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Flavia Araujo\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96463-9694\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nFlavia Araujo — 71 anos\nDependente 1 — 46 anos\nDependente 2 — 47 anos\nDependente 3 — 25 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 58.315.004/0001-49\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n🎯 Interesse: Sulamérica\n👤 Consultor: João\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "quente",
-      "bot": "preto",
-      "consultor": "João",
-      "message_count": 57,
-      "first_message_at": "2026-03-07T03:00:00.000Z",
-      "last_message_at": "2026-03-07T18:05:41.569000Z",
-      "last_bot_msg_at": "2026-03-07T15:05:41.077645",
-      "tempo_sem_interacao": "5 dias",
-      "first_id": 17068,
-      "last_id": 18801,
-      "last_message_preview": "O valor muda ?",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Rj",
-          "msg_time": "2026-03-07T12:43:41.490493"
-        },
-        {
-          "role": "ai",
-          "content": "Certo, RJ anotado. Pode me informar o nome da empresa vinculada a esse CNPJ? E também quantas pessoas serão cobertas por esse plano?",
-          "msg_time": "2026-03-07T12:43:41.492663"
-        },
-        {
-          "role": "user",
-          "content": "6 pessoas",
-          "msg_time": "2026-03-07T12:44:15.413366"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, são 6 pessoas pelo plano empresarial no RJ. Se puder, me passe as idades ou uma média para ajudar na cotação. Caso não tenha todas agora, tudo bem, o especialista pode confirmar depois. E o nome da empresa, por favor?",
-          "msg_time": "2026-03-07T12:44:15.415451"
-        },
-        {
-          "role": "user",
-          "content": "71\n46\n47\n25\n223\n\n71\n46\n47\n25\n22",
-          "msg_time": "2026-03-07T12:45:36.049654"
-        },
-        {
-          "role": "ai",
-          "content": "Só para confirmar, você mencionou 6 pessoas e cinco idades: 71, 46, 47, 25, 22. Pode confirmar a idade da sexta pessoa? E qual o nome da empresa?",
-          "msg_time": "2026-03-07T12:45:36.052131"
-        },
-        {
-          "role": "user",
-          "content": "26",
-          "msg_time": "2026-03-07T14:04:42.571998"
-        },
-        {
-          "role": "ai",
-          "content": "Obrigado pelas idades e pela informação do número de vidas. Para seguir, preciso do nome completo da empresa vinculada ao CNPJ para registrar corretamente. Pode me informar?",
-          "msg_time": "2026-03-07T14:04:42.575119"
-        },
-        {
-          "role": "user",
-          "content": "Belo arquitetura",
-          "msg_time": "2026-03-07T15:05:41.075197"
-        },
-        {
-          "role": "ai",
-          "content": "Então, são 6 pessoas, idades 71, 46, 47, 25, 22 e 26, no plano empresarial para Belo Arquitetura no RJ, certo? Já que temos tudo, vou preparar para o especialista falar com você e ajudar a achar a melhor opção. Qual o melhor dia e horário para o contato? Prefere WhatsApp, ligação ou vídeo?",
-          "msg_time": "2026-03-07T15:05:41.077645"
-        },
-        {
-          "role": "system",
-          "content": "Ainda está por aí? Estou aguardando sua resposta para dar sequência. Qual o melhor dia e horário para o especialista te contatar? Prefere WhatsApp, ligação ou vídeo?",
-          "msg_time": "2026-03-07T19:00:04.000669"
-        },
-        {
-          "role": "user",
-          "content": "Olq",
-          "msg_time": "2026-03-12T13:03:53.342678"
-        },
-        {
-          "role": "system",
-          "content": "Perfeito Flavia!",
-          "msg_time": "2026-03-12T13:06:36.913249"
-        },
-        {
-          "role": "system",
-          "content": "Oi, Flávia, tudo bem? Boa tarde. Quem tá falando aqui é o Gilberto, vou dar sequência aqui no atendimento. Então, são seis vidas, né? Deixa eu te perguntar. Você já tem um plano ativo? Se sim, qual é o plano? É importante eu saber por quê, né? Aí eu já consigo filtrar aqui no mercado algum plano que seja congênero ao que você tem na Sulamérica, né? Já que você tem demonstrado interesse na Sulamérica. Se você tiver alguma unidade, principalmente da rede DOR, que você gostaria de ter no portfólio, que você não tem ou que você gostaria de manter, manda também, que aí eu já tenho uma ideia de qual produto do mercado a gente pode comparar. Me passa, então, esses dois detalhes. Qual é o plano atual de vocês? E se vocês têm alguma unidade hospitalar, especialmente da rede DOR, que você gostaria de ter.",
-          "msg_time": "2026-03-12T13:08:30.786276"
-        },
-        {
-          "role": "user",
-          "content": "Não temos plano",
-          "msg_time": "2026-03-12T13:10:08.306996"
-        },
-        {
-          "role": "system",
-          "content": "Entendi",
-          "msg_time": "2026-03-12T13:15:01.572957"
-        },
-        {
-          "role": "system",
-          "content": "Alguma unidade hospitalar de preferência ?",
-          "msg_time": "2026-03-12T13:15:30.888998"
-        },
-        {
-          "role": "system",
-          "content": "Um outro detalhe importante é a vida de 71 anos , pois essa faixa etária temos que ter uma atenção maior\n\nEle é sócio do CNPJ ?",
-          "msg_time": "2026-03-12T13:16:56.461151"
-        },
-        {
-          "role": "system",
-          "content": "Se não for sócio , temos que pensar em um plano individual para ele e o restante do Grupo sim , ir para a Sulamerica \n\nOs planos Individuais são os aqueles característicos para a terceira idade \n\nSão ótimos",
-          "msg_time": "2026-03-12T13:21:04.28572"
-        },
-        {
-          "role": "user",
-          "content": "Não",
-          "msg_time": "2026-03-12T13:21:40.560229"
-        },
-        {
-          "role": "system",
-          "content": "Entendi",
-          "msg_time": "2026-03-12T13:36:03.140819"
-        },
-        {
-          "role": "system",
-          "content": "algo específico motivou vocês a buscarem um plano no momento?",
-          "msg_time": "2026-03-12T13:36:26.580546"
-        },
-        {
-          "role": "user",
-          "content": "Sim\n\nPor conta da pessoa de 71 anos\n\npergunto isso para analisar todo cenário e ser mais assertivo em relação a seguradoras e produtos dentro delas\n\nentendi\n\nvocês são de qual região no Rio de Janeiro?\n\nCapital",
-          "msg_time": "2026-03-12T13:39:22.084751"
-        },
-        {
-          "role": "system",
-          "content": "O ideal é fazer um plano específico para idosos",
-          "msg_time": "2026-03-12T13:39:43.491475"
-        },
-        {
-          "role": "system",
-          "content": "Pode vê pfvr tbm\n\nPois as regras de contratação limitam\n\nSeparado\n\nClaro",
-          "msg_time": "2026-03-12T13:40:26.708562"
-        },
-        {
-          "role": "system",
-          "content": "Vamos ver um MedSenior e Leve Saúde para ele \n\nO restante do Grupo vemos pelo CNPJ na Sulamerica \n\nVou te enviar a solução de entrada que já é ótima , tem muitas unidades da Rede Dor , cobertura Nacional e até Dental Incluso para todos , combinado ?",
-          "msg_time": "2026-03-12T13:41:38.141341"
-        },
-        {
-          "role": "user",
-          "content": "Ok",
-          "msg_time": "2026-03-12T13:42:03.33952"
-        },
-        {
-          "role": "system",
-          "content": "Ok\n\nRetornei aqui , estávamos em uma call",
-          "msg_time": "2026-03-12T15:00:09.815193"
-        },
-        {
-          "role": "system",
-          "content": "<ContextoPDF>\n  <TranscricaoPDF>\nREDE CREDENCIADA\nRJ 1\nHOSPITAIS\nZONA NORTE\nRio de Janeiro\n• Hosp. De Irajá - H/PS\n• Hosp. Marcos Moraes - H\n• Hosp. Pan-Americano - Antigo Casa De\nSaúde Sta. Therezinha - H/PS\n• Hosp. Pasteur - Un. Meier - H\n• Hosp. Procor - PS. Clinico E Cardiológico -\nH/PS\n• Hosp. São Francisco Na Providência De Deus\n- Antigo Hosp. Ordem Terceira Da Penitência -\nH/PS\nZONA SUL\nRio de Janeiro\n• Hosp. Quali Ipanema - Antigo Hosp.\nIpanema Plus - Intituto Cirúrgico Gabriel\nLucena - H\n• Medsênior - Un. Botafogo - A/PA\n• São Carlos Saúde Oncológica - H\nZONA OESTE\nRio de Janeiro\n• Amil Espaço Saúde - Un. Campo Grande - PS\n• CSNSC Casa De Saude Nsa. Sra. Do Carmo -\nGrupo Carmo - H\n• Hosp. De Clinicas De Jacarepaguá - H\n• Medsênior - Un. Rio Barra Da Tijuca - A/PA\nCENTRO\nRio de Janeiro\n• Hosp. Casa De Portugal - Hosp. Casa\nProcordis - Grupo Hosp. Casa - H/PS\nREGIÃO METROPOLITANA\nDuque de Caxias\n• Hosp. De Clinicas Mario Lioni - H/PS\n• HSCOR Hosp. Do Coração De Duque De\nCaxias -",
-          "msg_time": "2026-03-12T15:13:04.941022"
-        },
-        {
-          "role": "system",
-          "content": "Flávia \n\nAqui as soluções da MedSenior .. \n\nSão muito , mas muito completas e atendem muito bem a idade dele",
-          "msg_time": "2026-03-12T15:13:40.682833"
-        },
-        {
-          "role": "system",
-          "content": "<ContextoPDF>\n  <TranscricaoPDF>\nREDE CREDENCIADA\nDireto Nacional\nHOSPITAIS\nZONA NORTE\nRio de Janeiro\n• Hospital Badim - Rede Dor São Luiz - H/PS\n• Hospital Balbino - H/PS\n• Hospital da Criança - Grupo Prontobaby - H/PSI\n• Hospital de Irajá - PS\n• Hospital Ilha do Governador - Antigo Hospital Santa Maria Madalena\n- H/PS\n• Hospital Norte Dor - Rede Dor São Luiz - H/PS/PSI\n• Hospital Pan-Americano - Antigo Casa de Saúde Santa Therezinha -\nH/PS\n• Hospital Pasteur - Unidade Avançada Tijuca - H/M/PS/PSI\n• Hospital Pasteur - Unidade Meier - H/M/PS/PSI\n• Hospital Procor - Pronto Socorro Clinico e Cardiológico - H/PSI\n• Hospital São Francisco na Providência de Deus - Antigo Hospital\nOrdem Terceira da Penitência - H/PS\n• Hospital São Vicente de Paulo - H/PS\n• TijuTrauma Clínica & Hospital - H\nZONA SUL\nRio de Janeiro\n• Clínica da Gávea - H\n• CSPM Casa de Saúde Pinheiro Machado - H/PS\n• Hospital Casa Rio Laranjeiras - Grupo Hospital Casa - H/PS\n• Hospital e Maternidade Santa Bárbara - M\n• Hospita",
-          "msg_time": "2026-03-12T15:18:21.726958"
-        },
-        {
-          "role": "system",
-          "content": "Flavia\n\nO produto da Sulamerica, direto nacional, vai te dar acesso  a boa parte da Rede Dor.\nVocê busca atendimento em algum Hospital em específico ?",
-          "msg_time": "2026-03-12T15:30:12.429759"
-        },
-        {
-          "role": "user",
-          "content": "Cirurgia ?",
-          "msg_time": "2026-03-12T15:36:32.91934"
-        },
-        {
-          "role": "system",
-          "content": "Aqui é a solução de entrada da Sulamerica para os 4 \n\nColoquei em Coparticipação e sem .. \n\nMas por ora , analisa a rede credenciada e o valor \n\nSe precisarmos ajustar o orçamento , podemos pensar em Porto Seguro que está em campanha e o valor está muito competitivo",
-          "msg_time": "2026-03-12T15:38:18.778028"
-        },
-        {
-          "role": "system",
-          "content": "O plano é completo , tem cirurgias , desde que não seja uma preexistência , ou seja , uma doença sabida antes de fazer o plano",
-          "msg_time": "2026-03-12T15:38:56.867211"
-        },
-        {
-          "role": "system",
-          "content": "Ele tem alguma condição  de saúde no momento que necessite de uma intervenção cirúrgica para os próximos meses ?",
-          "msg_time": "2026-03-12T15:39:55.51081"
-        },
-        {
-          "role": "user",
-          "content": "Não ,mas tivemos um susto ano passado",
-          "msg_time": "2026-03-12T16:33:46.914014"
-        },
-        {
-          "role": "system",
-          "content": "Entendo \n\nNessa faixa etária , acontece muita coisa de forma repentina\n\nTemos que nos previnir mesmo é o plano é um seguro",
-          "msg_time": "2026-03-12T16:35:36.185096"
-        },
-        {
-          "role": "system",
-          "content": "Posso enviar um áudio explicando os possíveis cenários de carências ?",
-          "msg_time": "2026-03-12T16:37:22.245745"
-        },
-        {
-          "role": "user",
-          "content": "Sim",
-          "msg_time": "2026-03-12T17:45:47.139493"
-        },
-        {
-          "role": "user",
-          "content": "Me tira uma dúvida,\nSe uma pessoa tem um plano ,e deseja trocar ?",
-          "msg_time": "2026-03-12T18:38:33.41014"
-        },
-        {
-          "role": "system",
-          "content": "Nesse caso , em relação as carências , pode comprar",
-          "msg_time": "2026-03-12T18:50:08.384349"
-        },
-        {
-          "role": "system",
-          "content": "Vc se refere a alguém do seu grupo ?",
-          "msg_time": "2026-03-12T18:50:25.752603"
-        },
-        {
-          "role": "user",
-          "content": "O plano que ela tem é Amil  dix",
-          "msg_time": "2026-03-12T18:51:58.110587"
-        },
-        {
-          "role": "user",
-          "content": "Pra consulta e exames é ótimo\n\nPorém não tem grande cobertura",
-          "msg_time": "2026-03-12T18:52:24.117176"
-        },
-        {
-          "role": "system",
-          "content": "Sim , se for um produto congênere irá entrar com compra total de carências a não ser que tenh uma comorbidade!\n\nAlguém tem algo de risco a vida?\n\nSim , se for um produto congênere irá entrar com compra total de carências a não ser que tenha uma comorbidade!",
-          "msg_time": "2026-03-12T18:57:10.609241"
-        },
-        {
-          "role": "system",
-          "content": "E em específico , na Sul-america compra a carência desse vida",
-          "msg_time": "2026-03-12T18:58:33.575392"
-        },
-        {
-          "role": "user",
-          "content": "Não",
-          "msg_time": "2026-03-12T19:03:37.204764"
-        },
-        {
-          "role": "user",
-          "content": "O valor muda ?",
-          "msg_time": "2026-03-12T19:04:05.030259"
-        },
-        {
-          "role": "system",
-          "content": "Não não, mas na análise vem a declaração de saúde no qual pergunta se tem alguma comorbidade e se falar que \"SIM\"  entra com carências para doenças pré existentes. Ok?",
-          "msg_time": "2026-03-12T19:08:10.868271"
-        }
-      ]
-    },
-    {
       "session_id": "5521990412046@s.whatsapp.net",
       "phone": "5521990412046",
       "phone_display": "+55 21 99041-2046",
@@ -1227,271 +1572,6 @@
       ]
     },
     {
-      "session_id": "5521981881979@s.whatsapp.net",
-      "phone": "5521981881979",
-      "phone_display": "+55 21 98188-1979",
-      "lead": {
-        "baserow_id": 1148,
-        "nome": "Deise",
-        "email": "",
-        "qtd_vidas": "",
-        "desinteresse": false,
-        "gilbertinho_off": true,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "Gilberto",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Deise",
-        "email": "",
-        "telefone": "+55 21 98188-1979",
-        "vidas": [],
-        "cidade": "Rio de Janeiro / RJ",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "Incluir novas vidas",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "Gilberto",
-        "obs_crm": "",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Deise\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98188-1979\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n👤 Consultor: Gilberto\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "morno",
-      "bot": "preto",
-      "consultor": "Gilberto",
-      "message_count": 43,
-      "first_message_at": "2026-03-12T03:00:00.000Z",
-      "last_message_at": "2026-03-12T17:53:30.807000Z",
-      "last_bot_msg_at": "2026-03-12T14:53:30.27148",
-      "tempo_sem_interacao": "21h 7min",
-      "first_id": 18641,
-      "last_id": 18723,
-      "last_message_preview": "Muito obrigado",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: \n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação de um plano de saúde Empresarial",
-          "msg_time": "2026-03-12T14:52:14.224771"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Eu sou Gilberto, analista em Plano Saúde da Corretora GW9. 🚀 Trabalhamos com todos os Planos de saúde no Rio de Janeiro. Vou ajudar a entender as melhores opções para seu plano empresarial. Para começarmos, como posso chamar você?",
-          "msg_time": "2026-03-12T14:52:14.230718"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Recursos Humanos\n\nMensagem(ns) do cliente:\nBoa tarde estou cotando plano de saúde e odontológico para rio de janeiro, 97 colaboradores na faixa etária de 18 a 40 anos, plano empresarial sem coparticipação",
-          "msg_time": "2026-03-12T14:53:30.269198"
-        },
-        {
-          "role": "ai",
-          "content": "Olá, Recursos Humanos! Entendi, são 97 colaboradores com idade entre 18 e 40 anos para um plano empresarial sem coparticipação no Rio de Janeiro. Para confirmarmos, além disso, preciso do CNPJ da empresa, pode informar?",
-          "msg_time": "2026-03-12T14:53:30.27148"
-        },
-        {
-          "role": "system",
-          "content": "Olá\n\nPerfeito\n\nVamos ajudá-los\n\nOlá Deise!\n\nBoa tarde! Eu sou Gilberto, analista em Plano Saúde da Corretora GW9. 🚀\nTrabalhamos com todos os Planos de saúde no Rio de Janeiro. Vou te ajudar a entender as melhores opções de plano e, se fizer sentido, já deixo tudo organizado para o especialista te atender de forma objetiva.\n\nPosso retornar a ligação ?",
-          "msg_time": "2026-03-12T15:05:59.079956"
-        },
-        {
-          "role": "user",
-          "content": "Estou no whatsapp no computador não vou conseguir receber ligações",
-          "msg_time": "2026-03-12T15:07:00.488829"
-        },
-        {
-          "role": "user",
-          "content": "Ok\n\nConsigo ouvir áudios",
-          "msg_time": "2026-03-12T15:07:20.914865"
-        },
-        {
-          "role": "system",
-          "content": "Vamos seguir aqui , me chamo Gilberto .. \n\nO grupo tem plano ativo ? Se sim , qual ?",
-          "msg_time": "2026-03-12T15:07:45.976961"
-        },
-        {
-          "role": "user",
-          "content": "Não temos",
-          "msg_time": "2026-03-12T15:08:03.081849"
-        },
-        {
-          "role": "user",
-          "content": "Estamos em contratação de 97 colaboradores sendo 40 homens e 57 mulheres ambos na faixa etária de 20 a 43 anos",
-          "msg_time": "2026-03-12T15:08:57.200434"
-        },
-        {
-          "role": "user",
-          "content": "Entre eles os cargos de agente de portaria, ASG e recepção",
-          "msg_time": "2026-03-12T15:09:33.23203"
-        },
-        {
-          "role": "system",
-          "content": "Ok \n\nTem alguma regra específica no contrato de prestação de serviço ou convenção sindical que vcs precisem cumprir com os planos ?",
-          "msg_time": "2026-03-12T15:10:08.928"
-        },
-        {
-          "role": "system",
-          "content": "Ou a ideia é ter um benefício ?",
-          "msg_time": "2026-03-12T15:10:25.378453"
-        },
-        {
-          "role": "system",
-          "content": "Entendi a demanda , como buscam 100% sem coparticipação e o grupo é menor que 100 vidas \n\nA Porto Seguro Saúde  vai ter a solução mais acessível do mercado",
-          "msg_time": "2026-03-12T15:11:28.340906"
-        },
-        {
-          "role": "system",
-          "content": "Mas se vc não se incomodar ainda tenho algumas perguntas",
-          "msg_time": "2026-03-12T15:11:52.423016"
-        },
-        {
-          "role": "system",
-          "content": "Assim facilita para apresentar com mais assertividade o que buscam e encontrar uma solução que encaixe perfeitamente na relação de Custo x Acesso",
-          "msg_time": "2026-03-12T15:12:44.310439"
-        },
-        {
-          "role": "user",
-          "content": "Pode perguntar",
-          "msg_time": "2026-03-12T15:16:46.81704"
-        },
-        {
-          "role": "system",
-          "content": "A alguma possibilidade de chegar a + 100 vidas , pergunto pois , a regra de contratação passaria a ser EMPRESARIAL , é mais flexível do que até 99 vidas e o custo reduz cerca de 20%\n\nTemos essa possibilidade ?",
-          "msg_time": "2026-03-12T15:17:45.02574"
-        },
-        {
-          "role": "user",
-          "content": "até podemos estudar a possibilidade, temos a contratação para 97, e se for o caso podemos incluir mais 3 que já são funcionários, você consegue passar tanto para 100 quanto para 97 vidas",
-          "msg_time": "2026-03-12T15:19:35.795375"
-        },
-        {
-          "role": "system",
-          "content": "Sim \n\nContudo a Proposta para + 100 vidas eu não consigo fazer “na ponta” aqui no sistema da Amil por exemplo .. \n\nPois como é seria um grupo Empresarial , nós preenchemos alguns formulários , perguntas sobre a saúde do grupo e a operadora nos envia uma proposta personalizada \n\nAté 99 vidas , é preço de tabela",
-          "msg_time": "2026-03-12T15:21:21.876372"
-        },
-        {
-          "role": "system",
-          "content": "Esse grupo é todo RJ ?",
-          "msg_time": "2026-03-12T15:22:10.658745"
-        },
-        {
-          "role": "system",
-          "content": "aqui pra fora, sair lá do salão, já que você pode ouvir áudio, vai ficar melhor. Então, vamos lá. A ideia aqui dessas perguntas, não é te incomodar muito, não, é mais saber exatamente o que você precisa, porque você tá bem no limite, né, da gente fazer um produto personalizado pra uma ITAC, pra esse grupo de vidas. Pode ser a partir de 100 vidas a gente já consegue fazer, mas aí eu preciso de mais informações. Um exemplo, se tem gestante no grupo, se tem alguém doente, se esse alguém doente tá afastado, se ele incide, enfim, aí é a operadora, seja ela a Mil, Porto Seguro, Sul América. Eu citei Porto Seguro e a Mil porque elas são, até pra quem você falou aí que é esse grupo de trabalhadores, a Mil e a Porto Seguro é que tem 99% desse mercado, que são produtos mais acessíveis. Então a gente vai ficar por ali, mas se você quiser alguma coisa assim mais apresentável e do ponto de vista financeiro, buscar um desconto, aí a opção pra mais de 100 vidas com certeza é melhor. Esse contrato tam",
-          "msg_time": "2026-03-12T15:25:08.928996"
-        },
-        {
-          "role": "system",
-          "content": "Me perdoa o tamanho do áudio\n\nRs",
-          "msg_time": "2026-03-12T15:26:08.517176"
-        },
-        {
-          "role": "system",
-          "content": "Tem outra vantagem no + 100 vidas",
-          "msg_time": "2026-03-12T15:27:39.619061"
-        },
-        {
-          "role": "system",
-          "content": "Então são todos novos é um contrato novo não teremos ninguém com afastamento serão todos novos\n\nMas sem vidas também é uma modalidade de preço médio O que quer dizer isso? Todos os colaboradores que pagariam teriam o mesmo valor Então, independente se ele tem 50 anos ou 25 anos, o valor é o mesmo E é óbvio que isso é uma conta feita de acordo com essa quantidade de vidas De acordo com a faixa etária das vidas Por isso que demora mais um pouquinho Eu acabei de fazer uma agora para uma empresa de volta redonda 130 vidas Tem alguém aqui Foi aqui o valor",
-          "msg_time": "2026-03-12T15:28:18.450991"
-        },
-        {
-          "role": "system",
-          "content": "Ótimo\n\nMais um bom sinal\n\nVcs tem prazo para apresentar o plano no contrato ?",
-          "msg_time": "2026-03-12T15:30:04.6807"
-        },
-        {
-          "role": "system",
-          "content": "Olha um exemplo com + 100 vidas na Amil \n\nQue atenderia muito bem a vcs e ainda consigo DENTAL para 100% da massa com isenção de 12 meses",
-          "msg_time": "2026-03-12T15:30:54.531484"
-        },
-        {
-          "role": "system",
-          "content": "R$ 301.32\n( Sem Coparticipação ) \nNo Amil Bronze Rj",
-          "msg_time": "2026-03-12T15:31:54.089352"
-        },
-        {
-          "role": "user",
-          "content": "eu não tenho prazo estou orçando para enviar ainda hoje para diretoria",
-          "msg_time": "2026-03-12T15:32:22.403341"
-        },
-        {
-          "role": "system",
-          "content": "Eita\n\nEntendi",
-          "msg_time": "2026-03-12T15:32:51.764789"
-        },
-        {
-          "role": "system",
-          "content": "É ali eu te dei um exemplo e aquele exemplo ali é bem próximo de vocês, e olha que ele ainda tem CID, tem afastado, é um grupo que está na Unimed. O de vocês ficaria certamente mais barato, lá tem pessoas de 50 e poucos anos, eu estou dando ali só um exemplo. Você tem a faixa etária do grupo, desse grupo de 97? Me manda aí as faixas etárias que eu faço logo aqui uma cotação para você na Mil e na Porto Seguro. Contudo, eu ainda vou insistir que, caso a diretoria queira uma proposta personalizada com o grupo, enfim, vocês podem sugerir regras contratuais com os advogados, se vai entrar dependente, se não vai, vocês podem montar o contrato junto com a Mil, é uma solução assim, talvez mais assertiva para vocês. Mas eu vou te mandar aqui, até porque você está com celebridade de enviar para a diretoria alguma coisa, eu vou te mandar o preço de tabela, ou seja, um produto que já é de prateleira. Eu preciso das idades do grupo, você consegue me mandar? Não precisa distinguir nesse momento agor",
-          "msg_time": "2026-03-12T15:34:10.725777"
-        },
-        {
-          "role": "system",
-          "content": "Tem as idades do grupo ?",
-          "msg_time": "2026-03-12T15:40:09.714002"
-        },
-        {
-          "role": "system",
-          "content": "Pq eu posso te enviar a tabela por faixa etária , mas se me enviar as idades do grupo faço exatamente o valor de fatura",
-          "msg_time": "2026-03-12T15:40:52.18614"
-        },
-        {
-          "role": "user",
-          "content": "97 colaboradores sendo 40 homens e 57 mulheres ambos na faixa etária de 20 a 43 anos",
-          "msg_time": "2026-03-12T15:41:42.096673"
-        },
-        {
-          "role": "system",
-          "content": "Ok \nVou enviar os valores pela faixa etária no Amil Bronze Rj \nAmil Bronze + Rj \n\nEssas são soluções de entrada e a diferença é a rede Regional e Estadual \n\nPorto Seguro Bairros \nPorto Bronze Pro Rio \n\nAssim Saúde A20",
-          "msg_time": "2026-03-12T15:49:48.324054"
-        },
-        {
-          "role": "system",
-          "content": "Com isso já terá uma base de comparação",
-          "msg_time": "2026-03-12T15:50:08.802987"
-        },
-        {
-          "role": "user",
-          "content": "obrigado",
-          "msg_time": "2026-03-12T15:57:56.690762"
-        },
-        {
-          "role": "system",
-          "content": "Ok \n\nSó vou insistir na opção com + 100 vidas \n\nPq tenho certeza que apresentaremos uma solução mais adequada para Humanitta dessa forma \n\nMas , nesse sentido , precisaríamos das idades exatas de cada colaborador \n\nSaber se tem dependentes , se sim , quem são?\n\nPrecisamos tb saber se o colaborador  paga algum % do plano .. \n\nEnfim mais informações para montar a proposta personalizada , ok ?",
-          "msg_time": "2026-03-12T16:08:47.791331"
-        },
-        {
-          "role": "system",
-          "content": "Estamos trabalhando aqui na ferramenta para facilitar sua apresentação a diretoria \n\nVou separar as redes credenciadas , e me coloco a disposição para agenda de uma vídeo para explicar com maior riqueza de detalhes as diferenças , incluindo a coparticipação",
-          "msg_time": "2026-03-12T17:04:43.306123"
-        },
-        {
-          "role": "system",
-          "content": "Olá! Tudo bem?\n\nConforme conversamos, segue a proposta de plano de saúde empresarial elaborada especialmente para a Humanitta Serviços e Soluções Corporativas.\n\nPreparamos um comparativo completo entre Porto Saúde, Amil e Assim Saúde, com todas as faixas etárias e valores detalhados. \n*A proposta também conta com um simulador interativo* , basta selecionar o plano e informar a quantidade de vidas por faixa para ver o valor total automaticamente.\n\n\nFico à disposição para esclarecer qualquer dúvida ou ajustar conforme a necessidade da empresa.\n\nhttps://laysacorrea-gw9.github.io/proposta-humanitta/",
-          "msg_time": "2026-03-12T17:10:59.688973"
-        },
-        {
-          "role": "system",
-          "content": "Atente-se no final da página tem um simulador para colocar  as idades do grupo ( exata ) só escolher o produto",
-          "msg_time": "2026-03-12T17:18:30.740793"
-        },
-        {
-          "role": "user",
-          "content": "Muito obrigado",
-          "msg_time": "2026-03-12T17:31:18.936888"
-        },
-        {
-          "role": "system",
-          "content": "Estou aqui para possíveis dúvidas \n\nEspero que a ferramenta facilite sua apresentação",
-          "msg_time": "2026-03-12T17:36:37.368263"
-        }
-      ]
-    },
-    {
       "session_id": "5521997312517@s.whatsapp.net",
       "phone": "5521997312517",
       "phone_display": "+55 21 99731-2517",
@@ -1534,7 +1614,7 @@
       "first_message_at": "2026-03-12T03:00:00.000Z",
       "last_message_at": "2026-03-12T20:36:16.047000Z",
       "last_bot_msg_at": "2026-03-12T17:36:15.5301",
-      "tempo_sem_interacao": "18h 24min",
+      "tempo_sem_interacao": "18h 39min",
       "first_id": 18721,
       "last_id": 18722,
       "last_message_preview": "Dados do lead no sistema:\nNome: \n\nMensagem(ns) do cliente:\nBoa Tarde ! No momento não tenho interess...",
@@ -1601,7 +1681,7 @@
       "first_message_at": "2025-12-08T03:00:00.000Z",
       "last_message_at": "2026-03-12T20:12:10.423Z",
       "last_bot_msg_at": "2026-03-12T20:12:10.423Z",
-      "tempo_sem_interacao": "15h 48min",
+      "tempo_sem_interacao": "16h 3min",
       "first_id": 77,
       "last_id": 18716,
       "last_message_preview": "<ContextoPDF>\n  <TranscricaoPDF>\nREDE CREDENCIADA\nBronze Mais\nHOSPITAIS\nZONA NORTE\nRio de Janeiro\n• ...",
@@ -1908,7 +1988,7 @@
       "first_message_at": "2025-12-15T03:00:00.000Z",
       "last_message_at": "2026-03-12T18:57:05.706Z",
       "last_bot_msg_at": "2026-03-12T18:57:05.706Z",
-      "tempo_sem_interacao": "17h 3min",
+      "tempo_sem_interacao": "17h 18min",
       "first_id": 742,
       "last_id": 18695,
       "last_message_preview": "sim, esperando rsponder",
@@ -7007,7 +7087,7 @@
       "first_message_at": "2026-03-08T03:00:00.000Z",
       "last_message_at": "2026-03-10T15:03:57.329000Z",
       "last_bot_msg_at": "2026-03-10T12:03:56.870787",
-      "tempo_sem_interacao": "2 dias",
+      "tempo_sem_interacao": "3 dias",
       "first_id": 17478,
       "last_id": 18271,
       "last_message_preview": "Igualmente",
@@ -10046,7 +10126,7 @@
       "first_message_at": "2026-03-08T03:00:00.000Z",
       "last_message_at": "2026-03-10T15:15:30.948000Z",
       "last_bot_msg_at": "2026-03-10T12:15:30.3811",
-      "tempo_sem_interacao": "2 dias",
+      "tempo_sem_interacao": "3 dias",
       "first_id": 17492,
       "last_id": 18170,
       "last_message_preview": "Desde 2018",
@@ -10176,7 +10256,7 @@
       "first_message_at": "2026-03-09T03:00:00.000Z",
       "last_message_at": "2026-03-09T15:05:36.657000Z",
       "last_bot_msg_at": "2026-03-09T12:05:36.15003",
-      "tempo_sem_interacao": "3 dias",
+      "tempo_sem_interacao": "4 dias",
       "first_id": 17638,
       "last_id": 18139,
       "last_message_preview": "Não tenho nenhum plano de saude no momenro",
@@ -15325,7 +15405,7 @@
       "first_message_at": "2026-03-07T03:00:00.000Z",
       "last_message_at": "2026-03-07T15:03:38.212000Z",
       "last_bot_msg_at": "2026-03-07T12:03:37.772135",
-      "tempo_sem_interacao": "5 dias",
+      "tempo_sem_interacao": "6 dias",
       "first_id": 17139,
       "last_id": 17213,
       "last_message_preview": "Olá gostaria de mais informações dos Planos de Saúde  Sulamérica",
@@ -15405,7 +15485,7 @@
       "first_message_at": "2026-03-07T03:00:00.000Z",
       "last_message_at": "2026-03-07T15:05:19.318000Z",
       "last_bot_msg_at": "2026-03-07T12:05:18.742303",
-      "tempo_sem_interacao": "5 dias",
+      "tempo_sem_interacao": "6 dias",
       "first_id": 17086,
       "last_id": 17211,
       "last_message_preview": "Matheus",
@@ -26439,136 +26519,6 @@
         {
           "role": "system",
           "content": "\n",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        }
-      ]
-    },
-    {
-      "session_id": "5521959054414@s.whatsapp.net",
-      "phone": "5521959054414",
-      "phone_display": "+55 21 95905-4414",
-      "lead": {
-        "baserow_id": 1001,
-        "nome": "robson benitez",
-        "email": "",
-        "qtd_vidas": 3,
-        "desinteresse": false,
-        "gilbertinho_off": true,
-        "observacoes": "",
-        "reagendamento": "2026-03-05T18:00:00Z",
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "robson benitez",
-        "email": "",
-        "telefone": "+55 21 95905-4414",
-        "vidas": [
-          {
-            "idade": 55
-          },
-          {
-            "idade": 53
-          },
-          {
-            "idade": 18
-          }
-        ],
-        "cidade": "Rio de Janeiro / RJ",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "MEI",
-        "profissao": "",
-        "plano_atual": "Nenhum",
-        "motivo": "Encerramento do plano atual\nIncluir novas vidas",
-        "interesse": "Sulamérica",
-        "rede_preferencial": "",
-        "contato": "WhatsApp — amanhã à tarde",
-        "consultor": "",
-        "obs_crm": "",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: robson benitez\n📱 Contato: WhatsApp — amanhã à tarde\n📞 Telefone: +55 21 95905-4414\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nrobson benitez — 55 anos\nDependente 1 — 53 anos\nDependente 2 — 18 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\nIncluir novas vidas\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "quente",
-      "bot": "preto",
-      "consultor": "",
-      "message_count": 14,
-      "first_message_at": "2026-03-04T03:00:00.000Z",
-      "last_message_at": "2026-03-04T23:41:54.138000Z",
-      "last_bot_msg_at": "2026-03-05T22:36:17.247927",
-      "tempo_sem_interacao": "7 dias",
-      "first_id": 16200,
-      "last_id": 16213,
-      "last_message_preview": "Obrigado",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Olá Gostaria de uma cotação de um Plano de Saúde Sulamérica. Seria para 3 vidas (55, 53 e 18 anos)\n\nPossuo CNPJ MEI",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Entendi que é para 3 vidas com idades 55, 53 e 18 anos, e que será via CNPJ MEI. \n\nQual a cidade e estado onde o plano será utilizado? Isso ajuda a identificar as melhores opções para você.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Estamos no Rio de Janeiro",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Perfeito, então o plano será para Rio de Janeiro via CNPJ MEI, 3 vidas com idades 55, 53 e 18 anos.\n\nVocês já possuem algum plano atualmente ou estão sem? Tem preferência por algum hospital ou médico na rede?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Tenho um plano corporativo da minha esposa",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Entendido, vocês têm um plano corporativo atualmente pela sua esposa. \n\nE o que mais pesa para vocês considerarem trocar de plano? É o custo, a rede de atendimento ou outro ponto? Também, poderia me confirmar o CNPJ? Se não souber o número exato, só o fato de ser MEI já ajuda.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Mas estamos finalizando",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Perfeito, vamos finalizar sim. Para garantir que registro tudo corretamente: plano no RJ para 3 vidas (55, 53 e 18), via CNPJ MEI. O plano atual é corporativo da sua esposa. Está correto? Se sim, vamos agendar o contato com o especialista.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Sim\n\nMeu plano atual é nacional",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Obrigado pela confirmação! Plano nacional atual, entendido.\n\nQual o melhor dia e horário para o especialista entrar em contato? Prefere WhatsApp, ligação ou vídeo?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Whatsapp, pode ser amanhã a tarde",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Combinado! Já deixei tudo pronto para o especialista te ligar amanhã à tarde pelo WhatsApp. Obrigado por compartilhar as informações!",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Obrigado",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Obrigado! Encaminharei para o especialista. Se precisar de algo mais, estou à disposição. Tenha um ótimo dia!",
           "msg_time": "2026-03-05T22:36:17.247927"
         }
       ]
