@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_at": "2026-03-13T12:30:41.758Z",
+    "generated_at": "2026-03-13T12:45:42.229Z",
     "total_conversations": 200,
-    "total_messages": 4815,
+    "total_messages": 4817,
     "stats": {
       "quente": 36,
       "morno": 127,
@@ -12,6 +12,291 @@
     }
   },
   "conversations": [
+    {
+      "session_id": "5521981881979@s.whatsapp.net",
+      "phone": "5521981881979",
+      "phone_display": "+55 21 98188-1979",
+      "lead": {
+        "baserow_id": 1148,
+        "nome": "Deise",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "gilbertinho_off": true,
+        "observacoes": "",
+        "reagendamento": null,
+        "corretor": "Gilberto",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Deise",
+        "email": "",
+        "telefone": "+55 21 98188-1979",
+        "vidas": [],
+        "cidade": "Rio de Janeiro / RJ",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "Incluir novas vidas",
+        "interesse": "",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "Gilberto",
+        "obs_crm": "",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Deise\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98188-1979\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n👤 Consultor: Gilberto\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "morno",
+      "bot": "preto",
+      "consultor": "Gilberto",
+      "message_count": 47,
+      "first_message_at": "2026-03-12T03:00:00.000Z",
+      "last_message_at": "2026-03-12T17:53:30.807000Z",
+      "last_bot_msg_at": "2026-03-12T14:53:30.27148",
+      "tempo_sem_interacao": "21h 52min",
+      "first_id": 18641,
+      "last_id": 18875,
+      "last_message_preview": "Já repassei a diretora agora estou aguardando",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: \n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação de um plano de saúde Empresarial",
+          "msg_time": "2026-03-12T14:52:14.224771"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Eu sou Gilberto, analista em Plano Saúde da Corretora GW9. 🚀 Trabalhamos com todos os Planos de saúde no Rio de Janeiro. Vou ajudar a entender as melhores opções para seu plano empresarial. Para começarmos, como posso chamar você?",
+          "msg_time": "2026-03-12T14:52:14.230718"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: Recursos Humanos\n\nMensagem(ns) do cliente:\nBoa tarde estou cotando plano de saúde e odontológico para rio de janeiro, 97 colaboradores na faixa etária de 18 a 40 anos, plano empresarial sem coparticipação",
+          "msg_time": "2026-03-12T14:53:30.269198"
+        },
+        {
+          "role": "ai",
+          "content": "Olá, Recursos Humanos! Entendi, são 97 colaboradores com idade entre 18 e 40 anos para um plano empresarial sem coparticipação no Rio de Janeiro. Para confirmarmos, além disso, preciso do CNPJ da empresa, pode informar?",
+          "msg_time": "2026-03-12T14:53:30.27148"
+        },
+        {
+          "role": "system",
+          "content": "Olá\n\nPerfeito\n\nVamos ajudá-los\n\nOlá Deise!\n\nBoa tarde! Eu sou Gilberto, analista em Plano Saúde da Corretora GW9. 🚀\nTrabalhamos com todos os Planos de saúde no Rio de Janeiro. Vou te ajudar a entender as melhores opções de plano e, se fizer sentido, já deixo tudo organizado para o especialista te atender de forma objetiva.\n\nPosso retornar a ligação ?",
+          "msg_time": "2026-03-12T15:05:59.079956"
+        },
+        {
+          "role": "user",
+          "content": "Estou no whatsapp no computador não vou conseguir receber ligações",
+          "msg_time": "2026-03-12T15:07:00.488829"
+        },
+        {
+          "role": "user",
+          "content": "Ok\n\nConsigo ouvir áudios",
+          "msg_time": "2026-03-12T15:07:20.914865"
+        },
+        {
+          "role": "system",
+          "content": "Vamos seguir aqui , me chamo Gilberto .. \n\nO grupo tem plano ativo ? Se sim , qual ?",
+          "msg_time": "2026-03-12T15:07:45.976961"
+        },
+        {
+          "role": "user",
+          "content": "Não temos",
+          "msg_time": "2026-03-12T15:08:03.081849"
+        },
+        {
+          "role": "user",
+          "content": "Estamos em contratação de 97 colaboradores sendo 40 homens e 57 mulheres ambos na faixa etária de 20 a 43 anos",
+          "msg_time": "2026-03-12T15:08:57.200434"
+        },
+        {
+          "role": "user",
+          "content": "Entre eles os cargos de agente de portaria, ASG e recepção",
+          "msg_time": "2026-03-12T15:09:33.23203"
+        },
+        {
+          "role": "system",
+          "content": "Ok \n\nTem alguma regra específica no contrato de prestação de serviço ou convenção sindical que vcs precisem cumprir com os planos ?",
+          "msg_time": "2026-03-12T15:10:08.928"
+        },
+        {
+          "role": "system",
+          "content": "Ou a ideia é ter um benefício ?",
+          "msg_time": "2026-03-12T15:10:25.378453"
+        },
+        {
+          "role": "system",
+          "content": "Entendi a demanda , como buscam 100% sem coparticipação e o grupo é menor que 100 vidas \n\nA Porto Seguro Saúde  vai ter a solução mais acessível do mercado",
+          "msg_time": "2026-03-12T15:11:28.340906"
+        },
+        {
+          "role": "system",
+          "content": "Mas se vc não se incomodar ainda tenho algumas perguntas",
+          "msg_time": "2026-03-12T15:11:52.423016"
+        },
+        {
+          "role": "system",
+          "content": "Assim facilita para apresentar com mais assertividade o que buscam e encontrar uma solução que encaixe perfeitamente na relação de Custo x Acesso",
+          "msg_time": "2026-03-12T15:12:44.310439"
+        },
+        {
+          "role": "user",
+          "content": "Pode perguntar",
+          "msg_time": "2026-03-12T15:16:46.81704"
+        },
+        {
+          "role": "system",
+          "content": "A alguma possibilidade de chegar a + 100 vidas , pergunto pois , a regra de contratação passaria a ser EMPRESARIAL , é mais flexível do que até 99 vidas e o custo reduz cerca de 20%\n\nTemos essa possibilidade ?",
+          "msg_time": "2026-03-12T15:17:45.02574"
+        },
+        {
+          "role": "user",
+          "content": "até podemos estudar a possibilidade, temos a contratação para 97, e se for o caso podemos incluir mais 3 que já são funcionários, você consegue passar tanto para 100 quanto para 97 vidas",
+          "msg_time": "2026-03-12T15:19:35.795375"
+        },
+        {
+          "role": "system",
+          "content": "Sim \n\nContudo a Proposta para + 100 vidas eu não consigo fazer “na ponta” aqui no sistema da Amil por exemplo .. \n\nPois como é seria um grupo Empresarial , nós preenchemos alguns formulários , perguntas sobre a saúde do grupo e a operadora nos envia uma proposta personalizada \n\nAté 99 vidas , é preço de tabela",
+          "msg_time": "2026-03-12T15:21:21.876372"
+        },
+        {
+          "role": "system",
+          "content": "Esse grupo é todo RJ ?",
+          "msg_time": "2026-03-12T15:22:10.658745"
+        },
+        {
+          "role": "system",
+          "content": "aqui pra fora, sair lá do salão, já que você pode ouvir áudio, vai ficar melhor. Então, vamos lá. A ideia aqui dessas perguntas, não é te incomodar muito, não, é mais saber exatamente o que você precisa, porque você tá bem no limite, né, da gente fazer um produto personalizado pra uma ITAC, pra esse grupo de vidas. Pode ser a partir de 100 vidas a gente já consegue fazer, mas aí eu preciso de mais informações. Um exemplo, se tem gestante no grupo, se tem alguém doente, se esse alguém doente tá afastado, se ele incide, enfim, aí é a operadora, seja ela a Mil, Porto Seguro, Sul América. Eu citei Porto Seguro e a Mil porque elas são, até pra quem você falou aí que é esse grupo de trabalhadores, a Mil e a Porto Seguro é que tem 99% desse mercado, que são produtos mais acessíveis. Então a gente vai ficar por ali, mas se você quiser alguma coisa assim mais apresentável e do ponto de vista financeiro, buscar um desconto, aí a opção pra mais de 100 vidas com certeza é melhor. Esse contrato tam",
+          "msg_time": "2026-03-12T15:25:08.928996"
+        },
+        {
+          "role": "system",
+          "content": "Me perdoa o tamanho do áudio\n\nRs",
+          "msg_time": "2026-03-12T15:26:08.517176"
+        },
+        {
+          "role": "system",
+          "content": "Tem outra vantagem no + 100 vidas",
+          "msg_time": "2026-03-12T15:27:39.619061"
+        },
+        {
+          "role": "system",
+          "content": "Então são todos novos é um contrato novo não teremos ninguém com afastamento serão todos novos\n\nMas sem vidas também é uma modalidade de preço médio O que quer dizer isso? Todos os colaboradores que pagariam teriam o mesmo valor Então, independente se ele tem 50 anos ou 25 anos, o valor é o mesmo E é óbvio que isso é uma conta feita de acordo com essa quantidade de vidas De acordo com a faixa etária das vidas Por isso que demora mais um pouquinho Eu acabei de fazer uma agora para uma empresa de volta redonda 130 vidas Tem alguém aqui Foi aqui o valor",
+          "msg_time": "2026-03-12T15:28:18.450991"
+        },
+        {
+          "role": "system",
+          "content": "Ótimo\n\nMais um bom sinal\n\nVcs tem prazo para apresentar o plano no contrato ?",
+          "msg_time": "2026-03-12T15:30:04.6807"
+        },
+        {
+          "role": "system",
+          "content": "Olha um exemplo com + 100 vidas na Amil \n\nQue atenderia muito bem a vcs e ainda consigo DENTAL para 100% da massa com isenção de 12 meses",
+          "msg_time": "2026-03-12T15:30:54.531484"
+        },
+        {
+          "role": "system",
+          "content": "R$ 301.32\n( Sem Coparticipação ) \nNo Amil Bronze Rj",
+          "msg_time": "2026-03-12T15:31:54.089352"
+        },
+        {
+          "role": "user",
+          "content": "eu não tenho prazo estou orçando para enviar ainda hoje para diretoria",
+          "msg_time": "2026-03-12T15:32:22.403341"
+        },
+        {
+          "role": "system",
+          "content": "Eita\n\nEntendi",
+          "msg_time": "2026-03-12T15:32:51.764789"
+        },
+        {
+          "role": "system",
+          "content": "É ali eu te dei um exemplo e aquele exemplo ali é bem próximo de vocês, e olha que ele ainda tem CID, tem afastado, é um grupo que está na Unimed. O de vocês ficaria certamente mais barato, lá tem pessoas de 50 e poucos anos, eu estou dando ali só um exemplo. Você tem a faixa etária do grupo, desse grupo de 97? Me manda aí as faixas etárias que eu faço logo aqui uma cotação para você na Mil e na Porto Seguro. Contudo, eu ainda vou insistir que, caso a diretoria queira uma proposta personalizada com o grupo, enfim, vocês podem sugerir regras contratuais com os advogados, se vai entrar dependente, se não vai, vocês podem montar o contrato junto com a Mil, é uma solução assim, talvez mais assertiva para vocês. Mas eu vou te mandar aqui, até porque você está com celebridade de enviar para a diretoria alguma coisa, eu vou te mandar o preço de tabela, ou seja, um produto que já é de prateleira. Eu preciso das idades do grupo, você consegue me mandar? Não precisa distinguir nesse momento agor",
+          "msg_time": "2026-03-12T15:34:10.725777"
+        },
+        {
+          "role": "system",
+          "content": "Tem as idades do grupo ?",
+          "msg_time": "2026-03-12T15:40:09.714002"
+        },
+        {
+          "role": "system",
+          "content": "Pq eu posso te enviar a tabela por faixa etária , mas se me enviar as idades do grupo faço exatamente o valor de fatura",
+          "msg_time": "2026-03-12T15:40:52.18614"
+        },
+        {
+          "role": "user",
+          "content": "97 colaboradores sendo 40 homens e 57 mulheres ambos na faixa etária de 20 a 43 anos",
+          "msg_time": "2026-03-12T15:41:42.096673"
+        },
+        {
+          "role": "system",
+          "content": "Ok \nVou enviar os valores pela faixa etária no Amil Bronze Rj \nAmil Bronze + Rj \n\nEssas são soluções de entrada e a diferença é a rede Regional e Estadual \n\nPorto Seguro Bairros \nPorto Bronze Pro Rio \n\nAssim Saúde A20",
+          "msg_time": "2026-03-12T15:49:48.324054"
+        },
+        {
+          "role": "system",
+          "content": "Com isso já terá uma base de comparação",
+          "msg_time": "2026-03-12T15:50:08.802987"
+        },
+        {
+          "role": "user",
+          "content": "obrigado",
+          "msg_time": "2026-03-12T15:57:56.690762"
+        },
+        {
+          "role": "system",
+          "content": "Ok \n\nSó vou insistir na opção com + 100 vidas \n\nPq tenho certeza que apresentaremos uma solução mais adequada para Humanitta dessa forma \n\nMas , nesse sentido , precisaríamos das idades exatas de cada colaborador \n\nSaber se tem dependentes , se sim , quem são?\n\nPrecisamos tb saber se o colaborador  paga algum % do plano .. \n\nEnfim mais informações para montar a proposta personalizada , ok ?",
+          "msg_time": "2026-03-12T16:08:47.791331"
+        },
+        {
+          "role": "system",
+          "content": "Estamos trabalhando aqui na ferramenta para facilitar sua apresentação a diretoria \n\nVou separar as redes credenciadas , e me coloco a disposição para agenda de uma vídeo para explicar com maior riqueza de detalhes as diferenças , incluindo a coparticipação",
+          "msg_time": "2026-03-12T17:04:43.306123"
+        },
+        {
+          "role": "system",
+          "content": "Olá! Tudo bem?\n\nConforme conversamos, segue a proposta de plano de saúde empresarial elaborada especialmente para a Humanitta Serviços e Soluções Corporativas.\n\nPreparamos um comparativo completo entre Porto Saúde, Amil e Assim Saúde, com todas as faixas etárias e valores detalhados. \n*A proposta também conta com um simulador interativo* , basta selecionar o plano e informar a quantidade de vidas por faixa para ver o valor total automaticamente.\n\n\nFico à disposição para esclarecer qualquer dúvida ou ajustar conforme a necessidade da empresa.\n\nhttps://laysacorrea-gw9.github.io/proposta-humanitta/",
+          "msg_time": "2026-03-12T17:10:59.688973"
+        },
+        {
+          "role": "system",
+          "content": "Atente-se no final da página tem um simulador para colocar  as idades do grupo ( exata ) só escolher o produto",
+          "msg_time": "2026-03-12T17:18:30.740793"
+        },
+        {
+          "role": "user",
+          "content": "Muito obrigado",
+          "msg_time": "2026-03-12T17:31:18.936888"
+        },
+        {
+          "role": "system",
+          "content": "Estou aqui para possíveis dúvidas \n\nEspero que a ferramenta facilite sua apresentação",
+          "msg_time": "2026-03-12T17:36:37.368263"
+        },
+        {
+          "role": "system",
+          "content": "Olá Deise \n\nBom dia , td bem ?",
+          "msg_time": "2026-03-13T09:11:00.982443"
+        },
+        {
+          "role": "system",
+          "content": "Conseguiu navegar( simular )  no link acima ? \nSobre os produtos , avalie se\nEstamos na mesma “página” e fica a lembrança que podemos articular uma call ou vídeo para tratar dúvidas como a coparticipação , ok ?",
+          "msg_time": "2026-03-13T09:12:38.522985"
+        },
+        {
+          "role": "user",
+          "content": "Sim consegui\n\nBom dia",
+          "msg_time": "2026-03-13T09:41:51.750164"
+        },
+        {
+          "role": "user",
+          "content": "Já repassei a diretora agora estou aguardando",
+          "msg_time": "2026-03-13T09:42:11.313944"
+        }
+      ]
+    },
     {
       "session_id": "5521964639694@s.whatsapp.net",
       "phone": "5521964639694",
@@ -326,281 +611,6 @@
       ]
     },
     {
-      "session_id": "5521981881979@s.whatsapp.net",
-      "phone": "5521981881979",
-      "phone_display": "+55 21 98188-1979",
-      "lead": {
-        "baserow_id": 1148,
-        "nome": "Deise",
-        "email": "",
-        "qtd_vidas": "",
-        "desinteresse": false,
-        "gilbertinho_off": true,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "Gilberto",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Deise",
-        "email": "",
-        "telefone": "+55 21 98188-1979",
-        "vidas": [],
-        "cidade": "Rio de Janeiro / RJ",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "Incluir novas vidas",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "Gilberto",
-        "obs_crm": "",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Deise\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98188-1979\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n👤 Consultor: Gilberto\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "morno",
-      "bot": "preto",
-      "consultor": "Gilberto",
-      "message_count": 45,
-      "first_message_at": "2026-03-12T03:00:00.000Z",
-      "last_message_at": "2026-03-12T17:53:30.807000Z",
-      "last_bot_msg_at": "2026-03-12T14:53:30.27148",
-      "tempo_sem_interacao": "21h 37min",
-      "first_id": 18641,
-      "last_id": 18872,
-      "last_message_preview": "Muito obrigado",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: \n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação de um plano de saúde Empresarial",
-          "msg_time": "2026-03-12T14:52:14.224771"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Eu sou Gilberto, analista em Plano Saúde da Corretora GW9. 🚀 Trabalhamos com todos os Planos de saúde no Rio de Janeiro. Vou ajudar a entender as melhores opções para seu plano empresarial. Para começarmos, como posso chamar você?",
-          "msg_time": "2026-03-12T14:52:14.230718"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Recursos Humanos\n\nMensagem(ns) do cliente:\nBoa tarde estou cotando plano de saúde e odontológico para rio de janeiro, 97 colaboradores na faixa etária de 18 a 40 anos, plano empresarial sem coparticipação",
-          "msg_time": "2026-03-12T14:53:30.269198"
-        },
-        {
-          "role": "ai",
-          "content": "Olá, Recursos Humanos! Entendi, são 97 colaboradores com idade entre 18 e 40 anos para um plano empresarial sem coparticipação no Rio de Janeiro. Para confirmarmos, além disso, preciso do CNPJ da empresa, pode informar?",
-          "msg_time": "2026-03-12T14:53:30.27148"
-        },
-        {
-          "role": "system",
-          "content": "Olá\n\nPerfeito\n\nVamos ajudá-los\n\nOlá Deise!\n\nBoa tarde! Eu sou Gilberto, analista em Plano Saúde da Corretora GW9. 🚀\nTrabalhamos com todos os Planos de saúde no Rio de Janeiro. Vou te ajudar a entender as melhores opções de plano e, se fizer sentido, já deixo tudo organizado para o especialista te atender de forma objetiva.\n\nPosso retornar a ligação ?",
-          "msg_time": "2026-03-12T15:05:59.079956"
-        },
-        {
-          "role": "user",
-          "content": "Estou no whatsapp no computador não vou conseguir receber ligações",
-          "msg_time": "2026-03-12T15:07:00.488829"
-        },
-        {
-          "role": "user",
-          "content": "Ok\n\nConsigo ouvir áudios",
-          "msg_time": "2026-03-12T15:07:20.914865"
-        },
-        {
-          "role": "system",
-          "content": "Vamos seguir aqui , me chamo Gilberto .. \n\nO grupo tem plano ativo ? Se sim , qual ?",
-          "msg_time": "2026-03-12T15:07:45.976961"
-        },
-        {
-          "role": "user",
-          "content": "Não temos",
-          "msg_time": "2026-03-12T15:08:03.081849"
-        },
-        {
-          "role": "user",
-          "content": "Estamos em contratação de 97 colaboradores sendo 40 homens e 57 mulheres ambos na faixa etária de 20 a 43 anos",
-          "msg_time": "2026-03-12T15:08:57.200434"
-        },
-        {
-          "role": "user",
-          "content": "Entre eles os cargos de agente de portaria, ASG e recepção",
-          "msg_time": "2026-03-12T15:09:33.23203"
-        },
-        {
-          "role": "system",
-          "content": "Ok \n\nTem alguma regra específica no contrato de prestação de serviço ou convenção sindical que vcs precisem cumprir com os planos ?",
-          "msg_time": "2026-03-12T15:10:08.928"
-        },
-        {
-          "role": "system",
-          "content": "Ou a ideia é ter um benefício ?",
-          "msg_time": "2026-03-12T15:10:25.378453"
-        },
-        {
-          "role": "system",
-          "content": "Entendi a demanda , como buscam 100% sem coparticipação e o grupo é menor que 100 vidas \n\nA Porto Seguro Saúde  vai ter a solução mais acessível do mercado",
-          "msg_time": "2026-03-12T15:11:28.340906"
-        },
-        {
-          "role": "system",
-          "content": "Mas se vc não se incomodar ainda tenho algumas perguntas",
-          "msg_time": "2026-03-12T15:11:52.423016"
-        },
-        {
-          "role": "system",
-          "content": "Assim facilita para apresentar com mais assertividade o que buscam e encontrar uma solução que encaixe perfeitamente na relação de Custo x Acesso",
-          "msg_time": "2026-03-12T15:12:44.310439"
-        },
-        {
-          "role": "user",
-          "content": "Pode perguntar",
-          "msg_time": "2026-03-12T15:16:46.81704"
-        },
-        {
-          "role": "system",
-          "content": "A alguma possibilidade de chegar a + 100 vidas , pergunto pois , a regra de contratação passaria a ser EMPRESARIAL , é mais flexível do que até 99 vidas e o custo reduz cerca de 20%\n\nTemos essa possibilidade ?",
-          "msg_time": "2026-03-12T15:17:45.02574"
-        },
-        {
-          "role": "user",
-          "content": "até podemos estudar a possibilidade, temos a contratação para 97, e se for o caso podemos incluir mais 3 que já são funcionários, você consegue passar tanto para 100 quanto para 97 vidas",
-          "msg_time": "2026-03-12T15:19:35.795375"
-        },
-        {
-          "role": "system",
-          "content": "Sim \n\nContudo a Proposta para + 100 vidas eu não consigo fazer “na ponta” aqui no sistema da Amil por exemplo .. \n\nPois como é seria um grupo Empresarial , nós preenchemos alguns formulários , perguntas sobre a saúde do grupo e a operadora nos envia uma proposta personalizada \n\nAté 99 vidas , é preço de tabela",
-          "msg_time": "2026-03-12T15:21:21.876372"
-        },
-        {
-          "role": "system",
-          "content": "Esse grupo é todo RJ ?",
-          "msg_time": "2026-03-12T15:22:10.658745"
-        },
-        {
-          "role": "system",
-          "content": "aqui pra fora, sair lá do salão, já que você pode ouvir áudio, vai ficar melhor. Então, vamos lá. A ideia aqui dessas perguntas, não é te incomodar muito, não, é mais saber exatamente o que você precisa, porque você tá bem no limite, né, da gente fazer um produto personalizado pra uma ITAC, pra esse grupo de vidas. Pode ser a partir de 100 vidas a gente já consegue fazer, mas aí eu preciso de mais informações. Um exemplo, se tem gestante no grupo, se tem alguém doente, se esse alguém doente tá afastado, se ele incide, enfim, aí é a operadora, seja ela a Mil, Porto Seguro, Sul América. Eu citei Porto Seguro e a Mil porque elas são, até pra quem você falou aí que é esse grupo de trabalhadores, a Mil e a Porto Seguro é que tem 99% desse mercado, que são produtos mais acessíveis. Então a gente vai ficar por ali, mas se você quiser alguma coisa assim mais apresentável e do ponto de vista financeiro, buscar um desconto, aí a opção pra mais de 100 vidas com certeza é melhor. Esse contrato tam",
-          "msg_time": "2026-03-12T15:25:08.928996"
-        },
-        {
-          "role": "system",
-          "content": "Me perdoa o tamanho do áudio\n\nRs",
-          "msg_time": "2026-03-12T15:26:08.517176"
-        },
-        {
-          "role": "system",
-          "content": "Tem outra vantagem no + 100 vidas",
-          "msg_time": "2026-03-12T15:27:39.619061"
-        },
-        {
-          "role": "system",
-          "content": "Então são todos novos é um contrato novo não teremos ninguém com afastamento serão todos novos\n\nMas sem vidas também é uma modalidade de preço médio O que quer dizer isso? Todos os colaboradores que pagariam teriam o mesmo valor Então, independente se ele tem 50 anos ou 25 anos, o valor é o mesmo E é óbvio que isso é uma conta feita de acordo com essa quantidade de vidas De acordo com a faixa etária das vidas Por isso que demora mais um pouquinho Eu acabei de fazer uma agora para uma empresa de volta redonda 130 vidas Tem alguém aqui Foi aqui o valor",
-          "msg_time": "2026-03-12T15:28:18.450991"
-        },
-        {
-          "role": "system",
-          "content": "Ótimo\n\nMais um bom sinal\n\nVcs tem prazo para apresentar o plano no contrato ?",
-          "msg_time": "2026-03-12T15:30:04.6807"
-        },
-        {
-          "role": "system",
-          "content": "Olha um exemplo com + 100 vidas na Amil \n\nQue atenderia muito bem a vcs e ainda consigo DENTAL para 100% da massa com isenção de 12 meses",
-          "msg_time": "2026-03-12T15:30:54.531484"
-        },
-        {
-          "role": "system",
-          "content": "R$ 301.32\n( Sem Coparticipação ) \nNo Amil Bronze Rj",
-          "msg_time": "2026-03-12T15:31:54.089352"
-        },
-        {
-          "role": "user",
-          "content": "eu não tenho prazo estou orçando para enviar ainda hoje para diretoria",
-          "msg_time": "2026-03-12T15:32:22.403341"
-        },
-        {
-          "role": "system",
-          "content": "Eita\n\nEntendi",
-          "msg_time": "2026-03-12T15:32:51.764789"
-        },
-        {
-          "role": "system",
-          "content": "É ali eu te dei um exemplo e aquele exemplo ali é bem próximo de vocês, e olha que ele ainda tem CID, tem afastado, é um grupo que está na Unimed. O de vocês ficaria certamente mais barato, lá tem pessoas de 50 e poucos anos, eu estou dando ali só um exemplo. Você tem a faixa etária do grupo, desse grupo de 97? Me manda aí as faixas etárias que eu faço logo aqui uma cotação para você na Mil e na Porto Seguro. Contudo, eu ainda vou insistir que, caso a diretoria queira uma proposta personalizada com o grupo, enfim, vocês podem sugerir regras contratuais com os advogados, se vai entrar dependente, se não vai, vocês podem montar o contrato junto com a Mil, é uma solução assim, talvez mais assertiva para vocês. Mas eu vou te mandar aqui, até porque você está com celebridade de enviar para a diretoria alguma coisa, eu vou te mandar o preço de tabela, ou seja, um produto que já é de prateleira. Eu preciso das idades do grupo, você consegue me mandar? Não precisa distinguir nesse momento agor",
-          "msg_time": "2026-03-12T15:34:10.725777"
-        },
-        {
-          "role": "system",
-          "content": "Tem as idades do grupo ?",
-          "msg_time": "2026-03-12T15:40:09.714002"
-        },
-        {
-          "role": "system",
-          "content": "Pq eu posso te enviar a tabela por faixa etária , mas se me enviar as idades do grupo faço exatamente o valor de fatura",
-          "msg_time": "2026-03-12T15:40:52.18614"
-        },
-        {
-          "role": "user",
-          "content": "97 colaboradores sendo 40 homens e 57 mulheres ambos na faixa etária de 20 a 43 anos",
-          "msg_time": "2026-03-12T15:41:42.096673"
-        },
-        {
-          "role": "system",
-          "content": "Ok \nVou enviar os valores pela faixa etária no Amil Bronze Rj \nAmil Bronze + Rj \n\nEssas são soluções de entrada e a diferença é a rede Regional e Estadual \n\nPorto Seguro Bairros \nPorto Bronze Pro Rio \n\nAssim Saúde A20",
-          "msg_time": "2026-03-12T15:49:48.324054"
-        },
-        {
-          "role": "system",
-          "content": "Com isso já terá uma base de comparação",
-          "msg_time": "2026-03-12T15:50:08.802987"
-        },
-        {
-          "role": "user",
-          "content": "obrigado",
-          "msg_time": "2026-03-12T15:57:56.690762"
-        },
-        {
-          "role": "system",
-          "content": "Ok \n\nSó vou insistir na opção com + 100 vidas \n\nPq tenho certeza que apresentaremos uma solução mais adequada para Humanitta dessa forma \n\nMas , nesse sentido , precisaríamos das idades exatas de cada colaborador \n\nSaber se tem dependentes , se sim , quem são?\n\nPrecisamos tb saber se o colaborador  paga algum % do plano .. \n\nEnfim mais informações para montar a proposta personalizada , ok ?",
-          "msg_time": "2026-03-12T16:08:47.791331"
-        },
-        {
-          "role": "system",
-          "content": "Estamos trabalhando aqui na ferramenta para facilitar sua apresentação a diretoria \n\nVou separar as redes credenciadas , e me coloco a disposição para agenda de uma vídeo para explicar com maior riqueza de detalhes as diferenças , incluindo a coparticipação",
-          "msg_time": "2026-03-12T17:04:43.306123"
-        },
-        {
-          "role": "system",
-          "content": "Olá! Tudo bem?\n\nConforme conversamos, segue a proposta de plano de saúde empresarial elaborada especialmente para a Humanitta Serviços e Soluções Corporativas.\n\nPreparamos um comparativo completo entre Porto Saúde, Amil e Assim Saúde, com todas as faixas etárias e valores detalhados. \n*A proposta também conta com um simulador interativo* , basta selecionar o plano e informar a quantidade de vidas por faixa para ver o valor total automaticamente.\n\n\nFico à disposição para esclarecer qualquer dúvida ou ajustar conforme a necessidade da empresa.\n\nhttps://laysacorrea-gw9.github.io/proposta-humanitta/",
-          "msg_time": "2026-03-12T17:10:59.688973"
-        },
-        {
-          "role": "system",
-          "content": "Atente-se no final da página tem um simulador para colocar  as idades do grupo ( exata ) só escolher o produto",
-          "msg_time": "2026-03-12T17:18:30.740793"
-        },
-        {
-          "role": "user",
-          "content": "Muito obrigado",
-          "msg_time": "2026-03-12T17:31:18.936888"
-        },
-        {
-          "role": "system",
-          "content": "Estou aqui para possíveis dúvidas \n\nEspero que a ferramenta facilite sua apresentação",
-          "msg_time": "2026-03-12T17:36:37.368263"
-        },
-        {
-          "role": "system",
-          "content": "Olá Deise \n\nBom dia , td bem ?",
-          "msg_time": "2026-03-13T09:11:00.982443"
-        },
-        {
-          "role": "system",
-          "content": "Conseguiu navegar( simular )  no link acima ? \nSobre os produtos , avalie se\nEstamos na mesma “página” e fica a lembrança que podemos articular uma call ou vídeo para tratar dúvidas como a coparticipação , ok ?",
-          "msg_time": "2026-03-13T09:12:38.522985"
-        }
-      ]
-    },
-    {
       "session_id": "5521969149049@s.whatsapp.net",
       "phone": "5521969149049",
       "phone_display": "+55 21 96914-9049",
@@ -643,7 +653,7 @@
       "first_message_at": "2026-03-13T03:00:00.000Z",
       "last_message_at": "2026-03-13T12:11:02.136000Z",
       "last_bot_msg_at": "2026-03-13T09:11:01.429462",
-      "tempo_sem_interacao": "3h 19min",
+      "tempo_sem_interacao": "3h 34min",
       "first_id": 18847,
       "last_id": 18870,
       "last_message_preview": "Dados do lead no sistema:\nNome: Luan\n\nMensagem(ns) do cliente:\nSim",
@@ -748,7 +758,7 @@
       "first_message_at": "2026-03-13T03:00:00.000Z",
       "last_message_at": "2026-03-13T12:04:43.098000Z",
       "last_bot_msg_at": "2026-03-13T09:04:42.568179",
-      "tempo_sem_interacao": "3h 25min",
+      "tempo_sem_interacao": "3h 40min",
       "first_id": 18864,
       "last_id": 18865,
       "last_message_preview": "Dados do lead no sistema:\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano d...",
@@ -824,7 +834,7 @@
       "first_message_at": "2026-03-12T03:00:00.000Z",
       "last_message_at": "2026-03-13T11:35:32.754000Z",
       "last_bot_msg_at": "2026-03-13T08:35:32.251369",
-      "tempo_sem_interacao": "3h 55min",
+      "tempo_sem_interacao": "4h 10min",
       "first_id": 18841,
       "last_id": 18862,
       "last_message_preview": "Dados do lead no sistema:\nNome: Laysa Corrêa\n\nMensagem(ns) do cliente:\n10, 1, 36 , 37 e 63",
@@ -1184,7 +1194,7 @@
       "first_message_at": "2026-03-13T03:00:00.000Z",
       "last_message_at": "2026-03-13T10:20:00.917000Z",
       "last_bot_msg_at": "2026-03-13T07:19:52.833102",
-      "tempo_sem_interacao": "5h 10min",
+      "tempo_sem_interacao": "5h 25min",
       "first_id": 18855,
       "last_id": 18856,
       "last_message_preview": "Dados Fornecidos\nNome: Anderson\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: nã...",
@@ -1244,7 +1254,7 @@
       "first_message_at": "2026-03-12T03:00:00.000Z",
       "last_message_at": "2026-03-13T01:45:36.664000Z",
       "last_bot_msg_at": "2026-03-12T22:45:36.160952",
-      "tempo_sem_interacao": "13h 45min",
+      "tempo_sem_interacao": "14h",
       "first_id": 18843,
       "last_id": 18844,
       "last_message_preview": "Dados do lead no sistema:\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano d...",
@@ -1304,7 +1314,7 @@
       "first_message_at": "2026-03-12T03:00:00.000Z",
       "last_message_at": "2026-03-12T20:59:24.258000Z",
       "last_bot_msg_at": "2026-03-12T17:59:23.785716",
-      "tempo_sem_interacao": "18h 31min",
+      "tempo_sem_interacao": "18h 46min",
       "first_id": 18718,
       "last_id": 18802,
       "last_message_preview": "Eu era mei e tive que mudar para o simples nacional",
@@ -1614,7 +1624,7 @@
       "first_message_at": "2026-03-12T03:00:00.000Z",
       "last_message_at": "2026-03-12T20:36:16.047000Z",
       "last_bot_msg_at": "2026-03-12T17:36:15.5301",
-      "tempo_sem_interacao": "18h 54min",
+      "tempo_sem_interacao": "19h 9min",
       "first_id": 18721,
       "last_id": 18722,
       "last_message_preview": "Dados do lead no sistema:\nNome: \n\nMensagem(ns) do cliente:\nBoa Tarde ! No momento não tenho interess...",
@@ -1681,7 +1691,7 @@
       "first_message_at": "2025-12-08T03:00:00.000Z",
       "last_message_at": "2026-03-12T20:12:10.423Z",
       "last_bot_msg_at": "2026-03-12T20:12:10.423Z",
-      "tempo_sem_interacao": "16h 18min",
+      "tempo_sem_interacao": "16h 33min",
       "first_id": 77,
       "last_id": 18716,
       "last_message_preview": "<ContextoPDF>\n  <TranscricaoPDF>\nREDE CREDENCIADA\nBronze Mais\nHOSPITAIS\nZONA NORTE\nRio de Janeiro\n• ...",
@@ -1988,7 +1998,7 @@
       "first_message_at": "2025-12-15T03:00:00.000Z",
       "last_message_at": "2026-03-12T18:57:05.706Z",
       "last_bot_msg_at": "2026-03-12T18:57:05.706Z",
-      "tempo_sem_interacao": "17h 33min",
+      "tempo_sem_interacao": "17h 48min",
       "first_id": 742,
       "last_id": 18695,
       "last_message_preview": "sim, esperando rsponder",
@@ -2750,7 +2760,7 @@
       "first_message_at": "2026-03-11T03:00:00.000Z",
       "last_message_at": "2026-03-11T15:32:58.191000Z",
       "last_bot_msg_at": "2026-03-11T12:32:57.693671",
-      "tempo_sem_interacao": "1 dia",
+      "tempo_sem_interacao": "2 dias",
       "first_id": 18396,
       "last_id": 18617,
       "last_message_preview": "Ana Carolina",
@@ -4963,7 +4973,7 @@
       "first_message_at": "2026-03-11T03:00:00.000Z",
       "last_message_at": "2026-03-11T15:33:23.525000Z",
       "last_bot_msg_at": "2026-03-11T12:33:23.097186",
-      "tempo_sem_interacao": "1 dia",
+      "tempo_sem_interacao": "2 dias",
       "first_id": 18415,
       "last_id": 18455,
       "last_message_preview": "Sim. Disse que estava ok e expliquei a minha necessidade. Mas, você não me pediu nenhuma outra infor...",
@@ -6322,7 +6332,7 @@
       "first_message_at": "2026-03-09T03:00:00.000Z",
       "last_message_at": "2026-03-10T15:33:27.569000Z",
       "last_bot_msg_at": "2026-03-10T12:33:27.08782",
-      "tempo_sem_interacao": "2 dias",
+      "tempo_sem_interacao": "3 dias",
       "first_id": 17992,
       "last_id": 18276,
       "last_message_preview": "Obrigado pela ajuda.",
@@ -6772,7 +6782,7 @@
       "first_message_at": "2026-03-09T03:00:00.000Z",
       "last_message_at": "2026-03-10T15:37:01.269000Z",
       "last_bot_msg_at": "2026-03-10T12:37:00.761145",
-      "tempo_sem_interacao": "2 dias",
+      "tempo_sem_interacao": "3 dias",
       "first_id": 17799,
       "last_id": 18274,
       "last_message_preview": "Boa tarde deixa acabei de receber  uma mensagem minha filha já marcou agradeço por sua atenção",
@@ -7849,7 +7859,7 @@
       "first_message_at": "2026-03-10T03:00:00.000Z",
       "last_message_at": "2026-03-10T15:40:55.585000Z",
       "last_bot_msg_at": "2026-03-10T12:40:55.061606",
-      "tempo_sem_interacao": "2 dias",
+      "tempo_sem_interacao": "3 dias",
       "first_id": 18214,
       "last_id": 18239,
       "last_message_preview": "quarta 10h",
@@ -8369,7 +8379,7 @@
       "first_message_at": "2026-03-09T03:00:00.000Z",
       "last_message_at": "2026-03-09T15:32:39.365000Z",
       "last_bot_msg_at": "2026-03-09T12:32:38.906094",
-      "tempo_sem_interacao": "3 dias",
+      "tempo_sem_interacao": "4 dias",
       "first_id": 17668,
       "last_id": 18201,
       "last_message_preview": "Sérgio",
@@ -12008,7 +12018,7 @@
       "first_message_at": "2026-03-08T03:00:00.000Z",
       "last_message_at": "2026-03-09T15:34:42.414000Z",
       "last_bot_msg_at": "2026-03-09T12:34:41.961947",
-      "tempo_sem_interacao": "3 dias",
+      "tempo_sem_interacao": "4 dias",
       "first_id": 17283,
       "last_id": 18041,
       "last_message_preview": "Boa tarde\n\nJá resolvi obrigado",
