@@ -1,17 +1,134 @@
 {
   "meta": {
-    "generated_at": "2026-03-14T20:00:22.370Z",
+    "generated_at": "2026-03-14T20:15:22.710Z",
     "total_conversations": 200,
-    "total_messages": 4586,
+    "total_messages": 4596,
     "stats": {
       "quente": 38,
-      "morno": 122,
-      "frio": 40,
+      "morno": 123,
+      "frio": 39,
       "desinteresse": 0,
       "sem_classificacao": 0
     }
   },
   "conversations": [
+    {
+      "session_id": "5521964969946@s.whatsapp.net",
+      "phone": "5521964969946",
+      "phone_display": "+55 21 96496-9946",
+      "lead": {
+        "baserow_id": 1159,
+        "nome": "Tanio",
+        "email": "tanio-santiago@hotmail.com",
+        "qtd_vidas": 2,
+        "desinteresse": false,
+        "gilbertinho_off": false,
+        "observacoes": "",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Tanio",
+        "email": "tanio-santiago@hotmail.com",
+        "telefone": "+55 21 96496-9946",
+        "vidas": [
+          {
+            "idade": 65
+          },
+          {
+            "idade": 63
+          }
+        ],
+        "cidade": "São Gonçalo / RJ",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "",
+        "bot": "Gilbertinho Amarelo (2373)",
+        "formatted": "👤 Cliente: Tanio\n📧 E-mail: tanio-santiago@hotmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96496-9946\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nTanio — 65 anos\nDependente 1 — 63 anos\n\n📋 Dados contratuais:\n\nCidade: São Gonçalo / RJ\nContratação: CNPJ\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)"
+      },
+      "status": "morno",
+      "bot": "amarelo",
+      "consultor": "",
+      "message_count": 12,
+      "first_message_at": "2026-03-14T03:00:00.000Z",
+      "last_message_at": "2026-03-14T20:08:39.223000Z",
+      "last_bot_msg_at": "2026-03-14T17:08:38.828645",
+      "tempo_sem_interacao": "3h 6min",
+      "first_id": 18682,
+      "last_id": 18695,
+      "last_message_preview": "Dados do lead no sistema:\nNome: Tanio\n\nMensagem(ns) do cliente:\nO modo mais barato",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados Fornecidos\nNome: Tanio\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não informado\nRegião: Não Informado\nPropaganda:\n",
+          "msg_time": "2026-03-14T16:36:26.305413"
+        },
+        {
+          "role": "ai",
+          "content": "Oi Tanio, eu sou o Gilberto da GW9 Saúde. Você pediu o nosso contato para saber mais sobre o plano de saúde e vi que está buscando para 3 pessoas e já possui um CNPJ. Pra te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo bem?",
+          "msg_time": "2026-03-14T16:36:26.307477"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: Tanio\n\nMensagem(ns) do cliente:\nSim",
+          "msg_time": "2026-03-14T17:06:30.863898"
+        },
+        {
+          "role": "ai",
+          "content": "Perfeito, Tanio! Para que eu possa te apresentar as opções certas, pode me informar a cidade onde desejam atendimento e se tem algum hospital ou clínica de preferência? Pode mandar por texto ou áudio 🎙️.",
+          "msg_time": "2026-03-14T17:06:30.865735"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: Tanio\n\nMensagem(ns) do cliente:\nIdade \n65 e 63",
+          "msg_time": "2026-03-14T17:07:14.373504"
+        },
+        {
+          "role": "ai",
+          "content": "Obrigado, Tanio! Você mencionou 2 idades, 65 e 63, mas como são 3 pessoas, qual a idade da terceira? Isso é importante para eu conseguir cotar o plano correto.",
+          "msg_time": "2026-03-14T17:07:14.375073"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: Tanio\n\nMensagem(ns) do cliente:\nSG rj",
+          "msg_time": "2026-03-14T17:07:39.000825"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Tanio, para 3 vidas com idades 65, 63 e falta da terceira idade, e atendimento em São Gonçalo, RJ. Pode me informar a idade da terceira pessoa para completar o perfil? Também preciso saber se o plano será contratado por pessoa física (CPF) ou empresarial (CNPJ)?",
+          "msg_time": "2026-03-14T17:07:39.004645"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: Tanio\n\nMensagem(ns) do cliente:\n30 anos",
+          "msg_time": "2026-03-14T17:08:09.862305"
+        },
+        {
+          "role": "ai",
+          "content": "Tanio, pelo que entendi: são 3 pessoas com idades 65, 63 e 30 anos, em São Gonçalo/RJ e plano via CNPJ. Está correto? Pode confirmar para eu encaminhar ao consultor?",
+          "msg_time": "2026-03-14T17:08:09.864605"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: Tanio\n\nMensagem(ns) do cliente:\nO modo mais barato",
+          "msg_time": "2026-03-14T17:08:38.82701"
+        },
+        {
+          "role": "ai",
+          "content": "Tanio, obrigado por confirmar as informações! O consultor vai te chamar aqui no WhatsApp para apresentar as opções de planos mais econômicos para 3 vidas em São Gonçalo/RJ, com contratação via CNPJ. Obrigado!",
+          "msg_time": "2026-03-14T17:08:38.828645"
+        }
+      ]
+    },
     {
       "session_id": "55979662405@s.whatsapp.net",
       "phone": "55979662405",
@@ -44,7 +161,7 @@
       "first_message_at": "2026-03-14T19:38:25.208Z",
       "last_message_at": "2026-03-14T19:38:25.210Z",
       "last_bot_msg_at": "2026-03-14T16:38:25.21045",
-      "tempo_sem_interacao": "3h 21min",
+      "tempo_sem_interacao": "3h 36min",
       "first_id": 18684,
       "last_id": 18685,
       "last_message_preview": "Dados Fornecidos\nNome: Carlos\nContem CNPJ: não\nNumero de Vidas: 2_vidas\nOperadora de Interesse: não ...",
@@ -58,66 +175,6 @@
           "role": "ai",
           "content": "Oi Carlos, eu sou o Gilberto da GW9 Saúde. Você pediu o nosso contato para saber mais sobre Plano de Saúde e mencionou que tem interesse para 2 pessoas. Para te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo certo?",
           "msg_time": "2026-03-14T16:38:25.21045"
-        }
-      ]
-    },
-    {
-      "session_id": "5521964969946@s.whatsapp.net",
-      "phone": "5521964969946",
-      "phone_display": "+55 21 96496-9946",
-      "lead": {
-        "baserow_id": 1159,
-        "nome": "Tanio",
-        "email": "tanio-santiago@hotmail.com",
-        "qtd_vidas": "",
-        "desinteresse": false,
-        "gilbertinho_off": false,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Tanio",
-        "email": "tanio-santiago@hotmail.com",
-        "telefone": "+55 21 96496-9946",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "",
-        "bot": "Gilbertinho Amarelo (2373)",
-        "formatted": "👤 Cliente: Tanio\n📧 E-mail: tanio-santiago@hotmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96496-9946\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Amarelo (2373)"
-      },
-      "status": "frio",
-      "bot": "amarelo",
-      "consultor": "",
-      "message_count": 2,
-      "first_message_at": "2026-03-14T03:00:00.000Z",
-      "last_message_at": "2026-03-14T19:36:32.765000Z",
-      "last_bot_msg_at": "2026-03-14T16:36:26.307477",
-      "tempo_sem_interacao": "3h 23min",
-      "first_id": 18682,
-      "last_id": 18683,
-      "last_message_preview": "Dados Fornecidos\nNome: Tanio\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não i...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados Fornecidos\nNome: Tanio\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não informado\nRegião: Não Informado\nPropaganda:\n",
-          "msg_time": "2026-03-14T16:36:26.305413"
-        },
-        {
-          "role": "ai",
-          "content": "Oi Tanio, eu sou o Gilberto da GW9 Saúde. Você pediu o nosso contato para saber mais sobre o plano de saúde e vi que está buscando para 3 pessoas e já possui um CNPJ. Pra te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo bem?",
-          "msg_time": "2026-03-14T16:36:26.307477"
         }
       ]
     },
@@ -334,7 +391,7 @@
       "first_message_at": "2026-03-13T03:00:00.000Z",
       "last_message_at": "2026-03-14T11:29:30.212000Z",
       "last_bot_msg_at": "2026-03-14T08:29:29.764184",
-      "tempo_sem_interacao": "11h 30min",
+      "tempo_sem_interacao": "11h 45min",
       "first_id": 18624,
       "last_id": 18680,
       "last_message_preview": "Dados do lead no sistema:\nNome: Alfredo\n\nMensagem(ns) do cliente:\nNão. Atualmente estou morando em M...",
@@ -444,7 +501,7 @@
       "first_message_at": "2026-03-13T03:00:00.000Z",
       "last_message_at": "2026-03-14T02:41:35.463000Z",
       "last_bot_msg_at": "2026-03-13T23:41:26.716826",
-      "tempo_sem_interacao": "20h 18min",
+      "tempo_sem_interacao": "20h 33min",
       "first_id": 18668,
       "last_id": 18669,
       "last_message_preview": "Dados Fornecidos\nNome: Rosane\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não ...",
@@ -504,7 +561,7 @@
       "first_message_at": "2026-03-13T03:00:00.000Z",
       "last_message_at": "2026-03-14T02:17:36.730000Z",
       "last_bot_msg_at": "2026-03-13T23:17:25.687644",
-      "tempo_sem_interacao": "20h 42min",
+      "tempo_sem_interacao": "20h 57min",
       "first_id": 18666,
       "last_id": 18667,
       "last_message_preview": "Dados Fornecidos\nNome: marcio\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não ...",
@@ -564,7 +621,7 @@
       "first_message_at": "2026-03-13T03:00:00.000Z",
       "last_message_at": "2026-03-14T01:58:40.133000Z",
       "last_bot_msg_at": "2026-03-13T22:58:39.651232",
-      "tempo_sem_interacao": "21h 1min",
+      "tempo_sem_interacao": "21h 16min",
       "first_id": 18664,
       "last_id": 18665,
       "last_message_preview": "Dados do lead no sistema:\nNome: \n\nMensagem(ns) do cliente:\nOlá gostaria de mais informações dos Plan...",
@@ -613,7 +670,7 @@
       "first_message_at": "2026-03-14T00:27:46.800Z",
       "last_message_at": "2026-03-14T00:52:47.834Z",
       "last_bot_msg_at": "2026-03-13T21:52:47.834244",
-      "tempo_sem_interacao": "22h 7min",
+      "tempo_sem_interacao": "22h 22min",
       "first_id": 18648,
       "last_id": 18663,
       "last_message_preview": "Dados do lead no sistema:\nNome: Laysa Corrêa\n\nMensagem(ns) do cliente:\nOi",
@@ -713,7 +770,7 @@
       "first_message_at": "2026-03-13T03:00:00.000Z",
       "last_message_at": "2026-03-14T00:47:46.802000Z",
       "last_bot_msg_at": "2026-03-13T21:47:46.384741",
-      "tempo_sem_interacao": "22h 12min",
+      "tempo_sem_interacao": "22h 27min",
       "first_id": 18654,
       "last_id": 18661,
       "last_message_preview": "Dados do lead no sistema:\nNome: Cristina\n\nMensagem(ns) do cliente:\nEstou acostumada com a rede dor, ...",
@@ -913,7 +970,7 @@
       "first_message_at": "2026-03-13T03:00:00.000Z",
       "last_message_at": "2026-03-14T00:16:57.025000Z",
       "last_bot_msg_at": "2026-03-13T21:16:56.609922",
-      "tempo_sem_interacao": "22h 43min",
+      "tempo_sem_interacao": "22h 58min",
       "first_id": 18628,
       "last_id": 18640,
       "last_message_preview": "Dados do lead no sistema:\nNome: CRISTIANE\n\nMensagem(ns) do cliente:\nGostaria de um plano sem coparti...",
@@ -5227,7 +5284,7 @@
       "first_message_at": "2026-03-10T03:00:00.000Z",
       "last_message_at": "2026-03-10T23:09:56.610000Z",
       "last_bot_msg_at": "2026-03-10T20:09:51.553344",
-      "tempo_sem_interacao": "3 dias",
+      "tempo_sem_interacao": "4 dias",
       "first_id": 18311,
       "last_id": 18312,
       "last_message_preview": "Dados Fornecidos\nNome: Vinicios\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: nã...",
@@ -17429,7 +17486,7 @@
       "first_message_at": "2026-03-06T03:00:00.000Z",
       "last_message_at": "2026-03-06T23:14:30.763000Z",
       "last_bot_msg_at": "2026-03-06T20:14:30.193211",
-      "tempo_sem_interacao": "7 dias",
+      "tempo_sem_interacao": "8 dias",
       "first_id": 17004,
       "last_id": 17017,
       "last_message_preview": "Pode ser amanhã pela manhã.",
