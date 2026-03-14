@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_at": "2026-03-14T15:30:25.978Z",
+    "generated_at": "2026-03-14T15:45:22.611Z",
     "total_conversations": 200,
-    "total_messages": 4642,
+    "total_messages": 4643,
     "stats": {
       "quente": 38,
       "morno": 124,
@@ -12,6 +12,123 @@
     }
   },
   "conversations": [
+    {
+      "session_id": "5521988778988@s.whatsapp.net",
+      "phone": "5521988778988",
+      "phone_display": "+55 21 98877-8988",
+      "lead": {
+        "baserow_id": 1152,
+        "nome": "Alfredo",
+        "email": "alfredo-bittencourt@uol.com.br",
+        "qtd_vidas": 2,
+        "desinteresse": false,
+        "gilbertinho_off": false,
+        "observacoes": "",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Alfredo",
+        "email": "alfredo-bittencourt@uol.com.br",
+        "telefone": "+55 21 98877-8988",
+        "vidas": [
+          {
+            "idade": 71
+          },
+          {
+            "idade": 66
+          }
+        ],
+        "cidade": "Rio de Janeiro / RJ",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "Nenhum",
+        "motivo": "",
+        "interesse": "",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "",
+        "bot": "Gilbertinho Amarelo (2373)",
+        "formatted": "👤 Cliente: Alfredo\n📧 E-mail: alfredo-bittencourt@uol.com.br\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98877-8988\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nAlfredo — 71 anos\nDependente 1 — 66 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\n\n🏥 Plano atual: Nenhum\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)"
+      },
+      "status": "morno",
+      "bot": "amarelo",
+      "consultor": "",
+      "message_count": 12,
+      "first_message_at": "2026-03-13T03:00:00.000Z",
+      "last_message_at": "2026-03-14T11:29:30.212000Z",
+      "last_bot_msg_at": "2026-03-14T08:29:29.764184",
+      "tempo_sem_interacao": "7h 15min",
+      "first_id": 18624,
+      "last_id": 18680,
+      "last_message_preview": "Dados do lead no sistema:\nNome: Alfredo\n\nMensagem(ns) do cliente:\nNão. Atualmente estou morando em M...",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados Fornecidos\nNome: Alfredo\nContem CNPJ: não\nNumero de Vidas: 2_vidas\nOperadora de Interesse: não informado\nRegião: Não Informado\nPropaganda:\n",
+          "msg_time": "2026-03-13T20:18:25.241865"
+        },
+        {
+          "role": "ai",
+          "content": "Oi Alfredo, eu sou o Gilberto da GW9 Saúde. Você pediu o nosso contato para saber mais sobre Plano de Saúde e mencionou que precisa para 2 pessoas. Pra te ajudar e ser mais assertivo, preciso confirmar mais algumas informações. Tudo bem?",
+          "msg_time": "2026-03-13T20:18:25.244734"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: Alfredo\n\nMensagem(ns) do cliente:\nPlano para mim e esposa ,71 anos e 66,  o que vc tem para oferecer",
+          "msg_time": "2026-03-14T08:00:28.847821"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Alfredo. Para planos com 2 vidas e idades de 71 e 66 anos, é importante escolher uma rede que atenda bem às suas necessidades. A cidade onde vocês buscam atendimento é o Rio de Janeiro? E o plano será no CPF, certo? Qual sua profissão?",
+          "msg_time": "2026-03-14T08:00:28.856991"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: Alfredo\n\nMensagem(ns) do cliente:\nTécnico de informatica , TI",
+          "msg_time": "2026-03-14T08:06:45.545236"
+        },
+        {
+          "role": "ai",
+          "content": "Perfeito, Alfredo! Técnico de informática na área de TI. Vocês já têm algum plano atualmente ou estão sem plano de saúde? Além disso, tem algum hospital ou médico que prefiram? Isso ajuda a escolher o melhor para vocês.",
+          "msg_time": "2026-03-14T08:06:45.546682"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: Alfredo\n\nMensagem(ns) do cliente:\nOu aposentado",
+          "msg_time": "2026-03-14T08:06:59.523255"
+        },
+        {
+          "role": "ai",
+          "content": "Obrigado, Alfredo. Então você é aposentado. Agora, vocês possuem algum plano atualmente? E há algum hospital ou clínica que gostariam de ter na rede? Essas informações são importantes para acertarmos a melhor opção para vocês.",
+          "msg_time": "2026-03-14T08:06:59.524789"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: Alfredo\n\nMensagem(ns) do cliente:\nNão. Atualmente estou morando em Marca Rj",
+          "msg_time": "2026-03-14T08:29:29.762115"
+        },
+        {
+          "role": "ai",
+          "content": "Alfredo, pelo que entendi: plano para 2 vidas, idades 71 e 66, morando em Maricá, RJ, aposentado, sem plano atual. Confere? Assim que confirmar, vou encaminhar para um consultor que vai te ajudar com as melhores opções.",
+          "msg_time": "2026-03-14T08:29:29.764184"
+        },
+        {
+          "role": "system",
+          "content": "Alfredo, ainda está por aí? Estou aguardando sua resposta para dar sequência.",
+          "msg_time": "2026-03-14T09:00:47.082505"
+        },
+        {
+          "role": "system",
+          "content": "Como comentei antes, preciso dessas informações para te enviar as melhores opções de plano de saúde. Você pode confirmar se está tudo certo com os dados que passei?",
+          "msg_time": "2026-03-14T12:30:21.125627"
+        }
+      ]
+    },
     {
       "session_id": "5521964639694@s.whatsapp.net",
       "phone": "5521964639694",
@@ -171,118 +288,6 @@
       ]
     },
     {
-      "session_id": "5521988778988@s.whatsapp.net",
-      "phone": "5521988778988",
-      "phone_display": "+55 21 98877-8988",
-      "lead": {
-        "baserow_id": 1152,
-        "nome": "Alfredo",
-        "email": "alfredo-bittencourt@uol.com.br",
-        "qtd_vidas": 2,
-        "desinteresse": false,
-        "gilbertinho_off": false,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Alfredo",
-        "email": "alfredo-bittencourt@uol.com.br",
-        "telefone": "+55 21 98877-8988",
-        "vidas": [
-          {
-            "idade": 71
-          },
-          {
-            "idade": 66
-          }
-        ],
-        "cidade": "Rio de Janeiro / RJ",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "Nenhum",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "",
-        "bot": "Gilbertinho Amarelo (2373)",
-        "formatted": "👤 Cliente: Alfredo\n📧 E-mail: alfredo-bittencourt@uol.com.br\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98877-8988\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nAlfredo — 71 anos\nDependente 1 — 66 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\n\n🏥 Plano atual: Nenhum\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)"
-      },
-      "status": "morno",
-      "bot": "amarelo",
-      "consultor": "",
-      "message_count": 11,
-      "first_message_at": "2026-03-13T03:00:00.000Z",
-      "last_message_at": "2026-03-14T11:29:30.212000Z",
-      "last_bot_msg_at": "2026-03-14T08:29:29.764184",
-      "tempo_sem_interacao": "7h",
-      "first_id": 18624,
-      "last_id": 18678,
-      "last_message_preview": "Dados do lead no sistema:\nNome: Alfredo\n\nMensagem(ns) do cliente:\nNão. Atualmente estou morando em M...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados Fornecidos\nNome: Alfredo\nContem CNPJ: não\nNumero de Vidas: 2_vidas\nOperadora de Interesse: não informado\nRegião: Não Informado\nPropaganda:\n",
-          "msg_time": "2026-03-13T20:18:25.241865"
-        },
-        {
-          "role": "ai",
-          "content": "Oi Alfredo, eu sou o Gilberto da GW9 Saúde. Você pediu o nosso contato para saber mais sobre Plano de Saúde e mencionou que precisa para 2 pessoas. Pra te ajudar e ser mais assertivo, preciso confirmar mais algumas informações. Tudo bem?",
-          "msg_time": "2026-03-13T20:18:25.244734"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Alfredo\n\nMensagem(ns) do cliente:\nPlano para mim e esposa ,71 anos e 66,  o que vc tem para oferecer",
-          "msg_time": "2026-03-14T08:00:28.847821"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Alfredo. Para planos com 2 vidas e idades de 71 e 66 anos, é importante escolher uma rede que atenda bem às suas necessidades. A cidade onde vocês buscam atendimento é o Rio de Janeiro? E o plano será no CPF, certo? Qual sua profissão?",
-          "msg_time": "2026-03-14T08:00:28.856991"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Alfredo\n\nMensagem(ns) do cliente:\nTécnico de informatica , TI",
-          "msg_time": "2026-03-14T08:06:45.545236"
-        },
-        {
-          "role": "ai",
-          "content": "Perfeito, Alfredo! Técnico de informática na área de TI. Vocês já têm algum plano atualmente ou estão sem plano de saúde? Além disso, tem algum hospital ou médico que prefiram? Isso ajuda a escolher o melhor para vocês.",
-          "msg_time": "2026-03-14T08:06:45.546682"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Alfredo\n\nMensagem(ns) do cliente:\nOu aposentado",
-          "msg_time": "2026-03-14T08:06:59.523255"
-        },
-        {
-          "role": "ai",
-          "content": "Obrigado, Alfredo. Então você é aposentado. Agora, vocês possuem algum plano atualmente? E há algum hospital ou clínica que gostariam de ter na rede? Essas informações são importantes para acertarmos a melhor opção para vocês.",
-          "msg_time": "2026-03-14T08:06:59.524789"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Alfredo\n\nMensagem(ns) do cliente:\nNão. Atualmente estou morando em Marca Rj",
-          "msg_time": "2026-03-14T08:29:29.762115"
-        },
-        {
-          "role": "ai",
-          "content": "Alfredo, pelo que entendi: plano para 2 vidas, idades 71 e 66, morando em Maricá, RJ, aposentado, sem plano atual. Confere? Assim que confirmar, vou encaminhar para um consultor que vai te ajudar com as melhores opções.",
-          "msg_time": "2026-03-14T08:29:29.764184"
-        },
-        {
-          "role": "system",
-          "content": "Alfredo, ainda está por aí? Estou aguardando sua resposta para dar sequência.",
-          "msg_time": "2026-03-14T09:00:47.082505"
-        }
-      ]
-    },
-    {
       "session_id": "5521980167995@s.whatsapp.net",
       "phone": "5521980167995",
       "phone_display": "+55 21 98016-7995",
@@ -325,7 +330,7 @@
       "first_message_at": "2026-03-13T03:00:00.000Z",
       "last_message_at": "2026-03-14T02:41:35.463000Z",
       "last_bot_msg_at": "2026-03-13T23:41:26.716826",
-      "tempo_sem_interacao": "15h 48min",
+      "tempo_sem_interacao": "16h 3min",
       "first_id": 18668,
       "last_id": 18669,
       "last_message_preview": "Dados Fornecidos\nNome: Rosane\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não ...",
@@ -385,7 +390,7 @@
       "first_message_at": "2026-03-13T03:00:00.000Z",
       "last_message_at": "2026-03-14T02:17:36.730000Z",
       "last_bot_msg_at": "2026-03-13T23:17:25.687644",
-      "tempo_sem_interacao": "16h 13min",
+      "tempo_sem_interacao": "16h 27min",
       "first_id": 18666,
       "last_id": 18667,
       "last_message_preview": "Dados Fornecidos\nNome: marcio\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não ...",
@@ -445,7 +450,7 @@
       "first_message_at": "2026-03-13T03:00:00.000Z",
       "last_message_at": "2026-03-14T01:58:40.133000Z",
       "last_bot_msg_at": "2026-03-13T22:58:39.651232",
-      "tempo_sem_interacao": "16h 31min",
+      "tempo_sem_interacao": "16h 46min",
       "first_id": 18664,
       "last_id": 18665,
       "last_message_preview": "Dados do lead no sistema:\nNome: \n\nMensagem(ns) do cliente:\nOlá gostaria de mais informações dos Plan...",
@@ -494,7 +499,7 @@
       "first_message_at": "2026-03-14T00:27:46.800Z",
       "last_message_at": "2026-03-14T00:52:47.834Z",
       "last_bot_msg_at": "2026-03-13T21:52:47.834244",
-      "tempo_sem_interacao": "17h 37min",
+      "tempo_sem_interacao": "17h 52min",
       "first_id": 18648,
       "last_id": 18663,
       "last_message_preview": "Dados do lead no sistema:\nNome: Laysa Corrêa\n\nMensagem(ns) do cliente:\nOi",
@@ -594,7 +599,7 @@
       "first_message_at": "2026-03-13T03:00:00.000Z",
       "last_message_at": "2026-03-14T00:47:46.802000Z",
       "last_bot_msg_at": "2026-03-13T21:47:46.384741",
-      "tempo_sem_interacao": "17h 42min",
+      "tempo_sem_interacao": "17h 57min",
       "first_id": 18654,
       "last_id": 18661,
       "last_message_preview": "Dados do lead no sistema:\nNome: Cristina\n\nMensagem(ns) do cliente:\nEstou acostumada com a rede dor, ...",
@@ -684,7 +689,7 @@
       "first_message_at": "2026-03-13T03:00:00.000Z",
       "last_message_at": "2026-03-13T22:11:47.849000Z",
       "last_bot_msg_at": "2026-03-13T19:11:47.391021",
-      "tempo_sem_interacao": "20h 18min",
+      "tempo_sem_interacao": "20h 33min",
       "first_id": 18599,
       "last_id": 18643,
       "last_message_preview": "Ah sim\n\nSendo o cnpj da minha irmã, teria como?",
@@ -794,7 +799,7 @@
       "first_message_at": "2026-03-13T03:00:00.000Z",
       "last_message_at": "2026-03-14T00:16:57.025000Z",
       "last_bot_msg_at": "2026-03-13T21:16:56.609922",
-      "tempo_sem_interacao": "18h 13min",
+      "tempo_sem_interacao": "18h 28min",
       "first_id": 18628,
       "last_id": 18640,
       "last_message_preview": "Dados do lead no sistema:\nNome: CRISTIANE\n\nMensagem(ns) do cliente:\nGostaria de um plano sem coparti...",
@@ -914,7 +919,7 @@
       "first_message_at": "2026-03-13T03:00:00.000Z",
       "last_message_at": "2026-03-13T22:08:32.885000Z",
       "last_bot_msg_at": "2026-03-13T19:08:32.496751",
-      "tempo_sem_interacao": "20h 21min",
+      "tempo_sem_interacao": "20h 36min",
       "first_id": 18603,
       "last_id": 18623,
       "last_message_preview": "Deixa pra la ok obg",
@@ -1029,7 +1034,7 @@
       "first_message_at": "2026-03-13T03:00:00.000Z",
       "last_message_at": "2026-03-13T21:39:30.900000Z",
       "last_bot_msg_at": "2026-03-13T18:39:25.257679",
-      "tempo_sem_interacao": "20h 51min",
+      "tempo_sem_interacao": "21h 5min",
       "first_id": 18607,
       "last_id": 18608,
       "last_message_preview": "Dados Fornecidos\nNome: Leila\nContem CNPJ: Sim\nNumero de Vidas: 1 a 2 Vidas\nOperadora de Interesse: A...",
