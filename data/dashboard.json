@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_at": "2026-03-15T21:30:22.182Z",
+    "generated_at": "2026-03-15T21:45:22.096Z",
     "total_conversations": 200,
-    "total_messages": 4427,
+    "total_messages": 4429,
     "stats": {
       "quente": 36,
       "morno": 120,
@@ -12,6 +12,121 @@
     }
   },
   "conversations": [
+    {
+      "session_id": "5521996057345@s.whatsapp.net",
+      "phone": "5521996057345",
+      "phone_display": "+55 21 99605-7345",
+      "lead": {
+        "baserow_id": 1165,
+        "nome": "Fábio Amaral",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "gilbertinho_off": false,
+        "observacoes": "",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Fábio Amaral",
+        "email": "",
+        "telefone": "+55 21 99605-7345",
+        "vidas": [],
+        "cidade": "Niteroi / RJ",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "MEI",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "Incluir novas vidas",
+        "interesse": "Amil",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Fábio Amaral\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99605-7345\n\n📋 Dados contratuais:\n\nCidade: Niteroi / RJ\nContratação: CNPJ\nTipo: MEI\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n\n🎯 Interesse: Amil\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "morno",
+      "bot": "preto",
+      "consultor": "",
+      "message_count": 13,
+      "first_message_at": "2026-03-14T03:00:00.000Z",
+      "last_message_at": "2026-03-15T21:41:17.309000Z",
+      "last_bot_msg_at": "2026-03-15T18:41:16.783572",
+      "tempo_sem_interacao": "3h 4min",
+      "first_id": 18722,
+      "last_id": 18772,
+      "last_message_preview": "Dados do lead no sistema:\nNome: Fábio Amaral\n\nMensagem(ns) do cliente:\nEu não vou mudar, só estou av...",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Amil",
+          "msg_time": "2026-03-14T20:21:19.961644"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! \nEu sou Gilberto, analista em Plano Saúde da Corretora GW9.\nTrabalhamos com todos os Planos de saúde no Rio de Janeiro. 🚀\nComo os valores dos Planos de saúde são tabelados e os preços mudam de acordo com a rede credenciada. Minha missão é de te ajudar a encontrar o produto que melhor lhe atenda na relação custo x acesso.\n[SPLIT]\nPor isso vou te fazer algumas perguntas, pode me dizer:\n1️⃣ Quantas pessoas são e as idades?\n2️⃣ Qual a cidade que busca atendimento? Se tiver algum hospital de sua preferência, me informe, também nos ajuda.\n3️⃣ Como o plano será contratado: empresarial (CNPJ/MEI)?\n4️⃣ Já possui Plano atualmente? Se sim qual?\nQual o seu nome?\nPode responder por áudio se preferir. 🎙️",
+          "msg_time": "2026-03-14T20:21:19.963446"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: Fábio Amaral\n\nMensagem(ns) do cliente:\nE para um recém-nascido\n\nMeu Neto",
+          "msg_time": "2026-03-14T20:46:08.701953"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Fábio, para o seu neto recém-nascido então. É muito importante termos a idade certinha para a cotação, ainda mais criança pequena. Você pode me informar a idade exata dele em dias ou meses? E só para registrar, qual cidade será o local de uso do plano?",
+          "msg_time": "2026-03-14T20:46:08.703844"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: Fábio Amaral\n\nMensagem(ns) do cliente:\n01 mês\n\nNiteroi",
+          "msg_time": "2026-03-14T21:25:18.589633"
+        },
+        {
+          "role": "ai",
+          "content": "🤝  \nPerfeito, Fábio, um bebê de 1 mês em Niterói. Isso ajuda bastante. Para fechar o perfil e uma cotação correta: como será a contratação do plano, pessoa física (CPF) ou empresarial (CNPJ/MEI)? E você ou alguém mais vai entrar no plano?",
+          "msg_time": "2026-03-14T21:25:18.59284"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: Fábio Amaral\n\nMensagem(ns) do cliente:\nPessoa física",
+          "msg_time": "2026-03-15T10:11:06.740978"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Fábio, contratação no CPF então. Para algumas operadoras, a profissão ajuda na precificação. Qual a sua profissão? E você já possui plano atualmente? Se sim, qual?",
+          "msg_time": "2026-03-15T10:11:06.744022"
+        },
+        {
+          "role": "system",
+          "content": "Fábio, ainda está por aí? Estou aguardando sua resposta para dar sequência.",
+          "msg_time": "2026-03-15T12:30:20.653721"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: Fábio Amaral\n\nMensagem(ns) do cliente:\nTrabalho nos correios\n\nPlano postal saúde",
+          "msg_time": "2026-03-15T15:49:48.796026"
+        },
+        {
+          "role": "ai",
+          "content": "Ok, Fábio. E na sua avaliação, o que pesa mais para mudar do Postal Saúde? É o valor que está caro, a rede credenciada ou outra razão? Quero entender bem para ajudar.",
+          "msg_time": "2026-03-15T15:49:48.797794"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: Fábio Amaral\n\nMensagem(ns) do cliente:\nEu não vou mudar, só estou avaliando um plano para meu neto",
+          "msg_time": "2026-03-15T18:41:16.780978"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Fábio. Avaliar um plano para seu neto é muito importante para garantir o melhor cuidado. Só para confirmar: é para um plano individual, somente para ele, com 1 vida, contratando no CPF, em Niterói, certo?",
+          "msg_time": "2026-03-15T18:41:16.783572"
+        }
+      ]
+    },
     {
       "session_id": "5521964776035@s.whatsapp.net",
       "phone": "5521964776035",
@@ -55,7 +170,7 @@
       "first_message_at": "2026-03-15T03:00:00.000Z",
       "last_message_at": "2026-03-15T20:06:32.049000Z",
       "last_bot_msg_at": "2026-03-15T17:06:26.190976",
-      "tempo_sem_interacao": "4h 23min",
+      "tempo_sem_interacao": "4h 38min",
       "first_id": 18769,
       "last_id": 18770,
       "last_message_preview": "Dados Fornecidos\nNome: André\nContem CNPJ: não\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não i...",
@@ -122,7 +237,7 @@
       "first_message_at": "2026-03-15T03:00:00.000Z",
       "last_message_at": "2026-03-15T19:10:50.569000Z",
       "last_bot_msg_at": "2026-03-15T16:10:50.13842",
-      "tempo_sem_interacao": "5h 19min",
+      "tempo_sem_interacao": "5h 34min",
       "first_id": 18765,
       "last_id": 18768,
       "last_message_preview": "Dados do lead no sistema:\nNome: Marcos\n\nMensagem(ns) do cliente:\nQueria saber qto custa 2 vidas sa A...",
@@ -146,111 +261,6 @@
           "role": "ai",
           "content": "Marcos, entendi que são 2 vidas, com idades 71 e 62 anos, certo? Para seguir, só preciso confirmar a cidade onde o plano será utilizado e se a contratação será por pessoa física (CPF) ou empresarial (CNPJ), para calcular o melhor custo para você. Pode me informar?",
           "msg_time": "2026-03-15T16:10:50.13842"
-        }
-      ]
-    },
-    {
-      "session_id": "5521996057345@s.whatsapp.net",
-      "phone": "5521996057345",
-      "phone_display": "+55 21 99605-7345",
-      "lead": {
-        "baserow_id": 1165,
-        "nome": "Fábio Amaral",
-        "email": "",
-        "qtd_vidas": "",
-        "desinteresse": false,
-        "gilbertinho_off": false,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Fábio Amaral",
-        "email": "",
-        "telefone": "+55 21 99605-7345",
-        "vidas": [],
-        "cidade": "Niteroi / RJ",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "MEI",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "Incluir novas vidas",
-        "interesse": "Amil",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Fábio Amaral\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99605-7345\n\n📋 Dados contratuais:\n\nCidade: Niteroi / RJ\nContratação: CNPJ\nTipo: MEI\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n\n🎯 Interesse: Amil\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "morno",
-      "bot": "preto",
-      "consultor": "",
-      "message_count": 11,
-      "first_message_at": "2026-03-14T03:00:00.000Z",
-      "last_message_at": "2026-03-15T18:49:49.178000Z",
-      "last_bot_msg_at": "2026-03-15T15:49:48.797794",
-      "tempo_sem_interacao": "5h 40min",
-      "first_id": 18722,
-      "last_id": 18764,
-      "last_message_preview": "Dados do lead no sistema:\nNome: Fábio Amaral\n\nMensagem(ns) do cliente:\nTrabalho nos correios\n\nPlano ...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Amil",
-          "msg_time": "2026-03-14T20:21:19.961644"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! \nEu sou Gilberto, analista em Plano Saúde da Corretora GW9.\nTrabalhamos com todos os Planos de saúde no Rio de Janeiro. 🚀\nComo os valores dos Planos de saúde são tabelados e os preços mudam de acordo com a rede credenciada. Minha missão é de te ajudar a encontrar o produto que melhor lhe atenda na relação custo x acesso.\n[SPLIT]\nPor isso vou te fazer algumas perguntas, pode me dizer:\n1️⃣ Quantas pessoas são e as idades?\n2️⃣ Qual a cidade que busca atendimento? Se tiver algum hospital de sua preferência, me informe, também nos ajuda.\n3️⃣ Como o plano será contratado: empresarial (CNPJ/MEI)?\n4️⃣ Já possui Plano atualmente? Se sim qual?\nQual o seu nome?\nPode responder por áudio se preferir. 🎙️",
-          "msg_time": "2026-03-14T20:21:19.963446"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Fábio Amaral\n\nMensagem(ns) do cliente:\nE para um recém-nascido\n\nMeu Neto",
-          "msg_time": "2026-03-14T20:46:08.701953"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Fábio, para o seu neto recém-nascido então. É muito importante termos a idade certinha para a cotação, ainda mais criança pequena. Você pode me informar a idade exata dele em dias ou meses? E só para registrar, qual cidade será o local de uso do plano?",
-          "msg_time": "2026-03-14T20:46:08.703844"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Fábio Amaral\n\nMensagem(ns) do cliente:\n01 mês\n\nNiteroi",
-          "msg_time": "2026-03-14T21:25:18.589633"
-        },
-        {
-          "role": "ai",
-          "content": "🤝  \nPerfeito, Fábio, um bebê de 1 mês em Niterói. Isso ajuda bastante. Para fechar o perfil e uma cotação correta: como será a contratação do plano, pessoa física (CPF) ou empresarial (CNPJ/MEI)? E você ou alguém mais vai entrar no plano?",
-          "msg_time": "2026-03-14T21:25:18.59284"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Fábio Amaral\n\nMensagem(ns) do cliente:\nPessoa física",
-          "msg_time": "2026-03-15T10:11:06.740978"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Fábio, contratação no CPF então. Para algumas operadoras, a profissão ajuda na precificação. Qual a sua profissão? E você já possui plano atualmente? Se sim, qual?",
-          "msg_time": "2026-03-15T10:11:06.744022"
-        },
-        {
-          "role": "system",
-          "content": "Fábio, ainda está por aí? Estou aguardando sua resposta para dar sequência.",
-          "msg_time": "2026-03-15T12:30:20.653721"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Fábio Amaral\n\nMensagem(ns) do cliente:\nTrabalho nos correios\n\nPlano postal saúde",
-          "msg_time": "2026-03-15T15:49:48.796026"
-        },
-        {
-          "role": "ai",
-          "content": "Ok, Fábio. E na sua avaliação, o que pesa mais para mudar do Postal Saúde? É o valor que está caro, a rede credenciada ou outra razão? Quero entender bem para ajudar.",
-          "msg_time": "2026-03-15T15:49:48.797794"
         }
       ]
     },
@@ -304,7 +314,7 @@
       "first_message_at": "2026-03-15T03:00:00.000Z",
       "last_message_at": "2026-03-15T16:27:14.201000Z",
       "last_bot_msg_at": "2026-03-15T13:27:13.800587",
-      "tempo_sem_interacao": "8h 3min",
+      "tempo_sem_interacao": "8h 18min",
       "first_id": 18740,
       "last_id": 18762,
       "last_message_preview": "Dados do lead no sistema:\nNome: Cleide\n\nMensagem(ns) do cliente:\nIdade de 9 anos e 18 anos\nSou de Ni...",
@@ -394,7 +404,7 @@
       "first_message_at": "2026-03-15T03:00:00.000Z",
       "last_message_at": "2026-03-15T11:12:31.633000Z",
       "last_bot_msg_at": "2026-03-15T08:12:26.007717",
-      "tempo_sem_interacao": "13h 17min",
+      "tempo_sem_interacao": "13h 32min",
       "first_id": 18746,
       "last_id": 18760,
       "last_message_preview": "Dados Fornecidos\nNome: Andreia\nContem CNPJ: não\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não...",
@@ -464,7 +474,7 @@
       "first_message_at": "2026-03-15T03:00:00.000Z",
       "last_message_at": "2026-03-15T08:17:32.471000Z",
       "last_bot_msg_at": "2026-03-15T05:17:25.529737",
-      "tempo_sem_interacao": "16h 12min",
+      "tempo_sem_interacao": "16h 27min",
       "first_id": 18744,
       "last_id": 18759,
       "last_message_preview": "Dados Fornecidos\nNome: Daniel\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não ...",
@@ -534,7 +544,7 @@
       "first_message_at": "2026-03-15T03:00:00.000Z",
       "last_message_at": "2026-03-15T04:19:31.915000Z",
       "last_bot_msg_at": "2026-03-15T01:19:25.014002",
-      "tempo_sem_interacao": "20h 10min",
+      "tempo_sem_interacao": "20h 25min",
       "first_id": 18738,
       "last_id": 18757,
       "last_message_preview": "Dados Fornecidos\nNome: Fábio\nContem CNPJ: Sim\nNumero de Vidas: 1 a 2 Vidas\nOperadora de Interesse: A...",
@@ -604,7 +614,7 @@
       "first_message_at": "2026-03-15T03:00:00.000Z",
       "last_message_at": "2026-03-15T03:47:32.947000Z",
       "last_bot_msg_at": "2026-03-15T00:47:25.300952",
-      "tempo_sem_interacao": "20h 42min",
+      "tempo_sem_interacao": "20h 57min",
       "first_id": 18736,
       "last_id": 18756,
       "last_message_preview": "Dados Fornecidos\nNome: Jorge\nContem CNPJ: não\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não i...",
@@ -674,7 +684,7 @@
       "first_message_at": "2026-03-14T03:00:00.000Z",
       "last_message_at": "2026-03-15T02:42:32.663000Z",
       "last_bot_msg_at": "2026-03-14T23:42:25.580233",
-      "tempo_sem_interacao": "21h 47min",
+      "tempo_sem_interacao": "22h 2min",
       "first_id": 18734,
       "last_id": 18735,
       "last_message_preview": "Dados Fornecidos\nNome: Luiz\nContem CNPJ: não\nNumero de Vidas: 4_vidas\nOperadora de Interesse: não in...",
@@ -734,7 +744,7 @@
       "first_message_at": "2026-03-14T03:00:00.000Z",
       "last_message_at": "2026-03-15T02:29:33.112000Z",
       "last_bot_msg_at": "2026-03-14T23:29:25.481481",
-      "tempo_sem_interacao": "22h",
+      "tempo_sem_interacao": "22h 15min",
       "first_id": 18732,
       "last_id": 18733,
       "last_message_preview": "Dados Fornecidos\nNome: Tatiane\nContem CNPJ: sim\nNumero de Vidas: 2_vidas\nOperadora de Interesse: não...",
@@ -794,7 +804,7 @@
       "first_message_at": "2026-03-14T03:00:00.000Z",
       "last_message_at": "2026-03-15T02:08:33.673000Z",
       "last_bot_msg_at": "2026-03-14T23:08:26.432184",
-      "tempo_sem_interacao": "22h 21min",
+      "tempo_sem_interacao": "22h 36min",
       "first_id": 18730,
       "last_id": 18731,
       "last_message_preview": "Dados Fornecidos\nNome: Jamilson\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: nã...",
@@ -854,7 +864,7 @@
       "first_message_at": "2026-03-14T03:00:00.000Z",
       "last_message_at": "2026-03-15T00:37:33.445000Z",
       "last_bot_msg_at": "2026-03-14T21:37:26.138394",
-      "tempo_sem_interacao": "23h 52min",
+      "tempo_sem_interacao": "1 dia",
       "first_id": 18728,
       "last_id": 18729,
       "last_message_preview": "Dados Fornecidos\nNome: prof\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não in...",
@@ -13233,7 +13243,7 @@
       "first_message_at": "2026-03-07T03:00:00.000Z",
       "last_message_at": "2026-03-08T00:37:03.801000Z",
       "last_bot_msg_at": "2026-03-07T21:36:57.602821",
-      "tempo_sem_interacao": "7 dias",
+      "tempo_sem_interacao": "8 dias",
       "first_id": 17227,
       "last_id": 18039,
       "last_message_preview": "Dados Fornecidos\nNome: Simone\nContem CNPJ: não\nNumero de Vidas: 2_vidas\nOperadora de Interesse: não ...",
@@ -13315,7 +13325,7 @@
       "first_message_at": "2026-03-07T03:00:00.000Z",
       "last_message_at": "2026-03-08T00:39:11.895000Z",
       "last_bot_msg_at": "2026-03-07T21:39:11.494693",
-      "tempo_sem_interacao": "7 dias",
+      "tempo_sem_interacao": "8 dias",
       "first_id": 17217,
       "last_id": 18038,
       "last_message_preview": "Olá gostaria de mais informações dos Planos de Saúde  Sulamérica",
@@ -13791,7 +13801,7 @@
       "first_message_at": "2026-03-09T03:00:00.000Z",
       "last_message_at": "2026-03-10T00:43:46.004000Z",
       "last_bot_msg_at": "2026-03-09T21:43:45.468561",
-      "tempo_sem_interacao": "5 dias",
+      "tempo_sem_interacao": "6 dias",
       "first_id": 18013,
       "last_id": 18014,
       "last_message_preview": "Olá Gostaria de uma cotação de um Plano de Saúde Amil",
