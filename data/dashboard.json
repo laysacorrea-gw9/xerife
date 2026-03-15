@@ -1,12 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-03-14T23:45:22.672Z",
+    "generated_at": "2026-03-15T00:00:26.324Z",
     "total_conversations": 200,
-    "total_messages": 4496,
+    "total_messages": 4498,
     "stats": {
       "quente": 37,
-      "morno": 122,
-      "frio": 41,
+      "morno": 123,
+      "frio": 40,
       "desinteresse": 0,
       "sem_classificacao": 0
     }
@@ -46,19 +46,19 @@
         "consultor": "",
         "obs_crm": "",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Fábio Amaral\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99605-7345\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n🎯 Interesse: Amil\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Fábio Amaral\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99605-7345\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n🎯 Interesse: Amil\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
       },
-      "status": "frio",
+      "status": "morno",
       "bot": "preto",
       "consultor": "",
-      "message_count": 2,
+      "message_count": 4,
       "first_message_at": "2026-03-14T03:00:00.000Z",
-      "last_message_at": "2026-03-14T23:21:20.398000Z",
-      "last_bot_msg_at": "2026-03-14T20:21:19.963446",
-      "tempo_sem_interacao": "3h 24min",
+      "last_message_at": "2026-03-14T23:46:09.159000Z",
+      "last_bot_msg_at": "2026-03-14T20:46:08.703844",
+      "tempo_sem_interacao": "3h 14min",
       "first_id": 18722,
-      "last_id": 18723,
-      "last_message_preview": "Dados do lead no sistema:\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano d...",
+      "last_id": 18725,
+      "last_message_preview": "Dados do lead no sistema:\nNome: Fábio Amaral\n\nMensagem(ns) do cliente:\nE para um recém-nascido\n\nMeu ...",
       "messages": [
         {
           "role": "user",
@@ -69,6 +69,16 @@
           "role": "ai",
           "content": "Olá! \nEu sou Gilberto, analista em Plano Saúde da Corretora GW9.\nTrabalhamos com todos os Planos de saúde no Rio de Janeiro. 🚀\nComo os valores dos Planos de saúde são tabelados e os preços mudam de acordo com a rede credenciada. Minha missão é de te ajudar a encontrar o produto que melhor lhe atenda na relação custo x acesso.\n[SPLIT]\nPor isso vou te fazer algumas perguntas, pode me dizer:\n1️⃣ Quantas pessoas são e as idades?\n2️⃣ Qual a cidade que busca atendimento? Se tiver algum hospital de sua preferência, me informe, também nos ajuda.\n3️⃣ Como o plano será contratado: empresarial (CNPJ/MEI)?\n4️⃣ Já possui Plano atualmente? Se sim qual?\nQual o seu nome?\nPode responder por áudio se preferir. 🎙️",
           "msg_time": "2026-03-14T20:21:19.963446"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: Fábio Amaral\n\nMensagem(ns) do cliente:\nE para um recém-nascido\n\nMeu Neto",
+          "msg_time": "2026-03-14T20:46:08.701953"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Fábio, para o seu neto recém-nascido então. É muito importante termos a idade certinha para a cotação, ainda mais criança pequena. Você pode me informar a idade exata dele em dias ou meses? E só para registrar, qual cidade será o local de uso do plano?",
+          "msg_time": "2026-03-14T20:46:08.703844"
         }
       ]
     },
@@ -115,7 +125,7 @@
       "first_message_at": "2026-03-14T03:00:00.000Z",
       "last_message_at": "2026-03-14T22:08:21.328000Z",
       "last_bot_msg_at": "2026-03-14T19:08:20.831717",
-      "tempo_sem_interacao": "4h 37min",
+      "tempo_sem_interacao": "4h 52min",
       "first_id": 18720,
       "last_id": 18721,
       "last_message_preview": "Dados do lead no sistema:\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano d...",
@@ -175,7 +185,7 @@
       "first_message_at": "2026-03-14T03:00:00.000Z",
       "last_message_at": "2026-03-14T21:24:32.585000Z",
       "last_bot_msg_at": "2026-03-14T18:24:24.55226",
-      "tempo_sem_interacao": "5h 20min",
+      "tempo_sem_interacao": "5h 36min",
       "first_id": 18712,
       "last_id": 18719,
       "last_message_preview": "Dados Fornecidos\nNome: Marcelo\nContem CNPJ: não\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não...",
@@ -240,7 +250,7 @@
       "first_message_at": "2026-03-14T03:00:00.000Z",
       "last_message_at": "2026-03-14T21:16:23.186000Z",
       "last_bot_msg_at": "2026-03-14T18:16:22.761566",
-      "tempo_sem_interacao": "5h 28min",
+      "tempo_sem_interacao": "5h 44min",
       "first_id": 18700,
       "last_id": 18718,
       "last_message_preview": "Dados do lead no sistema:\nNome: MONALISA\n\nMensagem(ns) do cliente:\nOk",
@@ -355,7 +365,7 @@
       "first_message_at": "2026-03-14T03:00:00.000Z",
       "last_message_at": "2026-03-14T21:01:55.643000Z",
       "last_bot_msg_at": "2026-03-14T18:01:55.216045",
-      "tempo_sem_interacao": "5h 43min",
+      "tempo_sem_interacao": "5h 58min",
       "first_id": 18698,
       "last_id": 18717,
       "last_message_preview": "Dados do lead no sistema:\nNome: \n\nMensagem(ns) do cliente:\nOlá gostaria de mais informações dos Plan...",
@@ -420,7 +430,7 @@
       "first_message_at": "2026-03-14T03:00:00.000Z",
       "last_message_at": "2026-03-14T20:33:22.694000Z",
       "last_bot_msg_at": "2026-03-14T17:33:22.217865",
-      "tempo_sem_interacao": "6h 12min",
+      "tempo_sem_interacao": "6h 27min",
       "first_id": 18696,
       "last_id": 18716,
       "last_message_preview": "Dados do lead no sistema:\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano d...",
@@ -492,7 +502,7 @@
       "first_message_at": "2026-03-14T03:00:00.000Z",
       "last_message_at": "2026-03-14T20:08:39.223000Z",
       "last_bot_msg_at": "2026-03-14T17:08:38.828645",
-      "tempo_sem_interacao": "6h 36min",
+      "tempo_sem_interacao": "6h 51min",
       "first_id": 18682,
       "last_id": 18715,
       "last_message_preview": "Dados do lead no sistema:\nNome: Tanio\n\nMensagem(ns) do cliente:\nO modo mais barato",
@@ -614,7 +624,7 @@
       "first_message_at": "2026-03-13T03:00:00.000Z",
       "last_message_at": "2026-03-14T11:29:30.212000Z",
       "last_bot_msg_at": "2026-03-14T08:29:29.764184",
-      "tempo_sem_interacao": "15h 15min",
+      "tempo_sem_interacao": "15h 30min",
       "first_id": 18624,
       "last_id": 18714,
       "last_message_preview": "Dados do lead no sistema:\nNome: Alfredo\n\nMensagem(ns) do cliente:\nNão. Atualmente estou morando em M...",
@@ -718,7 +728,7 @@
       "first_message_at": "2026-03-14T19:38:25.208Z",
       "last_message_at": "2026-03-14T19:38:25.210Z",
       "last_bot_msg_at": "2026-03-14T16:38:25.21045",
-      "tempo_sem_interacao": "7h 6min",
+      "tempo_sem_interacao": "7h 22min",
       "first_id": 18684,
       "last_id": 18685,
       "last_message_preview": "Dados Fornecidos\nNome: Carlos\nContem CNPJ: não\nNumero de Vidas: 2_vidas\nOperadora de Interesse: não ...",
@@ -15318,7 +15328,7 @@
       "first_message_at": "2026-03-08T02:48:57.471Z",
       "last_message_at": "2026-03-08T02:48:57.474Z",
       "last_bot_msg_at": "2026-03-07T23:48:57.474649",
-      "tempo_sem_interacao": "6 dias",
+      "tempo_sem_interacao": "7 dias",
       "first_id": 17235,
       "last_id": 17236,
       "last_message_preview": "Dados Fornecidos\nNome: Rodrigo\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não...",
