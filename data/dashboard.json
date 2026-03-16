@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_at": "2026-03-16T00:15:22.377Z",
+    "generated_at": "2026-03-16T00:30:22.109Z",
     "total_conversations": 200,
-    "total_messages": 4437,
+    "total_messages": 4441,
     "stats": {
       "quente": 36,
       "morno": 121,
@@ -12,6 +12,108 @@
     }
   },
   "conversations": [
+    {
+      "session_id": "5521999184860@s.whatsapp.net",
+      "phone": "5521999184860",
+      "phone_display": "+55 21 99918-4860",
+      "lead": {
+        "baserow_id": 1175,
+        "nome": "Marcos",
+        "email": "mocalazans@gmail.com",
+        "qtd_vidas": 2,
+        "desinteresse": false,
+        "gilbertinho_off": false,
+        "observacoes": "",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Marcos",
+        "email": "mocalazans@gmail.com",
+        "telefone": "+55 21 99918-4860",
+        "vidas": [
+          {
+            "idade": 71
+          },
+          {
+            "idade": 62
+          }
+        ],
+        "cidade": "Niterói / RJ",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "Incluir novas vidas",
+        "interesse": "",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "",
+        "bot": "Gilbertinho Amarelo (2373)",
+        "formatted": "👤 Cliente: Marcos\n📧 E-mail: mocalazans@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99918-4860\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nMarcos — 71 anos\nDependente 1 — 62 anos\n\n📋 Dados contratuais:\n\nCidade: Niterói / RJ\nContratação: CNPJ\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)"
+      },
+      "status": "morno",
+      "bot": "amarelo",
+      "consultor": "",
+      "message_count": 9,
+      "first_message_at": "2026-03-15T03:00:00.000Z",
+      "last_message_at": "2026-03-16T00:20:33.153000Z",
+      "last_bot_msg_at": "2026-03-15T21:20:32.623599",
+      "tempo_sem_interacao": "3h 9min",
+      "first_id": 18765,
+      "last_id": 18784,
+      "last_message_preview": "Dados do lead no sistema:\nNome: Marcos\n\nMensagem(ns) do cliente:\nOk obgdo",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados Fornecidos\nNome: Marcos\nContem CNPJ: sim\nNumero de Vidas: 2_vidas\nOperadora de Interesse: não informado\nRegião: Não Informado\nPropaganda:\n",
+          "msg_time": "2026-03-15T16:09:25.351415"
+        },
+        {
+          "role": "ai",
+          "content": "Oi Marcos, eu sou o Gilberto da GW9 Saúde. Você pediu o nosso contato para saber mais sobre Plano de Saúde e você mencionou que tem interesse em um plano para 2 pessoas e que já possui um CNPJ. Pra te ajudar e ser mais assertivo, preciso confirmar mais algumas informações. Tudo bem?",
+          "msg_time": "2026-03-15T16:09:25.353737"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: Marcos\n\nMensagem(ns) do cliente:\nQueria saber qto custa 2 vidas sa Amil com e sem CNPJ\n\n71 e 62 anos",
+          "msg_time": "2026-03-15T16:10:50.135591"
+        },
+        {
+          "role": "ai",
+          "content": "Marcos, entendi que são 2 vidas, com idades 71 e 62 anos, certo? Para seguir, só preciso confirmar a cidade onde o plano será utilizado e se a contratação será por pessoa física (CPF) ou empresarial (CNPJ), para calcular o melhor custo para você. Pode me informar?",
+          "msg_time": "2026-03-15T16:10:50.13842"
+        },
+        {
+          "role": "system",
+          "content": "Marcos, ainda está por aí? Estou aguardando sua resposta para dar sequência.",
+          "msg_time": "2026-03-15T19:01:24.721794"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: Marcos\n\nMensagem(ns) do cliente:\nOi pessoa física cidade de Niterói",
+          "msg_time": "2026-03-15T21:19:44.541246"
+        },
+        {
+          "role": "ai",
+          "content": "Marcos, pelo que entendi, 2 vidas com 71 e 62 anos, plano pessoa física em Niterói. Correto? Vou encaminhar para um consultor te apresentar as opções e valores da Amil. Um momento, por favor.",
+          "msg_time": "2026-03-15T21:19:44.544689"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: Marcos\n\nMensagem(ns) do cliente:\nOk obgdo",
+          "msg_time": "2026-03-15T21:20:32.621428"
+        },
+        {
+          "role": "ai",
+          "content": "Marcos, agradeço por compartilhar as informações! Vou tentar novamente encaminhar seus dados para o consultor responsável e em breve ele entrará em contato para apresentar as opções da Amil para 2 vidas em Niterói no plano pessoa física. Pode aguardar um instante?",
+          "msg_time": "2026-03-15T21:20:32.623599"
+        }
+      ]
+    },
     {
       "session_id": "5521964776035@s.whatsapp.net",
       "phone": "5521964776035",
@@ -55,7 +157,7 @@
       "first_message_at": "2026-03-15T03:00:00.000Z",
       "last_message_at": "2026-03-15T20:06:32.049000Z",
       "last_bot_msg_at": "2026-03-15T17:06:26.190976",
-      "tempo_sem_interacao": "7h 8min",
+      "tempo_sem_interacao": "7h 23min",
       "first_id": 18769,
       "last_id": 18780,
       "last_message_preview": "Dados Fornecidos\nNome: André\nContem CNPJ: não\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não i...",
@@ -74,88 +176,6 @@
           "role": "system",
           "content": "André, ainda está por aí? Estou aguardando sua resposta para dar sequência.",
           "msg_time": "2026-03-15T19:01:28.041361"
-        }
-      ]
-    },
-    {
-      "session_id": "5521999184860@s.whatsapp.net",
-      "phone": "5521999184860",
-      "phone_display": "+55 21 99918-4860",
-      "lead": {
-        "baserow_id": 1175,
-        "nome": "Marcos",
-        "email": "mocalazans@gmail.com",
-        "qtd_vidas": 2,
-        "desinteresse": false,
-        "gilbertinho_off": false,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Marcos",
-        "email": "mocalazans@gmail.com",
-        "telefone": "+55 21 99918-4860",
-        "vidas": [
-          {
-            "idade": 71
-          },
-          {
-            "idade": 62
-          }
-        ],
-        "cidade": "",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "",
-        "bot": "Gilbertinho Amarelo (2373)",
-        "formatted": "👤 Cliente: Marcos\n📧 E-mail: mocalazans@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99918-4860\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nMarcos — 71 anos\nDependente 1 — 62 anos\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)"
-      },
-      "status": "morno",
-      "bot": "amarelo",
-      "consultor": "",
-      "message_count": 5,
-      "first_message_at": "2026-03-15T03:00:00.000Z",
-      "last_message_at": "2026-03-15T19:10:50.569000Z",
-      "last_bot_msg_at": "2026-03-15T16:10:50.13842",
-      "tempo_sem_interacao": "8h 4min",
-      "first_id": 18765,
-      "last_id": 18779,
-      "last_message_preview": "Dados do lead no sistema:\nNome: Marcos\n\nMensagem(ns) do cliente:\nQueria saber qto custa 2 vidas sa A...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados Fornecidos\nNome: Marcos\nContem CNPJ: sim\nNumero de Vidas: 2_vidas\nOperadora de Interesse: não informado\nRegião: Não Informado\nPropaganda:\n",
-          "msg_time": "2026-03-15T16:09:25.351415"
-        },
-        {
-          "role": "ai",
-          "content": "Oi Marcos, eu sou o Gilberto da GW9 Saúde. Você pediu o nosso contato para saber mais sobre Plano de Saúde e você mencionou que tem interesse em um plano para 2 pessoas e que já possui um CNPJ. Pra te ajudar e ser mais assertivo, preciso confirmar mais algumas informações. Tudo bem?",
-          "msg_time": "2026-03-15T16:09:25.353737"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Marcos\n\nMensagem(ns) do cliente:\nQueria saber qto custa 2 vidas sa Amil com e sem CNPJ\n\n71 e 62 anos",
-          "msg_time": "2026-03-15T16:10:50.135591"
-        },
-        {
-          "role": "ai",
-          "content": "Marcos, entendi que são 2 vidas, com idades 71 e 62 anos, certo? Para seguir, só preciso confirmar a cidade onde o plano será utilizado e se a contratação será por pessoa física (CPF) ou empresarial (CNPJ), para calcular o melhor custo para você. Pode me informar?",
-          "msg_time": "2026-03-15T16:10:50.13842"
-        },
-        {
-          "role": "system",
-          "content": "Marcos, ainda está por aí? Estou aguardando sua resposta para dar sequência.",
-          "msg_time": "2026-03-15T19:01:24.721794"
         }
       ]
     },
@@ -202,7 +222,7 @@
       "first_message_at": "2026-03-15T03:00:00.000Z",
       "last_message_at": "2026-03-15T11:12:31.633000Z",
       "last_bot_msg_at": "2026-03-15T08:12:26.007717",
-      "tempo_sem_interacao": "16h 2min",
+      "tempo_sem_interacao": "16h 17min",
       "first_id": 18746,
       "last_id": 18778,
       "last_message_preview": "Dados Fornecidos\nNome: Andreia\nContem CNPJ: não\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não...",
@@ -277,7 +297,7 @@
       "first_message_at": "2026-03-15T03:00:00.000Z",
       "last_message_at": "2026-03-15T08:17:32.471000Z",
       "last_bot_msg_at": "2026-03-15T05:17:25.529737",
-      "tempo_sem_interacao": "18h 57min",
+      "tempo_sem_interacao": "19h 12min",
       "first_id": 18744,
       "last_id": 18777,
       "last_message_preview": "Dados Fornecidos\nNome: Daniel\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não ...",
@@ -359,7 +379,7 @@
       "first_message_at": "2026-03-15T03:00:00.000Z",
       "last_message_at": "2026-03-15T16:27:14.201000Z",
       "last_bot_msg_at": "2026-03-15T13:27:13.800587",
-      "tempo_sem_interacao": "10h 48min",
+      "tempo_sem_interacao": "11h 3min",
       "first_id": 18740,
       "last_id": 18776,
       "last_message_preview": "Dados do lead no sistema:\nNome: Cleide\n\nMensagem(ns) do cliente:\nIdade de 9 anos e 18 anos\nSou de Ni...",
@@ -454,7 +474,7 @@
       "first_message_at": "2026-03-15T03:00:00.000Z",
       "last_message_at": "2026-03-15T04:19:31.915000Z",
       "last_bot_msg_at": "2026-03-15T01:19:25.014002",
-      "tempo_sem_interacao": "22h 55min",
+      "tempo_sem_interacao": "23h 10min",
       "first_id": 18738,
       "last_id": 18775,
       "last_message_preview": "Dados Fornecidos\nNome: Fábio\nContem CNPJ: Sim\nNumero de Vidas: 1 a 2 Vidas\nOperadora de Interesse: A...",
@@ -529,7 +549,7 @@
       "first_message_at": "2026-03-15T03:00:00.000Z",
       "last_message_at": "2026-03-15T03:47:32.947000Z",
       "last_bot_msg_at": "2026-03-15T00:47:25.300952",
-      "tempo_sem_interacao": "23h 27min",
+      "tempo_sem_interacao": "23h 42min",
       "first_id": 18736,
       "last_id": 18774,
       "last_message_preview": "Dados Fornecidos\nNome: Jorge\nContem CNPJ: não\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não i...",
@@ -604,7 +624,7 @@
       "first_message_at": "2026-03-14T03:00:00.000Z",
       "last_message_at": "2026-03-15T21:41:17.309000Z",
       "last_bot_msg_at": "2026-03-15T18:41:16.783572",
-      "tempo_sem_interacao": "5h 34min",
+      "tempo_sem_interacao": "5h 49min",
       "first_id": 18722,
       "last_id": 18773,
       "last_message_preview": "Dados do lead no sistema:\nNome: Fábio Amaral\n\nMensagem(ns) do cliente:\nEu não vou mudar, só estou av...",
