@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_at": "2026-03-16T08:00:22.635Z",
+    "generated_at": "2026-03-16T08:15:23.752Z",
     "total_conversations": 200,
-    "total_messages": 4442,
+    "total_messages": 4452,
     "stats": {
       "quente": 36,
       "morno": 121,
@@ -45,20 +45,20 @@
         "contato": "WhatsApp",
         "consultor": "",
         "obs_crm": "",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Vitor\n📧 E-mail: hvitor40@yahoo.com.br\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98593-8552\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n🎯 Rede preferencial: Rede D'Or\n\n🎯 Interesse: Rede D'or\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
+        "bot": "Gilbertinho Amarelo (2373)",
+        "formatted": "👤 Cliente: Vitor\n📧 E-mail: hvitor40@yahoo.com.br\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98593-8552\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n🎯 Rede preferencial: Rede D'Or\n\n🎯 Interesse: Rede D'or\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)"
       },
       "status": "morno",
-      "bot": "preto",
+      "bot": "amarelo",
       "consultor": "",
-      "message_count": 4,
+      "message_count": 14,
       "first_message_at": "2026-03-16T03:00:00.000Z",
-      "last_message_at": "2026-03-16T07:59:25.908000Z",
-      "last_bot_msg_at": "2026-03-16T04:59:25.542246",
+      "last_message_at": "2026-03-16T08:14:54.279000Z",
+      "last_bot_msg_at": "2026-03-16T05:14:53.854112",
       "tempo_sem_interacao": "3h",
       "first_id": 18797,
-      "last_id": 18800,
-      "last_message_preview": "Dados do lead no sistema:\nNome: Vitor\n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação do  pla...",
+      "last_id": 18810,
+      "last_message_preview": "Dados do lead no sistema:\nNome: Vitor\n\nMensagem(ns) do cliente:\nTem cotação apenas para a Rede D'or ...",
       "messages": [
         {
           "role": "user",
@@ -79,6 +79,56 @@
           "role": "ai",
           "content": "Olá, Vitor! Eu sou Gilberto, analista em Plano Saúde da Corretora GW9.\nTrabalhamos com todos os Planos de saúde no Rio de Janeiro. 🚀\nComo os valores dos Planos de saúde são tabelados e os preços mudam de acordo com a rede credenciada. Minha missão é de te ajudar a encontrar o produto que melhor lhe atenda na relação custo x acesso.\n[SPLIT]\nPor isso vou te fazer algumas perguntas, pode me dizer:\n1️⃣ Quantas pessoas são e as idades?\n2️⃣ Qual a cidade que busca atendimento? Se tiver algum hospital de sua preferência, me informe, também nos ajuda.\n3️⃣ Como o plano será contratado: empresarial (CNPJ/MEI)?\n4️⃣ Já possui Plano atualmente? Se sim qual?\n\nPode responder por áudio se preferir. 🎙️",
           "msg_time": "2026-03-16T04:59:25.542246"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: Vitor\n\nMensagem(ns) do cliente:\nNo meu caso eu estou pesquisando ainda. E gostaria de saber a cotação do plano próprio  da Rede D'or e é para uma pessoa com CPF.",
+          "msg_time": "2026-03-16T05:02:51.853128"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Vitor. Para te passar a cotação certa do plano Rede D'or para 1 pessoa com CPF, preciso só confirmar a idade dessa pessoa e a cidade onde pretende usar o plano. Pode me informar?",
+          "msg_time": "2026-03-16T05:02:51.855723"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: Vitor\n\nMensagem(ns) do cliente:\n64 anos.  Usar apenas no Rio de Janeiro.",
+          "msg_time": "2026-03-16T05:04:25.130928"
+        },
+        {
+          "role": "ai",
+          "content": "Perfeito, Vitor! Pra fechar essa parte inicial: você já possui algum plano hoje ou está sem? Tem algum hospital ou médico que faça questão de ter na rede?",
+          "msg_time": "2026-03-16T05:04:25.132458"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: Vitor\n\nMensagem(ns) do cliente:\nTenho plano de saúde. Mas gostaria de saber a  cotação do plano de saúde próprio da Rede D'or.  E ouvi um amigo falar desse plano, e  Nem imaginava que existia.",
+          "msg_time": "2026-03-16T05:07:59.114383"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Vitor. É muito comum descobrir novas opções através de recomendações. E o que pesa mais pra você querer esse plano da Rede D'or? Valor, cobertura ou algo mais?",
+          "msg_time": "2026-03-16T05:07:59.116495"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: Vitor\n\nMensagem(ns) do cliente:\nValor e cobertura. E esse plano é  só para um hospital da Rede D'or no Rio, ou pode ser usado para todas as Rede D'or  do Rio. Tipo: Barra, Copacabana, e Tijuca..... ?",
+          "msg_time": "2026-03-16T05:12:51.870951"
+        },
+        {
+          "role": "ai",
+          "content": "Vitor, o plano próprio da Rede D'or cobre todas as unidades da rede no Rio, incluindo Barra, Copacabana e Tijuca. Assim, você tem acesso completo onde precisar dentro dessa rede. Posso confirmar essas informações para avançar na cotação?",
+          "msg_time": "2026-03-16T05:12:51.873309"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: Vitor\n\nMensagem(ns) do cliente:\nTem cotação apenas para a Rede D'or Tijuca? Ou tem que ser  para todas?",
+          "msg_time": "2026-03-16T05:14:53.851885"
+        },
+        {
+          "role": "ai",
+          "content": "Vitor, o plano próprio da Rede D'or é válido para todas as unidades da rede no Rio, não apenas Tijuca. Então, a cotação inclui o acesso a todas elas. Confirmando esses dados, posso seguir com sua cotação?",
+          "msg_time": "2026-03-16T05:14:53.854112"
         }
       ]
     },
@@ -132,7 +182,7 @@
       "first_message_at": "2026-03-15T03:00:00.000Z",
       "last_message_at": "2026-03-16T00:40:08.455000Z",
       "last_bot_msg_at": "2026-03-15T21:40:07.994866",
-      "tempo_sem_interacao": "10h 20min",
+      "tempo_sem_interacao": "10h 35min",
       "first_id": 18765,
       "last_id": 18796,
       "last_message_preview": "Dados do lead no sistema:\nNome: Marcos\n\nMensagem(ns) do cliente:\nSaio frustrado. Amanhã vou no centr...",
@@ -287,7 +337,7 @@
       "first_message_at": "2026-03-15T03:00:00.000Z",
       "last_message_at": "2026-03-15T20:06:32.049000Z",
       "last_bot_msg_at": "2026-03-15T17:06:26.190976",
-      "tempo_sem_interacao": "14h 53min",
+      "tempo_sem_interacao": "15h 8min",
       "first_id": 18769,
       "last_id": 18780,
       "last_message_preview": "Dados Fornecidos\nNome: André\nContem CNPJ: não\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não i...",
@@ -352,7 +402,7 @@
       "first_message_at": "2026-03-15T03:00:00.000Z",
       "last_message_at": "2026-03-15T11:12:31.633000Z",
       "last_bot_msg_at": "2026-03-15T08:12:26.007717",
-      "tempo_sem_interacao": "23h 47min",
+      "tempo_sem_interacao": "1 dia",
       "first_id": 18746,
       "last_id": 18778,
       "last_message_preview": "Dados Fornecidos\nNome: Andreia\nContem CNPJ: não\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não...",
@@ -509,7 +559,7 @@
       "first_message_at": "2026-03-15T03:00:00.000Z",
       "last_message_at": "2026-03-15T16:27:14.201000Z",
       "last_bot_msg_at": "2026-03-15T13:27:13.800587",
-      "tempo_sem_interacao": "18h 33min",
+      "tempo_sem_interacao": "18h 48min",
       "first_id": 18740,
       "last_id": 18776,
       "last_message_preview": "Dados do lead no sistema:\nNome: Cleide\n\nMensagem(ns) do cliente:\nIdade de 9 anos e 18 anos\nSou de Ni...",
@@ -754,7 +804,7 @@
       "first_message_at": "2026-03-14T03:00:00.000Z",
       "last_message_at": "2026-03-15T21:41:17.309000Z",
       "last_bot_msg_at": "2026-03-15T18:41:16.783572",
-      "tempo_sem_interacao": "13h 19min",
+      "tempo_sem_interacao": "13h 34min",
       "first_id": 18722,
       "last_id": 18773,
       "last_message_preview": "Dados do lead no sistema:\nNome: Fábio Amaral\n\nMensagem(ns) do cliente:\nEu não vou mudar, só estou av...",
@@ -10299,7 +10349,7 @@
       "first_message_at": "2026-03-09T03:00:00.000Z",
       "last_message_at": "2026-03-09T11:08:58.952000Z",
       "last_bot_msg_at": "2026-03-09T08:08:52.924314",
-      "tempo_sem_interacao": "6 dias",
+      "tempo_sem_interacao": "7 dias",
       "first_id": 17548,
       "last_id": 18189,
       "last_message_preview": "Dados Fornecidos\nNome: Anderson\nContem CNPJ: não\nNumero de Vidas: 3_vidas\nOperadora de Interesse: nã...",
