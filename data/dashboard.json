@@ -1,17 +1,272 @@
 {
   "meta": {
-    "generated_at": "2026-03-16T16:15:22.655Z",
+    "generated_at": "2026-03-16T16:30:22.247Z",
     "total_conversations": 200,
-    "total_messages": 4346,
+    "total_messages": 4349,
     "stats": {
       "quente": 36,
-      "morno": 120,
-      "frio": 44,
+      "morno": 121,
+      "frio": 43,
       "desinteresse": 0,
       "sem_classificacao": 0
     }
   },
   "conversations": [
+    {
+      "session_id": "5521985938552@s.whatsapp.net",
+      "phone": "5521985938552",
+      "phone_display": "+55 21 98593-8552",
+      "lead": {
+        "baserow_id": 1177,
+        "nome": "Vitor",
+        "email": "hvitor40@yahoo.com.br",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "gilbertinho_off": false,
+        "observacoes": "",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Vitor",
+        "email": "hvitor40@yahoo.com.br",
+        "telefone": "+55 21 98593-8552",
+        "vidas": [],
+        "cidade": "Rio de Janeiro / RJ",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "MEI",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "Rede D'or",
+        "rede_preferencial": "Rede D'Or",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "",
+        "bot": "Gilbertinho Amarelo (2373)",
+        "formatted": "👤 Cliente: Vitor\n📧 E-mail: hvitor40@yahoo.com.br\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98593-8552\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n🎯 Rede preferencial: Rede D'Or\n\n🎯 Interesse: Rede D'or\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)"
+      },
+      "status": "morno",
+      "bot": "amarelo",
+      "consultor": "",
+      "message_count": 28,
+      "first_message_at": "2026-03-16T03:00:00.000Z",
+      "last_message_at": "2026-03-16T16:27:04.760000Z",
+      "last_bot_msg_at": "2026-03-16T13:27:04.239208",
+      "tempo_sem_interacao": "3h 3min",
+      "first_id": 18797,
+      "last_id": 18924,
+      "last_message_preview": "Dados do lead no sistema:\nNome: Vitor\n\nMensagem(ns) do cliente:\nEu já dei a resposta. Gostaria de sa...",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados Fornecidos\nNome: Vitor\nContem CNPJ: Sim\nNumero de Vidas: 2 Vidas\nOperadora de Interesse: não informado\nRegião: Não Informado\nPropaganda:\n",
+          "msg_time": "2026-03-16T04:58:26.224899"
+        },
+        {
+          "role": "ai",
+          "content": "Oi Vitor, eu sou o Gilberto da GW9 Saúde. Você pediu o nosso contato para saber mais sobre plano de saúde e vi que tem interesse para 2 vidas e já possui um CNPJ. Pra te ajudar e ser mais assertivo, preciso confirmar mais algumas informações. Tudo bem?",
+          "msg_time": "2026-03-16T04:58:26.228301"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: Vitor\n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação do  plano de saúde próprio da Rede D'or para uma  pessoa com 59 anos ou mais?",
+          "msg_time": "2026-03-16T04:59:25.539948"
+        },
+        {
+          "role": "ai",
+          "content": "Olá, Vitor! Eu sou Gilberto, analista em Plano Saúde da Corretora GW9.\nTrabalhamos com todos os Planos de saúde no Rio de Janeiro. 🚀\nComo os valores dos Planos de saúde são tabelados e os preços mudam de acordo com a rede credenciada. Minha missão é de te ajudar a encontrar o produto que melhor lhe atenda na relação custo x acesso.\n[SPLIT]\nPor isso vou te fazer algumas perguntas, pode me dizer:\n1️⃣ Quantas pessoas são e as idades?\n2️⃣ Qual a cidade que busca atendimento? Se tiver algum hospital de sua preferência, me informe, também nos ajuda.\n3️⃣ Como o plano será contratado: empresarial (CNPJ/MEI)?\n4️⃣ Já possui Plano atualmente? Se sim qual?\n\nPode responder por áudio se preferir. 🎙️",
+          "msg_time": "2026-03-16T04:59:25.542246"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: Vitor\n\nMensagem(ns) do cliente:\nNo meu caso eu estou pesquisando ainda. E gostaria de saber a cotação do plano próprio  da Rede D'or e é para uma pessoa com CPF.",
+          "msg_time": "2026-03-16T05:02:51.853128"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Vitor. Para te passar a cotação certa do plano Rede D'or para 1 pessoa com CPF, preciso só confirmar a idade dessa pessoa e a cidade onde pretende usar o plano. Pode me informar?",
+          "msg_time": "2026-03-16T05:02:51.855723"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: Vitor\n\nMensagem(ns) do cliente:\n64 anos.  Usar apenas no Rio de Janeiro.",
+          "msg_time": "2026-03-16T05:04:25.130928"
+        },
+        {
+          "role": "ai",
+          "content": "Perfeito, Vitor! Pra fechar essa parte inicial: você já possui algum plano hoje ou está sem? Tem algum hospital ou médico que faça questão de ter na rede?",
+          "msg_time": "2026-03-16T05:04:25.132458"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: Vitor\n\nMensagem(ns) do cliente:\nTenho plano de saúde. Mas gostaria de saber a  cotação do plano de saúde próprio da Rede D'or.  E ouvi um amigo falar desse plano, e  Nem imaginava que existia.",
+          "msg_time": "2026-03-16T05:07:59.114383"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Vitor. É muito comum descobrir novas opções através de recomendações. E o que pesa mais pra você querer esse plano da Rede D'or? Valor, cobertura ou algo mais?",
+          "msg_time": "2026-03-16T05:07:59.116495"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: Vitor\n\nMensagem(ns) do cliente:\nValor e cobertura. E esse plano é  só para um hospital da Rede D'or no Rio, ou pode ser usado para todas as Rede D'or  do Rio. Tipo: Barra, Copacabana, e Tijuca..... ?",
+          "msg_time": "2026-03-16T05:12:51.870951"
+        },
+        {
+          "role": "ai",
+          "content": "Vitor, o plano próprio da Rede D'or cobre todas as unidades da rede no Rio, incluindo Barra, Copacabana e Tijuca. Assim, você tem acesso completo onde precisar dentro dessa rede. Posso confirmar essas informações para avançar na cotação?",
+          "msg_time": "2026-03-16T05:12:51.873309"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: Vitor\n\nMensagem(ns) do cliente:\nTem cotação apenas para a Rede D'or Tijuca? Ou tem que ser  para todas?",
+          "msg_time": "2026-03-16T05:14:53.851885"
+        },
+        {
+          "role": "ai",
+          "content": "Vitor, o plano próprio da Rede D'or é válido para todas as unidades da rede no Rio, não apenas Tijuca. Então, a cotação inclui o acesso a todas elas. Confirmando esses dados, posso seguir com sua cotação?",
+          "msg_time": "2026-03-16T05:14:53.854112"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: Vitor\n\nMensagem(ns) do cliente:\nFormato de mensagem enviada nao suportado\n\nSim.",
+          "msg_time": "2026-03-16T05:15:38.324643"
+        },
+        {
+          "role": "ai",
+          "content": "Vitor, pelo que entendi: 1 vida, no Rio de Janeiro, plano próprio da Rede D'or para CPF. Está correto? Se sim, vou encaminhar para o consultor preparar a cotação para você.",
+          "msg_time": "2026-03-16T05:15:38.326245"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: Vitor\n\nMensagem(ns) do cliente:\nCorreto",
+          "msg_time": "2026-03-16T05:16:54.188992"
+        },
+        {
+          "role": "ai",
+          "content": "Vitor, obrigado por compartilhar as informacoes! O consultor já recebeu tudo sobre o plano Rede D'or para 1 vida no Rio de Janeiro e vai te chamar aqui no WhatsApp. Obrigado!",
+          "msg_time": "2026-03-16T05:16:54.19063"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: Vitor\n\nMensagem(ns) do cliente:\nFormato de mensagem enviada nao suportado",
+          "msg_time": "2026-03-16T05:17:31.520876"
+        },
+        {
+          "role": "ai",
+          "content": "Vitor, obrigado por confirmar! Vou encaminhar suas informações para o consultor especializado na Rede D'or e ele vai te chamar aqui no WhatsApp em breve. Obrigado!",
+          "msg_time": "2026-03-16T05:17:31.522462"
+        },
+        {
+          "role": "system",
+          "content": "Vitor, ainda está por aí? Estou aguardando sua resposta para dar sequência.",
+          "msg_time": "2026-03-16T09:00:51.187441"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: Vitor\n\nMensagem(ns) do cliente:\nPode dar sequência nas informações.",
+          "msg_time": "2026-03-16T10:59:14.110157"
+        },
+        {
+          "role": "ai",
+          "content": "Vitor, pelo que entendi: 1 vida, no Rio de Janeiro, plano próprio da Rede D'or para CPF. Correto? Vou encaminhar para o consultor preparar sua cotação.",
+          "msg_time": "2026-03-16T10:59:14.117509"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: Vitor\n\nMensagem(ns) do cliente:\nCorreto.",
+          "msg_time": "2026-03-16T11:04:32.192093"
+        },
+        {
+          "role": "ai",
+          "content": "Vitor, obrigado por confirmar! Vou encaminhar suas informações para o consultor especializado na Rede D'or e ele vai te chamar aqui no WhatsApp em breve. Obrigado!",
+          "msg_time": "2026-03-16T11:04:32.195783"
+        },
+        {
+          "role": "system",
+          "content": "Vitor, ainda está por aí? Estou aguardando sua resposta para dar sequência.",
+          "msg_time": "2026-03-16T12:30:31.21366"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: Vitor\n\nMensagem(ns) do cliente:\nEu já dei a resposta. Gostaria de saber o valor do plano de saúde próprio da Rede D'or.",
+          "msg_time": "2026-03-16T13:27:04.235797"
+        },
+        {
+          "role": "ai",
+          "content": "Parece que houve um problema ao tentar encaminhar suas informações para o consultor. Vou tentar novamente para garantir que você receba a cotação do plano da Rede D'or. Um momento, por favor.",
+          "msg_time": "2026-03-16T13:27:04.239208"
+        }
+      ]
+    },
+    {
+      "session_id": "5521965507000@s.whatsapp.net",
+      "phone": "5521965507000",
+      "phone_display": "+55 21 96550-7000",
+      "lead": {
+        "baserow_id": 1164,
+        "nome": "Izabel  Iria d'Abbadia",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "gilbertinho_off": true,
+        "observacoes": "",
+        "reagendamento": null,
+        "corretor": "João",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Izabel  Iria d'Abbadia",
+        "email": "",
+        "telefone": "+55 21 96550-7000",
+        "vidas": [],
+        "cidade": "Rio de Janeiro / RJ",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "MEI",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "Amil",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "João",
+        "obs_crm": "",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Izabel  Iria d'Abbadia\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96550-7000\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n🎯 Interesse: Amil\n👤 Consultor: João\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "morno",
+      "bot": "preto",
+      "consultor": "João",
+      "message_count": 3,
+      "first_message_at": "2026-03-14T03:00:00.000Z",
+      "last_message_at": "2026-03-14T22:08:21.328000Z",
+      "last_bot_msg_at": "2026-03-14T19:08:20.831717",
+      "tempo_sem_interacao": "1 dia",
+      "first_id": 18720,
+      "last_id": 18922,
+      "last_message_preview": "Dados do lead no sistema:\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano d...",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Amil",
+          "msg_time": "2026-03-14T19:08:20.827073"
+        },
+        {
+          "role": "ai",
+          "content": "Olá!\nEu sou Gilberto, analista em Plano Saúde da Corretora GW9.\nTrabalhamos com todos os Planos de saúde no Rio de Janeiro. 🚀\nComo os valores dos Planos de saúde são tabelados e os preços mudam de acordo com a rede credenciada. Minha missão é de te ajudar a encontrar o produto que melhor lhe atenda na relação custo x acesso.\n[SPLIT]\nPor isso vou te fazer algumas perguntas, pode me dizer:\n1️⃣ Qual o seu nome?\n2️⃣ Quantas pessoas são e as idades?\n3️⃣ Qual a cidade que busca atendimento? Se tiver algum hospital de sua preferência, me informe, também nos ajuda.\n4️⃣ Como o plano será contratado: empresarial (CNPJ/MEI) ou pessoa física (CPF)?\n5️⃣ Já possui Plano atualmente? Se sim qual?\n\nPode responder por áudio se preferir. 🎙️",
+          "msg_time": "2026-03-14T19:08:20.831717"
+        },
+        {
+          "role": "system",
+          "content": "Oi Izabel!\nPerfeito \n\nEntendi que são 4 Pessoas, 20,15,41 e 74 \n\nPreferencia para o Hospital Norte Dor contratação por CPF\n\nO Consultor João vai lhe chamar.",
+          "msg_time": "2026-03-16T13:18:04.512562"
+        }
+      ]
+    },
     {
       "session_id": "5522998227734@s.whatsapp.net",
       "phone": "5522998227734",
@@ -68,7 +323,7 @@
       "first_message_at": "2026-03-16T03:00:00.000Z",
       "last_message_at": "2026-03-16T15:55:43.247000Z",
       "last_bot_msg_at": "2026-03-16T12:55:42.687827",
-      "tempo_sem_interacao": "3h 19min",
+      "tempo_sem_interacao": "3h 34min",
       "first_id": 18817,
       "last_id": 18921,
       "last_message_preview": "Dados do lead no sistema:\nNome: Eliene Rodrigues Esteticista\n\nMensagem(ns) do cliente:\nEstou aguarda...",
@@ -253,7 +508,7 @@
       "first_message_at": "2026-03-16T03:00:00.000Z",
       "last_message_at": "2026-03-16T15:45:22.980000Z",
       "last_bot_msg_at": "2026-03-16T12:45:22.228261",
-      "tempo_sem_interacao": "3h 30min",
+      "tempo_sem_interacao": "3h 44min",
       "first_id": 18887,
       "last_id": 18920,
       "last_message_preview": "Ok",
@@ -413,7 +668,7 @@
       "first_message_at": "2026-03-15T03:00:00.000Z",
       "last_message_at": "2026-03-16T15:52:01.354000Z",
       "last_bot_msg_at": "2026-03-16T12:52:00.731149",
-      "tempo_sem_interacao": "3h 23min",
+      "tempo_sem_interacao": "3h 38min",
       "first_id": 18744,
       "last_id": 18918,
       "last_message_preview": "Dados do lead no sistema:\nNome: Daniel\n\nMensagem(ns) do cliente:\nO áudio",
@@ -538,7 +793,7 @@
       "first_message_at": "2026-03-16T03:00:00.000Z",
       "last_message_at": "2026-03-16T16:02:32.551000Z",
       "last_bot_msg_at": "2026-03-16T13:02:25.969269",
-      "tempo_sem_interacao": "3h 12min",
+      "tempo_sem_interacao": "3h 27min",
       "first_id": 18912,
       "last_id": 18913,
       "last_message_preview": "Dados Fornecidos\nNome: Reinaldo\nContem CNPJ: sim\nNumero de Vidas: 2_vidas\nOperadora de Interesse: nã...",
@@ -693,7 +948,7 @@
       "first_message_at": "2026-03-16T03:00:00.000Z",
       "last_message_at": "2026-03-16T13:55:08.581000Z",
       "last_bot_msg_at": "2026-03-16T10:55:08.010056",
-      "tempo_sem_interacao": "5h 20min",
+      "tempo_sem_interacao": "5h 35min",
       "first_id": 18846,
       "last_id": 18886,
       "last_message_preview": "Dados do lead no sistema:\nNome: Alexandre Cunha\n\nMensagem(ns) do cliente:\nObrigado\n\nBom dia",
@@ -816,186 +1071,6 @@
       ]
     },
     {
-      "session_id": "5521985938552@s.whatsapp.net",
-      "phone": "5521985938552",
-      "phone_display": "+55 21 98593-8552",
-      "lead": {
-        "baserow_id": 1177,
-        "nome": "Vitor",
-        "email": "hvitor40@yahoo.com.br",
-        "qtd_vidas": "",
-        "desinteresse": false,
-        "gilbertinho_off": false,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Vitor",
-        "email": "hvitor40@yahoo.com.br",
-        "telefone": "+55 21 98593-8552",
-        "vidas": [],
-        "cidade": "Rio de Janeiro / RJ",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "MEI",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "Rede D'or",
-        "rede_preferencial": "Rede D'Or",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "",
-        "bot": "Gilbertinho Amarelo (2373)",
-        "formatted": "👤 Cliente: Vitor\n📧 E-mail: hvitor40@yahoo.com.br\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98593-8552\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n🎯 Rede preferencial: Rede D'Or\n\n🎯 Interesse: Rede D'or\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)"
-      },
-      "status": "morno",
-      "bot": "amarelo",
-      "consultor": "",
-      "message_count": 26,
-      "first_message_at": "2026-03-16T03:00:00.000Z",
-      "last_message_at": "2026-03-16T14:04:32.699000Z",
-      "last_bot_msg_at": "2026-03-16T11:04:32.195783",
-      "tempo_sem_interacao": "5h 10min",
-      "first_id": 18797,
-      "last_id": 18884,
-      "last_message_preview": "Dados do lead no sistema:\nNome: Vitor\n\nMensagem(ns) do cliente:\nCorreto.",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados Fornecidos\nNome: Vitor\nContem CNPJ: Sim\nNumero de Vidas: 2 Vidas\nOperadora de Interesse: não informado\nRegião: Não Informado\nPropaganda:\n",
-          "msg_time": "2026-03-16T04:58:26.224899"
-        },
-        {
-          "role": "ai",
-          "content": "Oi Vitor, eu sou o Gilberto da GW9 Saúde. Você pediu o nosso contato para saber mais sobre plano de saúde e vi que tem interesse para 2 vidas e já possui um CNPJ. Pra te ajudar e ser mais assertivo, preciso confirmar mais algumas informações. Tudo bem?",
-          "msg_time": "2026-03-16T04:58:26.228301"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Vitor\n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação do  plano de saúde próprio da Rede D'or para uma  pessoa com 59 anos ou mais?",
-          "msg_time": "2026-03-16T04:59:25.539948"
-        },
-        {
-          "role": "ai",
-          "content": "Olá, Vitor! Eu sou Gilberto, analista em Plano Saúde da Corretora GW9.\nTrabalhamos com todos os Planos de saúde no Rio de Janeiro. 🚀\nComo os valores dos Planos de saúde são tabelados e os preços mudam de acordo com a rede credenciada. Minha missão é de te ajudar a encontrar o produto que melhor lhe atenda na relação custo x acesso.\n[SPLIT]\nPor isso vou te fazer algumas perguntas, pode me dizer:\n1️⃣ Quantas pessoas são e as idades?\n2️⃣ Qual a cidade que busca atendimento? Se tiver algum hospital de sua preferência, me informe, também nos ajuda.\n3️⃣ Como o plano será contratado: empresarial (CNPJ/MEI)?\n4️⃣ Já possui Plano atualmente? Se sim qual?\n\nPode responder por áudio se preferir. 🎙️",
-          "msg_time": "2026-03-16T04:59:25.542246"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Vitor\n\nMensagem(ns) do cliente:\nNo meu caso eu estou pesquisando ainda. E gostaria de saber a cotação do plano próprio  da Rede D'or e é para uma pessoa com CPF.",
-          "msg_time": "2026-03-16T05:02:51.853128"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Vitor. Para te passar a cotação certa do plano Rede D'or para 1 pessoa com CPF, preciso só confirmar a idade dessa pessoa e a cidade onde pretende usar o plano. Pode me informar?",
-          "msg_time": "2026-03-16T05:02:51.855723"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Vitor\n\nMensagem(ns) do cliente:\n64 anos.  Usar apenas no Rio de Janeiro.",
-          "msg_time": "2026-03-16T05:04:25.130928"
-        },
-        {
-          "role": "ai",
-          "content": "Perfeito, Vitor! Pra fechar essa parte inicial: você já possui algum plano hoje ou está sem? Tem algum hospital ou médico que faça questão de ter na rede?",
-          "msg_time": "2026-03-16T05:04:25.132458"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Vitor\n\nMensagem(ns) do cliente:\nTenho plano de saúde. Mas gostaria de saber a  cotação do plano de saúde próprio da Rede D'or.  E ouvi um amigo falar desse plano, e  Nem imaginava que existia.",
-          "msg_time": "2026-03-16T05:07:59.114383"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Vitor. É muito comum descobrir novas opções através de recomendações. E o que pesa mais pra você querer esse plano da Rede D'or? Valor, cobertura ou algo mais?",
-          "msg_time": "2026-03-16T05:07:59.116495"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Vitor\n\nMensagem(ns) do cliente:\nValor e cobertura. E esse plano é  só para um hospital da Rede D'or no Rio, ou pode ser usado para todas as Rede D'or  do Rio. Tipo: Barra, Copacabana, e Tijuca..... ?",
-          "msg_time": "2026-03-16T05:12:51.870951"
-        },
-        {
-          "role": "ai",
-          "content": "Vitor, o plano próprio da Rede D'or cobre todas as unidades da rede no Rio, incluindo Barra, Copacabana e Tijuca. Assim, você tem acesso completo onde precisar dentro dessa rede. Posso confirmar essas informações para avançar na cotação?",
-          "msg_time": "2026-03-16T05:12:51.873309"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Vitor\n\nMensagem(ns) do cliente:\nTem cotação apenas para a Rede D'or Tijuca? Ou tem que ser  para todas?",
-          "msg_time": "2026-03-16T05:14:53.851885"
-        },
-        {
-          "role": "ai",
-          "content": "Vitor, o plano próprio da Rede D'or é válido para todas as unidades da rede no Rio, não apenas Tijuca. Então, a cotação inclui o acesso a todas elas. Confirmando esses dados, posso seguir com sua cotação?",
-          "msg_time": "2026-03-16T05:14:53.854112"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Vitor\n\nMensagem(ns) do cliente:\nFormato de mensagem enviada nao suportado\n\nSim.",
-          "msg_time": "2026-03-16T05:15:38.324643"
-        },
-        {
-          "role": "ai",
-          "content": "Vitor, pelo que entendi: 1 vida, no Rio de Janeiro, plano próprio da Rede D'or para CPF. Está correto? Se sim, vou encaminhar para o consultor preparar a cotação para você.",
-          "msg_time": "2026-03-16T05:15:38.326245"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Vitor\n\nMensagem(ns) do cliente:\nCorreto",
-          "msg_time": "2026-03-16T05:16:54.188992"
-        },
-        {
-          "role": "ai",
-          "content": "Vitor, obrigado por compartilhar as informacoes! O consultor já recebeu tudo sobre o plano Rede D'or para 1 vida no Rio de Janeiro e vai te chamar aqui no WhatsApp. Obrigado!",
-          "msg_time": "2026-03-16T05:16:54.19063"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Vitor\n\nMensagem(ns) do cliente:\nFormato de mensagem enviada nao suportado",
-          "msg_time": "2026-03-16T05:17:31.520876"
-        },
-        {
-          "role": "ai",
-          "content": "Vitor, obrigado por confirmar! Vou encaminhar suas informações para o consultor especializado na Rede D'or e ele vai te chamar aqui no WhatsApp em breve. Obrigado!",
-          "msg_time": "2026-03-16T05:17:31.522462"
-        },
-        {
-          "role": "system",
-          "content": "Vitor, ainda está por aí? Estou aguardando sua resposta para dar sequência.",
-          "msg_time": "2026-03-16T09:00:51.187441"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Vitor\n\nMensagem(ns) do cliente:\nPode dar sequência nas informações.",
-          "msg_time": "2026-03-16T10:59:14.110157"
-        },
-        {
-          "role": "ai",
-          "content": "Vitor, pelo que entendi: 1 vida, no Rio de Janeiro, plano próprio da Rede D'or para CPF. Correto? Vou encaminhar para o consultor preparar sua cotação.",
-          "msg_time": "2026-03-16T10:59:14.117509"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Vitor\n\nMensagem(ns) do cliente:\nCorreto.",
-          "msg_time": "2026-03-16T11:04:32.192093"
-        },
-        {
-          "role": "ai",
-          "content": "Vitor, obrigado por confirmar! Vou encaminhar suas informações para o consultor especializado na Rede D'or e ele vai te chamar aqui no WhatsApp em breve. Obrigado!",
-          "msg_time": "2026-03-16T11:04:32.195783"
-        },
-        {
-          "role": "system",
-          "content": "Vitor, ainda está por aí? Estou aguardando sua resposta para dar sequência.",
-          "msg_time": "2026-03-16T12:30:31.21366"
-        }
-      ]
-    },
-    {
       "session_id": "5521996057345@s.whatsapp.net",
       "phone": "5521996057345",
       "phone_display": "+55 21 99605-7345",
@@ -1038,7 +1113,7 @@
       "first_message_at": "2026-03-14T03:00:00.000Z",
       "last_message_at": "2026-03-16T11:28:09.399000Z",
       "last_bot_msg_at": "2026-03-16T08:28:08.941722",
-      "tempo_sem_interacao": "7h 47min",
+      "tempo_sem_interacao": "8h 2min",
       "first_id": 18722,
       "last_id": 18882,
       "last_message_preview": "Dados do lead no sistema:\nNome: Fábio Amaral\n\nMensagem(ns) do cliente:\nFormato de mensagem enviada n...",
@@ -1177,7 +1252,7 @@
       "first_message_at": "2026-03-16T15:07:31.541Z",
       "last_message_at": "2026-03-16T15:07:31.542Z",
       "last_bot_msg_at": "2026-03-16T12:07:31.542972",
-      "tempo_sem_interacao": "4h 7min",
+      "tempo_sem_interacao": "4h 22min",
       "first_id": 18880,
       "last_id": 18881,
       "last_message_preview": "Dados Fornecidos\nNome: Dalva\nContem CNPJ: não\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não i...",
@@ -1237,7 +1312,7 @@
       "first_message_at": "2026-03-16T03:00:00.000Z",
       "last_message_at": "2026-03-16T13:49:28.984Z",
       "last_bot_msg_at": "2026-03-16T13:49:28.984Z",
-      "tempo_sem_interacao": "2h 25min",
+      "tempo_sem_interacao": "2h 40min",
       "first_id": 18858,
       "last_id": 18867,
       "last_message_preview": "",
@@ -1497,7 +1572,7 @@
       "first_message_at": "2026-03-15T03:00:00.000Z",
       "last_message_at": "2026-03-16T00:40:08.455000Z",
       "last_bot_msg_at": "2026-03-15T21:40:07.994866",
-      "tempo_sem_interacao": "18h 35min",
+      "tempo_sem_interacao": "18h 50min",
       "first_id": 18765,
       "last_id": 18796,
       "last_message_preview": "Dados do lead no sistema:\nNome: Marcos\n\nMensagem(ns) do cliente:\nSaio frustrado. Amanhã vou no centr...",
@@ -1652,7 +1727,7 @@
       "first_message_at": "2026-03-15T03:00:00.000Z",
       "last_message_at": "2026-03-15T20:06:32.049000Z",
       "last_bot_msg_at": "2026-03-15T17:06:26.190976",
-      "tempo_sem_interacao": "23h 8min",
+      "tempo_sem_interacao": "23h 23min",
       "first_id": 18769,
       "last_id": 18780,
       "last_message_preview": "Dados Fornecidos\nNome: André\nContem CNPJ: não\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não i...",
@@ -2238,66 +2313,6 @@
           "role": "ai",
           "content": "Oi prof, eu sou o Gilberto da GW9 Saúde. Você pediu o nosso contato para saber mais sobre plano de saúde e vi que tem interesse para 3 pessoas e possui CNPJ. Pra te ajudar e ser mais assertivo, preciso confirmar mais algumas informações. Tudo bem?",
           "msg_time": "2026-03-14T21:37:26.138394"
-        }
-      ]
-    },
-    {
-      "session_id": "5521965507000@s.whatsapp.net",
-      "phone": "5521965507000",
-      "phone_display": "+55 21 96550-7000",
-      "lead": {
-        "baserow_id": 1164,
-        "nome": "Izabel  Iria d'Abbadia",
-        "email": "",
-        "qtd_vidas": "",
-        "desinteresse": false,
-        "gilbertinho_off": false,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Izabel  Iria d'Abbadia",
-        "email": "",
-        "telefone": "+55 21 96550-7000",
-        "vidas": [],
-        "cidade": "Rio de Janeiro / RJ",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "MEI",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "Amil",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Izabel  Iria d'Abbadia\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96550-7000\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n🎯 Interesse: Amil\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "frio",
-      "bot": "preto",
-      "consultor": "",
-      "message_count": 2,
-      "first_message_at": "2026-03-14T03:00:00.000Z",
-      "last_message_at": "2026-03-14T22:08:21.328000Z",
-      "last_bot_msg_at": "2026-03-14T19:08:20.831717",
-      "tempo_sem_interacao": "1 dia",
-      "first_id": 18720,
-      "last_id": 18721,
-      "last_message_preview": "Dados do lead no sistema:\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano d...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Amil",
-          "msg_time": "2026-03-14T19:08:20.827073"
-        },
-        {
-          "role": "ai",
-          "content": "Olá!\nEu sou Gilberto, analista em Plano Saúde da Corretora GW9.\nTrabalhamos com todos os Planos de saúde no Rio de Janeiro. 🚀\nComo os valores dos Planos de saúde são tabelados e os preços mudam de acordo com a rede credenciada. Minha missão é de te ajudar a encontrar o produto que melhor lhe atenda na relação custo x acesso.\n[SPLIT]\nPor isso vou te fazer algumas perguntas, pode me dizer:\n1️⃣ Qual o seu nome?\n2️⃣ Quantas pessoas são e as idades?\n3️⃣ Qual a cidade que busca atendimento? Se tiver algum hospital de sua preferência, me informe, também nos ajuda.\n4️⃣ Como o plano será contratado: empresarial (CNPJ/MEI) ou pessoa física (CPF)?\n5️⃣ Já possui Plano atualmente? Se sim qual?\n\nPode responder por áudio se preferir. 🎙️",
-          "msg_time": "2026-03-14T19:08:20.831717"
         }
       ]
     },
@@ -10090,7 +10105,7 @@
       "first_message_at": "2026-03-09T03:00:00.000Z",
       "last_message_at": "2026-03-09T19:06:57.427000Z",
       "last_bot_msg_at": "2026-03-09T16:20:45.241363",
-      "tempo_sem_interacao": "6 dias",
+      "tempo_sem_interacao": "7 dias",
       "first_id": 17805,
       "last_id": 18210,
       "last_message_preview": "Não tinha opção 1  Niterói\n\nNão tinha opção 1  Niterói",
