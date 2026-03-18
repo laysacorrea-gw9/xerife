@@ -183,6 +183,9 @@ html,body{height:100%;font-family:var(--font-stack);background:#ddd;overflow:hid
         <button class="filter-btn" data-filter="frio">&#x1F535; Frios</button>
         <button class="filter-btn" data-filter="desinteresse">&#x274C; Perdidos</button>
       </div>
+      <select id="corretor-filter" style="width:100%;margin-top:6px;padding:6px 10px;border:1px solid #ddd;border-radius:8px;font-size:12px;background:#f0f0f0;color:#333;cursor:pointer;outline:none">
+        <option value="">&#x1F464; Todos os corretores</option>
+      </select>
     </div>
     <div id="chat-list"></div>
   </div>
@@ -244,6 +247,7 @@ async function loadData(){
     allData=await r.json();
     $('#loading-overlay').classList.add('hidden');
     renderStats();
+    populateCorretorFilter();
     applyFilters();
     if(selectedId){
       const conv=allData.conversations.find(c=>c.session_id===selectedId);
@@ -286,12 +290,47 @@ function renderStats(){
 }
 
 // ── Filters ──
+function populateCorretorFilter(){
+  if(!allData)return;
+  const sel=$('#corretor-filter');
+  const corretores={};
+  // Known valid consultants (filter out false positives from AI regex)
+  const validNames=['Elisa','Isis','Laysa','Anderson','Guilherme','João','Joao','João Victor','Joao Victor'];
+  allData.conversations.forEach(c=>{
+    let cons=c.consultor||'';
+    if(!cons)return;
+    // Normalize: capitalize first letter, lowercase rest
+    cons=cons.charAt(0).toUpperCase()+cons.slice(1).toLowerCase();
+    // Skip obvious false positives (short words, generic words)
+    if(cons.length<3||/^(Especialista|Você|Voce|Que|Te|Apresentar|Ajudar|Gilbertinho|Um|Uma|Nosso|Nossa|Do|Da)$/i.test(cons))return;
+    corretores[cons]=(corretores[cons]||0)+1;
+  });
+  // Keep existing selection
+  const prev=sel.value;
+  sel.innerHTML='<option value="">&#x1F464; Todos os corretores</option>';
+  sel.innerHTML+='<option value="__sem__">&#x26A0; Sem corretor</option>';
+  Object.entries(corretores).sort((a,b)=>b[1]-a[1]).forEach(([name,count])=>{
+    const opt=document.createElement('option');
+    opt.value=name.toLowerCase();
+    opt.textContent=`${name} (${count})`;
+    sel.appendChild(opt);
+  });
+  if(prev)sel.value=prev;
+}
+
 function applyFilters(){
   if(!allData)return;
   const activeFilter=($('.filter-btn.active')||{}).dataset?.filter||'todos';
   const query=$('#search-box').value.toLowerCase().trim();
+  const corretorFilter=$('#corretor-filter').value;
   filteredConversations=allData.conversations.filter(c=>{
     if(activeFilter!=='todos'&&c.status!==activeFilter)return false;
+    if(corretorFilter==='__sem__'&&c.consultor)return false;
+    if(corretorFilter==='__sem__'&&!c.consultor)return true;
+    if(corretorFilter&&corretorFilter!=='__sem__'){
+      const cons=(c.consultor||'').toLowerCase();
+      if(cons!==corretorFilter)return false;
+    }
     if(query){
       const name=(c.lead?.nome||c.summary?.nome||'').toLowerCase();
       const phone=(c.phone_display||c.phone||'').toLowerCase();
@@ -310,6 +349,7 @@ $$('.filter-btn').forEach(btn=>btn.addEventListener('click',()=>{
   applyFilters();
 }));
 $('#search-box').addEventListener('input',()=>applyFilters());
+$('#corretor-filter').addEventListener('change',()=>applyFilters());
 
 // ── Chat list ──
 function renderChatList(){
