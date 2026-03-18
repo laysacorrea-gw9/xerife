@@ -337,7 +337,7 @@ function renderChatList(){
           <span class="chat-time">${relativeTime(c.last_message_at)}</span>
         </div>
         <div class="chat-preview-row">
-          <span class="chat-preview">${esc(c.last_message_preview||'')}</span>
+          <span class="chat-preview">${c.consultor?'\u{1F464} '+esc(c.consultor)+' · ':''}${esc(c.last_message_preview||'')}</span>
           <div class="chat-badges">
             <span class="bot-badge">${c.bot==='amarelo'?'\u{1F7E1}':'\u{26AB}'}</span>
             <span class="msg-count-badge">${c.message_count||0}</span>
@@ -558,7 +558,7 @@ function renderDetails(c){
       <dl>
         <dt>Temperatura</dt><dd><span class="temp-badge temp-${c.status||'frio'}">${tempLabel(c.status)}</span></dd>
         <dt>Bot</dt><dd>${esc(sum.bot||c.bot||'N/A')}</dd>
-        <dt>Consultor</dt><dd>${esc(c.consultor||sum.consultor||'N/A')}</dd>
+        <dt>Distribuído para</dt><dd>${esc(c.consultor||sum.consultor||'Não distribuído')}${c.codigo_corretor_b2cor||sum.codigo_corretor_b2cor?` <span style="color:#999;font-size:11px">(B2Cor: ${esc(c.codigo_corretor_b2cor||sum.codigo_corretor_b2cor)})</span>`:''}</dd>
         <dt>Mensagens</dt><dd>${c.message_count||0}</dd>
         ${lead.desinteresse?'<dt>Desinteresse</dt><dd>Sim</dd>':''}
         ${lead.reagendamento?`<dt>Reagendamento</dt><dd>${esc(lead.reagendamento)}</dd>`:''}
