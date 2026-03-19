@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_at": "2026-03-19T20:00:42.322Z",
+    "generated_at": "2026-03-19T20:15:36.952Z",
     "total_conversations": 200,
-    "total_messages": 4129,
+    "total_messages": 4131,
     "stats": {
       "quente": 107,
       "morno": 61,
@@ -12,324 +12,6 @@
     }
   },
   "conversations": [
-    {
-      "session_id": "5521994864749@s.whatsapp.net",
-      "phone": "5521994864749",
-      "phone_display": "+55 21 99486-4749",
-      "lead": {
-        "baserow_id": 1270,
-        "nome": "Rosana",
-        "email": "yosher.rosana@gmail.com",
-        "qtd_vidas": 3,
-        "desinteresse": false,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "Elisa",
-        "temperatura": "Quente"
-      },
-      "summary": {
-        "nome": "Rosana",
-        "email": "yosher.rosana@gmail.com",
-        "telefone": "+55 21 99486-4749",
-        "vidas": [
-          {
-            "idade": 64
-          },
-          {
-            "idade": 34
-          },
-          {
-            "idade": 32
-          }
-        ],
-        "cidade": "São Gonçalo / RJ",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "MEI",
-        "profissao": "",
-        "plano_atual": "Amil — enfermaria",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "Elisa",
-        "codigo_corretor_b2cor": "",
-        "obs_crm": "",
-        "bot": "Gilbertinho Amarelo (2373)",
-        "formatted": "👤 Cliente: Rosana\n📧 E-mail: yosher.rosana@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99486-4749\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nRosana — 64 anos\nDependente 1 — 34 anos\nDependente 2 — 32 anos\n\n📋 Dados contratuais:\n\nCidade: São Gonçalo / RJ\nContratação: CNPJ\nTipo: MEI\n\n🏥 Plano atual: Amil — enfermaria\n👤 Distribuído para: Elisa\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Amarelo (2373)"
-      },
-      "status": "quente",
-      "bot": "amarelo",
-      "consultor": "Elisa",
-      "codigo_corretor_b2cor": "",
-      "message_count": 18,
-      "first_message_at": "2026-03-19T00:00:00.000Z",
-      "last_message_at": "2026-03-19T19:13:52.957000Z",
-      "last_bot_msg_at": "2026-03-19T16:13:51.776603",
-      "tempo_sem_interacao": "3h 46min",
-      "first_id": 19524,
-      "last_id": 19541,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1270\nNome: \nVidas: 3\nCidade: \nTipo Contratação: \n\nMensagem(ns) do ...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados Fornecidos\nNome: Rosana\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não informado\nRegião: Não Informado\nPropaganda:\n",
-          "msg_time": "2026-03-19T15:47:17.103156"
-        },
-        {
-          "role": "ai",
-          "content": "Oi Rosana! Sou o Gilberto da GW9, corretora de planos de saúde. Você pediu nosso contato para saber mais sobre plano de saúde e vi que tem interesse para 3 vidas e já possui um CNPJ. Para te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo certo?",
-          "msg_time": "2026-03-19T15:47:17.106414"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1270\nNome: Rosana\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nSim, MEI\nSeria para as vidas na idade 64, 34 e 32 anos",
-          "msg_time": "2026-03-19T15:53:18.861529"
-        },
-        {
-          "role": "ai",
-          "content": "Ótimo, Rosana! Já registrei as idades de 64, 34 e 32 anos. Agora, para apresentarmos as melhores opções, qual é a cidade e o estado onde você busca atendimento? Se tiver alguma rede ou hospital de preferência, isso também pode ajudar!",
-          "msg_time": "2026-03-19T15:53:18.863708"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1270\nNome: \nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nSão Gonçalo/RJ",
-          "msg_time": "2026-03-19T15:54:48.418123"
-        },
-        {
-          "role": "ai",
-          "content": "Obrigado pela informação, Rosana! Agora, só preciso confirmar o tipo de contratação: você mencionou que é MEI. Isso está correto? Assim que confirmar, posso prosseguir para a próxima etapa.",
-          "msg_time": "2026-03-19T15:54:48.421099"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1270\nNome: \nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nSeria os valores plano  AMIL",
-          "msg_time": "2026-03-19T15:55:11.167495"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Rosana! Então, para finalizar as informações, você já possui um plano de saúde atualmente? Se sim, qual é e quanto paga hoje? Isso nos ajudará a encontrar a melhor opção para vocês.",
-          "msg_time": "2026-03-19T15:55:11.170378"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1270\nNome: \nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nSim",
-          "msg_time": "2026-03-19T15:55:26.102142"
-        },
-        {
-          "role": "ai",
-          "content": "Obrigado pela resposta, Rosana! Para registrar corretamente, você poderia informar qual plano da AMIL você possui e qual é o valor que paga atualmente? Isso nos ajudará a encontrar o melhor plano para vocês.",
-          "msg_time": "2026-03-19T15:55:26.104416"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1270\nNome: \nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nNao possuo Amil, eu wue saber quanto ficaria 3 vidas ni plano da Amil enfermaria",
-          "msg_time": "2026-03-19T15:56:45.310045"
-        },
-        {
-          "role": "ai",
-          "content": "Rosana, entendi que você está interessada no plano da AMIL para 3 vidas na modalidade enfermaria. O consultor irá te ajudar com todos os detalhes de valores e opções.\n\nAgora, só para registrar tudo corretamente, você mencionou que a contratação será por CNPJ (MEI), correto? Isso me ajuda a finalizar os dados antes de encaminhar para nosso especialista.",
-          "msg_time": "2026-03-19T15:56:45.313252"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1270\nNome: \nVidas: 3\nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nSim",
-          "msg_time": "2026-03-19T15:59:57.965629"
-        },
-        {
-          "role": "ai",
-          "content": "Rosana, obrigada por todas as informações! Vou encaminhar seu contato para o João, nosso especialista, que vai te apresentar as melhores opções de plano para as 3 vidas em São Gonçalo/RJ. Ele vai te chamar aqui no WhatsApp em breve. 😊",
-          "msg_time": "2026-03-19T15:59:57.967651"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1270\nNome: \nVidas: 3\nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nA Amil cobre a carência se tiver outro plano?",
-          "msg_time": "2026-03-19T16:01:00.961864"
-        },
-        {
-          "role": "ai",
-          "content": "Rosana, essa informação é bem específica e o João, nosso especialista, poderá te esclarecer todas as dúvidas sobre carências e coberturas. Vou encaminhar seu contato para ele para que você receba as respostas que precisa. Um momentinho! \n\nAgora, por favor, me confirme se a contratação é mesmo por CNPJ (MEI), assim posso finalizar seus dados.",
-          "msg_time": "2026-03-19T16:01:00.96395"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1270\nNome: \nVidas: 3\nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nCnpj(mei)",
-          "msg_time": "2026-03-19T16:13:51.77359"
-        },
-        {
-          "role": "ai",
-          "content": "Rosana, obrigado por confirmar! Estou finalizando os registros. \n\nSeu contato foi encaminhado para o João, nosso especialista, que entrará em contato com você através do WhatsApp em breve para esclarecer todas as suas dúvidas, incluindo sobre a carência da AMIL. \n\nAguarde um momento que ele vai te atender! 😊",
-          "msg_time": "2026-03-19T16:13:51.776603"
-        }
-      ]
-    },
-    {
-      "session_id": "5521977394704@s.whatsapp.net",
-      "phone": "5521977394704",
-      "phone_display": "+55 21 97739-4704",
-      "lead": {
-        "baserow_id": 1269,
-        "nome": "Andreia Gualberto",
-        "email": "",
-        "qtd_vidas": "",
-        "desinteresse": true,
-        "observacoes": "Andreia Gualberto",
-        "reagendamento": null,
-        "corretor": "Isis",
-        "temperatura": "Quente"
-      },
-      "summary": {
-        "nome": "Andreia Gualberto",
-        "email": "",
-        "telefone": "+55 21 97739-4704",
-        "vidas": [],
-        "cidade": "Niterói / RJ",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "MEI",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "Amil",
-        "rede_preferencial": "Hospital Icaraí, Hospital Icaraí é \nHospital CHN",
-        "contato": "WhatsApp",
-        "consultor": "Isis",
-        "codigo_corretor_b2cor": "",
-        "obs_crm": "Andreia Gualberto",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Andreia Gualberto\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97739-4704\n\n📋 Dados contratuais:\n\nCidade: Niterói / RJ\nContratação: CNPJ\nTipo: MEI\n🎯 Rede preferencial: Hospital Icaraí, Hospital Icaraí é \nHospital CHN\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Andreia Gualberto\n👤 Distribuído para: Isis\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "quente",
-      "bot": "preto",
-      "consultor": "Isis",
-      "codigo_corretor_b2cor": "",
-      "message_count": 13,
-      "first_message_at": "2026-03-19T00:00:00.000Z",
-      "last_message_at": "2026-03-19T18:26:45.431000Z",
-      "last_bot_msg_at": "2026-03-19T15:26:43.988101",
-      "tempo_sem_interacao": "4h 33min",
-      "first_id": 19511,
-      "last_id": 19523,
-      "last_message_preview": "Ok",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1269\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Amil",
-          "msg_time": "2026-03-19T15:00:30.606066"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
-          "msg_time": "2026-03-19T15:00:30.608859"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1269\nNome: Andreia Gualberto\n\nMensagem(ns) do cliente:\nEsse valor é para quem tem  cnpj?",
-          "msg_time": "2026-03-19T15:01:10.26136"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Andreia! O valor do plano de saúde varia conforme o tipo de contratação e a rede credenciada. Como o plano será contratado: empresarial por CNPJ MEI ou LTDA? Se tiver o número do CNPJ, pode me informar? Se não tiver, só preciso saber se é MEI ou LTDA.",
-          "msg_time": "2026-03-19T15:01:10.264845"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1269\nNome: Andreia Gualberto\n\nMensagem(ns) do cliente:\nLtda",
-          "msg_time": "2026-03-19T15:02:18.809239"
-        },
-        {
-          "role": "ai",
-          "content": "Ótimo, Andreia! Agora, para que eu possa ajudar melhor, qual é a cidade onde você busca atendimento? Se tiver algum hospital de sua preferência, também nos ajuda a encontrar um plano que atenda bem.",
-          "msg_time": "2026-03-19T15:02:18.811923"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1269\nNome: Andreia Gualberto\n\nMensagem(ns) do cliente:\nHospital Icaraí é \nHospital CHN em Niterói",
-          "msg_time": "2026-03-19T15:07:03.764071"
-        },
-        {
-          "role": "ai",
-          "content": "Obrigado pela informação, Andreia! Para eu continuar, quantas pessoas precisam do plano e quais as idades delas? Isso é importante para eu apresentar as opções adequadas.",
-          "msg_time": "2026-03-19T15:07:03.766308"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1269\nNome: Andreia Gualberto\n\nMensagem(ns) do cliente:\nAndréia-49\nMiguel-13\nGabriel-8",
-          "msg_time": "2026-03-19T15:25:48.460607"
-        },
-        {
-          "role": "ai",
-          "content": "Perfeito, Andreia! Agora, preciso saber se você já possui um plano de saúde atualmente. Se sim, qual é e quanto paga hoje? Essa informação ajuda a encontrar a melhor opção para você e sua família.",
-          "msg_time": "2026-03-19T15:25:48.46503"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1269\nNome: Andreia Gualberto\n\nMensagem(ns) do cliente:\nNão",
-          "msg_time": "2026-03-19T15:26:43.985733"
-        },
-        {
-          "role": "ai",
-          "content": "Andreia, obrigada por todas as informações! Vou encaminhar seu contato para a Isis, nossa especialista, que vai te apresentar as melhores opções de plano para vocês, 3 vidas em Niterói. Ela vai te chamar aqui no WhatsApp em breve.",
-          "msg_time": "2026-03-19T15:26:43.988101"
-        },
-        {
-          "role": "user",
-          "content": "Ok",
-          "msg_time": "2026-03-19T15:28:33.882097"
-        }
-      ]
-    },
-    {
-      "session_id": "552194019829@s.whatsapp.net",
-      "phone": "552194019829",
-      "phone_display": "+55 21 9401-9829",
-      "lead": null,
-      "summary": {
-        "nome": "Cassia",
-        "email": "",
-        "telefone": "+55 21 9401-9829",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "",
-        "consultor": "",
-        "codigo_corretor_b2cor": "",
-        "obs_crm": "",
-        "bot": "Não identificado",
-        "formatted": "👤 Cliente: Cassia\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 9401-9829\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n✅ Status: Lead frio\n🤖 Bot: Não identificado"
-      },
-      "status": "frio",
-      "bot": "desconhecido",
-      "consultor": "",
-      "codigo_corretor_b2cor": "",
-      "message_count": 2,
-      "first_message_at": "2026-03-19T17:32:16.506Z",
-      "last_message_at": "2026-03-19T17:32:16.509Z",
-      "last_bot_msg_at": "2026-03-19T14:32:16.509024",
-      "tempo_sem_interacao": "5h 28min",
-      "first_id": 19509,
-      "last_id": 19510,
-      "last_message_preview": "Dados Fornecidos\nNome: Cassia\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não ...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados Fornecidos\nNome: Cassia\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não informado\nRegião: Não Informado\nPropaganda:\n",
-          "msg_time": "2026-03-19T14:32:16.506115"
-        },
-        {
-          "role": "ai",
-          "content": "Oi Cassia! Sou o Gilberto da GW9, corretora de planos de saúde. Você pediu nosso contato para saber mais sobre plano de saúde e vi que tem interesse para 3 vidas e já possui um CNPJ. Para te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo certo?",
-          "msg_time": "2026-03-19T14:32:16.509024"
-        }
-      ]
-    },
     {
       "session_id": "5521978944636@s.whatsapp.net",
       "phone": "5521978944636",
@@ -377,25 +59,15 @@
       "bot": "amarelo",
       "consultor": "",
       "codigo_corretor_b2cor": "",
-      "message_count": 423,
+      "message_count": 425,
       "first_message_at": "2026-03-18T00:00:00.000Z",
       "last_message_at": "2026-03-18T13:54:29.855000Z",
       "last_bot_msg_at": "2026-03-18T10:54:28.553903",
       "tempo_sem_interacao": "1 dia",
       "first_id": 77,
-      "last_id": 19508,
+      "last_id": 19543,
       "last_message_preview": "Formato de mensagem enviada nao suportado",
       "messages": [
-        {
-          "role": "system",
-          "content": "👤 Cliente: Myla Pontes\n📱 Contato: WhatsApp — amanhã à tarde\n📞 Telefone: +55 21 98640-5109\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nProfissão: do rio de janeiro\n🎯 Rede preferencial: Barra D'Or, Rede D'Or\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n\n🎯 Interesse: amil bronze\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Myla Pontes\n📱 Contato: WhatsApp — amanhã à tarde\n📞 Telefone: +55 21 98640-5109\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nProfissão: do rio de janeiro\n🎯 Rede preferencial: Barra D'Or, Rede D'Or\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n\n🎯 Interesse: amil bronze\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Myla Pontes\n📱 Contato: WhatsApp — amanhã à tarde\n📞 Telefone: +55 21 98640-5109\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nProfissão: do rio de janeiro\n🎯 Rede preferencial: Barra D'Or, Rede D'Or\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n\n🎯 I",
-          "msg_time": "2026-03-06T15:03:47.934648"
-        },
-        {
-          "role": "system",
-          "content": "👤 Cliente: Myla Pontes\n📱 Contato: WhatsApp — amanhã à tarde\n📞 Telefone: +55 21 98640-5109\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nProfissão: do rio de janeiro\n🎯 Rede preferencial: Barra D'Or, Rede D'Or\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n\n🎯 Interesse: amil bronze\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Myla Pontes\n📱 Contato: WhatsApp — amanhã à tarde\n📞 Telefone: +55 21 98640-5109\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nProfissão: do rio de janeiro\n🎯 Rede preferencial: Barra D'Or, Rede D'Or\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n\n🎯 Interesse: amil bronze\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Myla Pontes\n📱 Contato: WhatsApp — amanhã à tarde\n📞 Telefone: +55 21 98640-5109\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nProfissão: do rio de janeiro\n🎯 Rede preferencial: Barra D'Or, Rede D'Or\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n\n🎯 I",
-          "msg_time": "2026-03-06T15:03:48.011188"
-        },
         {
           "role": "system",
           "content": "👤 Cliente: Bruna\n📧 E-mail: brunaloveiza@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96972-2926\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Bruna\nTipo de contratação: CNPJ\nCidade/UF: Rio de Janeiro/RJ\nQuantidade de vidas: 2\n👤 Consultor: Elisa\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Amarelo (2373)\n\n👤 Cliente: Bruna\n📧 E-mail: brunaloveiza@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96972-2926\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Bruna\nTipo de contratação: CNPJ\nCidade/UF: Rio de Janeiro/RJ\nQuantidade de vidas: 2\n👤 Consultor: Elisa\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Amarelo (2373)\n\n👤 Cliente: Bruna\n📧 E-mail: brunaloveiza@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96972-2926\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\n\n⚠️ Observação: Registro inte",
@@ -635,6 +307,334 @@
           "role": "user",
           "content": "Formato de mensagem enviada nao suportado",
           "msg_time": "2026-03-19T14:13:24.273023"
+        },
+        {
+          "role": "system",
+          "content": "👤 Cliente: Rosana  \n📱 Contato: WhatsApp  \n📞 Telefone: +55 21 99486-4749  \n\n👨‍👩‍👧‍👦 Vidas no plano:  \nRosana — 64 anos  \nDependente 1 — 34 anos  \nDependente 2 — 32 anos  \n\n📋 Dados contratuais:  \nCidade: São Gonçalo/RJ  \nContratação: CNPJ  \nTipo: MEI  \n\n🏥 Plano atual: AMIL  \n\n😤 Motivo da busca:  \nEncerramento do plano atual  \n✅ Status: Lead qualificado  \n🤖 Bot: Gilbertinho Amarelo (2373)",
+          "msg_time": "2026-03-19T17:01:49.295047"
+        },
+        {
+          "role": "system",
+          "content": "👤 Cliente: Clean  \n📱 Contato: WhatsApp  \n📞 Telefone: +55 21 97418-5584  \n\n📋 Dados contratuais:  \n\nCidade: Jacarepaguá  \nContratação: CNPJ  \nTipo: MEI  \n\n🏥 Plano atual: SulAmérica  \n\n🎯 Interesse: Sulamérica  \n✅ Status: Lead qualificado  \n🤖 Bot: Gilbertinho Preto (0479)  \n\n👨‍👩‍👧‍👦 Vidas no plano:  \nTitular — 47 anos  \nDependente 1 — 29 anos  \nDependente 2 — 6 anos",
+          "msg_time": "2026-03-19T17:03:10.700689"
+        }
+      ]
+    },
+    {
+      "session_id": "5521994864749@s.whatsapp.net",
+      "phone": "5521994864749",
+      "phone_display": "+55 21 99486-4749",
+      "lead": {
+        "baserow_id": 1270,
+        "nome": "Rosana",
+        "email": "yosher.rosana@gmail.com",
+        "qtd_vidas": 3,
+        "desinteresse": false,
+        "observacoes": "",
+        "reagendamento": null,
+        "corretor": "Elisa",
+        "temperatura": "Quente"
+      },
+      "summary": {
+        "nome": "Rosana",
+        "email": "yosher.rosana@gmail.com",
+        "telefone": "+55 21 99486-4749",
+        "vidas": [
+          {
+            "idade": 64
+          },
+          {
+            "idade": 34
+          },
+          {
+            "idade": 32
+          }
+        ],
+        "cidade": "São Gonçalo / RJ",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "MEI",
+        "profissao": "",
+        "plano_atual": "Amil — enfermaria",
+        "motivo": "",
+        "interesse": "",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "Elisa",
+        "codigo_corretor_b2cor": "",
+        "obs_crm": "",
+        "bot": "Gilbertinho Amarelo (2373)",
+        "formatted": "👤 Cliente: Rosana\n📧 E-mail: yosher.rosana@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99486-4749\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nRosana — 64 anos\nDependente 1 — 34 anos\nDependente 2 — 32 anos\n\n📋 Dados contratuais:\n\nCidade: São Gonçalo / RJ\nContratação: CNPJ\nTipo: MEI\n\n🏥 Plano atual: Amil — enfermaria\n👤 Distribuído para: Elisa\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Amarelo (2373)"
+      },
+      "status": "quente",
+      "bot": "amarelo",
+      "consultor": "Elisa",
+      "codigo_corretor_b2cor": "",
+      "message_count": 18,
+      "first_message_at": "2026-03-19T00:00:00.000Z",
+      "last_message_at": "2026-03-19T19:13:52.957000Z",
+      "last_bot_msg_at": "2026-03-19T16:13:51.776603",
+      "tempo_sem_interacao": "4h 1min",
+      "first_id": 19524,
+      "last_id": 19541,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1270\nNome: \nVidas: 3\nCidade: \nTipo Contratação: \n\nMensagem(ns) do ...",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados Fornecidos\nNome: Rosana\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não informado\nRegião: Não Informado\nPropaganda:\n",
+          "msg_time": "2026-03-19T15:47:17.103156"
+        },
+        {
+          "role": "ai",
+          "content": "Oi Rosana! Sou o Gilberto da GW9, corretora de planos de saúde. Você pediu nosso contato para saber mais sobre plano de saúde e vi que tem interesse para 3 vidas e já possui um CNPJ. Para te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo certo?",
+          "msg_time": "2026-03-19T15:47:17.106414"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1270\nNome: Rosana\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nSim, MEI\nSeria para as vidas na idade 64, 34 e 32 anos",
+          "msg_time": "2026-03-19T15:53:18.861529"
+        },
+        {
+          "role": "ai",
+          "content": "Ótimo, Rosana! Já registrei as idades de 64, 34 e 32 anos. Agora, para apresentarmos as melhores opções, qual é a cidade e o estado onde você busca atendimento? Se tiver alguma rede ou hospital de preferência, isso também pode ajudar!",
+          "msg_time": "2026-03-19T15:53:18.863708"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1270\nNome: \nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nSão Gonçalo/RJ",
+          "msg_time": "2026-03-19T15:54:48.418123"
+        },
+        {
+          "role": "ai",
+          "content": "Obrigado pela informação, Rosana! Agora, só preciso confirmar o tipo de contratação: você mencionou que é MEI. Isso está correto? Assim que confirmar, posso prosseguir para a próxima etapa.",
+          "msg_time": "2026-03-19T15:54:48.421099"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1270\nNome: \nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nSeria os valores plano  AMIL",
+          "msg_time": "2026-03-19T15:55:11.167495"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Rosana! Então, para finalizar as informações, você já possui um plano de saúde atualmente? Se sim, qual é e quanto paga hoje? Isso nos ajudará a encontrar a melhor opção para vocês.",
+          "msg_time": "2026-03-19T15:55:11.170378"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1270\nNome: \nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nSim",
+          "msg_time": "2026-03-19T15:55:26.102142"
+        },
+        {
+          "role": "ai",
+          "content": "Obrigado pela resposta, Rosana! Para registrar corretamente, você poderia informar qual plano da AMIL você possui e qual é o valor que paga atualmente? Isso nos ajudará a encontrar o melhor plano para vocês.",
+          "msg_time": "2026-03-19T15:55:26.104416"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1270\nNome: \nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nNao possuo Amil, eu wue saber quanto ficaria 3 vidas ni plano da Amil enfermaria",
+          "msg_time": "2026-03-19T15:56:45.310045"
+        },
+        {
+          "role": "ai",
+          "content": "Rosana, entendi que você está interessada no plano da AMIL para 3 vidas na modalidade enfermaria. O consultor irá te ajudar com todos os detalhes de valores e opções.\n\nAgora, só para registrar tudo corretamente, você mencionou que a contratação será por CNPJ (MEI), correto? Isso me ajuda a finalizar os dados antes de encaminhar para nosso especialista.",
+          "msg_time": "2026-03-19T15:56:45.313252"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1270\nNome: \nVidas: 3\nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nSim",
+          "msg_time": "2026-03-19T15:59:57.965629"
+        },
+        {
+          "role": "ai",
+          "content": "Rosana, obrigada por todas as informações! Vou encaminhar seu contato para o João, nosso especialista, que vai te apresentar as melhores opções de plano para as 3 vidas em São Gonçalo/RJ. Ele vai te chamar aqui no WhatsApp em breve. 😊",
+          "msg_time": "2026-03-19T15:59:57.967651"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1270\nNome: \nVidas: 3\nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nA Amil cobre a carência se tiver outro plano?",
+          "msg_time": "2026-03-19T16:01:00.961864"
+        },
+        {
+          "role": "ai",
+          "content": "Rosana, essa informação é bem específica e o João, nosso especialista, poderá te esclarecer todas as dúvidas sobre carências e coberturas. Vou encaminhar seu contato para ele para que você receba as respostas que precisa. Um momentinho! \n\nAgora, por favor, me confirme se a contratação é mesmo por CNPJ (MEI), assim posso finalizar seus dados.",
+          "msg_time": "2026-03-19T16:01:00.96395"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1270\nNome: \nVidas: 3\nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nCnpj(mei)",
+          "msg_time": "2026-03-19T16:13:51.77359"
+        },
+        {
+          "role": "ai",
+          "content": "Rosana, obrigado por confirmar! Estou finalizando os registros. \n\nSeu contato foi encaminhado para o João, nosso especialista, que entrará em contato com você através do WhatsApp em breve para esclarecer todas as suas dúvidas, incluindo sobre a carência da AMIL. \n\nAguarde um momento que ele vai te atender! 😊",
+          "msg_time": "2026-03-19T16:13:51.776603"
+        }
+      ]
+    },
+    {
+      "session_id": "5521977394704@s.whatsapp.net",
+      "phone": "5521977394704",
+      "phone_display": "+55 21 97739-4704",
+      "lead": {
+        "baserow_id": 1269,
+        "nome": "Andreia Gualberto",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": true,
+        "observacoes": "Andreia Gualberto",
+        "reagendamento": null,
+        "corretor": "Isis",
+        "temperatura": "Quente"
+      },
+      "summary": {
+        "nome": "Andreia Gualberto",
+        "email": "",
+        "telefone": "+55 21 97739-4704",
+        "vidas": [],
+        "cidade": "Niterói / RJ",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "MEI",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "Amil",
+        "rede_preferencial": "Hospital Icaraí, Hospital Icaraí é \nHospital CHN",
+        "contato": "WhatsApp",
+        "consultor": "Isis",
+        "codigo_corretor_b2cor": "",
+        "obs_crm": "Andreia Gualberto",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Andreia Gualberto\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97739-4704\n\n📋 Dados contratuais:\n\nCidade: Niterói / RJ\nContratação: CNPJ\nTipo: MEI\n🎯 Rede preferencial: Hospital Icaraí, Hospital Icaraí é \nHospital CHN\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Andreia Gualberto\n👤 Distribuído para: Isis\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "quente",
+      "bot": "preto",
+      "consultor": "Isis",
+      "codigo_corretor_b2cor": "",
+      "message_count": 13,
+      "first_message_at": "2026-03-19T00:00:00.000Z",
+      "last_message_at": "2026-03-19T18:26:45.431000Z",
+      "last_bot_msg_at": "2026-03-19T15:26:43.988101",
+      "tempo_sem_interacao": "4h 48min",
+      "first_id": 19511,
+      "last_id": 19523,
+      "last_message_preview": "Ok",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1269\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Amil",
+          "msg_time": "2026-03-19T15:00:30.606066"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-03-19T15:00:30.608859"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1269\nNome: Andreia Gualberto\n\nMensagem(ns) do cliente:\nEsse valor é para quem tem  cnpj?",
+          "msg_time": "2026-03-19T15:01:10.26136"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Andreia! O valor do plano de saúde varia conforme o tipo de contratação e a rede credenciada. Como o plano será contratado: empresarial por CNPJ MEI ou LTDA? Se tiver o número do CNPJ, pode me informar? Se não tiver, só preciso saber se é MEI ou LTDA.",
+          "msg_time": "2026-03-19T15:01:10.264845"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1269\nNome: Andreia Gualberto\n\nMensagem(ns) do cliente:\nLtda",
+          "msg_time": "2026-03-19T15:02:18.809239"
+        },
+        {
+          "role": "ai",
+          "content": "Ótimo, Andreia! Agora, para que eu possa ajudar melhor, qual é a cidade onde você busca atendimento? Se tiver algum hospital de sua preferência, também nos ajuda a encontrar um plano que atenda bem.",
+          "msg_time": "2026-03-19T15:02:18.811923"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1269\nNome: Andreia Gualberto\n\nMensagem(ns) do cliente:\nHospital Icaraí é \nHospital CHN em Niterói",
+          "msg_time": "2026-03-19T15:07:03.764071"
+        },
+        {
+          "role": "ai",
+          "content": "Obrigado pela informação, Andreia! Para eu continuar, quantas pessoas precisam do plano e quais as idades delas? Isso é importante para eu apresentar as opções adequadas.",
+          "msg_time": "2026-03-19T15:07:03.766308"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1269\nNome: Andreia Gualberto\n\nMensagem(ns) do cliente:\nAndréia-49\nMiguel-13\nGabriel-8",
+          "msg_time": "2026-03-19T15:25:48.460607"
+        },
+        {
+          "role": "ai",
+          "content": "Perfeito, Andreia! Agora, preciso saber se você já possui um plano de saúde atualmente. Se sim, qual é e quanto paga hoje? Essa informação ajuda a encontrar a melhor opção para você e sua família.",
+          "msg_time": "2026-03-19T15:25:48.46503"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1269\nNome: Andreia Gualberto\n\nMensagem(ns) do cliente:\nNão",
+          "msg_time": "2026-03-19T15:26:43.985733"
+        },
+        {
+          "role": "ai",
+          "content": "Andreia, obrigada por todas as informações! Vou encaminhar seu contato para a Isis, nossa especialista, que vai te apresentar as melhores opções de plano para vocês, 3 vidas em Niterói. Ela vai te chamar aqui no WhatsApp em breve.",
+          "msg_time": "2026-03-19T15:26:43.988101"
+        },
+        {
+          "role": "user",
+          "content": "Ok",
+          "msg_time": "2026-03-19T15:28:33.882097"
+        }
+      ]
+    },
+    {
+      "session_id": "552194019829@s.whatsapp.net",
+      "phone": "552194019829",
+      "phone_display": "+55 21 9401-9829",
+      "lead": null,
+      "summary": {
+        "nome": "Cassia",
+        "email": "",
+        "telefone": "+55 21 9401-9829",
+        "vidas": [],
+        "cidade": "",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "",
+        "rede_preferencial": "",
+        "contato": "",
+        "consultor": "",
+        "codigo_corretor_b2cor": "",
+        "obs_crm": "",
+        "bot": "Não identificado",
+        "formatted": "👤 Cliente: Cassia\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 9401-9829\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n✅ Status: Lead frio\n🤖 Bot: Não identificado"
+      },
+      "status": "frio",
+      "bot": "desconhecido",
+      "consultor": "",
+      "codigo_corretor_b2cor": "",
+      "message_count": 2,
+      "first_message_at": "2026-03-19T17:32:16.506Z",
+      "last_message_at": "2026-03-19T17:32:16.509Z",
+      "last_bot_msg_at": "2026-03-19T14:32:16.509024",
+      "tempo_sem_interacao": "5h 43min",
+      "first_id": 19509,
+      "last_id": 19510,
+      "last_message_preview": "Dados Fornecidos\nNome: Cassia\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não ...",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados Fornecidos\nNome: Cassia\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não informado\nRegião: Não Informado\nPropaganda:\n",
+          "msg_time": "2026-03-19T14:32:16.506115"
+        },
+        {
+          "role": "ai",
+          "content": "Oi Cassia! Sou o Gilberto da GW9, corretora de planos de saúde. Você pediu nosso contato para saber mais sobre plano de saúde e vi que tem interesse para 3 vidas e já possui um CNPJ. Para te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo certo?",
+          "msg_time": "2026-03-19T14:32:16.509024"
         }
       ]
     },
@@ -695,7 +695,7 @@
       "first_message_at": "2026-03-19T00:00:00.000Z",
       "last_message_at": "2026-03-19T17:10:35.326000Z",
       "last_bot_msg_at": "2026-03-19T14:10:33.483297",
-      "tempo_sem_interacao": "5h 50min",
+      "tempo_sem_interacao": "6h 5min",
       "first_id": 19493,
       "last_id": 19507,
       "last_message_preview": "Sim",
@@ -821,7 +821,7 @@
       "first_message_at": "2026-03-19T00:00:00.000Z",
       "last_message_at": "2026-03-19T15:01:24.889000Z",
       "last_bot_msg_at": "2026-03-19T12:01:17.264137",
-      "tempo_sem_interacao": "7h 59min",
+      "tempo_sem_interacao": "8h 14min",
       "first_id": 19491,
       "last_id": 19492,
       "last_message_preview": "Dados Fornecidos\nNome: Monica\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não ...",
@@ -1028,7 +1028,7 @@
       "first_message_at": "2026-03-18T00:00:00.000Z",
       "last_message_at": "2026-03-18T23:35:24.447000Z",
       "last_bot_msg_at": "2026-03-18T20:35:16.951317",
-      "tempo_sem_interacao": "23h 25min",
+      "tempo_sem_interacao": "23h 40min",
       "first_id": 19431,
       "last_id": 19488,
       "last_message_preview": "Não",
@@ -1387,7 +1387,7 @@
       "first_message_at": "2026-03-19T00:00:00.000Z",
       "last_message_at": "2026-03-19T13:27:27.170000Z",
       "last_bot_msg_at": "2026-03-19T10:27:19.357042",
-      "tempo_sem_interacao": "9h 33min",
+      "tempo_sem_interacao": "9h 48min",
       "first_id": 19479,
       "last_id": 19480,
       "last_message_preview": "Dados Fornecidos\nNome: Aline\nContem CNPJ: não\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não i...",
@@ -1416,7 +1416,7 @@
         "desinteresse": true,
         "observacoes": "Clean",
         "reagendamento": null,
-        "corretor": "João",
+        "corretor": "Elisa",
         "temperatura": "Quente"
       },
       "summary": {
@@ -1444,21 +1444,21 @@
         "interesse": "Sulamérica",
         "rede_preferencial": "hospital de clínica de Jacarepaguá",
         "contato": "WhatsApp",
-        "consultor": "João",
+        "consultor": "Elisa",
         "codigo_corretor_b2cor": "",
         "obs_crm": "Clean",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Clean\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97418-5584\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nClean — 47 anos\nDependente 1 — 29 anos\nDependente 2 — 6 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: clínica\n🎯 Rede preferencial: hospital de clínica de Jacarepaguá\n\n🎯 Interesse: Sulamérica\n\n⚠️ Observação: Clean\n👤 Distribuído para: João\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Clean\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97418-5584\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nClean — 47 anos\nDependente 1 — 29 anos\nDependente 2 — 6 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: clínica\n🎯 Rede preferencial: hospital de clínica de Jacarepaguá\n\n🎯 Interesse: Sulamérica\n\n⚠️ Observação: Clean\n👤 Distribuído para: Elisa\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Preto (0479)"
       },
       "status": "quente",
       "bot": "preto",
-      "consultor": "João",
+      "consultor": "Elisa",
       "codigo_corretor_b2cor": "",
       "message_count": 12,
       "first_message_at": "2026-03-18T00:00:00.000Z",
       "last_message_at": "2026-03-19T12:12:48.156000Z",
       "last_bot_msg_at": "2026-03-19T09:12:46.724212",
-      "tempo_sem_interacao": "10h 47min",
+      "tempo_sem_interacao": "11h 2min",
       "first_id": 19465,
       "last_id": 19478,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1264\nNome: Clean\n\nMensagem(ns) do cliente:\nEntão, eu tinha um plan...",
@@ -1569,7 +1569,7 @@
       "first_message_at": "2026-03-19T00:00:00.000Z",
       "last_message_at": "2026-03-19T08:31:44.765000Z",
       "last_bot_msg_at": "2026-03-19T05:32:16.800075",
-      "tempo_sem_interacao": "14h 28min",
+      "tempo_sem_interacao": "14h 43min",
       "first_id": 19467,
       "last_id": 19468,
       "last_message_preview": "Dados Fornecidos\nNome: Roberto\nContem CNPJ: Sim\nNumero de Vidas: 3 a 5 Vidas\nOperadora de Interesse:...",
@@ -1633,7 +1633,7 @@
       "first_message_at": "2026-03-18T23:43:17.891Z",
       "last_message_at": "2026-03-18T23:58:28.893Z",
       "last_bot_msg_at": "2026-03-18T20:58:28.893574",
-      "tempo_sem_interacao": "23h 2min",
+      "tempo_sem_interacao": "23h 17min",
       "first_id": 19447,
       "last_id": 19464,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1263\nNome: Laysa Corrêa\n\nMensagem(ns) do cliente:\nso corrigindo te...",
@@ -1774,7 +1774,7 @@
       "first_message_at": "2026-03-06T01:36:17.247Z",
       "last_message_at": "2026-03-18T23:38:05.477Z",
       "last_bot_msg_at": "2026-03-18T20:38:05.477199",
-      "tempo_sem_interacao": "23h 22min",
+      "tempo_sem_interacao": "23h 37min",
       "first_id": 233,
       "last_id": 19444,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1262\nNome: Laysa Corrêa, CFP®\nVidas: 4\nCidade: \nTipo Contratação: ...",
@@ -2065,7 +2065,7 @@
       "first_message_at": "2026-03-18T23:13:43.950Z",
       "last_message_at": "2026-03-18T23:13:43.952Z",
       "last_bot_msg_at": "2026-03-18T20:13:43.952376",
-      "tempo_sem_interacao": "23h 46min",
+      "tempo_sem_interacao": "1 dia",
       "first_id": 19423,
       "last_id": 19424,
       "last_message_preview": "Dados do lead no sistema:\nNome: \nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nNão t...",
@@ -2613,7 +2613,7 @@
       "first_message_at": "2025-12-15T00:00:00.000Z",
       "last_message_at": "2026-03-18T21:05:37.665Z",
       "last_bot_msg_at": "2026-03-18T21:05:37.665Z",
-      "tempo_sem_interacao": "22h 55min",
+      "tempo_sem_interacao": "23h 9min",
       "first_id": 1156,
       "last_id": 19361,
       "last_message_preview": "Responde que amanhã seguimos emtao",
@@ -2872,7 +2872,7 @@
       "first_message_at": "2025-12-15T00:00:00.000Z",
       "last_message_at": "2026-03-18T20:19:52.988Z",
       "last_bot_msg_at": "2026-03-18T20:19:52.988Z",
-      "tempo_sem_interacao": "23h 40min",
+      "tempo_sem_interacao": "23h 55min",
       "first_id": 742,
       "last_id": 19344,
       "last_message_preview": "<ContextoImagem>\n\n  <DetalheImagem>\n\n  </DetalheImagem>\n\nContexto Extra: O usuário encaminhou a mens...",
@@ -12565,7 +12565,7 @@
       "first_message_at": "2026-03-10T00:00:00.000Z",
       "last_message_at": "2026-03-10T23:09:56.610000Z",
       "last_bot_msg_at": "2026-03-10T20:09:51.553344",
-      "tempo_sem_interacao": "8 dias",
+      "tempo_sem_interacao": "9 dias",
       "first_id": 18311,
       "last_id": 18312,
       "last_message_preview": "Dados Fornecidos\nNome: Vinicios\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: nã...",
