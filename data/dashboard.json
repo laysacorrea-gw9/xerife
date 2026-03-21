@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_at": "2026-03-21T22:00:36.545Z",
+    "generated_at": "2026-03-21T22:15:37.496Z",
     "total_conversations": 200,
-    "total_messages": 3878,
+    "total_messages": 3884,
     "stats": {
       "quente": 100,
       "morno": 61,
@@ -12,6 +12,190 @@
     }
   },
   "conversations": [
+    {
+      "session_id": "5521986385509@s.whatsapp.net",
+      "phone": "5521986385509",
+      "phone_display": "+55 21 98638-5509",
+      "lead": {
+        "baserow_id": 1292,
+        "nome": "Nilce",
+        "email": "",
+        "qtd_vidas": 4,
+        "desinteresse": false,
+        "observacoes": "",
+        "reagendamento": null,
+        "corretor": "Elisa",
+        "temperatura": "Quente"
+      },
+      "summary": {
+        "nome": "Nilce",
+        "email": "",
+        "telefone": "+55 21 98638-5509",
+        "vidas": [
+          {
+            "idade": 3
+          },
+          {
+            "idade": 47
+          },
+          {
+            "idade": 45
+          },
+          {
+            "idade": 18
+          }
+        ],
+        "cidade": "Niterói / RJ",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "unimed leste — R$ 2.100",
+        "motivo": "",
+        "interesse": "",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "Elisa",
+        "codigo_corretor_b2cor": "",
+        "obs_crm": "",
+        "bot": "Gilbertinho Amarelo (2373)",
+        "formatted": "👤 Cliente: Nilce\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98638-5509\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nNilce — 3 anos\nDependente 1 — 47 anos\nDependente 2 — 45 anos\nDependente 3 — 18 anos\n\n📋 Dados contratuais:\n\nCidade: Niterói / RJ\nContratação: CNPJ\n\n🏥 Plano atual: unimed leste — R$ 2.100\n👤 Distribuído para: Elisa\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Amarelo (2373)"
+      },
+      "status": "quente",
+      "bot": "amarelo",
+      "consultor": "Elisa",
+      "codigo_corretor_b2cor": "",
+      "message_count": 24,
+      "first_message_at": "2026-03-20T00:00:00.000Z",
+      "last_message_at": "2026-03-21T22:07:44.289000Z",
+      "last_bot_msg_at": "2026-03-21T19:07:43.212785",
+      "tempo_sem_interacao": "3h 7min",
+      "first_id": 19664,
+      "last_id": 19733,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1292\nNome: \nVidas: 3\nCidade: \nTipo Contratação: \n\nMensagem(ns) do ...",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados Fornecidos\nNome: Nilce\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o informado\nRegiÃƒÂ£o: NÃƒÂ£o Informado\nPropaganda:\n",
+          "msg_time": "2026-03-20T21:05:53.917649"
+        },
+        {
+          "role": "ai",
+          "content": "Oi Nilce! Sou o Gilberto da GW9, corretora de planos de saúde. Você pediu nosso contato para saber mais sobre plano de saúde e vi que já possui um CNPJ. Para te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo certo?",
+          "msg_time": "2026-03-20T21:05:53.920693"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1292\nNome: Nilce\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nOk",
+          "msg_time": "2026-03-21T09:01:16.778648"
+        },
+        {
+          "role": "ai",
+          "content": "Obrigada, Nilce! Para te ajudar, preciso saber quantas pessoas precisarão do plano e as idades delas. Você pode me informar isso, por favor? Assim conseguirei buscar as melhores opções para você!",
+          "msg_time": "2026-03-21T09:01:16.78165"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1292\nNome: Nilce\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\n3\n47 45 18",
+          "msg_time": "2026-03-21T09:18:15.485619"
+        },
+        {
+          "role": "ai",
+          "content": "Perfeito, Nilce! Temos 3 vidas e as idades estão anotadas como 47, 45 e 18. Agora, só preciso saber em qual cidade você irá utilizar o plano de saúde. Qual é a sua cidade e estado?",
+          "msg_time": "2026-03-21T09:18:15.487282"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1292\nNome: \nVidas: 3\nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nNiterói/RJ",
+          "msg_time": "2026-03-21T09:19:34.384721"
+        },
+        {
+          "role": "ai",
+          "content": "Ótimo, Nilce! Estamos quase lá. A localização está anotada como Niterói/RJ. Por fim, como o plano será contratado? Será empresarial pelo CNPJ ou você vai usar CPF?",
+          "msg_time": "2026-03-21T09:19:34.386562"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1292\nNome: \nVidas: 3\nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nO que for melhor",
+          "msg_time": "2026-03-21T10:15:54.639282"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Nilce! Então vamos seguir com o CPF, que é uma opção mais comum para planos individuais. Só mais um passo: você já possui um plano de saúde atualmente? Se sim, qual é e quanto você paga hoje?",
+          "msg_time": "2026-03-21T10:15:54.640936"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1292\nNome: \nVidas: 3\nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nSim 🙂‍↕️ unimed leste\nPago para os 3 o valor de 2.100",
+          "msg_time": "2026-03-21T10:17:36.958309"
+        },
+        {
+          "role": "ai",
+          "content": "Obrigada, Nilce! Agora com todas as informações necessárias, vou encaminhar seu contato para o especialista. Ele vai te apresentar as melhores opções de plano para as 3 vidas em Niterói/RJ. Ele deverá te chamar aqui no WhatsApp em breve!",
+          "msg_time": "2026-03-21T10:17:36.960603"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1292\nNome: \nVidas: 3\nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nSem co-participacao",
+          "msg_time": "2026-03-21T10:18:10.579713"
+        },
+        {
+          "role": "ai",
+          "content": "Nilce, obrigada por todas as informações! Vou encaminhar seu contato para o João, nosso especialista, que vai te apresentar as melhores opções de plano para as 3 vidas em Niterói/RJ. Ele deverá te chamar aqui no WhatsApp em breve!",
+          "msg_time": "2026-03-21T10:18:10.581739"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1292\nNome: \nVidas: 3\nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nOk",
+          "msg_time": "2026-03-21T10:18:33.006828"
+        },
+        {
+          "role": "ai",
+          "content": "Nilce, obrigada por todas as informações! Vou encaminhar seu contato para o João, nosso especialista, que vai te apresentar as melhores opções de plano para as 3 vidas em Niterói/RJ. Ele deve te chamar aqui no WhatsApp em breve! Se precisar de algo mais, estarei por aqui. 😊",
+          "msg_time": "2026-03-21T10:18:33.008556"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1292\nNome: \nVidas: 3\nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nFormato de mensagem enviada nao suportado",
+          "msg_time": "2026-03-21T10:26:30.034669"
+        },
+        {
+          "role": "ai",
+          "content": "Nilce, agora tudo está organizado! Estou enviando seus dados para o João, nosso especialista. Ele entrará em contato com você através do WhatsApp. Se precisar de algo mais, estarei à disposição. Muito obrigada e até logo! 😊",
+          "msg_time": "2026-03-21T10:26:30.037253"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1292\nNome: \nVidas: 3\nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nEstou aguardando a cotacao\n\nVárias mensagens já",
+          "msg_time": "2026-03-21T19:04:40.358457"
+        },
+        {
+          "role": "ai",
+          "content": "Nilce, agora eu acionei o especialista Isis. Ele entrará em contato com você através do WhatsApp em breve! Agradeço pela sua paciência e estou aqui para ajudar se precisar de mais alguma coisa. 😊",
+          "msg_time": "2026-03-21T19:04:40.363188"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1292\nNome: \nVidas: 3\nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nOk",
+          "msg_time": "2026-03-21T19:06:43.332627"
+        },
+        {
+          "role": "ai",
+          "content": "Nilce, agora que tudo está organizado, vou encaminhar seu contato para o João, nosso especialista, que te ajudará com a cotação. Ele entrará em contato através do WhatsApp em breve! Se precisar de mais alguma coisa, estarei à disposição. 😊",
+          "msg_time": "2026-03-21T19:06:43.33531"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1292\nNome: \nVidas: 3\nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nOk",
+          "msg_time": "2026-03-21T19:07:43.209321"
+        },
+        {
+          "role": "ai",
+          "content": "Nilce, toda sua informação está registrada! Vou passar seu contato para a Elisa, nosso especialista, que vai entrar em contato com você através do WhatsApp. Em breve, você receberá a cotação. Se precisar de algo mais, estou aqui para ajudar! 😊",
+          "msg_time": "2026-03-21T19:07:43.212785"
+        }
+      ]
+    },
     {
       "session_id": "5521994942092@s.whatsapp.net",
       "phone": "5521994942092",
@@ -137,7 +321,7 @@
       "first_message_at": "2026-03-21T00:00:00.000Z",
       "last_message_at": "2026-03-21T13:20:20.665000Z",
       "last_bot_msg_at": "2026-03-21T10:20:19.623579",
-      "tempo_sem_interacao": "11h 40min",
+      "tempo_sem_interacao": "11h 55min",
       "first_id": 19698,
       "last_id": 19726,
       "last_message_preview": "Formato de mensagem enviada nao suportado",
@@ -243,7 +427,7 @@
       "first_message_at": "2026-03-21T00:00:00.000Z",
       "last_message_at": "2026-03-21T14:10:21.895000Z",
       "last_bot_msg_at": "2026-03-21T11:10:20.956868",
-      "tempo_sem_interacao": "10h 50min",
+      "tempo_sem_interacao": "11h 5min",
       "first_id": 19724,
       "last_id": 19725,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1302\nNome: \n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação...",
@@ -304,7 +488,7 @@
       "first_message_at": "2026-03-21T00:00:00.000Z",
       "last_message_at": "2026-03-21T14:09:56.830000Z",
       "last_bot_msg_at": "2026-03-21T11:09:50.988897",
-      "tempo_sem_interacao": "10h 50min",
+      "tempo_sem_interacao": "11h 5min",
       "first_id": 19722,
       "last_id": 19723,
       "last_message_preview": "Dados Fornecidos\nNome: Marcia\nContem CNPJ: Sim\nNumero de Vidas: \nOperadora de Interesse: Receber tod...",
@@ -530,160 +714,6 @@
       ]
     },
     {
-      "session_id": "5521986385509@s.whatsapp.net",
-      "phone": "5521986385509",
-      "phone_display": "+55 21 98638-5509",
-      "lead": {
-        "baserow_id": 1292,
-        "nome": "Nilce",
-        "email": "",
-        "qtd_vidas": 4,
-        "desinteresse": false,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "Elisa",
-        "temperatura": "Quente"
-      },
-      "summary": {
-        "nome": "Nilce",
-        "email": "",
-        "telefone": "+55 21 98638-5509",
-        "vidas": [
-          {
-            "idade": 3
-          },
-          {
-            "idade": 47
-          },
-          {
-            "idade": 45
-          },
-          {
-            "idade": 18
-          }
-        ],
-        "cidade": "Niterói / RJ",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "unimed leste — R$ 2.100",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "Elisa",
-        "codigo_corretor_b2cor": "",
-        "obs_crm": "",
-        "bot": "Gilbertinho Amarelo (2373)",
-        "formatted": "👤 Cliente: Nilce\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98638-5509\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nNilce — 3 anos\nDependente 1 — 47 anos\nDependente 2 — 45 anos\nDependente 3 — 18 anos\n\n📋 Dados contratuais:\n\nCidade: Niterói / RJ\nContratação: CNPJ\n\n🏥 Plano atual: unimed leste — R$ 2.100\n👤 Distribuído para: Elisa\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Amarelo (2373)"
-      },
-      "status": "quente",
-      "bot": "amarelo",
-      "consultor": "Elisa",
-      "codigo_corretor_b2cor": "",
-      "message_count": 18,
-      "first_message_at": "2026-03-20T00:00:00.000Z",
-      "last_message_at": "2026-03-21T13:26:31.023000Z",
-      "last_bot_msg_at": "2026-03-21T10:26:30.037253",
-      "tempo_sem_interacao": "11h 34min",
-      "first_id": 19664,
-      "last_id": 19717,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1292\nNome: \nVidas: 3\nCidade: \nTipo Contratação: \n\nMensagem(ns) do ...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados Fornecidos\nNome: Nilce\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o informado\nRegiÃƒÂ£o: NÃƒÂ£o Informado\nPropaganda:\n",
-          "msg_time": "2026-03-20T21:05:53.917649"
-        },
-        {
-          "role": "ai",
-          "content": "Oi Nilce! Sou o Gilberto da GW9, corretora de planos de saúde. Você pediu nosso contato para saber mais sobre plano de saúde e vi que já possui um CNPJ. Para te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo certo?",
-          "msg_time": "2026-03-20T21:05:53.920693"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1292\nNome: Nilce\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nOk",
-          "msg_time": "2026-03-21T09:01:16.778648"
-        },
-        {
-          "role": "ai",
-          "content": "Obrigada, Nilce! Para te ajudar, preciso saber quantas pessoas precisarão do plano e as idades delas. Você pode me informar isso, por favor? Assim conseguirei buscar as melhores opções para você!",
-          "msg_time": "2026-03-21T09:01:16.78165"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1292\nNome: Nilce\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\n3\n47 45 18",
-          "msg_time": "2026-03-21T09:18:15.485619"
-        },
-        {
-          "role": "ai",
-          "content": "Perfeito, Nilce! Temos 3 vidas e as idades estão anotadas como 47, 45 e 18. Agora, só preciso saber em qual cidade você irá utilizar o plano de saúde. Qual é a sua cidade e estado?",
-          "msg_time": "2026-03-21T09:18:15.487282"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1292\nNome: \nVidas: 3\nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nNiterói/RJ",
-          "msg_time": "2026-03-21T09:19:34.384721"
-        },
-        {
-          "role": "ai",
-          "content": "Ótimo, Nilce! Estamos quase lá. A localização está anotada como Niterói/RJ. Por fim, como o plano será contratado? Será empresarial pelo CNPJ ou você vai usar CPF?",
-          "msg_time": "2026-03-21T09:19:34.386562"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1292\nNome: \nVidas: 3\nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nO que for melhor",
-          "msg_time": "2026-03-21T10:15:54.639282"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Nilce! Então vamos seguir com o CPF, que é uma opção mais comum para planos individuais. Só mais um passo: você já possui um plano de saúde atualmente? Se sim, qual é e quanto você paga hoje?",
-          "msg_time": "2026-03-21T10:15:54.640936"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1292\nNome: \nVidas: 3\nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nSim 🙂‍↕️ unimed leste\nPago para os 3 o valor de 2.100",
-          "msg_time": "2026-03-21T10:17:36.958309"
-        },
-        {
-          "role": "ai",
-          "content": "Obrigada, Nilce! Agora com todas as informações necessárias, vou encaminhar seu contato para o especialista. Ele vai te apresentar as melhores opções de plano para as 3 vidas em Niterói/RJ. Ele deverá te chamar aqui no WhatsApp em breve!",
-          "msg_time": "2026-03-21T10:17:36.960603"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1292\nNome: \nVidas: 3\nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nSem co-participacao",
-          "msg_time": "2026-03-21T10:18:10.579713"
-        },
-        {
-          "role": "ai",
-          "content": "Nilce, obrigada por todas as informações! Vou encaminhar seu contato para o João, nosso especialista, que vai te apresentar as melhores opções de plano para as 3 vidas em Niterói/RJ. Ele deverá te chamar aqui no WhatsApp em breve!",
-          "msg_time": "2026-03-21T10:18:10.581739"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1292\nNome: \nVidas: 3\nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nOk",
-          "msg_time": "2026-03-21T10:18:33.006828"
-        },
-        {
-          "role": "ai",
-          "content": "Nilce, obrigada por todas as informações! Vou encaminhar seu contato para o João, nosso especialista, que vai te apresentar as melhores opções de plano para as 3 vidas em Niterói/RJ. Ele deve te chamar aqui no WhatsApp em breve! Se precisar de algo mais, estarei por aqui. 😊",
-          "msg_time": "2026-03-21T10:18:33.008556"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1292\nNome: \nVidas: 3\nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nFormato de mensagem enviada nao suportado",
-          "msg_time": "2026-03-21T10:26:30.034669"
-        },
-        {
-          "role": "ai",
-          "content": "Nilce, agora tudo está organizado! Estou enviando seus dados para o João, nosso especialista. Ele entrará em contato com você através do WhatsApp. Se precisar de algo mais, estarei à disposição. Muito obrigada e até logo! 😊",
-          "msg_time": "2026-03-21T10:26:30.037253"
-        }
-      ]
-    },
-    {
       "session_id": "5521985862842@s.whatsapp.net",
       "phone": "5521985862842",
       "phone_display": "+55 21 98586-2842",
@@ -727,7 +757,7 @@
       "first_message_at": "2026-03-21T00:00:00.000Z",
       "last_message_at": "2026-03-21T12:48:32.782000Z",
       "last_bot_msg_at": "2026-03-21T09:48:31.61007",
-      "tempo_sem_interacao": "12h 12min",
+      "tempo_sem_interacao": "12h 27min",
       "first_id": 19696,
       "last_id": 19697,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1299\nNome: \n\nMensagem(ns) do cliente:\nOlá gostaria de mais informa...",
@@ -807,7 +837,7 @@
       "first_message_at": "2026-03-21T00:00:00.000Z",
       "last_message_at": "2026-03-21T12:22:09.059000Z",
       "last_bot_msg_at": "2026-03-21T09:22:07.721863",
-      "tempo_sem_interacao": "12h 38min",
+      "tempo_sem_interacao": "12h 53min",
       "first_id": 19680,
       "last_id": 19695,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1298\nNome: Marcelo\nVidas: 3\nCidade: \nTipo Contratação: \n\nMensagem(...",
@@ -918,7 +948,7 @@
       "first_message_at": "2026-03-20T00:00:00.000Z",
       "last_message_at": "2026-03-21T11:44:40.528000Z",
       "last_bot_msg_at": "2026-03-21T08:44:39.28255",
-      "tempo_sem_interacao": "13h 15min",
+      "tempo_sem_interacao": "13h 30min",
       "first_id": 19666,
       "last_id": 19677,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1293\nNome: Milton\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns...",
@@ -989,7 +1019,7 @@
       "first_message_at": "2026-03-21T00:00:00.000Z",
       "last_message_at": "2026-03-21T03:54:58.647000Z",
       "last_bot_msg_at": "2026-03-21T00:54:53.274512",
-      "tempo_sem_interacao": "21h 5min",
+      "tempo_sem_interacao": "21h 20min",
       "first_id": 19674,
       "last_id": 19675,
       "last_message_preview": "Dados Fornecidos\nNome: Denise\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o info...",
@@ -1050,7 +1080,7 @@
       "first_message_at": "2026-03-20T00:00:00.000Z",
       "last_message_at": "2026-03-21T02:46:57.301000Z",
       "last_bot_msg_at": "2026-03-20T23:46:52.158925",
-      "tempo_sem_interacao": "22h 13min",
+      "tempo_sem_interacao": "22h 28min",
       "first_id": 19672,
       "last_id": 19673,
       "last_message_preview": "Dados Fornecidos\nNome: Andre\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o infor...",
@@ -1111,7 +1141,7 @@
       "first_message_at": "2026-03-20T00:00:00.000Z",
       "last_message_at": "2026-03-21T01:42:57.620000Z",
       "last_bot_msg_at": "2026-03-20T22:42:52.650809",
-      "tempo_sem_interacao": "23h 17min",
+      "tempo_sem_interacao": "23h 32min",
       "first_id": 19670,
       "last_id": 19671,
       "last_message_preview": "Dados Fornecidos\nNome: Egydio\nContem CNPJ: não\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o info...",
@@ -14905,7 +14935,7 @@
       "first_message_at": "2026-03-10T00:00:00.000Z",
       "last_message_at": "2026-03-11T01:03:00.891000Z",
       "last_bot_msg_at": "2026-03-10T22:03:00.306716",
-      "tempo_sem_interacao": "10 dias",
+      "tempo_sem_interacao": "11 dias",
       "first_id": 18337,
       "last_id": 18338,
       "last_message_preview": "Olá Gostaria de uma cotação de um Plano de Saúde Amil",
