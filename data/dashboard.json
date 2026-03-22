@@ -1,17 +1,128 @@
 {
   "meta": {
-    "generated_at": "2026-03-22T13:45:36.407Z",
+    "generated_at": "2026-03-22T14:00:36.244Z",
     "total_conversations": 200,
-    "total_messages": 3887,
+    "total_messages": 3882,
     "stats": {
-      "quente": 100,
+      "quente": 101,
       "morno": 61,
       "frio": 34,
-      "desinteresse": 5,
+      "desinteresse": 4,
       "sem_classificacao": 0
     }
   },
   "conversations": [
+    {
+      "session_id": "5522999111760@s.whatsapp.net",
+      "phone": "5522999111760",
+      "phone_display": "+55 22 99911-1760",
+      "lead": {
+        "baserow_id": 1309,
+        "nome": "Sandra",
+        "email": "fitmultimarcas@gmail.com",
+        "qtd_vidas": 3,
+        "desinteresse": false,
+        "observacoes": "",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Sandra",
+        "email": "fitmultimarcas@gmail.com",
+        "telefone": "+55 22 99911-1760",
+        "vidas": [
+          {
+            "idade": 19
+          },
+          {
+            "idade": 61
+          },
+          {
+            "idade": 62
+          }
+        ],
+        "cidade": "Cabo Frio / RJ",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "MEI",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "",
+        "rede_preferencial": "",
+        "contato": "",
+        "consultor": "",
+        "codigo_corretor_b2cor": "",
+        "obs_crm": "",
+        "bot": "Gilbertinho Amarelo (2373)",
+        "formatted": "👤 Cliente: Sandra\n📧 E-mail: fitmultimarcas@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 22 99911-1760\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nSandra — 19 anos\nDependente 1 — 61 anos\nDependente 2 — 62 anos\n\n📋 Dados contratuais:\n\nCidade: Cabo Frio / RJ\nContratação: CNPJ\nTipo: MEI\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Amarelo (2373)"
+      },
+      "status": "quente",
+      "bot": "amarelo",
+      "consultor": "",
+      "codigo_corretor_b2cor": "",
+      "message_count": 10,
+      "first_message_at": "2026-03-22T00:00:00.000Z",
+      "last_message_at": "2026-03-22T14:00:22.875000Z",
+      "last_bot_msg_at": "2026-03-22T11:00:21.455596",
+      "tempo_sem_interacao": "3h",
+      "first_id": 19790,
+      "last_id": 19799,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1309\nNome: \nVidas: 3\nCidade: \nTipo Contratação: \n\nMensagem(ns) do ...",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados Fornecidos\nNome: Sandra\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o informado\nRegiÃƒÂ£o: NÃƒÂ£o Informado\nPropaganda:\n",
+          "msg_time": "2026-03-22T10:45:50.554821"
+        },
+        {
+          "role": "ai",
+          "content": "Oi Sandra! Sou o Gilberto da GW9, corretora de planos de saúde. Você pediu nosso contato para saber mais sobre plano de saúde e vi que já possui um CNPJ. Para te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo certo?",
+          "msg_time": "2026-03-22T10:45:50.557643"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1309\nNome: Sandra\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nSim",
+          "msg_time": "2026-03-22T10:57:39.754072"
+        },
+        {
+          "role": "ai",
+          "content": "Ótimo, Sandra! 😊 Agora, para seguirmos, quantas pessoas você gostaria de incluir no plano e quais são as idades delas? Isso é importante para encontrarmos as melhores opções para você.",
+          "msg_time": "2026-03-22T10:57:39.756347"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1309\nNome: Sandra\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\n3 pessoas, 19, 61 e 62",
+          "msg_time": "2026-03-22T10:58:47.410481"
+        },
+        {
+          "role": "ai",
+          "content": "Perfeito, Sandra! Então temos 3 pessoas, com idades de 19, 61 e 62 anos. Agora, por favor, você pode me informar em qual cidade e estado vocês estão, para que possamos buscar as melhores opções de plano?",
+          "msg_time": "2026-03-22T10:58:47.41281"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1309\nNome: \nVidas: 3\nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nCabo Frio - RJ",
+          "msg_time": "2026-03-22T10:59:43.465481"
+        },
+        {
+          "role": "ai",
+          "content": "Obrigada, Sandra! Agora que temos a localização em Cabo Frio - RJ, preciso saber como deseja contratar o plano: será pelo CNPJ MEI ou LTDA? Se puder confirmar, vamos para a última informação!",
+          "msg_time": "2026-03-22T10:59:43.467035"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1309\nNome: \nVidas: 3\nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nLtda",
+          "msg_time": "2026-03-22T11:00:21.453713"
+        },
+        {
+          "role": "ai",
+          "content": "Perfeito, Sandra! Para finalizar, você já possui um plano de saúde atualmente? Se sim, poderia me informar qual é e quanto paga por ele? Isso nos ajudará a encontrar a melhor opção para vocês.",
+          "msg_time": "2026-03-22T11:00:21.455596"
+        }
+      ]
+    },
     {
       "session_id": "5521991756472@s.whatsapp.net",
       "phone": "5521991756472",
@@ -56,7 +167,7 @@
       "first_message_at": "2026-03-22T00:00:00.000Z",
       "last_message_at": "2026-03-22T12:18:21.884000Z",
       "last_bot_msg_at": "2026-03-22T09:18:20.868065",
-      "tempo_sem_interacao": "4h 27min",
+      "tempo_sem_interacao": "4h 42min",
       "first_id": 19758,
       "last_id": 19789,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1306\nNome: \nVidas: 3\nCidade: \nTipo Contratação: \n\nMensagem(ns) do ...",
@@ -167,7 +278,7 @@
       "first_message_at": "2026-03-22T00:00:00.000Z",
       "last_message_at": "2026-03-22T11:56:56.527000Z",
       "last_bot_msg_at": "2026-03-22T08:56:51.644569",
-      "tempo_sem_interacao": "4h 48min",
+      "tempo_sem_interacao": "5h 3min",
       "first_id": 19778,
       "last_id": 19779,
       "last_message_preview": "Dados Fornecidos\nNome: Jeomarcia\nContem CNPJ: não\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o i...",
@@ -241,7 +352,7 @@
       "first_message_at": "2026-03-22T00:00:00.000Z",
       "last_message_at": "2026-03-22T11:55:47.009000Z",
       "last_bot_msg_at": "2026-03-22T08:55:46.00472",
-      "tempo_sem_interacao": "4h 49min",
+      "tempo_sem_interacao": "5h 4min",
       "first_id": 19760,
       "last_id": 19777,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1307\nNome: \n\nMensagem(ns) do cliente:\nObrigado pela atenção",
@@ -382,7 +493,7 @@
       "first_message_at": "2026-03-21T00:00:00.000Z",
       "last_message_at": "2026-03-22T02:34:18.303000Z",
       "last_bot_msg_at": "2026-03-21T23:34:17.267302",
-      "tempo_sem_interacao": "14h 11min",
+      "tempo_sem_interacao": "14h 26min",
       "first_id": 19754,
       "last_id": 19757,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1305\nNome: Jarbas\n\nMensagem(ns) do cliente:\nOlá Gostaria de uma co...",
@@ -460,7 +571,7 @@
       "first_message_at": "2026-03-21T00:00:00.000Z",
       "last_message_at": "2026-03-22T01:10:16.389000Z",
       "last_bot_msg_at": "2026-03-21T22:10:14.978449",
-      "tempo_sem_interacao": "15h 35min",
+      "tempo_sem_interacao": "15h 50min",
       "first_id": 19736,
       "last_id": 19753,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1304\nNome: \nVidas: 3\nCidade: \nTipo Contratação: \n\nMensagem(ns) do ...",
@@ -601,7 +712,7 @@
       "first_message_at": "2026-03-21T00:00:00.000Z",
       "last_message_at": "2026-03-21T23:09:57.568000Z",
       "last_bot_msg_at": "2026-03-21T20:09:52.254219",
-      "tempo_sem_interacao": "17h 35min",
+      "tempo_sem_interacao": "17h 50min",
       "first_id": 19734,
       "last_id": 19735,
       "last_message_preview": "Dados Fornecidos\nNome: Vania\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o infor...",
@@ -675,7 +786,7 @@
       "first_message_at": "2026-03-20T00:00:00.000Z",
       "last_message_at": "2026-03-21T22:07:44.289000Z",
       "last_bot_msg_at": "2026-03-21T19:07:43.212785",
-      "tempo_sem_interacao": "18h 37min",
+      "tempo_sem_interacao": "18h 52min",
       "first_id": 19664,
       "last_id": 19733,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1292\nNome: \nVidas: 3\nCidade: \nTipo Contratação: \n\nMensagem(ns) do ...",
@@ -2024,7 +2135,7 @@
       "first_message_at": "2026-03-20T00:00:00.000Z",
       "last_message_at": "2026-03-20T16:47:58.934000Z",
       "last_bot_msg_at": "2026-03-20T13:47:57.949013",
-      "tempo_sem_interacao": "1 dia",
+      "tempo_sem_interacao": "2 dias",
       "first_id": 19626,
       "last_id": 19638,
       "last_message_preview": "Obrigada",
@@ -8494,7 +8605,7 @@
       "first_message_at": "2026-02-28T00:00:00.000Z",
       "last_message_at": "2026-03-06T16:51:17.642000Z",
       "last_bot_msg_at": "2026-03-06T13:51:17.084569",
-      "tempo_sem_interacao": "15 dias",
+      "tempo_sem_interacao": "16 dias",
       "first_id": 14474,
       "last_id": 19120,
       "last_message_preview": "Tudo bem",
@@ -11205,7 +11316,7 @@
       "first_message_at": "2026-03-16T13:45:56.366Z",
       "last_message_at": "2026-03-16T13:49:28.984Z",
       "last_bot_msg_at": "2026-03-16T13:49:28.984Z",
-      "tempo_sem_interacao": "5 dias",
+      "tempo_sem_interacao": "6 dias",
       "first_id": 18858,
       "last_id": 18867,
       "last_message_preview": "",
@@ -13567,7 +13678,7 @@
       "first_message_at": "2026-03-10T00:00:00.000Z",
       "last_message_at": "2026-03-11T16:48:11.869000Z",
       "last_bot_msg_at": "2026-03-11T13:48:11.299613",
-      "tempo_sem_interacao": "10 dias",
+      "tempo_sem_interacao": "11 dias",
       "first_id": 18376,
       "last_id": 18563,
       "last_message_preview": "Ok.",
@@ -18381,7 +18492,7 @@
       "first_message_at": "2026-03-09T00:00:00.000Z",
       "last_message_at": "2026-03-09T16:52:57.674000Z",
       "last_bot_msg_at": "2026-03-09T13:52:51.913748",
-      "tempo_sem_interacao": "12 dias",
+      "tempo_sem_interacao": "13 dias",
       "first_id": 17777,
       "last_id": 18202,
       "last_message_preview": "Dados Fornecidos\nNome: Claudio\nContem CNPJ: não\nNumero de Vidas: 2_vidas\nOperadora de Interesse: não...",
@@ -18644,7 +18755,7 @@
       "first_message_at": "2026-03-09T00:00:00.000Z",
       "last_message_at": "2026-03-10T15:31:56.734Z",
       "last_bot_msg_at": "2026-03-09T13:46:35.363236",
-      "tempo_sem_interacao": "12 dias",
+      "tempo_sem_interacao": "13 dias",
       "first_id": 17633,
       "last_id": 18199,
       "last_message_preview": "Desculpa mandei errado\n\nDesculpa mandei errado",
@@ -19015,7 +19126,7 @@
       "first_message_at": "2026-03-09T00:00:00.000Z",
       "last_message_at": "2026-03-09T16:47:55.600000Z",
       "last_bot_msg_at": "2026-03-09T13:47:55.12647",
-      "tempo_sem_interacao": "12 dias",
+      "tempo_sem_interacao": "13 dias",
       "first_id": 17586,
       "last_id": 18194,
       "last_message_preview": "Prevenção e segurança",
@@ -22432,139 +22543,6 @@
           "role": "system",
           "content": "\n",
           "msg_time": "2026-03-10T08:30:19.67353"
-        }
-      ]
-    },
-    {
-      "session_id": "5521991625685@s.whatsapp.net",
-      "phone": "5521991625685",
-      "phone_display": "+55 21 99162-5685",
-      "lead": {
-        "baserow_id": 1051,
-        "nome": "Daniel Silva",
-        "email": "",
-        "qtd_vidas": 2,
-        "desinteresse": true,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Daniel Silva",
-        "email": "",
-        "telefone": "+55 21 99162-5685",
-        "vidas": [
-          {
-            "idade": 5
-          },
-          {
-            "idade": 9
-          }
-        ],
-        "cidade": "Rio de Janeiro / RJ",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "de",
-        "plano_atual": "supermed Amil Golden Care I — Bronze — R$ 1215 — com coparticipação",
-        "motivo": "",
-        "interesse": "Amil Bronze Mais RJ e não interessou",
-        "rede_preferencial": "",
-        "contato": "",
-        "consultor": "",
-        "codigo_corretor_b2cor": "",
-        "obs_crm": "",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Daniel Silva\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99162-5685\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nDaniel Silva — 5 anos\nDependente 1 — 9 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nProfissão: de\n\n🏥 Plano atual: supermed Amil Golden Care I — Bronze — R$ 1215 — com coparticipação\n\n🎯 Interesse: Amil Bronze Mais RJ e não interessou\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "desinteresse",
-      "bot": "preto",
-      "consultor": "",
-      "codigo_corretor_b2cor": "",
-      "message_count": 15,
-      "first_message_at": "2026-03-07T00:00:00.000Z",
-      "last_message_at": "2026-03-08T00:39:11.895000Z",
-      "last_bot_msg_at": "2026-03-07T21:39:11.494693",
-      "tempo_sem_interacao": "14 dias",
-      "first_id": 17217,
-      "last_id": 18038,
-      "last_message_preview": "Olá gostaria de mais informações dos Planos de Saúde  Sulamérica",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Formato de mensagem enviada nao suportado",
-          "msg_time": "2026-03-07T20:46:03.687653"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Eu sou Gilberto, analista em Plano Saúde da Corretora GW9. 🚀\nTrabalhamos com todos os Planos de saúde no Rio de Janeiro. Vou te ajudar a entender as melhores opções de plano e, se fizer sentido, já deixo tudo organizado para o especialista te atender de forma objetiva. Pode ser?\nQual o seu nome?",
-          "msg_time": "2026-03-07T20:46:03.690079"
-        },
-        {
-          "role": "user",
-          "content": "Temos supermed Amil Golden Care I\n\nPassou de 1215 minha esposa e nossa baby para quasec1700\n\nEles ofertaram um com coparticipação parcial por 1200 Amil Bronze Mais RJ e não interessou\n\nTeriam algum q aproveita carência?\n\n05/09/1977\n\n10/07/2022\n\nAbraço",
-          "msg_time": "2026-03-07T20:46:46.35846"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, você está buscando uma opção que aproveite a carência, certo? Só para confirmar, são você, sua esposa e o bebê, totalizando 3 vidas? E a cidade é Rio de Janeiro? Como será a contratação, CPF ou CNPJ?",
-          "msg_time": "2026-03-07T20:46:46.360692"
-        },
-        {
-          "role": "user",
-          "content": "Grato pelo retorno",
-          "msg_time": "2026-03-07T20:46:58.775456"
-        },
-        {
-          "role": "ai",
-          "content": "🤝  \nFico à disposição para ajudar! Só para seguir com as opções certas, poderia me confirmar seu nome, por favor? Quero garantir que tudo fique registrado certinho para o especialista.",
-          "msg_time": "2026-03-07T20:46:58.779501"
-        },
-        {
-          "role": "user",
-          "content": "Daniel",
-          "msg_time": "2026-03-07T20:47:34.919095"
-        },
-        {
-          "role": "ai",
-          "content": "Perfeito, Daniel!  \nPara montar o melhor plano para você, sua esposa e bebê, me confirma a cidade onde usariam o plano e se a contratação será pelo CPF ou CNPJ?",
-          "msg_time": "2026-03-07T20:47:34.921093"
-        },
-        {
-          "role": "user",
-          "content": "Cpf\n\nRio de Janeiro",
-          "msg_time": "2026-03-07T20:52:49.64894"
-        },
-        {
-          "role": "ai",
-          "content": "Ótimo, Daniel! Agora, qual é a idade de vocês dois adultos e do bebê? Vi as datas de nascimento, mas preciso confirmar as idades para fechar o cadastro certinho.",
-          "msg_time": "2026-03-07T20:52:49.652708"
-        },
-        {
-          "role": "user",
-          "content": "Olá gostaria de mais informações dos Planos de Saúde  Sulamérica",
-          "msg_time": "2026-03-07T21:39:11.492588"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Vi que tem interesse na SulAmérica. Para te ajudar melhor, posso saber seu nome, quantas pessoas entrarão no plano, as idades e a cidade? Também me diga se a contratação será CPF ou CNPJ. Assim, vejo as melhores opções para você.",
-          "msg_time": "2026-03-07T21:39:11.494693"
-        },
-        {
-          "role": "system",
-          "content": "\n",
-          "msg_time": "2026-03-09T11:00:19.2137"
-        },
-        {
-          "role": "system",
-          "content": "\n",
-          "msg_time": "2026-03-09T12:30:31.922832"
-        },
-        {
-          "role": "system",
-          "content": "\n",
-          "msg_time": "2026-03-10T08:30:15.070833"
         }
       ]
     }
