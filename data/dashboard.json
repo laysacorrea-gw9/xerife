@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_at": "2026-03-22T00:45:37.215Z",
+    "generated_at": "2026-03-22T01:00:37.851Z",
     "total_conversations": 200,
-    "total_messages": 3870,
+    "total_messages": 3874,
     "stats": {
       "quente": 100,
       "morno": 60,
@@ -22,7 +22,7 @@
         "email": "juliocex@hotmail.com",
         "qtd_vidas": 2,
         "desinteresse": false,
-        "observacoes": "JULIO",
+        "observacoes": "",
         "reagendamento": null,
         "corretor": "",
         "temperatura": ""
@@ -39,10 +39,10 @@
             "idade": 40
           }
         ],
-        "cidade": "",
+        "cidade": "Rio de Janeiro / RJ",
         "contratacao": "CNPJ",
         "cnpj": "",
-        "tipo_empresa": "",
+        "tipo_empresa": "MEI",
         "profissao": "",
         "plano_atual": "",
         "motivo": "",
@@ -51,22 +51,22 @@
         "contato": "",
         "consultor": "",
         "codigo_corretor_b2cor": "",
-        "obs_crm": "JULIO",
+        "obs_crm": "",
         "bot": "Gilbertinho Amarelo (2373)",
-        "formatted": "👤 Cliente: Julio\n📧 E-mail: juliocex@hotmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99341-8323\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nJulio — 52 anos\nDependente 1 — 40 anos\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n\n⚠️ Observação: JULIO\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Amarelo (2373)"
+        "formatted": "👤 Cliente: Julio\n📧 E-mail: juliocex@hotmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99341-8323\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nJulio — 52 anos\nDependente 1 — 40 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Amarelo (2373)"
       },
       "status": "quente",
       "bot": "amarelo",
       "consultor": "",
       "codigo_corretor_b2cor": "",
-      "message_count": 6,
+      "message_count": 10,
       "first_message_at": "2026-03-21T00:00:00.000Z",
-      "last_message_at": "2026-03-22T00:45:23.925000Z",
-      "last_bot_msg_at": "2026-03-21T21:45:22.845175",
-      "tempo_sem_interacao": "3h",
+      "last_message_at": "2026-03-22T00:55:16.207000Z",
+      "last_bot_msg_at": "2026-03-21T21:55:15.304853",
+      "tempo_sem_interacao": "3h 5min",
       "first_id": 19736,
-      "last_id": 19741,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1304\nNome: JULIO\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns)...",
+      "last_id": 19745,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1304\nNome: \nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do c...",
       "messages": [
         {
           "role": "user",
@@ -97,6 +97,26 @@
           "role": "ai",
           "content": "Perfeito, Julio! Então temos 1 adulto de 52 anos, 1 adulto de 40 anos e 1 criança de 11 anos. Agora, qual é a cidade onde você busca atendimento? Se houver algum hospital de preferência, isso também pode ajudar na escolha do plano.",
           "msg_time": "2026-03-21T21:45:22.845175"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1304\nNome: \nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nAbrangência Estado do Rio de janeiro. hospitais de preferência: norte dor ou quinta dor ou glória dor.",
+          "msg_time": "2026-03-21T21:52:34.777088"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Julio! Você busca atendimento no estado do Rio de Janeiro e prefere hospitais como Norte Dor, Quinta Dor ou Glória Dor. Agora, para finalizar, como o plano será contratado: empresarial por CNPJ MEI ou LTDA? Se tiver o número do CNPJ, pode me informar?",
+          "msg_time": "2026-03-21T21:52:34.779582"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1304\nNome: \nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nCNPJ MEI tem mais de 6 meses. No momento estou sem o nr",
+          "msg_time": "2026-03-21T21:55:15.303192"
+        },
+        {
+          "role": "ai",
+          "content": "Ótimo, Julio! Então, você está contratando como CNPJ MEI. Agora, para concluir, você já possui um plano de saúde atualmente? Se sim, gostaria de saber qual e quanto paga por ele. Isso vai me ajudar a encontrar a melhor opção para você.",
+          "msg_time": "2026-03-21T21:55:15.304853"
         }
       ]
     },
@@ -144,7 +164,7 @@
       "first_message_at": "2026-03-21T00:00:00.000Z",
       "last_message_at": "2026-03-21T23:09:57.568000Z",
       "last_bot_msg_at": "2026-03-21T20:09:52.254219",
-      "tempo_sem_interacao": "4h 35min",
+      "tempo_sem_interacao": "4h 50min",
       "first_id": 19734,
       "last_id": 19735,
       "last_message_preview": "Dados Fornecidos\nNome: Vania\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o infor...",
@@ -218,7 +238,7 @@
       "first_message_at": "2026-03-20T00:00:00.000Z",
       "last_message_at": "2026-03-21T22:07:44.289000Z",
       "last_bot_msg_at": "2026-03-21T19:07:43.212785",
-      "tempo_sem_interacao": "5h 37min",
+      "tempo_sem_interacao": "5h 52min",
       "first_id": 19664,
       "last_id": 19733,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1292\nNome: \nVidas: 3\nCidade: \nTipo Contratação: \n\nMensagem(ns) do ...",
@@ -470,7 +490,7 @@
       "first_message_at": "2026-03-21T00:00:00.000Z",
       "last_message_at": "2026-03-21T13:20:20.665000Z",
       "last_bot_msg_at": "2026-03-21T10:20:19.623579",
-      "tempo_sem_interacao": "14h 25min",
+      "tempo_sem_interacao": "14h 40min",
       "first_id": 19698,
       "last_id": 19726,
       "last_message_preview": "Formato de mensagem enviada nao suportado",
@@ -576,7 +596,7 @@
       "first_message_at": "2026-03-21T00:00:00.000Z",
       "last_message_at": "2026-03-21T14:10:21.895000Z",
       "last_bot_msg_at": "2026-03-21T11:10:20.956868",
-      "tempo_sem_interacao": "13h 35min",
+      "tempo_sem_interacao": "13h 50min",
       "first_id": 19724,
       "last_id": 19725,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1302\nNome: \n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação...",
@@ -637,7 +657,7 @@
       "first_message_at": "2026-03-21T00:00:00.000Z",
       "last_message_at": "2026-03-21T14:09:56.830000Z",
       "last_bot_msg_at": "2026-03-21T11:09:50.988897",
-      "tempo_sem_interacao": "13h 35min",
+      "tempo_sem_interacao": "13h 50min",
       "first_id": 19722,
       "last_id": 19723,
       "last_message_preview": "Dados Fornecidos\nNome: Marcia\nContem CNPJ: Sim\nNumero de Vidas: \nOperadora de Interesse: Receber tod...",
@@ -906,7 +926,7 @@
       "first_message_at": "2026-03-21T00:00:00.000Z",
       "last_message_at": "2026-03-21T12:48:32.782000Z",
       "last_bot_msg_at": "2026-03-21T09:48:31.61007",
-      "tempo_sem_interacao": "14h 57min",
+      "tempo_sem_interacao": "15h 12min",
       "first_id": 19696,
       "last_id": 19697,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1299\nNome: \n\nMensagem(ns) do cliente:\nOlá gostaria de mais informa...",
@@ -986,7 +1006,7 @@
       "first_message_at": "2026-03-21T00:00:00.000Z",
       "last_message_at": "2026-03-21T12:22:09.059000Z",
       "last_bot_msg_at": "2026-03-21T09:22:07.721863",
-      "tempo_sem_interacao": "15h 23min",
+      "tempo_sem_interacao": "15h 38min",
       "first_id": 19680,
       "last_id": 19695,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1298\nNome: Marcelo\nVidas: 3\nCidade: \nTipo Contratação: \n\nMensagem(...",
@@ -1097,7 +1117,7 @@
       "first_message_at": "2026-03-20T00:00:00.000Z",
       "last_message_at": "2026-03-21T11:44:40.528000Z",
       "last_bot_msg_at": "2026-03-21T08:44:39.28255",
-      "tempo_sem_interacao": "16h",
+      "tempo_sem_interacao": "16h 15min",
       "first_id": 19666,
       "last_id": 19677,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1293\nNome: Milton\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns...",
@@ -1168,7 +1188,7 @@
       "first_message_at": "2026-03-21T00:00:00.000Z",
       "last_message_at": "2026-03-21T03:54:58.647000Z",
       "last_bot_msg_at": "2026-03-21T00:54:53.274512",
-      "tempo_sem_interacao": "23h 50min",
+      "tempo_sem_interacao": "1 dia",
       "first_id": 19674,
       "last_id": 19675,
       "last_message_preview": "Dados Fornecidos\nNome: Denise\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o info...",
@@ -11318,7 +11338,7 @@
       "first_message_at": "2026-03-15T00:00:00.000Z",
       "last_message_at": "2026-03-15T03:47:32.947000Z",
       "last_bot_msg_at": "2026-03-15T00:47:25.300952",
-      "tempo_sem_interacao": "6 dias",
+      "tempo_sem_interacao": "7 dias",
       "first_id": 18736,
       "last_id": 18774,
       "last_message_preview": "Dados Fornecidos\nNome: Jorge\nContem CNPJ: não\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não i...",
