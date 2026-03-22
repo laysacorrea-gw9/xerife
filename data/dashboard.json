@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_at": "2026-03-22T20:15:36.896Z",
+    "generated_at": "2026-03-22T20:30:36.211Z",
     "total_conversations": 200,
-    "total_messages": 3873,
+    "total_messages": 3882,
     "stats": {
       "quente": 103,
       "morno": 55,
@@ -13,22 +13,136 @@
   },
   "conversations": [
     {
+      "session_id": "5521967725773@s.whatsapp.net",
+      "phone": "5521967725773",
+      "phone_display": "+55 21 96772-5773",
+      "lead": {
+        "baserow_id": 1318,
+        "nome": "Thais Melo",
+        "email": "",
+        "qtd_vidas": 4,
+        "desinteresse": true,
+        "observacoes": "Thais Melo",
+        "reagendamento": null,
+        "corretor": "Elisa",
+        "temperatura": "Quente"
+      },
+      "summary": {
+        "nome": "Thais Melo",
+        "email": "",
+        "telefone": "+55 21 96772-5773",
+        "vidas": [
+          {
+            "idade": 11
+          },
+          {
+            "idade": 16
+          },
+          {
+            "idade": 43
+          },
+          {
+            "idade": 50
+          }
+        ],
+        "cidade": "Rio de Janeiro / RJ",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "MEI",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "Rede D'or",
+        "rede_preferencial": "Rede D'Or, Barra D'Or",
+        "contato": "WhatsApp",
+        "consultor": "Elisa",
+        "codigo_corretor_b2cor": "",
+        "obs_crm": "Thais Melo",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Thais Melo\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96772-5773\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nThais Melo — 11 anos\nDependente 1 — 16 anos\nDependente 2 — 43 anos\nDependente 3 — 50 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n🎯 Rede preferencial: Rede D'Or, Barra D'Or\n\n🎯 Interesse: Rede D'or\n\n⚠️ Observação: Thais Melo\n👤 Distribuído para: Elisa\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "quente",
+      "bot": "preto",
+      "consultor": "Elisa",
+      "codigo_corretor_b2cor": "",
+      "message_count": 10,
+      "first_message_at": "2026-03-22T00:00:00.000Z",
+      "last_message_at": "2026-03-22T20:17:35.553000Z",
+      "last_bot_msg_at": "2026-03-22T17:17:34.609389",
+      "tempo_sem_interacao": "3h 13min",
+      "first_id": 19846,
+      "last_id": 19862,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1318\nNome: Thais Melo\n\nMensagem(ns) do cliente:\nNão tenho",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1318\nNome: \n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação de um plano de saúde Barra D'or",
+          "msg_time": "2026-03-22T17:09:59.539684"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-03-22T17:09:59.541681"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1318\nNome: Thais\n\nMensagem(ns) do cliente:\nThais Melo\n4 pessoas \n11, 16, 43 e 50.",
+          "msg_time": "2026-03-22T17:14:31.786402"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Thais! Agora preciso saber a cidade e o estado onde você busca atendimento. Se tiver algum hospital de sua preferência, isso nos ajuda a encontrar o plano ideal para vocês.",
+          "msg_time": "2026-03-22T17:14:31.788709"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1318\nNome: Thais Melo\n\nMensagem(ns) do cliente:\nRio de Janeiro, RJ. \nRede D'or. Barra D'or",
+          "msg_time": "2026-03-22T17:16:02.217771"
+        },
+        {
+          "role": "ai",
+          "content": "Obrigada, Thais! Agora, como o plano será contratado: empresarial por CNPJ MEI ou LTDA? Se tiver o número do CNPJ, pode me informar. Se não tiver, só preciso saber se é MEI ou LTDA.",
+          "msg_time": "2026-03-22T17:16:02.227528"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1318\nNome: Thais Melo\n\nMensagem(ns) do cliente:\nMei",
+          "msg_time": "2026-03-22T17:16:44.258289"
+        },
+        {
+          "role": "ai",
+          "content": "Perfeito, Thais! Para finalizar: você já possui plano de saúde atualmente? Se sim, qual e quanto paga hoje? Com essas informações, poderei te ajudar da melhor forma!",
+          "msg_time": "2026-03-22T17:16:44.260429"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1318\nNome: Thais Melo\n\nMensagem(ns) do cliente:\nNão tenho",
+          "msg_time": "2026-03-22T17:17:34.606797"
+        },
+        {
+          "role": "ai",
+          "content": "Thais, obrigada por todas as informações! Vou encaminhar seu contato para o Elisa, nosso especialista, que vai te apresentar as melhores opções de plano para vocês em Rio de Janeiro. Ele vai te chamar aqui no WhatsApp em breve.",
+          "msg_time": "2026-03-22T17:17:34.609389"
+        }
+      ]
+    },
+    {
       "session_id": "5521987393940@s.whatsapp.net",
       "phone": "5521987393940",
       "phone_display": "+55 21 98739-3940",
       "lead": {
         "baserow_id": 1316,
-        "nome": "Thaay ✌️😘",
+        "nome": "Thayane",
         "email": "",
         "qtd_vidas": 3,
-        "desinteresse": false,
+        "desinteresse": true,
         "observacoes": "Thaay ✌️😘",
         "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
+        "corretor": "João",
+        "temperatura": "Quente"
       },
       "summary": {
-        "nome": "Thaay ✌️😘",
+        "nome": "Thayane",
         "email": "",
         "telefone": "+55 21 98739-3940",
         "vidas": [
@@ -51,25 +165,25 @@
         "motivo": "",
         "interesse": "Barra D'or",
         "rede_preferencial": "Barra D'Or, Oeste D'Or",
-        "contato": "",
-        "consultor": "",
+        "contato": "WhatsApp",
+        "consultor": "João",
         "codigo_corretor_b2cor": "",
         "obs_crm": "Thaay ✌️😘",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Thaay ✌️😘\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98739-3940\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nThaay ✌️😘 — 27 anos\nDependente 1 — 8 anos\nDependente 2 — 2 anos\n\n📋 Dados contratuais:\n\nCidade: Campo Grande / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: do Lar\n🎯 Rede preferencial: Barra D'Or, Oeste D'Or\n\n🎯 Interesse: Barra D'or\n\n⚠️ Observação: Thaay ✌️😘\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Thayane\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98739-3940\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nThayane — 27 anos\nDependente 1 — 8 anos\nDependente 2 — 2 anos\n\n📋 Dados contratuais:\n\nCidade: Campo Grande / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: do Lar\n🎯 Rede preferencial: Barra D'Or, Oeste D'Or\n\n🎯 Interesse: Barra D'or\n\n⚠️ Observação: Thaay ✌️😘\n👤 Distribuído para: João\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Preto (0479)"
       },
       "status": "quente",
       "bot": "preto",
-      "consultor": "",
+      "consultor": "João",
       "codigo_corretor_b2cor": "",
-      "message_count": 12,
+      "message_count": 15,
       "first_message_at": "2026-03-22T00:00:00.000Z",
-      "last_message_at": "2026-03-22T20:14:43.800000Z",
-      "last_bot_msg_at": "2026-03-22T17:14:42.882361",
-      "tempo_sem_interacao": "3h",
+      "last_message_at": "2026-03-22T20:16:02.831000Z",
+      "last_bot_msg_at": "2026-03-22T17:16:01.015059",
+      "tempo_sem_interacao": "3h 14min",
       "first_id": 19836,
-      "last_id": 19853,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1316\nNome: Thaay ✌️😘\n\nMensagem(ns) do cliente:\nEu sou do Lar, mas...",
+      "last_id": 19860,
+      "last_message_preview": "Ok! Obrigada pela assistência!",
       "messages": [
         {
           "role": "user",
@@ -130,90 +244,21 @@
           "role": "ai",
           "content": "Entendi, Thayane! Para finalizar, você já possui um plano de saúde atualmente? Se sim, qual é e quanto paga? Isso vai nos ajudar a encontrar o melhor equilíbrio entre custo e acesso.",
           "msg_time": "2026-03-22T17:14:42.882361"
-        }
-      ]
-    },
-    {
-      "session_id": "5521967725773@s.whatsapp.net",
-      "phone": "5521967725773",
-      "phone_display": "+55 21 96772-5773",
-      "lead": {
-        "baserow_id": 1318,
-        "nome": "Thais Melo",
-        "email": "",
-        "qtd_vidas": 4,
-        "desinteresse": false,
-        "observacoes": "Thais",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Thais Melo",
-        "email": "",
-        "telefone": "+55 21 96772-5773",
-        "vidas": [
-          {
-            "idade": 11
-          },
-          {
-            "idade": 16
-          },
-          {
-            "idade": 43
-          },
-          {
-            "idade": 50
-          }
-        ],
-        "cidade": "",
-        "contratacao": "",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "Barra D'or",
-        "rede_preferencial": "Barra D'Or",
-        "contato": "",
-        "consultor": "",
-        "codigo_corretor_b2cor": "",
-        "obs_crm": "Thais",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Thais Melo\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96772-5773\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nThais Melo — 11 anos\nDependente 1 — 16 anos\nDependente 2 — 43 anos\nDependente 3 — 50 anos\n\n📋 Dados contratuais:\n\n🎯 Rede preferencial: Barra D'Or\n\n🎯 Interesse: Barra D'or\n\n⚠️ Observação: Thais\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "quente",
-      "bot": "preto",
-      "consultor": "",
-      "codigo_corretor_b2cor": "",
-      "message_count": 4,
-      "first_message_at": "2026-03-22T00:00:00.000Z",
-      "last_message_at": "2026-03-22T20:14:32.631000Z",
-      "last_bot_msg_at": "2026-03-22T17:14:31.788709",
-      "tempo_sem_interacao": "3h 1min",
-      "first_id": 19846,
-      "last_id": 19851,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1318\nNome: Thais\n\nMensagem(ns) do cliente:\nThais Melo\n4 pessoas \n1...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1318\nNome: \n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação de um plano de saúde Barra D'or",
-          "msg_time": "2026-03-22T17:09:59.539684"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
-          "msg_time": "2026-03-22T17:09:59.541681"
         },
         {
           "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1318\nNome: Thais\n\nMensagem(ns) do cliente:\nThais Melo\n4 pessoas \n11, 16, 43 e 50.",
-          "msg_time": "2026-03-22T17:14:31.786402"
+          "content": "Dados do lead no sistema:\nROW_ID: 1316\nNome: Thaay ✌️😘\n\nMensagem(ns) do cliente:\nNão tenho nenhum plano atualmente\n\nPrimeira vez que contrato um plano de saúde",
+          "msg_time": "2026-03-22T17:16:01.009813"
         },
         {
           "role": "ai",
-          "content": "Entendi, Thais! Agora preciso saber a cidade e o estado onde você busca atendimento. Se tiver algum hospital de sua preferência, isso nos ajuda a encontrar o plano ideal para vocês.",
-          "msg_time": "2026-03-22T17:14:31.788709"
+          "content": "Thayane, obrigada por todas as informações! Vou encaminhar seu contato para o João, nosso especialista, que vai te apresentar as melhores opções de plano para vocês em Oeste D'or Campo Grande. Ele vai te chamar aqui no WhatsApp em breve.",
+          "msg_time": "2026-03-22T17:16:01.015059"
+        },
+        {
+          "role": "user",
+          "content": "Ok! Obrigada pela assistência!",
+          "msg_time": "2026-03-22T17:17:03.782309"
         }
       ]
     },
@@ -261,7 +306,7 @@
       "first_message_at": "2026-03-22T00:00:00.000Z",
       "last_message_at": "2026-03-22T20:01:58.122000Z",
       "last_bot_msg_at": "2026-03-22T17:01:52.182687",
-      "tempo_sem_interacao": "3h 13min",
+      "tempo_sem_interacao": "3h 28min",
       "first_id": 19838,
       "last_id": 19839,
       "last_message_preview": "Dados Fornecidos\nNome: Carlos\nContem CNPJ: Sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o info...",
@@ -322,7 +367,7 @@
       "first_message_at": "2026-03-22T00:00:00.000Z",
       "last_message_at": "2026-03-22T19:27:57.827000Z",
       "last_bot_msg_at": "2026-03-22T16:27:52.357873",
-      "tempo_sem_interacao": "3h 47min",
+      "tempo_sem_interacao": "4h 2min",
       "first_id": 19834,
       "last_id": 19835,
       "last_message_preview": "Dados Fornecidos\nNome: Normand\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o inf...",
@@ -383,7 +428,7 @@
       "first_message_at": "2026-03-22T00:00:00.000Z",
       "last_message_at": "2026-03-22T17:14:56.631000Z",
       "last_bot_msg_at": "2026-03-22T14:14:51.419981",
-      "tempo_sem_interacao": "6h",
+      "tempo_sem_interacao": "6h 15min",
       "first_id": 19832,
       "last_id": 19833,
       "last_message_preview": "Dados Fornecidos\nNome: Renato\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o info...",
@@ -444,7 +489,7 @@
       "first_message_at": "2026-03-22T00:00:00.000Z",
       "last_message_at": "2026-03-22T17:12:15.908000Z",
       "last_bot_msg_at": "2026-03-22T14:12:14.416619",
-      "tempo_sem_interacao": "6h 3min",
+      "tempo_sem_interacao": "6h 18min",
       "first_id": 19822,
       "last_id": 19831,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1313\nNome: \nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do c...",
@@ -545,7 +590,7 @@
       "first_message_at": "2026-03-22T00:00:00.000Z",
       "last_message_at": "2026-03-22T16:11:56.808000Z",
       "last_bot_msg_at": "2026-03-22T13:11:51.267518",
-      "tempo_sem_interacao": "7h 3min",
+      "tempo_sem_interacao": "7h 18min",
       "first_id": 19820,
       "last_id": 19821,
       "last_message_preview": "Dados Fornecidos\nNome: Maria\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o infor...",
@@ -606,7 +651,7 @@
       "first_message_at": "2026-03-22T00:00:00.000Z",
       "last_message_at": "2026-03-22T15:35:56.989000Z",
       "last_bot_msg_at": "2026-03-22T12:35:51.905709",
-      "tempo_sem_interacao": "7h 39min",
+      "tempo_sem_interacao": "7h 54min",
       "first_id": 19818,
       "last_id": 19819,
       "last_message_preview": "Dados Fornecidos\nNome: gilberto\nContem CNPJ: não\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o in...",
@@ -680,7 +725,7 @@
       "first_message_at": "2026-03-22T00:00:00.000Z",
       "last_message_at": "2026-03-22T14:47:18.642000Z",
       "last_bot_msg_at": "2026-03-22T11:47:17.671578",
-      "tempo_sem_interacao": "8h 28min",
+      "tempo_sem_interacao": "8h 43min",
       "first_id": 19806,
       "last_id": 19817,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1310\nNome: \n\nMensagem(ns) do cliente:\nNão",
@@ -801,7 +846,7 @@
       "first_message_at": "2026-03-22T00:00:00.000Z",
       "last_message_at": "2026-03-22T14:06:24.947000Z",
       "last_bot_msg_at": "2026-03-22T11:06:23.941127",
-      "tempo_sem_interacao": "9h 9min",
+      "tempo_sem_interacao": "9h 24min",
       "first_id": 19790,
       "last_id": 19805,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1309\nNome: \nVidas: 3\nCidade: \nTipo Contratação: \n\nMensagem(ns) do ...",
@@ -932,7 +977,7 @@
       "first_message_at": "2026-03-22T00:00:00.000Z",
       "last_message_at": "2026-03-22T12:18:21.884000Z",
       "last_bot_msg_at": "2026-03-22T09:18:20.868065",
-      "tempo_sem_interacao": "10h 57min",
+      "tempo_sem_interacao": "11h 12min",
       "first_id": 19758,
       "last_id": 19789,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1306\nNome: \nVidas: 3\nCidade: \nTipo Contratação: \n\nMensagem(ns) do ...",
@@ -1043,7 +1088,7 @@
       "first_message_at": "2026-03-22T00:00:00.000Z",
       "last_message_at": "2026-03-22T11:56:56.527000Z",
       "last_bot_msg_at": "2026-03-22T08:56:51.644569",
-      "tempo_sem_interacao": "11h 18min",
+      "tempo_sem_interacao": "11h 33min",
       "first_id": 19778,
       "last_id": 19779,
       "last_message_preview": "Dados Fornecidos\nNome: Jeomarcia\nContem CNPJ: não\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o i...",
@@ -1117,7 +1162,7 @@
       "first_message_at": "2026-03-22T00:00:00.000Z",
       "last_message_at": "2026-03-22T11:55:47.009000Z",
       "last_bot_msg_at": "2026-03-22T08:55:46.00472",
-      "tempo_sem_interacao": "11h 19min",
+      "tempo_sem_interacao": "11h 34min",
       "first_id": 19760,
       "last_id": 19777,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1307\nNome: \n\nMensagem(ns) do cliente:\nObrigado pela atenção",
@@ -1258,7 +1303,7 @@
       "first_message_at": "2026-03-21T00:00:00.000Z",
       "last_message_at": "2026-03-22T02:34:18.303000Z",
       "last_bot_msg_at": "2026-03-21T23:34:17.267302",
-      "tempo_sem_interacao": "20h 41min",
+      "tempo_sem_interacao": "20h 56min",
       "first_id": 19754,
       "last_id": 19757,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1305\nNome: Jarbas\n\nMensagem(ns) do cliente:\nOlá Gostaria de uma co...",
@@ -1336,7 +1381,7 @@
       "first_message_at": "2026-03-21T00:00:00.000Z",
       "last_message_at": "2026-03-22T01:10:16.389000Z",
       "last_bot_msg_at": "2026-03-21T22:10:14.978449",
-      "tempo_sem_interacao": "22h 5min",
+      "tempo_sem_interacao": "22h 20min",
       "first_id": 19736,
       "last_id": 19753,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1304\nNome: \nVidas: 3\nCidade: \nTipo Contratação: \n\nMensagem(ns) do ...",
@@ -14270,7 +14315,7 @@
       "first_message_at": "2026-03-10T00:00:00.000Z",
       "last_message_at": "2026-03-10T23:22:33.191000Z",
       "last_bot_msg_at": "2026-03-10T20:22:32.714832",
-      "tempo_sem_interacao": "11 dias",
+      "tempo_sem_interacao": "12 dias",
       "first_id": 18313,
       "last_id": 18574,
       "last_message_preview": "Esse valor com coparticipação?",
