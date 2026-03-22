@@ -1,17 +1,108 @@
 {
   "meta": {
-    "generated_at": "2026-03-22T12:00:36.725Z",
+    "generated_at": "2026-03-22T12:15:38.190Z",
     "total_conversations": 200,
-    "total_messages": 3877,
+    "total_messages": 3883,
     "stats": {
       "quente": 101,
-      "morno": 60,
-      "frio": 34,
+      "morno": 61,
+      "frio": 33,
       "desinteresse": 5,
       "sem_classificacao": 0
     }
   },
   "conversations": [
+    {
+      "session_id": "5521991756472@s.whatsapp.net",
+      "phone": "5521991756472",
+      "phone_display": "+55 21 99175-6472",
+      "lead": {
+        "baserow_id": 1306,
+        "nome": "Aloir",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "observacoes": "Aloir",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Aloir",
+        "email": "",
+        "telefone": "+55 21 99175-6472",
+        "vidas": [],
+        "cidade": "Niterói / RJ",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "MEI",
+        "profissao": "",
+        "plano_atual": "R$ 2.391,00",
+        "motivo": "",
+        "interesse": "",
+        "rede_preferencial": "UPA",
+        "contato": "",
+        "consultor": "",
+        "codigo_corretor_b2cor": "",
+        "obs_crm": "Aloir",
+        "bot": "Gilbertinho Amarelo (2373)",
+        "formatted": "👤 Cliente: Aloir\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99175-6472\n\n📋 Dados contratuais:\n\nCidade: Niterói / RJ\nContratação: CNPJ\nTipo: MEI\n\n🏥 Plano atual: R$ 2.391,00\n🎯 Rede preferencial: UPA\n\n⚠️ Observação: Aloir\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)"
+      },
+      "status": "morno",
+      "bot": "amarelo",
+      "consultor": "",
+      "codigo_corretor_b2cor": "",
+      "message_count": 8,
+      "first_message_at": "2026-03-22T00:00:00.000Z",
+      "last_message_at": "2026-03-22T12:14:32.929000Z",
+      "last_bot_msg_at": "2026-03-22T09:14:31.987993",
+      "tempo_sem_interacao": "3h 1min",
+      "first_id": 19758,
+      "last_id": 19785,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1306\nNome: \nVidas: 3\nCidade: \nTipo Contratação: \n\nMensagem(ns) do ...",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados Fornecidos\nNome: Aloir\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o informado\nRegiÃƒÂ£o: NÃƒÂ£o Informado\nPropaganda:\n",
+          "msg_time": "2026-03-22T07:46:51.71394"
+        },
+        {
+          "role": "ai",
+          "content": "Oi Aloir! Sou o Gilberto da GW9, corretora de planos de saúde. Você pediu nosso contato para saber mais sobre plano de saúde e vi que já possui um CNPJ. Para te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo certo?",
+          "msg_time": "2026-03-22T07:46:51.718619"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1306\nNome: Aloir\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nComo eu já cheguei aos 92, os Planos só se interessam para os jovens. Apenas curiosidade. Meu Plano é Leve Saúde - CNPJ- Muito ruim - 3 P R$ 2.391,00 - Consultas pago particular uso mais pra exames e internação p/eventualidade...\n\nFormato de mensagem enviada nao suportado",
+          "msg_time": "2026-03-22T09:09:14.978533"
+        },
+        {
+          "role": "ai",
+          "content": "Aloir, entendo sua preocupação e frustração com o plano atual. Vamos encontrar uma solução que funcione melhor para você. Para isso, preciso saber quantas pessoas estão buscando o plano e as idades delas. Assim, conseguirei oferecer as melhores opções. Poderia me informar?",
+          "msg_time": "2026-03-22T09:09:14.980564"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1306\nNome: Aloir\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nFormato de mensagem enviada nao suportado\n\nNão vamos perder tempo. Deixa como está... como trabalho ainda tenho CNPJ- Titular = 92  - Esposa = 88 e um Filho = 56 .",
+          "msg_time": "2026-03-22T09:13:26.667938"
+        },
+        {
+          "role": "ai",
+          "content": "Aloir, já registrei que você e sua família possuem 3 vidas: você (92 anos), sua esposa (88) e seu filho (56). Agora, para prosseguir, por favor, me informe qual é a cidade onde vocês precisam do atendimento. Isso nos ajudará a encontrar opções adequadas.",
+          "msg_time": "2026-03-22T09:13:26.669846"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1306\nNome: \nVidas: 3\nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nNiterói/ Icaraí RJ",
+          "msg_time": "2026-03-22T09:14:31.985639"
+        },
+        {
+          "role": "ai",
+          "content": "Obrigada, Aloir! Registrei que vocês estão em Niterói, Icaraí - RJ. \n\nAgora, só preciso saber se o plano será contratado como MEI ou LTDA, já que você possui um CNPJ. Isso nos ajudará a encontrar as melhores opções disponíveis para sua família.",
+          "msg_time": "2026-03-22T09:14:31.987993"
+        }
+      ]
+    },
     {
       "session_id": "5521968608589@s.whatsapp.net",
       "phone": "5521968608589",
@@ -56,7 +147,7 @@
       "first_message_at": "2026-03-22T00:00:00.000Z",
       "last_message_at": "2026-03-22T11:56:56.527000Z",
       "last_bot_msg_at": "2026-03-22T08:56:51.644569",
-      "tempo_sem_interacao": "3h 3min",
+      "tempo_sem_interacao": "3h 18min",
       "first_id": 19778,
       "last_id": 19779,
       "last_message_preview": "Dados Fornecidos\nNome: Jeomarcia\nContem CNPJ: não\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o i...",
@@ -130,7 +221,7 @@
       "first_message_at": "2026-03-22T00:00:00.000Z",
       "last_message_at": "2026-03-22T11:55:47.009000Z",
       "last_bot_msg_at": "2026-03-22T08:55:46.00472",
-      "tempo_sem_interacao": "3h 4min",
+      "tempo_sem_interacao": "3h 19min",
       "first_id": 19760,
       "last_id": 19777,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1307\nNome: \n\nMensagem(ns) do cliente:\nObrigado pela atenção",
@@ -228,67 +319,6 @@
       ]
     },
     {
-      "session_id": "5521991756472@s.whatsapp.net",
-      "phone": "5521991756472",
-      "phone_display": "+55 21 99175-6472",
-      "lead": {
-        "baserow_id": 1306,
-        "nome": "Aloir",
-        "email": "aloirbarcellos@gmail.com",
-        "qtd_vidas": "",
-        "desinteresse": false,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Aloir",
-        "email": "aloirbarcellos@gmail.com",
-        "telefone": "+55 21 99175-6472",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "",
-        "consultor": "",
-        "codigo_corretor_b2cor": "",
-        "obs_crm": "",
-        "bot": "Gilbertinho Amarelo (2373)",
-        "formatted": "👤 Cliente: Aloir\n📧 E-mail: aloirbarcellos@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99175-6472\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Amarelo (2373)"
-      },
-      "status": "frio",
-      "bot": "amarelo",
-      "consultor": "",
-      "codigo_corretor_b2cor": "",
-      "message_count": 2,
-      "first_message_at": "2026-03-22T00:00:00.000Z",
-      "last_message_at": "2026-03-22T10:46:57.657000Z",
-      "last_bot_msg_at": "2026-03-22T07:46:51.718619",
-      "tempo_sem_interacao": "4h 13min",
-      "first_id": 19758,
-      "last_id": 19759,
-      "last_message_preview": "Dados Fornecidos\nNome: Aloir\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o infor...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados Fornecidos\nNome: Aloir\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o informado\nRegiÃƒÂ£o: NÃƒÂ£o Informado\nPropaganda:\n",
-          "msg_time": "2026-03-22T07:46:51.71394"
-        },
-        {
-          "role": "ai",
-          "content": "Oi Aloir! Sou o Gilberto da GW9, corretora de planos de saúde. Você pediu nosso contato para saber mais sobre plano de saúde e vi que já possui um CNPJ. Para te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo certo?",
-          "msg_time": "2026-03-22T07:46:51.718619"
-        }
-      ]
-    },
-    {
       "session_id": "5521975027072@s.whatsapp.net",
       "phone": "5521975027072",
       "phone_display": "+55 21 97502-7072",
@@ -332,7 +362,7 @@
       "first_message_at": "2026-03-21T00:00:00.000Z",
       "last_message_at": "2026-03-22T02:34:18.303000Z",
       "last_bot_msg_at": "2026-03-21T23:34:17.267302",
-      "tempo_sem_interacao": "12h 26min",
+      "tempo_sem_interacao": "12h 41min",
       "first_id": 19754,
       "last_id": 19757,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1305\nNome: Jarbas\n\nMensagem(ns) do cliente:\nOlá Gostaria de uma co...",
@@ -410,7 +440,7 @@
       "first_message_at": "2026-03-21T00:00:00.000Z",
       "last_message_at": "2026-03-22T01:10:16.389000Z",
       "last_bot_msg_at": "2026-03-21T22:10:14.978449",
-      "tempo_sem_interacao": "13h 50min",
+      "tempo_sem_interacao": "14h 5min",
       "first_id": 19736,
       "last_id": 19753,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1304\nNome: \nVidas: 3\nCidade: \nTipo Contratação: \n\nMensagem(ns) do ...",
@@ -551,7 +581,7 @@
       "first_message_at": "2026-03-21T00:00:00.000Z",
       "last_message_at": "2026-03-21T23:09:57.568000Z",
       "last_bot_msg_at": "2026-03-21T20:09:52.254219",
-      "tempo_sem_interacao": "15h 50min",
+      "tempo_sem_interacao": "16h 5min",
       "first_id": 19734,
       "last_id": 19735,
       "last_message_preview": "Dados Fornecidos\nNome: Vania\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o infor...",
@@ -625,7 +655,7 @@
       "first_message_at": "2026-03-20T00:00:00.000Z",
       "last_message_at": "2026-03-21T22:07:44.289000Z",
       "last_bot_msg_at": "2026-03-21T19:07:43.212785",
-      "tempo_sem_interacao": "16h 52min",
+      "tempo_sem_interacao": "17h 7min",
       "first_id": 19664,
       "last_id": 19733,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1292\nNome: \nVidas: 3\nCidade: \nTipo Contratação: \n\nMensagem(ns) do ...",
@@ -2541,7 +2571,7 @@
       "first_message_at": "2026-03-20T00:00:00.000Z",
       "last_message_at": "2026-03-20T15:13:26.078000Z",
       "last_bot_msg_at": "2026-03-20T12:13:24.625106",
-      "tempo_sem_interacao": "1 dia",
+      "tempo_sem_interacao": "2 dias",
       "first_id": 1473,
       "last_id": 19623,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1278\nNome: Corretor - João Afonso\nVidas: \nCidade: \nTipo Contrataçã...",
@@ -2908,7 +2938,7 @@
       "first_message_at": "2026-03-19T00:00:00.000Z",
       "last_message_at": "2026-03-19T15:01:24.889000Z",
       "last_bot_msg_at": "2026-03-19T12:01:17.264137",
-      "tempo_sem_interacao": "2 dias",
+      "tempo_sem_interacao": "3 dias",
       "first_id": 19491,
       "last_id": 19615,
       "last_message_preview": "Dados Fornecidos\nNome: Monica\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não ...",
@@ -17088,7 +17118,7 @@
       "first_message_at": "2026-03-08T00:00:00.000Z",
       "last_message_at": "2026-03-10T15:03:57.329000Z",
       "last_bot_msg_at": "2026-03-10T12:03:56.870787",
-      "tempo_sem_interacao": "11 dias",
+      "tempo_sem_interacao": "12 dias",
       "first_id": 17478,
       "last_id": 18271,
       "last_message_preview": "Igualmente",
@@ -20185,7 +20215,7 @@
       "first_message_at": "2026-03-08T00:00:00.000Z",
       "last_message_at": "2026-03-10T15:15:30.948000Z",
       "last_bot_msg_at": "2026-03-10T12:15:30.3811",
-      "tempo_sem_interacao": "11 dias",
+      "tempo_sem_interacao": "12 dias",
       "first_id": 17492,
       "last_id": 18170,
       "last_message_preview": "Desde 2018",
@@ -20320,7 +20350,7 @@
       "first_message_at": "2026-03-09T00:00:00.000Z",
       "last_message_at": "2026-03-09T15:05:36.657000Z",
       "last_bot_msg_at": "2026-03-09T12:05:36.15003",
-      "tempo_sem_interacao": "12 dias",
+      "tempo_sem_interacao": "13 dias",
       "first_id": 17638,
       "last_id": 18139,
       "last_message_preview": "Não tenho nenhum plano de saude no momenro",
