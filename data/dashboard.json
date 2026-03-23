@@ -1,319 +1,170 @@
 {
   "meta": {
-    "generated_at": "2026-03-23T16:00:37.656Z",
+    "generated_at": "2026-03-23T16:15:37.098Z",
     "total_conversations": 200,
-    "total_messages": 3697,
+    "total_messages": 3716,
     "stats": {
       "quente": 93,
-      "morno": 63,
-      "frio": 39,
+      "morno": 62,
+      "frio": 40,
       "desinteresse": 5,
       "sem_classificacao": 0
     }
   },
   "conversations": [
     {
-      "session_id": "5521992820914@s.whatsapp.net",
-      "phone": "5521992820914",
-      "phone_display": "+55 21 99282-0914",
+      "session_id": "5521971405276@s.whatsapp.net",
+      "phone": "5521971405276",
+      "phone_display": "+55 21 97140-5276",
       "lead": {
-        "baserow_id": 1324,
-        "nome": "Tatiane",
-        "email": "tatianeborgesparceria@gmail.com",
-        "qtd_vidas": 2,
-        "desinteresse": false,
-        "observacoes": "Tatiane",
+        "baserow_id": 1331,
+        "nome": "Vania",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": true,
+        "observacoes": "Vania",
         "reagendamento": null,
         "corretor": "",
         "temperatura": ""
       },
       "summary": {
-        "nome": "Tatiane",
-        "email": "tatianeborgesparceria@gmail.com",
-        "telefone": "+55 21 99282-0914",
-        "vidas": [
-          {
-            "idade": 50
-          },
-          {
-            "idade": 52
-          }
-        ],
-        "cidade": "Rio de Janeiro / RJ",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "MEI",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "",
-        "consultor": "",
-        "codigo_corretor_b2cor": "",
-        "obs_crm": "Tatiane",
-        "bot": "Gilbertinho Amarelo (2373)",
-        "formatted": "👤 Cliente: Tatiane\n📧 E-mail: tatianeborgesparceria@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99282-0914\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nTatiane — 50 anos\nDependente 1 — 52 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n⚠️ Observação: Tatiane\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Amarelo (2373)"
-      },
-      "status": "quente",
-      "bot": "amarelo",
-      "consultor": "",
-      "codigo_corretor_b2cor": "",
-      "message_count": 10,
-      "first_message_at": "2026-03-23T00:00:00.000Z",
-      "last_message_at": "2026-03-23T16:00:17.841000Z",
-      "last_bot_msg_at": "2026-03-23T13:00:16.683726",
-      "tempo_sem_interacao": "3h",
-      "first_id": 19883,
-      "last_id": 19984,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1324\nNome: Tatiane\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(n...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados Fornecidos\nNome: Tatiane\nContem CNPJ: Sim\nNumero de Vidas: \nOperadora de Interesse: Intermédica, Med Senior, Leve Saude, Porto Seguro\nRegiÃƒÂ£o: NÃƒÂ£o Informado\nPropaganda:\n",
-          "msg_time": "2026-03-23T03:10:51.974636"
-        },
-        {
-          "role": "ai",
-          "content": "Oi Tatiane! Sou o Gilberto da GW9, corretora de planos de saúde. Você pediu nosso contato para saber mais sobre plano de saúde e vi que já possui um CNPJ. Para te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo certo?",
-          "msg_time": "2026-03-23T03:10:51.978975"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1324\nNome: Tatiane\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nEntão interessada eu estou o problema é que eu não tenho seis meses de mei",
-          "msg_time": "2026-03-23T12:56:54.148927"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Tatiane! Compreendo que a situação do MEI pode ser um obstáculo. Vamos encontrar a melhor solução para você. Para seguir adiante, só preciso saber quantas pessoas estarão no plano e suas idades. Pode me informar isso?",
-          "msg_time": "2026-03-23T12:56:54.150835"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1324\nNome: Tatiane\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\n50 e 52 anos duas pessoas",
-          "msg_time": "2026-03-23T12:58:08.309863"
-        },
-        {
-          "role": "ai",
-          "content": "Ótimo, Tatiane! Tenho registrado que você e mais uma pessoa estão interessadas, ambas com 50 e 52 anos. Para prosseguir, só preciso saber em qual cidade vocês irão utilizar o plano. Isso é fundamental para encontrar as melhores opções disponíveis.",
-          "msg_time": "2026-03-23T12:58:08.313754"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1324\nNome: Tatiane\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nSão Gonçalo Rio de janeiro",
-          "msg_time": "2026-03-23T12:59:06.56697"
-        },
-        {
-          "role": "ai",
-          "content": "Perfeito, Tatiane! Agora que temos que vocês estão em São Gonçalo, Rio de Janeiro, só falta confirmar como o plano será contratado: vai ser por CNPJ (MEI) ou você tem outra opção em mente?",
-          "msg_time": "2026-03-23T12:59:06.569918"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1324\nNome: Tatiane\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nSeria por Mei",
-          "msg_time": "2026-03-23T13:00:16.680888"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Tatiane! Então temos as seguintes informações:\n\n- **Nomes:** Tatiane e mais uma pessoa\n- **Idades:** 50 e 52 anos\n- **Cidade:** São Gonçalo, Rio de Janeiro\n- **Tipo de contratação:** CNPJ (MEI)\n\nPara finalizar, você já possui um plano de saúde atualmente? Se sim, pode me contar qual e quanto paga? Essa informação nos ajudará a encontrar a melhor opção para você.",
-          "msg_time": "2026-03-23T13:00:16.683726"
-        }
-      ]
-    },
-    {
-      "session_id": "5521979203075@s.whatsapp.net",
-      "phone": "5521979203075",
-      "phone_display": "+55 21 97920-3075",
-      "lead": {
-        "baserow_id": 1330,
-        "nome": "André Antunes",
+        "nome": "Vania",
         "email": "",
-        "qtd_vidas": "",
-        "desinteresse": true,
-        "observacoes": "André Antunes",
-        "reagendamento": null,
-        "corretor": "Isis",
-        "temperatura": "Quente"
-      },
-      "summary": {
-        "nome": "André Antunes",
-        "email": "",
-        "telefone": "+55 21 97920-3075",
+        "telefone": "+55 21 97140-5276",
         "vidas": [],
         "cidade": "Rio de Janeiro / RJ",
         "contratacao": "CNPJ",
         "cnpj": "",
         "tipo_empresa": "MEI",
-        "profissao": "",
-        "plano_atual": "um plano Amil PJ com coparticipação total — Ouro — com coparticipação",
+        "profissao": "bem objetiva\nVamos aos valores",
+        "plano_atual": "Nenhum",
         "motivo": "",
-        "interesse": "",
+        "interesse": "Amil",
         "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "Isis",
+        "contato": "",
+        "consultor": "nosso",
         "codigo_corretor_b2cor": "",
-        "obs_crm": "André Antunes",
+        "obs_crm": "Vania",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: André Antunes\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97920-3075\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n🏥 Plano atual: um plano Amil PJ com coparticipação total — Ouro — com coparticipação\n\n⚠️ Observação: André Antunes\n👤 Distribuído para: Isis\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Vania\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97140-5276\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: bem objetiva\nVamos aos valores\n\n🏥 Plano atual: Nenhum\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Vania\n👤 Distribuído para: nosso\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Preto (0479)"
       },
       "status": "quente",
       "bot": "preto",
-      "consultor": "Isis",
+      "consultor": "nosso",
       "codigo_corretor_b2cor": "",
-      "message_count": 12,
+      "message_count": 21,
       "first_message_at": "2026-03-23T00:00:00.000Z",
-      "last_message_at": "2026-03-23T15:55:10.990000Z",
-      "last_bot_msg_at": "2026-03-23T12:55:09.945184",
-      "tempo_sem_interacao": "3h 5min",
-      "first_id": 19962,
-      "last_id": 19976,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1330\nNome: André Antunes\n\nMensagem(ns) do cliente:\nJá tenho o Amil...",
+      "last_message_at": "2026-03-23T16:04:18.685000Z",
+      "last_bot_msg_at": "2026-03-23T13:04:17.385286",
+      "tempo_sem_interacao": "3h 11min",
+      "first_id": 19987,
+      "last_id": 20011,
+      "last_message_preview": "????",
       "messages": [
         {
           "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1330\nNome: André Antunes\n\nMensagem(ns) do cliente:\nBoa tarde, Gil.\n\nAndré falando aqui.\n\nTudo bem?",
-          "msg_time": "2026-03-23T12:29:50.062628"
+          "content": "Dados do lead no sistema:\nROW_ID: 1331\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Amil",
+          "msg_time": "2026-03-23T13:00:58.76916"
         },
         {
           "role": "ai",
-          "content": "Olá, André! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Ok? Seriam para quantas pessoas e quais as idades?",
-          "msg_time": "2026-03-23T12:29:50.065077"
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Seriam para quantas pessoas e quais as idades?",
+          "msg_time": "2026-03-23T13:00:58.774392"
         },
         {
           "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1330\nNome: André Antunes\n\nMensagem(ns) do cliente:\nEu já tenho um plano contigo.\n\nQueria informações sobre possibilidades de incluir mais uma pessoa",
-          "msg_time": "2026-03-23T12:31:52.96974"
+          "content": "Dados do lead no sistema:\nROW_ID: 1331\nNome: Vania\n\nMensagem(ns) do cliente:\n2 pessoas uma com , 80 outra com 60",
+          "msg_time": "2026-03-23T13:01:32.14471"
         },
         {
           "role": "ai",
-          "content": "Entendi, André! Fico feliz que você já tenha um plano conosco. Para incluir mais uma pessoa, preciso confirmar alguns dados. Para quantas pessoas você deseja expandir o plano e quais as idades delas? Isso vai me ajudar a encontrar as melhores opções para você.",
-          "msg_time": "2026-03-23T12:31:52.971978"
+          "content": "Entendi, Vania! Para duas pessoas, são idades de 80 e 60. Agora, posso saber em qual cidade e estado você busca atendimento? Além disso, se tiver algum hospital de preferência, me avise!",
+          "msg_time": "2026-03-23T13:01:32.14701"
         },
         {
           "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1330\nNome: André Antunes\n\nMensagem(ns) do cliente:\nEu tenho um plano Amil PJ com coparticipação total. Estamos eu e minha esposa. Queria saber se é possível incluir uma Sra de 74 anos, minha mãe.\n\nAmil Ouro\n\nEsse é o plano",
-          "msg_time": "2026-03-23T12:33:20.032586"
+          "content": "Dados do lead no sistema:\nROW_ID: 1331\nNome: Vania\n\nMensagem(ns) do cliente:\nSão Gonçalo/Rio de janeiro",
+          "msg_time": "2026-03-23T13:02:07.390157"
         },
         {
           "role": "ai",
-          "content": "Obrigado pelas informações, André! Só para eu completar, posso confirmar que são três pessoas no total agora: você, sua esposa e sua mãe de 74 anos? Isso me ajudará a verificar as possibilidades para a inclusão dela.",
-          "msg_time": "2026-03-23T12:33:20.042961"
+          "content": "Perfeito, Vania! Agora, para prosseguir, como o plano será contratado: empresarial por CNPJ MEI ou LTDA? Se tiver o número do CNPJ, pode me informar, mas se não tiver, só preciso saber se é MEI ou LTDA mesmo.",
+          "msg_time": "2026-03-23T13:02:07.394954"
         },
         {
           "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1330\nNome: André Antunes\n\nMensagem(ns) do cliente:\nIsso. Eu preciso entender Gil, pra saber inclusive como funciona e se cabe no meu bolso.",
-          "msg_time": "2026-03-23T12:52:32.826477"
+          "content": "Dados do lead no sistema:\nROW_ID: 1331\nNome: Vania\n\nMensagem(ns) do cliente:\nMei",
+          "msg_time": "2026-03-23T13:02:31.462454"
         },
         {
           "role": "ai",
-          "content": "Entendi, André! É fundamental saber como funciona o plano e se vai ajustar ao seu orçamento. Para isso, vou precisar saber qual é a cidade onde vocês utilizam o plano, pois os preços podem variar. Você poderia me informar?",
-          "msg_time": "2026-03-23T12:52:32.829052"
+          "content": "Entendi, Vania! Agora, para finalizar, você já possui plano de saúde atualmente? Se sim, qual é e quanto paga hoje? Isso me ajudará a encontrar o melhor equilíbrio entre custo e acesso.",
+          "msg_time": "2026-03-23T13:02:31.464379"
         },
         {
           "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1330\nNome: André Antunes\n\nMensagem(ns) do cliente:\nRio de Janeiro",
-          "msg_time": "2026-03-23T12:53:12.627432"
+          "content": "Dados do lead no sistema:\nROW_ID: 1331\nNome: Vania\n\nMensagem(ns) do cliente:\nPara que o número do meu se não sei se vou fazer",
+          "msg_time": "2026-03-23T13:03:35.74793"
         },
         {
           "role": "ai",
-          "content": "Ótimo, André! Agora, para finalizar, como o plano será contratado: empresarial por CNPJ (MEI ou LTDA) ou será feito como pessoa física, CPF? Isso é importante para eu encontrar as opções mais adequadas para vocês.",
-          "msg_time": "2026-03-23T12:53:12.629866"
+          "content": "Entendo, Vania! O número do plano atual pode ajudar a encontrar uma opção mais adequada ao seu orçamento, mas não tem problema se você não quiser compartilhar. Estou aqui para ajudar! Você gostaria de prosseguir mesmo assim, ou tem alguma outra dúvida?",
+          "msg_time": "2026-03-23T13:03:35.750353"
         },
         {
           "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1330\nNome: André Antunes\n\nMensagem(ns) do cliente:\nJá tenho o Amil Ouro e é PJ.\n\nEmpresário Individual\n\nIgual a LTDA",
-          "msg_time": "2026-03-23T12:55:09.94196"
+          "content": "Dados do lead no sistema:\nROW_ID: 1331\nNome: Vania\n\nMensagem(ns) do cliente:\nNão tenho",
+          "msg_time": "2026-03-23T13:03:59.02497"
         },
         {
           "role": "ai",
-          "content": "André, obrigada por todas as informações! Vou encaminhar seu contato para a Isis, nossa especialista, que vai te apresentar as melhores opções para vocês, agora com 3 vidas em Rio de Janeiro. Ela vai te chamar aqui no WhatsApp em breve.",
-          "msg_time": "2026-03-23T12:55:09.945184"
-        }
-      ]
-    },
-    {
-      "session_id": "5521996045813@s.whatsapp.net",
-      "phone": "5521996045813",
-      "phone_display": "+55 21 99604-5813",
-      "lead": {
-        "baserow_id": 1319,
-        "nome": "Elisabete",
-        "email": "bettealves@hotmail.com",
-        "qtd_vidas": "",
-        "desinteresse": true,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Elisabete",
-        "email": "bettealves@hotmail.com",
-        "telefone": "+55 21 99604-5813",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "",
-        "consultor": "",
-        "codigo_corretor_b2cor": "",
-        "obs_crm": "",
-        "bot": "Gilbertinho Amarelo (2373)",
-        "formatted": "👤 Cliente: Elisabete\n📧 E-mail: bettealves@hotmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99604-5813\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)"
-      },
-      "status": "morno",
-      "bot": "amarelo",
-      "consultor": "",
-      "codigo_corretor_b2cor": "",
-      "message_count": 7,
-      "first_message_at": "2026-03-22T00:00:00.000Z",
-      "last_message_at": "2026-03-22T22:05:57.278000Z",
-      "last_bot_msg_at": "2026-03-22T19:05:51.868221",
-      "tempo_sem_interacao": "20h 54min",
-      "first_id": 19863,
-      "last_id": 19970,
-      "last_message_preview": "Pode deixar. Obrigada! É MTA informação só pra me passar alguns preços.",
-      "messages": [
+          "content": "Sem problemas, Vania! Vou registrar que você não possui plano atualmente. Agora, vou coletar os dados e já encaminhar seu contato para o nosso especialista. \n\nSó para confirmar:\n- Nome: Vania\n- Número de vidas: 2\n- Idades: 80 e 60\n- Cidade: São Gonçalo, Rio de Janeiro\n- Tipo de contratação: MEI\n\nPosso seguir e registrar as informações?",
+          "msg_time": "2026-03-23T13:03:59.027248"
+        },
         {
           "role": "user",
-          "content": "Dados Fornecidos\nNome: Elisabete\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o informado\nRegiÃƒÂ£o: NÃƒÂ£o Informado\nPropaganda:\n",
-          "msg_time": "2026-03-22T19:05:51.866041"
+          "content": "Dados do lead no sistema:\nROW_ID: 1331\nNome: Vania\n\nMensagem(ns) do cliente:\nEstou encostada",
+          "msg_time": "2026-03-23T13:04:17.382765"
         },
         {
           "role": "ai",
-          "content": "Oi Elisabete! Sou o Gilberto da GW9, corretora de planos de saúde. Você pediu nosso contato para saber mais sobre plano de saúde e vi que já possui um CNPJ. Para te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo certo?",
-          "msg_time": "2026-03-22T19:05:51.868221"
-        },
-        {
-          "role": "system",
-          "content": "\n",
-          "msg_time": "2026-03-23T11:01:26.853856"
+          "content": "Sinto muito em saber disso, Vania. Estou aqui para ajudar e oferecer as opções que possam ser mais adequadas para você. Vou registrar suas informações e já encaminhar o seu contato para o nosso especialista que poderá ajudar melhor. \n\nConfirmando:\n- Nome: Vania\n- Número de vidas: 2\n- Idades: 80 e 60\n- Cidade: São Gonçalo, Rio de Janeiro\n- Tipo de contratação: MEI\n\nPosso seguir e registrar tudo isso?",
+          "msg_time": "2026-03-23T13:04:17.385286"
         },
         {
           "role": "user",
-          "content": "Quais informações vc precisa?",
-          "msg_time": "2026-03-23T11:19:07.297154"
-        },
-        {
-          "role": "system",
-          "content": "\n",
-          "msg_time": "2026-03-23T12:30:48.148426"
+          "content": "Fibromialgia estou tratando e estou esperando meu canabidiol não irei dar trabalho para vcs",
+          "msg_time": "2026-03-23T13:05:38.343408"
         },
         {
           "role": "user",
-          "content": "Pode deixar. Obrigada! É MTA informação só pra me passar alguns preços.",
-          "msg_time": "2026-03-23T12:35:32.588897"
+          "content": "Já tenho meus médicos certos",
+          "msg_time": "2026-03-23T13:05:59.708431"
         },
         {
-          "role": "system",
-          "content": "Não tenho como te passar valores se nao souber a idade das pessoas...",
-          "msg_time": "2026-03-23T12:50:57.063835"
+          "role": "user",
+          "content": "Claro não costumo mentir isso é um fato",
+          "msg_time": "2026-03-23T13:06:47.934031"
+        },
+        {
+          "role": "user",
+          "content": "Inclusive se eu for fechar você irá saber",
+          "msg_time": "2026-03-23T13:07:12.384453"
+        },
+        {
+          "role": "user",
+          "content": "Desculpa sou bem objetiva",
+          "msg_time": "2026-03-23T13:07:35.495938"
+        },
+        {
+          "role": "user",
+          "content": "Vamos aos valores",
+          "msg_time": "2026-03-23T13:07:53.289703"
+        },
+        {
+          "role": "user",
+          "content": "????",
+          "msg_time": "2026-03-23T13:13:43.702036"
         }
       ]
     },
@@ -364,20 +215,15 @@
       "bot": "amarelo",
       "consultor": "",
       "codigo_corretor_b2cor": "",
-      "message_count": 188,
+      "message_count": 189,
       "first_message_at": "2026-03-20T00:00:00.000Z",
       "last_message_at": "2026-03-20T15:13:26.078000Z",
       "last_bot_msg_at": "2026-03-20T12:13:24.625106",
       "tempo_sem_interacao": "3 dias",
       "first_id": 1473,
-      "last_id": 19961,
+      "last_id": 20010,
       "last_message_preview": "21982193085",
       "messages": [
-        {
-          "role": "system",
-          "content": "Ah, entendi. Por isso que aquela cotação máxima você mandou em pessoa física, né? É. Tinha que tentar ver se ela conseguia manter, né? Mas aí, o que você pode também oferecer? Fala pra ela, você pode fazer o produto em pessoa jurídica agora, na Porto Seguro, por exemplo, né? E espera um pouquinho, cancela depois. Tem um determinado risco aí, mas é pequeno.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
         {
           "role": "user",
           "content": "Eu estava falando com ela aqui, mas eu acabei de lembrar que ela já possui a 1.000 pelo CNPJ. Então, se eu der essa ideia dela fazer a minha giração para a porta pelo CNPJ, ela provavelmente vai abrir ali um gatilho de manter na 1.000 pelo CNPJ, entendeu? Não de cancelar. Tipo, correr esse risco onde ela já está, entendeu?",
@@ -622,6 +468,685 @@
           "role": "user",
           "content": "21982193085",
           "msg_time": "2026-03-23T12:25:03.989614"
+        },
+        {
+          "role": "system",
+          "content": "👤 Cliente: Roselange\n📧 E-mail: rosealfradique99@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99351-8888\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nRoselange — 59 anos\nDependente 1 — 55 anos\n\n📋 Dados contratuais:\n\nCidade: São Gonçalo / RJ\nContratação: CNPJ\nProfissão: clínica\n\n🏥 Plano atual: Nenhum\n🎯 Rede preferencial: clínica Icaraí\n\n😤 Motivo da troca:\n\nPrimeiro plano\n👤 Distribuído para: um\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)",
+          "msg_time": "2026-03-23T13:09:59.305728"
+        }
+      ]
+    },
+    {
+      "session_id": "5521978786996@s.whatsapp.net",
+      "phone": "5521978786996",
+      "phone_display": "+55 21 97878-6996",
+      "lead": {
+        "baserow_id": 153,
+        "nome": "",
+        "email": "isis.goncalves@gw9capital.com.br",
+        "qtd_vidas": 2,
+        "desinteresse": true,
+        "observacoes": "",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": "Frio"
+      },
+      "summary": {
+        "nome": "Não identificado",
+        "email": "isis.goncalves@gw9capital.com.br",
+        "telefone": "+55 21 97878-6996",
+        "vidas": [
+          {
+            "idade": 55
+          },
+          {
+            "idade": 21
+          }
+        ],
+        "cidade": "Rio de Janeiro / RJ",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "MEI",
+        "profissao": "o cnpj / Clínica",
+        "plano_atual": "Porto — Bronze — R$ 280,51 — enfermaria",
+        "motivo": "",
+        "interesse": "Rede Dor",
+        "rede_preferencial": "Badim, Prontobaby, Hospital da Criança, Pasteur, Hospital de Clínica, Hospital Badim",
+        "contato": "",
+        "consultor": "",
+        "codigo_corretor_b2cor": "",
+        "obs_crm": "",
+        "bot": "Não identificado",
+        "formatted": "👤 Cliente: Não identificado\n📧 E-mail: isis.goncalves@gw9capital.com.br\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97878-6996\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nTitular — 55 anos\nDependente 1 — 21 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: o cnpj / Clínica\n\n🏥 Plano atual: Porto — Bronze — R$ 280,51 — enfermaria\n🎯 Rede preferencial: Badim, Prontobaby, Hospital da Criança, Pasteur, Hospital de Clínica, Hospital Badim\n\n🎯 Interesse: Rede Dor\n✅ Status: Lead frio\n🤖 Bot: Não identificado"
+      },
+      "status": "frio",
+      "bot": "desconhecido",
+      "consultor": "",
+      "codigo_corretor_b2cor": "",
+      "message_count": 901,
+      "first_message_at": "2025-12-15T00:00:00.000Z",
+      "last_message_at": "2026-03-23T16:02:42.211Z",
+      "last_bot_msg_at": "2026-03-23T16:02:42.211Z",
+      "tempo_sem_interacao": "12min",
+      "first_id": 742,
+      "last_id": 19997,
+      "last_message_preview": "<ContextoImagem>\n\n  <DetalheImagem>\n\n  </DetalheImagem>\n\nContexto Extra: O usuário encaminhou a mens...",
+      "messages": [
+        {
+          "role": "system",
+          "content": "21990664232\n\n21990664232\n\n21990664232\n\n21990664232",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "system",
+          "content": "+55 21 97523-8325\n\n**👤 Cliente:** Cláudia\n**📧 E-mail:** claudiarf1982@gmail.com\n**📱 Contato:** WhatsApp (por escrito) — hoje, com urgência\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- 59 anos\n- 62 anos\n\n---\n\n**📋 Dados contratuais:**\n- Cidade: Rio de Janeiro / RJ\n- Contratação: CPF\n\n---\n\n**🏥 Plano atual:** Nenhum\n\n**🎯 Hospital preferencial:** Oeste D'Or — próximo de casa, excelente atendimento\n\n---\n\n**💰 Prioridade:** Menor custo com bons hospitais — quer ver se cabe no orçamento para fechar logo\n\n**🎯 Interesse:** SulAmérica\n\n---\n\n**⚠️ Observação:** Cliente aguardando cotação por escrito desde as 11h28 — está esperando retorno! Prioridade alta, cliente quente e pronta para fechar se o valor couber no orçamento. Enviar cotação imediatamente.\n\n**✅ Status:** Lead urgente — aguarda cotação por escrito hoje\n\n+55 21 97523-8325\n\n**👤 Cliente:** Cláudia\n**📧 E-mail:** claudiarf1982@gmail.com\n**📱 Contato:** WhatsApp (por escrito) — hoje, com urgência\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- 59 anos\n- 62 anos\n\n--",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "system",
+          "content": "+55 21 97523-8325\n\n**👤 Cliente:** Cláudia\n**📧 E-mail:** claudiarf1982@gmail.com\n**📱 Contato:** WhatsApp (por escrito) — hoje, com urgência\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- 59 anos\n- 62 anos\n\n---\n\n**📋 Dados contratuais:**\n- Cidade: Rio de Janeiro / RJ\n- Contratação: CPF\n\n---\n\n**🏥 Plano atual:** Nenhum\n\n**🎯 Hospital preferencial:** Oeste D'Or — próximo de casa, excelente atendimento\n\n---\n\n**💰 Prioridade:** Menor custo com bons hospitais — quer ver se cabe no orçamento para fechar logo\n\n**🎯 Interesse:** SulAmérica\n\n---\n\n**⚠️ Observação:** Cliente aguardando cotação por escrito desde as 11h28 — está esperando retorno! Prioridade alta, cliente quente e pronta para fechar se o valor couber no orçamento. Enviar cotação imediatamente.\n\n**✅ Status:** Lead urgente — aguarda cotação por escrito hoje\n\n+55 21 97523-8325\n\n**👤 Cliente:** Cláudia\n**📧 E-mail:** claudiarf1982@gmail.com\n**📱 Contato:** WhatsApp (por escrito) — hoje, com urgência\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- 59 anos\n- 62 anos\n\n--",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "system",
+          "content": "👤 Cliente: Denise\n📧 E-mail: Denisesilvacabral@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96430-0507\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: professora\n🎯 Rede preferencial: emergência pediátrica\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)\n\n👤 Cliente: Denise\n📧 E-mail: Denisesilvacabral@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96430-0507\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: professora\n🎯 Rede preferencial: emergência pediátrica\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)\n\n👤 Cliente: Denise\n📧 E-mail: Denisesilvacabral@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96430-0507\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: professora\n🎯 Rede preferencial: emergência pediátrica\n\n😤 Motivo da troca:\n\nIncluir novas v",
+          "msg_time": "2026-03-06T15:12:36.000619"
+        },
+        {
+          "role": "system",
+          "content": "👤 Cliente: Denise\n📧 E-mail: Denisesilvacabral@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96430-0507\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: professora\n🎯 Rede preferencial: emergência pediátrica\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)\n\n👤 Cliente: Denise\n📧 E-mail: Denisesilvacabral@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96430-0507\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: professora\n🎯 Rede preferencial: emergência pediátrica\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)\n\n👤 Cliente: Denise\n📧 E-mail: Denisesilvacabral@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96430-0507\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: professora\n🎯 Rede preferencial: emergência pediátrica\n\n😤 Motivo da troca:\n\nIncluir novas v",
+          "msg_time": "2026-03-06T15:12:36.915387"
+        },
+        {
+          "role": "system",
+          "content": "👤 Cliente: Denise\n📧 E-mail: Denisesilvacabral@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96430-0507\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: professora\n🎯 Rede preferencial: emergência pediátrica\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)\n\n👤 Cliente: Denise\n📧 E-mail: Denisesilvacabral@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96430-0507\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: professora\n🎯 Rede preferencial: emergência pediátrica\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)\n\n👤 Cliente: Denise\n📧 E-mail: Denisesilvacabral@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96430-0507\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: professora\n🎯 Rede preferencial: emergência pediátrica\n\n😤 Motivo da troca:\n\nIncluir novas v",
+          "msg_time": "2026-03-06T15:12:37.88928"
+        },
+        {
+          "role": "system",
+          "content": "👤 Cliente: Denise\n📧 E-mail: Denisesilvacabral@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96430-0507\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: professora\n🎯 Rede preferencial: emergência pediátrica\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)\n\n👤 Cliente: Denise\n📧 E-mail: Denisesilvacabral@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96430-0507\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: professora\n🎯 Rede preferencial: emergência pediátrica\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)\n\n👤 Cliente: Denise\n📧 E-mail: Denisesilvacabral@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96430-0507\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: professora\n🎯 Rede preferencial: emergência pediátrica\n\n😤 Motivo da troca:\n\nIncluir novas v",
+          "msg_time": "2026-03-06T15:12:38.904265"
+        },
+        {
+          "role": "system",
+          "content": "Então, o Quintador, porque eu sempre levo a minha filha no Quintador, tá assim, emergência garganta, emergência pediátrica, eu levo lá. E eu sei que a Mil não aceita mais no Quintador. Eu sei que o Sul América aceita, porque é o que eu tenho, né? Mas se você tiver outro plano, assim, dá um Ciano Unimed, que eu acho que é Unimed, sem chance. Se você tiver outro, tudo bem, pode me oferecer aí, pode me ofertar, que a gente conversa, tá bem?\n\nEntão, o Quintador, porque eu sempre levo a minha filha no Quintador, tá assim, emergência garganta, emergência pediátrica, eu levo lá. E eu sei que a Mil não aceita mais no Quintador. Eu sei que o Sul América aceita, porque é o que eu tenho, né? Mas se você tiver outro plano, assim, dá um Ciano Unimed, que eu acho que é Unimed, sem chance. Se você tiver outro, tudo bem, pode me oferecer aí, pode me ofertar, que a gente conversa, tá bem?\n\nEntão, o Quintador, porque eu sempre levo a minha filha no Quintador, tá assim, emergência garganta, emergência pe",
+          "msg_time": "2026-03-06T15:12:55.406536"
+        },
+        {
+          "role": "system",
+          "content": "👤 Cliente: Vitor Marcelo Rodrigues L\n📱 Contato: WhatsApp\n📞 Telefone: +55 22 99824-9088\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nVitor Marcelo Rodrigues L — 58 anos\nDependente 1 — 53 anos\nDependente 2 — 35 anos\nDependente 3 — 12 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 27.846.279/0001-85\nTipo: MEI\n🎯 Rede preferencial: Barra D'Or, Rede D'Or\n\n😤 Motivo da troca:\n\nValor alto\nIncluir novas vidas\n\n🎯 Interesse: rede D'or\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Vitor Marcelo Rodrigues L\n📱 Contato: WhatsApp\n📞 Telefone: +55 22 99824-9088\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nVitor Marcelo Rodrigues L — 58 anos\nDependente 1 — 53 anos\nDependente 2 — 35 anos\nDependente 3 — 12 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 27.846.279/0001-85\nTipo: MEI\n🎯 Rede preferencial: Barra D'Or, Rede D'Or\n\n😤 Motivo da troca:\n\nValor alto\nIncluir novas vidas\n\n🎯 Interesse: rede D'or\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinh",
+          "msg_time": "2026-03-06T19:03:04.88334"
+        },
+        {
+          "role": "system",
+          "content": "👤 Cliente: Vitor Marcelo Rodrigues L\n📱 Contato: WhatsApp\n📞 Telefone: +55 22 99824-9088\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nVitor Marcelo Rodrigues L — 58 anos\nDependente 1 — 53 anos\nDependente 2 — 35 anos\nDependente 3 — 12 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 27.846.279/0001-85\nTipo: MEI\n🎯 Rede preferencial: Barra D'Or, Rede D'Or\n\n😤 Motivo da troca:\n\nValor alto\nIncluir novas vidas\n\n🎯 Interesse: rede D'or\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Vitor Marcelo Rodrigues L\n📱 Contato: WhatsApp\n📞 Telefone: +55 22 99824-9088\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nVitor Marcelo Rodrigues L — 58 anos\nDependente 1 — 53 anos\nDependente 2 — 35 anos\nDependente 3 — 12 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 27.846.279/0001-85\nTipo: MEI\n🎯 Rede preferencial: Barra D'Or, Rede D'Or\n\n😤 Motivo da troca:\n\nValor alto\nIncluir novas vidas\n\n🎯 Interesse: rede D'or\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinh",
+          "msg_time": "2026-03-06T19:03:05.8653"
+        },
+        {
+          "role": "system",
+          "content": "👤 Cliente: Vitor Marcelo Rodrigues L\n📱 Contato: WhatsApp\n📞 Telefone: +55 22 99824-9088\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nVitor Marcelo Rodrigues L — 58 anos\nDependente 1 — 53 anos\nDependente 2 — 35 anos\nDependente 3 — 12 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 27.846.279/0001-85\nTipo: MEI\n🎯 Rede preferencial: Barra D'Or, Rede D'Or\n\n😤 Motivo da troca:\n\nValor alto\nIncluir novas vidas\n\n🎯 Interesse: rede D'or\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Vitor Marcelo Rodrigues L\n📱 Contato: WhatsApp\n📞 Telefone: +55 22 99824-9088\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nVitor Marcelo Rodrigues L — 58 anos\nDependente 1 — 53 anos\nDependente 2 — 35 anos\nDependente 3 — 12 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 27.846.279/0001-85\nTipo: MEI\n🎯 Rede preferencial: Barra D'Or, Rede D'Or\n\n😤 Motivo da troca:\n\nValor alto\nIncluir novas vidas\n\n🎯 Interesse: rede D'or\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinh",
+          "msg_time": "2026-03-06T19:03:06.988158"
+        },
+        {
+          "role": "system",
+          "content": "👤 Cliente: Vitor Marcelo Rodrigues L\n📱 Contato: WhatsApp\n📞 Telefone: +55 22 99824-9088\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nVitor Marcelo Rodrigues L — 58 anos\nDependente 1 — 53 anos\nDependente 2 — 35 anos\nDependente 3 — 12 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 27.846.279/0001-85\nTipo: MEI\n🎯 Rede preferencial: Barra D'Or, Rede D'Or\n\n😤 Motivo da troca:\n\nValor alto\nIncluir novas vidas\n\n🎯 Interesse: rede D'or\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Vitor Marcelo Rodrigues L\n📱 Contato: WhatsApp\n📞 Telefone: +55 22 99824-9088\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nVitor Marcelo Rodrigues L — 58 anos\nDependente 1 — 53 anos\nDependente 2 — 35 anos\nDependente 3 — 12 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 27.846.279/0001-85\nTipo: MEI\n🎯 Rede preferencial: Barra D'Or, Rede D'Or\n\n😤 Motivo da troca:\n\nValor alto\nIncluir novas vidas\n\n🎯 Interesse: rede D'or\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinh",
+          "msg_time": "2026-03-06T19:03:07.902212"
+        },
+        {
+          "role": "system",
+          "content": "**👤 Cliente:** Thaiane\n**📱 Contato:** WhatsApp — aguarda contato da especialista Isis\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- Mãe — 49 anos (beneficiária)\n- Thaiane — 34 anos (pagante)\n\n---\n\n**📋 Dados contratuais:**\n- Cidade de uso: Rio de Janeiro / RJ (Caxias D'Or)\n- Cidade da Thaiane: São João de Meriti / RJ\n- Contratação: CPF da mãe\n- Profissão: Autônoma\n\n---\n\n**🏥 Plano atual:** Nenhum\n\n**🎯 Hospital preferencial:** Caxias D'Or\n\n---\n\n**⚠️ Observação:** Thaiane é quem paga, mas o plano é só para a mãe (1 vida). Encaminhado para a especialista Isis.\n\n**✅ Status:** Lead ativo — encaminhado para a Isis\n\n**👤 Cliente:** Thaiane\n**📱 Contato:** WhatsApp — aguarda contato da especialista Isis\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- Mãe — 49 anos (beneficiária)\n- Thaiane — 34 anos (pagante)\n\n---\n\n**📋 Dados contratuais:**\n- Cidade de uso: Rio de Janeiro / RJ (Caxias D'Or)\n- Cidade da Thaiane: São João de Meriti / RJ\n- Contratação: CPF da mãe\n- Profissão: Autônoma\n\n---\n\n**🏥 Plano atual:** Nenhum\n\n**🎯 Ho",
+          "msg_time": "2026-03-09T16:56:36.750614"
+        },
+        {
+          "role": "system",
+          "content": "**👤 Cliente:** Thaiane\n**📱 Contato:** WhatsApp — aguarda contato da especialista Isis\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- Mãe — 49 anos (beneficiária)\n- Thaiane — 34 anos (pagante)\n\n---\n\n**📋 Dados contratuais:**\n- Cidade de uso: Rio de Janeiro / RJ (Caxias D'Or)\n- Cidade da Thaiane: São João de Meriti / RJ\n- Contratação: CPF da mãe\n- Profissão: Autônoma\n\n---\n\n**🏥 Plano atual:** Nenhum\n\n**🎯 Hospital preferencial:** Caxias D'Or\n\n---\n\n**⚠️ Observação:** Thaiane é quem paga, mas o plano é só para a mãe (1 vida). Encaminhado para a especialista Isis.\n\n**✅ Status:** Lead ativo — encaminhado para a Isis\n\n**👤 Cliente:** Thaiane\n**📱 Contato:** WhatsApp — aguarda contato da especialista Isis\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- Mãe — 49 anos (beneficiária)\n- Thaiane — 34 anos (pagante)\n\n---\n\n**📋 Dados contratuais:**\n- Cidade de uso: Rio de Janeiro / RJ (Caxias D'Or)\n- Cidade da Thaiane: São João de Meriti / RJ\n- Contratação: CPF da mãe\n- Profissão: Autônoma\n\n---\n\n**🏥 Plano atual:** Nenhum\n\n**🎯 Ho",
+          "msg_time": "2026-03-09T16:56:39.597354"
+        },
+        {
+          "role": "system",
+          "content": "**👤 Cliente:** Thaiane\n**📱 Contato:** WhatsApp — aguarda contato da especialista Isis\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- Mãe — 49 anos (beneficiária)\n- Thaiane — 34 anos (pagante)\n\n---\n\n**📋 Dados contratuais:**\n- Cidade de uso: Rio de Janeiro / RJ (Caxias D'Or)\n- Cidade da Thaiane: São João de Meriti / RJ\n- Contratação: CPF da mãe\n- Profissão: Autônoma\n\n---\n\n**🏥 Plano atual:** Nenhum\n\n**🎯 Hospital preferencial:** Caxias D'Or\n\n---\n\n**⚠️ Observação:** Thaiane é quem paga, mas o plano é só para a mãe (1 vida). Encaminhado para a especialista Isis.\n\n**✅ Status:** Lead ativo — encaminhado para a Isis\n\n**👤 Cliente:** Thaiane\n**📱 Contato:** WhatsApp — aguarda contato da especialista Isis\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- Mãe — 49 anos (beneficiária)\n- Thaiane — 34 anos (pagante)\n\n---\n\n**📋 Dados contratuais:**\n- Cidade de uso: Rio de Janeiro / RJ (Caxias D'Or)\n- Cidade da Thaiane: São João de Meriti / RJ\n- Contratação: CPF da mãe\n- Profissão: Autônoma\n\n---\n\n**🏥 Plano atual:** Nenhum\n\n**🎯 Ho",
+          "msg_time": "2026-03-09T16:56:42.520665"
+        },
+        {
+          "role": "system",
+          "content": "**👤 Cliente:** Thaiane\n**📱 Contato:** WhatsApp — aguarda contato da especialista Isis\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- Mãe — 49 anos (beneficiária)\n- Thaiane — 34 anos (pagante)\n\n---\n\n**📋 Dados contratuais:**\n- Cidade de uso: Rio de Janeiro / RJ (Caxias D'Or)\n- Cidade da Thaiane: São João de Meriti / RJ\n- Contratação: CPF da mãe\n- Profissão: Autônoma\n\n---\n\n**🏥 Plano atual:** Nenhum\n\n**🎯 Hospital preferencial:** Caxias D'Or\n\n---\n\n**⚠️ Observação:** Thaiane é quem paga, mas o plano é só para a mãe (1 vida). Encaminhado para a especialista Isis.\n\n**✅ Status:** Lead ativo — encaminhado para a Isis\n\n**👤 Cliente:** Thaiane\n**📱 Contato:** WhatsApp — aguarda contato da especialista Isis\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- Mãe — 49 anos (beneficiária)\n- Thaiane — 34 anos (pagante)\n\n---\n\n**📋 Dados contratuais:**\n- Cidade de uso: Rio de Janeiro / RJ (Caxias D'Or)\n- Cidade da Thaiane: São João de Meriti / RJ\n- Contratação: CPF da mãe\n- Profissão: Autônoma\n\n---\n\n**🏥 Plano atual:** Nenhum\n\n**🎯 Ho",
+          "msg_time": "2026-03-09T16:56:46.015768"
+        },
+        {
+          "role": "system",
+          "content": "**👤 Cliente:** Thaiane\n**📱 Contato:** +55 21 99296-4203\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- Mãe — 49 anos (beneficiária)\n- Thaiane — 34 anos (pagante)\n\n---\n\n**📋 Dados contratuais:**\n- Cidade de uso: Rio de Janeiro / RJ (Caxias D'Or)\n- Cidade da Thaiane: São João de Meriti / RJ\n- Contratação: CPF da mãe\n- Profissão: Autônoma\n\n---\n\n**🏥 Plano atual:** Nenhum\n\n**🎯 Hospital preferencial:** Caxias D'Or\n\n---\n\n**⚠️ Observação:** Thaiane é quem paga, mas o plano é só para a mãe (1 vida). Encaminhado para a especialista Isis.\n\n**✅ Status:** Lead ativo — encaminhado para a Isis\n\n**👤 Cliente:** Thaiane\n**📱 Contato:** +55 21 99296-4203\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- Mãe — 49 anos (beneficiária)\n- Thaiane — 34 anos (pagante)\n\n---\n\n**📋 Dados contratuais:**\n- Cidade de uso: Rio de Janeiro / RJ (Caxias D'Or)\n- Cidade da Thaiane: São João de Meriti / RJ\n- Contratação: CPF da mãe\n- Profissão: Autônoma\n\n---\n\n**🏥 Plano atual:** Nenhum\n\n**🎯 Hospital preferencial:** Caxias D'Or\n\n---\n\n**⚠️ Observação:** ",
+          "msg_time": "2026-03-09T16:56:57.87899"
+        },
+        {
+          "role": "system",
+          "content": "**👤 Cliente:** Thaiane\n**📱 Contato:** +55 21 99296-4203\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- Mãe — 49 anos (beneficiária)\n- Thaiane — 34 anos (pagante)\n\n---\n\n**📋 Dados contratuais:**\n- Cidade de uso: Rio de Janeiro / RJ (Caxias D'Or)\n- Cidade da Thaiane: São João de Meriti / RJ\n- Contratação: CPF da mãe\n- Profissão: Autônoma\n\n---\n\n**🏥 Plano atual:** Nenhum\n\n**🎯 Hospital preferencial:** Caxias D'Or\n\n---\n\n**⚠️ Observação:** Thaiane é quem paga, mas o plano é só para a mãe (1 vida). Encaminhado para a especialista Isis.\n\n**✅ Status:** Lead ativo — encaminhado para a Isis\n\n**👤 Cliente:** Thaiane\n**📱 Contato:** +55 21 99296-4203\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- Mãe — 49 anos (beneficiária)\n- Thaiane — 34 anos (pagante)\n\n---\n\n**📋 Dados contratuais:**\n- Cidade de uso: Rio de Janeiro / RJ (Caxias D'Or)\n- Cidade da Thaiane: São João de Meriti / RJ\n- Contratação: CPF da mãe\n- Profissão: Autônoma\n\n---\n\n**🏥 Plano atual:** Nenhum\n\n**🎯 Hospital preferencial:** Caxias D'Or\n\n---\n\n**⚠️ Observação:** ",
+          "msg_time": "2026-03-09T16:56:59.984571"
+        },
+        {
+          "role": "system",
+          "content": "**👤 Cliente:** Thaiane\n**📱 Contato:** +55 21 99296-4203\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- Mãe — 49 anos (beneficiária)\n- Thaiane — 34 anos (pagante)\n\n---\n\n**📋 Dados contratuais:**\n- Cidade de uso: Rio de Janeiro / RJ (Caxias D'Or)\n- Cidade da Thaiane: São João de Meriti / RJ\n- Contratação: CPF da mãe\n- Profissão: Autônoma\n\n---\n\n**🏥 Plano atual:** Nenhum\n\n**🎯 Hospital preferencial:** Caxias D'Or\n\n---\n\n**⚠️ Observação:** Thaiane é quem paga, mas o plano é só para a mãe (1 vida). Encaminhado para a especialista Isis.\n\n**✅ Status:** Lead ativo — encaminhado para a Isis\n\n**👤 Cliente:** Thaiane\n**📱 Contato:** +55 21 99296-4203\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- Mãe — 49 anos (beneficiária)\n- Thaiane — 34 anos (pagante)\n\n---\n\n**📋 Dados contratuais:**\n- Cidade de uso: Rio de Janeiro / RJ (Caxias D'Or)\n- Cidade da Thaiane: São João de Meriti / RJ\n- Contratação: CPF da mãe\n- Profissão: Autônoma\n\n---\n\n**🏥 Plano atual:** Nenhum\n\n**🎯 Hospital preferencial:** Caxias D'Or\n\n---\n\n**⚠️ Observação:** ",
+          "msg_time": "2026-03-09T16:57:03.693563"
+        },
+        {
+          "role": "system",
+          "content": "**👤 Cliente:** Thaiane\n**📱 Contato:** +55 21 99296-4203\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- Mãe — 49 anos (beneficiária)\n- Thaiane — 34 anos (pagante)\n\n---\n\n**📋 Dados contratuais:**\n- Cidade de uso: Rio de Janeiro / RJ (Caxias D'Or)\n- Cidade da Thaiane: São João de Meriti / RJ\n- Contratação: CPF da mãe\n- Profissão: Autônoma\n\n---\n\n**🏥 Plano atual:** Nenhum\n\n**🎯 Hospital preferencial:** Caxias D'Or\n\n---\n\n**⚠️ Observação:** Thaiane é quem paga, mas o plano é só para a mãe (1 vida). Encaminhado para a especialista Isis.\n\n**✅ Status:** Lead ativo — encaminhado para a Isis\n\n**👤 Cliente:** Thaiane\n**📱 Contato:** +55 21 99296-4203\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- Mãe — 49 anos (beneficiária)\n- Thaiane — 34 anos (pagante)\n\n---\n\n**📋 Dados contratuais:**\n- Cidade de uso: Rio de Janeiro / RJ (Caxias D'Or)\n- Cidade da Thaiane: São João de Meriti / RJ\n- Contratação: CPF da mãe\n- Profissão: Autônoma\n\n---\n\n**🏥 Plano atual:** Nenhum\n\n**🎯 Hospital preferencial:** Caxias D'Or\n\n---\n\n**⚠️ Observação:** ",
+          "msg_time": "2026-03-09T16:57:06.983145"
+        },
+        {
+          "role": "system",
+          "content": "**👤 Cliente:** Aurelio\n**📱 Contato:** +55 21 97228-7282\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- Aurelio — 51 anos\n- Vicente (filho) — 6 anos\n\n---\n\n**📋 Dados contratuais:**\n- Cidade: Rio de Janeiro / RJ\n- CNPJ registrado em SP: Instituto de Ciência e Tecnologia Biomas — 07.351.889/0001-09 (fundado em 16/03/2005)\n- Também é servidor federal\n\n---\n\n**🏥 Plano atual:** Plano pelo servidor federal\n\n**🎯 Interesse:** SulAmérica\n\n---\n\n**⚠️ Observação:** SulAmérica exige mínimo de 3 vidas — não atende o perfil. Isis vai apresentar outras opções. CNPJ é de SP mas cliente mora no RJ — verificar elegibilidade.\n\n**✅ Status:** Lead ativo — encaminhado para a Isis\n\n**👤 Cliente:** Aurelio\n**📱 Contato:** +55 21 97228-7282\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- Aurelio — 51 anos\n- Vicente (filho) — 6 anos\n\n---\n\n**📋 Dados contratuais:**\n- Cidade: Rio de Janeiro / RJ\n- CNPJ registrado em SP: Instituto de Ciência e Tecnologia Biomas — 07.351.889/0001-09 (fundado em 16/03/2005)\n- Também é servidor federal\n\n---\n\n**🏥 ",
+          "msg_time": "2026-03-09T17:04:54.990223"
+        },
+        {
+          "role": "system",
+          "content": "**👤 Cliente:** Aurelio\n**📱 Contato:** +55 21 97228-7282\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- Aurelio — 51 anos\n- Vicente (filho) — 6 anos\n\n---\n\n**📋 Dados contratuais:**\n- Cidade: Rio de Janeiro / RJ\n- CNPJ registrado em SP: Instituto de Ciência e Tecnologia Biomas — 07.351.889/0001-09 (fundado em 16/03/2005)\n- Também é servidor federal\n\n---\n\n**🏥 Plano atual:** Plano pelo servidor federal\n\n**🎯 Interesse:** SulAmérica\n\n---\n\n**⚠️ Observação:** SulAmérica exige mínimo de 3 vidas — não atende o perfil. Isis vai apresentar outras opções. CNPJ é de SP mas cliente mora no RJ — verificar elegibilidade.\n\n**✅ Status:** Lead ativo — encaminhado para a Isis\n\n**👤 Cliente:** Aurelio\n**📱 Contato:** +55 21 97228-7282\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- Aurelio — 51 anos\n- Vicente (filho) — 6 anos\n\n---\n\n**📋 Dados contratuais:**\n- Cidade: Rio de Janeiro / RJ\n- CNPJ registrado em SP: Instituto de Ciência e Tecnologia Biomas — 07.351.889/0001-09 (fundado em 16/03/2005)\n- Também é servidor federal\n\n---\n\n**🏥 ",
+          "msg_time": "2026-03-09T17:04:57.112941"
+        },
+        {
+          "role": "system",
+          "content": "**👤 Cliente:** Aurelio\n**📱 Contato:** +55 21 97228-7282\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- Aurelio — 51 anos\n- Vicente (filho) — 6 anos\n\n---\n\n**📋 Dados contratuais:**\n- Cidade: Rio de Janeiro / RJ\n- CNPJ registrado em SP: Instituto de Ciência e Tecnologia Biomas — 07.351.889/0001-09 (fundado em 16/03/2005)\n- Também é servidor federal\n\n---\n\n**🏥 Plano atual:** Plano pelo servidor federal\n\n**🎯 Interesse:** SulAmérica\n\n---\n\n**⚠️ Observação:** SulAmérica exige mínimo de 3 vidas — não atende o perfil. Isis vai apresentar outras opções. CNPJ é de SP mas cliente mora no RJ — verificar elegibilidade.\n\n**✅ Status:** Lead ativo — encaminhado para a Isis\n\n**👤 Cliente:** Aurelio\n**📱 Contato:** +55 21 97228-7282\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- Aurelio — 51 anos\n- Vicente (filho) — 6 anos\n\n---\n\n**📋 Dados contratuais:**\n- Cidade: Rio de Janeiro / RJ\n- CNPJ registrado em SP: Instituto de Ciência e Tecnologia Biomas — 07.351.889/0001-09 (fundado em 16/03/2005)\n- Também é servidor federal\n\n---\n\n**🏥 ",
+          "msg_time": "2026-03-09T17:05:00.108469"
+        },
+        {
+          "role": "system",
+          "content": "**👤 Cliente:** Aurelio\n**📱 Contato:** +55 21 97228-7282\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- Aurelio — 51 anos\n- Vicente (filho) — 6 anos\n\n---\n\n**📋 Dados contratuais:**\n- Cidade: Rio de Janeiro / RJ\n- CNPJ registrado em SP: Instituto de Ciência e Tecnologia Biomas — 07.351.889/0001-09 (fundado em 16/03/2005)\n- Também é servidor federal\n\n---\n\n**🏥 Plano atual:** Plano pelo servidor federal\n\n**🎯 Interesse:** SulAmérica\n\n---\n\n**⚠️ Observação:** SulAmérica exige mínimo de 3 vidas — não atende o perfil. Isis vai apresentar outras opções. CNPJ é de SP mas cliente mora no RJ — verificar elegibilidade.\n\n**✅ Status:** Lead ativo — encaminhado para a Isis\n\n**👤 Cliente:** Aurelio\n**📱 Contato:** +55 21 97228-7282\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- Aurelio — 51 anos\n- Vicente (filho) — 6 anos\n\n---\n\n**📋 Dados contratuais:**\n- Cidade: Rio de Janeiro / RJ\n- CNPJ registrado em SP: Instituto de Ciência e Tecnologia Biomas — 07.351.889/0001-09 (fundado em 16/03/2005)\n- Também é servidor federal\n\n---\n\n**🏥 ",
+          "msg_time": "2026-03-09T17:05:05.394139"
+        },
+        {
+          "role": "system",
+          "content": "Oi, bom dia Gilberto, tudo bem? Não, a gente tá estudando aqui a possibilidade, eu falhei ontem, eu acho que é sua filha pelo sobrenome, eu não sei, a Eze que me atendeu, que nós temos a mil, assim aliás, mas nós não estamos satisfeitos não, porque consulta aqui, cara, na região dos lagos é muito difícil você conseguir, e eu pago dois mil, quase dois mil e quatrocentos reais de consulta, é MEI né, mais dois mil e quatrocentos reais, para a gente conseguir consulta aqui é um é um parto, é 30 dias esperando, 40 dias, e eu fiz um cátion em dezembro e eu tenho que ter acompanhamento de cardiologista, eu preciso de ter o médico à disposição, não por tanto tempo esperando, entendeu? Não só eu, minha esposa, minhas filhas, então a gente não está satisfeito estamos estudando assim aqui, e estamos estudando aqui a possibilidade, e assim que a gente chegar em uma conclusão aqui, aí eu aciono vocês aí, converso com vocês, porque a mil, né, a mil ficaria assim, a carência, nós já temos esse plano,",
+          "msg_time": "2026-03-09T17:07:48.657603"
+        },
+        {
+          "role": "system",
+          "content": "Oi, bom dia Gilberto, tudo bem? Não, a gente tá estudando aqui a possibilidade, eu falhei ontem, eu acho que é sua filha pelo sobrenome, eu não sei, a Eze que me atendeu, que nós temos a mil, assim aliás, mas nós não estamos satisfeitos não, porque consulta aqui, cara, na região dos lagos é muito difícil você conseguir, e eu pago dois mil, quase dois mil e quatrocentos reais de consulta, é MEI né, mais dois mil e quatrocentos reais, para a gente conseguir consulta aqui é um é um parto, é 30 dias esperando, 40 dias, e eu fiz um cátion em dezembro e eu tenho que ter acompanhamento de cardiologista, eu preciso de ter o médico à disposição, não por tanto tempo esperando, entendeu? Não só eu, minha esposa, minhas filhas, então a gente não está satisfeito estamos estudando assim aqui, e estamos estudando aqui a possibilidade, e assim que a gente chegar em uma conclusão aqui, aí eu aciono vocês aí, converso com vocês, porque a mil, né, a mil ficaria assim, a carência, nós já temos esse plano,",
+          "msg_time": "2026-03-09T17:07:50.906487"
+        },
+        {
+          "role": "system",
+          "content": "Oi, bom dia Gilberto, tudo bem? Não, a gente tá estudando aqui a possibilidade, eu falhei ontem, eu acho que é sua filha pelo sobrenome, eu não sei, a Eze que me atendeu, que nós temos a mil, assim aliás, mas nós não estamos satisfeitos não, porque consulta aqui, cara, na região dos lagos é muito difícil você conseguir, e eu pago dois mil, quase dois mil e quatrocentos reais de consulta, é MEI né, mais dois mil e quatrocentos reais, para a gente conseguir consulta aqui é um é um parto, é 30 dias esperando, 40 dias, e eu fiz um cátion em dezembro e eu tenho que ter acompanhamento de cardiologista, eu preciso de ter o médico à disposição, não por tanto tempo esperando, entendeu? Não só eu, minha esposa, minhas filhas, então a gente não está satisfeito estamos estudando assim aqui, e estamos estudando aqui a possibilidade, e assim que a gente chegar em uma conclusão aqui, aí eu aciono vocês aí, converso com vocês, porque a mil, né, a mil ficaria assim, a carência, nós já temos esse plano,",
+          "msg_time": "2026-03-09T17:07:53.892607"
+        },
+        {
+          "role": "system",
+          "content": "Oi, bom dia Gilberto, tudo bem? Não, a gente tá estudando aqui a possibilidade, eu falhei ontem, eu acho que é sua filha pelo sobrenome, eu não sei, a Eze que me atendeu, que nós temos a mil, assim aliás, mas nós não estamos satisfeitos não, porque consulta aqui, cara, na região dos lagos é muito difícil você conseguir, e eu pago dois mil, quase dois mil e quatrocentos reais de consulta, é MEI né, mais dois mil e quatrocentos reais, para a gente conseguir consulta aqui é um é um parto, é 30 dias esperando, 40 dias, e eu fiz um cátion em dezembro e eu tenho que ter acompanhamento de cardiologista, eu preciso de ter o médico à disposição, não por tanto tempo esperando, entendeu? Não só eu, minha esposa, minhas filhas, então a gente não está satisfeito estamos estudando assim aqui, e estamos estudando aqui a possibilidade, e assim que a gente chegar em uma conclusão aqui, aí eu aciono vocês aí, converso com vocês, porque a mil, né, a mil ficaria assim, a carência, nós já temos esse plano,",
+          "msg_time": "2026-03-09T17:07:56.205331"
+        },
+        {
+          "role": "user",
+          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nLead bom\n\nLead bom\n\nLead bom\n\nLead bom\n\nLigar amanhã às 10\n\nLigar amanhã às 10\n\nLigar amanhã às 10\n\nLigar amanhã às 10\n\nOk\n\nOk\n\nOk\n\nOk",
+          "msg_time": "2026-03-09T21:39:59.313781"
+        },
+        {
+          "role": "user",
+          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nLead bom\n\nLead bom\n\nLead bom\n\nLead bom\n\nLigar amanhã às 10\n\nLigar amanhã às 10\n\nLigar amanhã às 10\n\nLigar amanhã às 10\n\nOk\n\nOk\n\nOk\n\nOk",
+          "msg_time": "2026-03-09T21:40:04.148144"
+        },
+        {
+          "role": "user",
+          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nLead bom\n\nLead bom\n\nLead bom\n\nLead bom\n\nLigar amanhã às 10\n\nLigar amanhã às 10\n\nLigar amanhã às 10\n\nLigar amanhã às 10\n\nOk\n\nOk\n\nOk\n\nOk",
+          "msg_time": "2026-03-09T21:40:09.509073"
+        },
+        {
+          "role": "user",
+          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nLead bom\n\nLead bom\n\nLead bom\n\nLead bom\n\nLigar amanhã às 10\n\nLigar amanhã às 10\n\nLigar amanhã às 10\n\nLigar amanhã às 10\n\nOk\n\nOk\n\nOk\n\nOk",
+          "msg_time": "2026-03-09T21:40:13.597451"
+        },
+        {
+          "role": "system",
+          "content": "51619578000161\n\nNo normalmente eu vou em particular em Icaraí\n\nNo normalmente eu vou em particular em Icaraí\n\n51619578000161\n\nNo normalmente eu vou em particular em Icaraí\n\n51619578000161\n\nNo normalmente eu vou em particular em Icaraí\n\n51619578000161\n\nBoa tarde ,\nIdade \n53/54\n\nPorque eu moro em são Gonçalo\n\nPorque eu moro em são Gonçalo\n\nBoa tarde ,\nIdade \n53/54\n\nPorque eu moro em são Gonçalo\n\nBoa tarde ,\nIdade \n53/54\n\nPorque eu moro em são Gonçalo\n\nBoa tarde ,\nIdade \n53/54\n\nSão Gonçalo \nMei\n\nSão Gonçalo \nMei\n\nSão Gonçalo \nMei\n\nSão Gonçalo \nMei\n\nFica atrás do hospital de clínica\n\nChn\n\nFica atrás do hospital de clínica\n\nChn\n\nFica atrás do hospital de clínica\n\nChn\n\nFica atrás do hospital de clínica\n\nChn",
+          "msg_time": "2026-03-09T21:40:34.183985"
+        },
+        {
+          "role": "system",
+          "content": "+55 21 97414-5222\n\n<ContextoPDF>\n  <TranscricaoPDF>\nJunta Comercial do Estado do Rio de Janeiro\nEmpresa: E2 SERVICOS DE ENGENHARIA E REPRESENTACAO LTDA\nNIRE: 332.1321250-9 Protocolo: 2026/00284849-7 Data do protocolo: 24/02/2026\nCERTIFICO O ARQUIVAMENTO em 06/03/2026 SOB O NÚMERO 00007632961 e demais constantes do termo de\nautenticação.\nAutenticação: D5D9362C4C926515D208C1289185B100EFBDAE4CCA8710A3A9B1A27EBD040F8D\nPara validar o documento acesse https://www.jucerja.rj.gov.br/servicos/chanceladigital, informe o nº de protocolo.\nPag. 01/10\nNIRE / Arquivamento CNPJ Endereço / Endereço completo no exterior Bairro Municipio Estado\n00007632961 54.784.677/0001-97 Rua ALBERTO COUPEY 439 MUTONDO São Gonçalo RJ\nxxxxxxxxxxx xx.xxx.xxx/xxxx-xx xxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxx xxxxxxxxxx xx\nxxxxxxxxxxx xx.xxx.xxx/xxxx-xx xxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxx xxxxxxxxxx xx\nxxxxxxxxxxx xx.xxx.xxx/xxxx-xx xxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxx xxxxxxxxxx xx\nxxxxxxxxxxx xx.xxx.xxx",
+          "msg_time": "2026-03-11T13:27:26.364465"
+        },
+        {
+          "role": "system",
+          "content": "8 \n16\n25\n37\n\nSão 4 pessoas\n\nCNPJ\n\nWallace\n\nPreciso de atendimentos zona norte , oeste e Niterói\n\nE com melhor valor\n\nSem coparticipação",
+          "msg_time": "2026-03-11T13:27:53.083217"
+        },
+        {
+          "role": "system",
+          "content": "👤 Cliente: Antônio Couto\n📱 Contato: WhatsApp — aguarda contato do consultor\n\n👨‍👩‍👧‍👧 Vidas no plano:\n\nTitular — 65 anos\nDependente — 74 anos\n\n\n📋 Dados contratuais:\n\nCidades: São Gonçalo e Niterói / RJ\nContratação: CPF\nProfissão: Corretor de imóveis\n\n\n🏥 Plano atual: Leve Saúde (via CNPJ — que não têm mais)\n\n😤 Motivo da troca:\n\nCNPJ encerrado — precisam migrar para CPF\nInsatisfação com a operadora atual (\"muito ruim\")",
+          "msg_time": "2026-03-11T13:55:11.864933"
+        },
+        {
+          "role": "system",
+          "content": "👤 Cliente: Antônio Couto\n📱 Contato: WhatsApp — +55 21 98825-510\n\n👨‍👩‍👧‍👧 Vidas no plano:\n\nTitular — 65 anos\nDependente — 74 anos\n\n\n📋 Dados contratuais:\n\nCidades: São Gonçalo e Niterói / RJ\nContratação: CPF\nProfissão: Corretor de imóveis\n\n\n🏥 Plano atual: Leve Saúde (via CNPJ — que não têm mais)\n\n😤 Motivo da troca:\n\nCNPJ encerrado — precisam migrar para CPF\nInsatisfação com a operadora atual (\"muito ruim\")",
+          "msg_time": "2026-03-11T13:55:29.8725"
+        },
+        {
+          "role": "user",
+          "content": "+55 21 98825-510",
+          "msg_time": "2026-03-11T13:56:32.8942"
+        },
+        {
+          "role": "user",
+          "content": "55 21 98825-5103",
+          "msg_time": "2026-03-11T13:59:05.624273"
+        },
+        {
+          "role": "system",
+          "content": "👤 Cliente: Ana\n📧 E-mail: aninhacaravelas@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97708-3091\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nAna — 85 anos\nDependente 1 — 46 anos\n\n📋 Dados contratuais:\n\nCidade: São Gonçalo / RJ\nContratação: CNPJ\nTipo: MEI\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)",
+          "msg_time": "2026-03-11T14:07:40.222913"
+        },
+        {
+          "role": "system",
+          "content": "👤 Cliente: Fábio Amaral\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99605-7345\n\n📋 Dados contratuais:\n\nCidade: Niteroi / RJ\nContratação: CNPJ\nTipo: MEI\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n\n🎯 Interesse: Amil\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)",
+          "msg_time": "2026-03-16T15:02:26.830128"
+        },
+        {
+          "role": "system",
+          "content": "👤 Cliente: Tanio\n📧 E-mail: tanio-santiago@hotmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96496-9946\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nTanio — 65 anos\nDependente 1 — 63 anos\n\n📋 Dados contratuais:\n\nCidade: São Gonçalo / RJ\nContratação: CNPJ\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)",
+          "msg_time": "2026-03-16T15:09:21.418399"
+        },
+        {
+          "role": "system",
+          "content": "👤 Cliente: Alfredo\n📧 E-mail: alfredo-bittencourt@uol.com.br\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98877-8988\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nAlfredo — 71 anos\nDependente 1 — 66 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\n\n🏥 Plano atual: Nenhum\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)",
+          "msg_time": "2026-03-16T15:12:18.811195"
+        },
+        {
+          "role": "system",
+          "content": "👤 Cliente: Leila\n📧 E-mail: wleiloca@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99969-9878\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n\n🎯 Interesse: SulAmérica\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Leila\nTipo de contratação: CNPJ\nQuantidade de vidas: 1 a 2\nProduto ou operadora de interesse: Amil, Bradesco, Intermédica, Assim Saúde, SulAmérica\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Amarelo (2373)",
+          "msg_time": "2026-03-16T16:29:38.602468"
+        },
+        {
+          "role": "user",
+          "content": "<ContextoPDF>\n  <TranscricaoPDF>\nNome do Plano:\nVigência da\nTabela\nAtuação\nAcomodação\nCoparticipação\nIOF\nFaixa \nVidas\nEtária\nO a 18 \n2\n19 a 23\n29 a 33\n39 a 43\n54 a 58 \n2\n59 ou\nmais\nSomatório \n8\nTaxa\nSomatório+\nIOF\nHospitais\n- \nIsis Gonçalves\nisis.goncalves@gw9capita1.com.br\nDetalhes dos Planos\nSulAmétlca\nPME\nApôli.:o! 24 m.e!ilo!!II\n,@a■uin1tt@\nDireto Nacional QC I Compulsório I Reembolso\nMarch/2026\nNacional\nEnfermaria\nNão\nSim\n!\n�Porto\n�Saúde\nLinha Porto Saúde\nP220 QC I De 03 a 29 vidas I Reembolso I Exceto MEi\nMarch/2026\nNacional\nEnfermaria\nNão\nSim\nValores Unitários por Vida (não multiplicados pelo n\n° \nde vidas)\nDireto Nacional QC I Compulsório I Reembolso\nR$ 280,51\nR$ 350,63\nR$ 544,56\nR$ 908,28\nR$ 1.530,00\nR$ 5.158,61\nSem taxa 1 2,38% de IOF\n5,00 Por vida + 2,38% de IOF\n5.809,61\nResumo de Rede Credenciada\nRede Credenciada Verticalizada\nDireto Nacional QC I Compulsório I Reembolso\nZONA NORTE\nRio de Janeiro\nREDE CREDENCIADA\nDireto Nacional\nHOSPITAIS\n• Hospital Badim - Rede Dor São Lui",
+          "msg_time": "2026-03-18T17:02:52.18864"
+        },
+        {
+          "role": "user",
+          "content": "<ContextoImagem>\n\n  <DetalheImagem>\n\n  </DetalheImagem>\n\nContexto Extra: O usuário encaminhou a mensagem a seguir junto á imagem.\n  <MensagemUsuario>\n\n  </MensagemUsuario>\n\n</ContextoImagem>",
+          "msg_time": "2026-03-18T17:04:42.049742"
+        },
+        {
+          "role": "system",
+          "content": "Duas vidas são quarto particular\n\n1 vida 29 anos\n\n1 vida menor de 18 ( 6 meses)",
+          "msg_time": "2026-03-18T17:16:05.643113"
+        },
+        {
+          "role": "user",
+          "content": "<ContextoImagem>\n\n  <DetalheImagem>\n\n  </DetalheImagem>\n\nContexto Extra: O usuário encaminhou a mensagem a seguir junto á imagem.\n  <MensagemUsuario>\n\n  </MensagemUsuario>\n\n</ContextoImagem>",
+          "msg_time": "2026-03-18T17:19:52.988932"
+        },
+        {
+          "role": "system",
+          "content": "👤 Cliente: Sueli\n📧 E-mail: suelibusch02@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98567-7355\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nSueli — 72 anos\n\n📋 Dados contratuais:\n\nCidade: Itaboraí / RJ\nContratação: CNPJ\nProfissão: saudável\n\n🏥 Plano atual: Unimed\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Amarelo (2373)",
+          "msg_time": "2026-03-19T18:42:44.85459"
+        },
+        {
+          "role": "system",
+          "content": "👤 Cliente: Marcelo\n📧 E-mail: marcelopego17@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99543-5200\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nMarcelo — 57 anos\nDependente 1 — 56 anos\nDependente 2 — 26 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n⚠️ Observação: Marcelo\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Amarelo (2373)",
+          "msg_time": "2026-03-23T13:02:42.21159"
+        }
+      ]
+    },
+    {
+      "session_id": "5521992820914@s.whatsapp.net",
+      "phone": "5521992820914",
+      "phone_display": "+55 21 99282-0914",
+      "lead": {
+        "baserow_id": 1324,
+        "nome": "Tatiane",
+        "email": "tatianeborgesparceria@gmail.com",
+        "qtd_vidas": 2,
+        "desinteresse": true,
+        "observacoes": "Tatiane",
+        "reagendamento": null,
+        "corretor": "João",
+        "temperatura": "Quente"
+      },
+      "summary": {
+        "nome": "Tatiane",
+        "email": "tatianeborgesparceria@gmail.com",
+        "telefone": "+55 21 99282-0914",
+        "vidas": [
+          {
+            "idade": 50
+          },
+          {
+            "idade": 52
+          }
+        ],
+        "cidade": "Rio de Janeiro / RJ",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "MEI",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "João",
+        "codigo_corretor_b2cor": "",
+        "obs_crm": "Tatiane",
+        "bot": "Gilbertinho Amarelo (2373)",
+        "formatted": "👤 Cliente: Tatiane\n📧 E-mail: tatianeborgesparceria@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99282-0914\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nTatiane — 50 anos\nDependente 1 — 52 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n⚠️ Observação: Tatiane\n👤 Distribuído para: João\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Amarelo (2373)"
+      },
+      "status": "quente",
+      "bot": "amarelo",
+      "consultor": "João",
+      "codigo_corretor_b2cor": "",
+      "message_count": 12,
+      "first_message_at": "2026-03-23T00:00:00.000Z",
+      "last_message_at": "2026-03-23T16:02:33.384000Z",
+      "last_bot_msg_at": "2026-03-23T13:02:31.986588",
+      "tempo_sem_interacao": "3h 13min",
+      "first_id": 19883,
+      "last_id": 19996,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1324\nNome: Tatiane\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(n...",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados Fornecidos\nNome: Tatiane\nContem CNPJ: Sim\nNumero de Vidas: \nOperadora de Interesse: Intermédica, Med Senior, Leve Saude, Porto Seguro\nRegiÃƒÂ£o: NÃƒÂ£o Informado\nPropaganda:\n",
+          "msg_time": "2026-03-23T03:10:51.974636"
+        },
+        {
+          "role": "ai",
+          "content": "Oi Tatiane! Sou o Gilberto da GW9, corretora de planos de saúde. Você pediu nosso contato para saber mais sobre plano de saúde e vi que já possui um CNPJ. Para te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo certo?",
+          "msg_time": "2026-03-23T03:10:51.978975"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1324\nNome: Tatiane\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nEntão interessada eu estou o problema é que eu não tenho seis meses de mei",
+          "msg_time": "2026-03-23T12:56:54.148927"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Tatiane! Compreendo que a situação do MEI pode ser um obstáculo. Vamos encontrar a melhor solução para você. Para seguir adiante, só preciso saber quantas pessoas estarão no plano e suas idades. Pode me informar isso?",
+          "msg_time": "2026-03-23T12:56:54.150835"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1324\nNome: Tatiane\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\n50 e 52 anos duas pessoas",
+          "msg_time": "2026-03-23T12:58:08.309863"
+        },
+        {
+          "role": "ai",
+          "content": "Ótimo, Tatiane! Tenho registrado que você e mais uma pessoa estão interessadas, ambas com 50 e 52 anos. Para prosseguir, só preciso saber em qual cidade vocês irão utilizar o plano. Isso é fundamental para encontrar as melhores opções disponíveis.",
+          "msg_time": "2026-03-23T12:58:08.313754"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1324\nNome: Tatiane\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nSão Gonçalo Rio de janeiro",
+          "msg_time": "2026-03-23T12:59:06.56697"
+        },
+        {
+          "role": "ai",
+          "content": "Perfeito, Tatiane! Agora que temos que vocês estão em São Gonçalo, Rio de Janeiro, só falta confirmar como o plano será contratado: vai ser por CNPJ (MEI) ou você tem outra opção em mente?",
+          "msg_time": "2026-03-23T12:59:06.569918"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1324\nNome: Tatiane\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nSeria por Mei",
+          "msg_time": "2026-03-23T13:00:16.680888"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Tatiane! Então temos as seguintes informações:\n\n- **Nomes:** Tatiane e mais uma pessoa\n- **Idades:** 50 e 52 anos\n- **Cidade:** São Gonçalo, Rio de Janeiro\n- **Tipo de contratação:** CNPJ (MEI)\n\nPara finalizar, você já possui um plano de saúde atualmente? Se sim, pode me contar qual e quanto paga? Essa informação nos ajudará a encontrar a melhor opção para você.",
+          "msg_time": "2026-03-23T13:00:16.683726"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1324\nNome: Tatiane\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nEu tinha mas era do do meu marido mas da empresa fechou aí agora a gente não tem mais era o Hapvida nortedrame",
+          "msg_time": "2026-03-23T13:02:31.985383"
+        },
+        {
+          "role": "ai",
+          "content": "Tatiane, obrigada por todas as informações! Vou encaminhar seu contato para o João, nosso especialista, que vai te apresentar as melhores opções de plano para vocês duas em São Gonçalo. Ele vai te chamar aqui no WhatsApp em breve. 😊",
+          "msg_time": "2026-03-23T13:02:31.986588"
+        }
+      ]
+    },
+    {
+      "session_id": "552191405276@s.whatsapp.net",
+      "phone": "552191405276",
+      "phone_display": "+55 21 9140-5276",
+      "lead": null,
+      "summary": {
+        "nome": "Vania",
+        "email": "",
+        "telefone": "+55 21 9140-5276",
+        "vidas": [],
+        "cidade": "",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "",
+        "rede_preferencial": "",
+        "contato": "",
+        "consultor": "",
+        "codigo_corretor_b2cor": "",
+        "obs_crm": "",
+        "bot": "Não identificado",
+        "formatted": "👤 Cliente: Vania\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 9140-5276\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n✅ Status: Lead frio\n🤖 Bot: Não identificado"
+      },
+      "status": "frio",
+      "bot": "desconhecido",
+      "consultor": "",
+      "codigo_corretor_b2cor": "",
+      "message_count": 2,
+      "first_message_at": "2026-03-23T16:00:51.856Z",
+      "last_message_at": "2026-03-23T16:00:51.859Z",
+      "last_bot_msg_at": "2026-03-23T13:00:51.859159",
+      "tempo_sem_interacao": "3h 14min",
+      "first_id": 19985,
+      "last_id": 19986,
+      "last_message_preview": "Dados Fornecidos\nNome: Vania\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o infor...",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados Fornecidos\nNome: Vania\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o informado\nRegiÃƒÂ£o: NÃƒÂ£o Informado\nPropaganda:\n",
+          "msg_time": "2026-03-23T13:00:51.856265"
+        },
+        {
+          "role": "ai",
+          "content": "Oi Vania! Sou o Gilberto da GW9, corretora de planos de saúde. Você pediu nosso contato para saber mais sobre plano de saúde e vi que já possui um CNPJ. Para te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo certo?",
+          "msg_time": "2026-03-23T13:00:51.859159"
+        }
+      ]
+    },
+    {
+      "session_id": "5521979203075@s.whatsapp.net",
+      "phone": "5521979203075",
+      "phone_display": "+55 21 97920-3075",
+      "lead": {
+        "baserow_id": 1330,
+        "nome": "André Antunes",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": true,
+        "observacoes": "André Antunes",
+        "reagendamento": null,
+        "corretor": "Isis",
+        "temperatura": "Quente"
+      },
+      "summary": {
+        "nome": "André Antunes",
+        "email": "",
+        "telefone": "+55 21 97920-3075",
+        "vidas": [],
+        "cidade": "Rio de Janeiro / RJ",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "MEI",
+        "profissao": "",
+        "plano_atual": "um plano Amil PJ com coparticipação total — Ouro — com coparticipação",
+        "motivo": "",
+        "interesse": "",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "Isis",
+        "codigo_corretor_b2cor": "",
+        "obs_crm": "André Antunes",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: André Antunes\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97920-3075\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n🏥 Plano atual: um plano Amil PJ com coparticipação total — Ouro — com coparticipação\n\n⚠️ Observação: André Antunes\n👤 Distribuído para: Isis\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "quente",
+      "bot": "preto",
+      "consultor": "Isis",
+      "codigo_corretor_b2cor": "",
+      "message_count": 12,
+      "first_message_at": "2026-03-23T00:00:00.000Z",
+      "last_message_at": "2026-03-23T15:55:10.990000Z",
+      "last_bot_msg_at": "2026-03-23T12:55:09.945184",
+      "tempo_sem_interacao": "3h 20min",
+      "first_id": 19962,
+      "last_id": 19976,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1330\nNome: André Antunes\n\nMensagem(ns) do cliente:\nJá tenho o Amil...",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1330\nNome: André Antunes\n\nMensagem(ns) do cliente:\nBoa tarde, Gil.\n\nAndré falando aqui.\n\nTudo bem?",
+          "msg_time": "2026-03-23T12:29:50.062628"
+        },
+        {
+          "role": "ai",
+          "content": "Olá, André! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Ok? Seriam para quantas pessoas e quais as idades?",
+          "msg_time": "2026-03-23T12:29:50.065077"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1330\nNome: André Antunes\n\nMensagem(ns) do cliente:\nEu já tenho um plano contigo.\n\nQueria informações sobre possibilidades de incluir mais uma pessoa",
+          "msg_time": "2026-03-23T12:31:52.96974"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, André! Fico feliz que você já tenha um plano conosco. Para incluir mais uma pessoa, preciso confirmar alguns dados. Para quantas pessoas você deseja expandir o plano e quais as idades delas? Isso vai me ajudar a encontrar as melhores opções para você.",
+          "msg_time": "2026-03-23T12:31:52.971978"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1330\nNome: André Antunes\n\nMensagem(ns) do cliente:\nEu tenho um plano Amil PJ com coparticipação total. Estamos eu e minha esposa. Queria saber se é possível incluir uma Sra de 74 anos, minha mãe.\n\nAmil Ouro\n\nEsse é o plano",
+          "msg_time": "2026-03-23T12:33:20.032586"
+        },
+        {
+          "role": "ai",
+          "content": "Obrigado pelas informações, André! Só para eu completar, posso confirmar que são três pessoas no total agora: você, sua esposa e sua mãe de 74 anos? Isso me ajudará a verificar as possibilidades para a inclusão dela.",
+          "msg_time": "2026-03-23T12:33:20.042961"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1330\nNome: André Antunes\n\nMensagem(ns) do cliente:\nIsso. Eu preciso entender Gil, pra saber inclusive como funciona e se cabe no meu bolso.",
+          "msg_time": "2026-03-23T12:52:32.826477"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, André! É fundamental saber como funciona o plano e se vai ajustar ao seu orçamento. Para isso, vou precisar saber qual é a cidade onde vocês utilizam o plano, pois os preços podem variar. Você poderia me informar?",
+          "msg_time": "2026-03-23T12:52:32.829052"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1330\nNome: André Antunes\n\nMensagem(ns) do cliente:\nRio de Janeiro",
+          "msg_time": "2026-03-23T12:53:12.627432"
+        },
+        {
+          "role": "ai",
+          "content": "Ótimo, André! Agora, para finalizar, como o plano será contratado: empresarial por CNPJ (MEI ou LTDA) ou será feito como pessoa física, CPF? Isso é importante para eu encontrar as opções mais adequadas para vocês.",
+          "msg_time": "2026-03-23T12:53:12.629866"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1330\nNome: André Antunes\n\nMensagem(ns) do cliente:\nJá tenho o Amil Ouro e é PJ.\n\nEmpresário Individual\n\nIgual a LTDA",
+          "msg_time": "2026-03-23T12:55:09.94196"
+        },
+        {
+          "role": "ai",
+          "content": "André, obrigada por todas as informações! Vou encaminhar seu contato para a Isis, nossa especialista, que vai te apresentar as melhores opções para vocês, agora com 3 vidas em Rio de Janeiro. Ela vai te chamar aqui no WhatsApp em breve.",
+          "msg_time": "2026-03-23T12:55:09.945184"
+        }
+      ]
+    },
+    {
+      "session_id": "5521996045813@s.whatsapp.net",
+      "phone": "5521996045813",
+      "phone_display": "+55 21 99604-5813",
+      "lead": {
+        "baserow_id": 1319,
+        "nome": "Elisabete",
+        "email": "bettealves@hotmail.com",
+        "qtd_vidas": "",
+        "desinteresse": true,
+        "observacoes": "",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Elisabete",
+        "email": "bettealves@hotmail.com",
+        "telefone": "+55 21 99604-5813",
+        "vidas": [],
+        "cidade": "",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "",
+        "rede_preferencial": "",
+        "contato": "",
+        "consultor": "",
+        "codigo_corretor_b2cor": "",
+        "obs_crm": "",
+        "bot": "Gilbertinho Amarelo (2373)",
+        "formatted": "👤 Cliente: Elisabete\n📧 E-mail: bettealves@hotmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99604-5813\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)"
+      },
+      "status": "morno",
+      "bot": "amarelo",
+      "consultor": "",
+      "codigo_corretor_b2cor": "",
+      "message_count": 7,
+      "first_message_at": "2026-03-22T00:00:00.000Z",
+      "last_message_at": "2026-03-22T22:05:57.278000Z",
+      "last_bot_msg_at": "2026-03-22T19:05:51.868221",
+      "tempo_sem_interacao": "21h 9min",
+      "first_id": 19863,
+      "last_id": 19970,
+      "last_message_preview": "Pode deixar. Obrigada! É MTA informação só pra me passar alguns preços.",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados Fornecidos\nNome: Elisabete\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o informado\nRegiÃƒÂ£o: NÃƒÂ£o Informado\nPropaganda:\n",
+          "msg_time": "2026-03-22T19:05:51.866041"
+        },
+        {
+          "role": "ai",
+          "content": "Oi Elisabete! Sou o Gilberto da GW9, corretora de planos de saúde. Você pediu nosso contato para saber mais sobre plano de saúde e vi que já possui um CNPJ. Para te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo certo?",
+          "msg_time": "2026-03-22T19:05:51.868221"
+        },
+        {
+          "role": "system",
+          "content": "\n",
+          "msg_time": "2026-03-23T11:01:26.853856"
+        },
+        {
+          "role": "user",
+          "content": "Quais informações vc precisa?",
+          "msg_time": "2026-03-23T11:19:07.297154"
+        },
+        {
+          "role": "system",
+          "content": "\n",
+          "msg_time": "2026-03-23T12:30:48.148426"
+        },
+        {
+          "role": "user",
+          "content": "Pode deixar. Obrigada! É MTA informação só pra me passar alguns preços.",
+          "msg_time": "2026-03-23T12:35:32.588897"
+        },
+        {
+          "role": "system",
+          "content": "Não tenho como te passar valores se nao souber a idade das pessoas...",
+          "msg_time": "2026-03-23T12:50:57.063835"
         }
       ]
     },
@@ -637,7 +1162,7 @@
         "desinteresse": true,
         "observacoes": "",
         "reagendamento": null,
-        "corretor": "",
+        "corretor": "João",
         "temperatura": ""
       },
       "summary": {
@@ -662,21 +1187,21 @@
         "interesse": "",
         "rede_preferencial": "clínica Icaraí",
         "contato": "",
-        "consultor": "um",
+        "consultor": "João",
         "codigo_corretor_b2cor": "",
         "obs_crm": "",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Roselange\n📧 E-mail: rosealfradique99@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99351-8888\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nRoselange — 59 anos\nDependente 1 — 55 anos\n\n📋 Dados contratuais:\n\nCidade: São Gonçalo / RJ\nContratação: CNPJ\nProfissão: clínica\n\n🏥 Plano atual: Nenhum\n🎯 Rede preferencial: clínica Icaraí\n\n😤 Motivo da troca:\n\nPrimeiro plano\n👤 Distribuído para: um\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Roselange\n📧 E-mail: rosealfradique99@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99351-8888\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nRoselange — 59 anos\nDependente 1 — 55 anos\n\n📋 Dados contratuais:\n\nCidade: São Gonçalo / RJ\nContratação: CNPJ\nProfissão: clínica\n\n🏥 Plano atual: Nenhum\n🎯 Rede preferencial: clínica Icaraí\n\n😤 Motivo da troca:\n\nPrimeiro plano\n👤 Distribuído para: João\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
       },
       "status": "desinteresse",
       "bot": "preto",
-      "consultor": "um",
+      "consultor": "João",
       "codigo_corretor_b2cor": "",
       "message_count": 14,
       "first_message_at": "2026-03-23T00:00:00.000Z",
       "last_message_at": "2026-03-23T14:51:05.660000Z",
       "last_bot_msg_at": "2026-03-23T11:51:03.910414",
-      "tempo_sem_interacao": "4h 9min",
+      "tempo_sem_interacao": "4h 24min",
       "first_id": 19947,
       "last_id": 19960,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1329\nNome: \n\nMensagem(ns) do cliente:\nNão tenho plano não",
@@ -1260,7 +1785,7 @@
       "first_message_at": "2026-01-31T00:00:00.000Z",
       "last_message_at": "2026-03-23T14:08:03.633000Z",
       "last_bot_msg_at": "2026-03-23T11:08:01.881567",
-      "tempo_sem_interacao": "4h 52min",
+      "tempo_sem_interacao": "5h 7min",
       "first_id": 11940,
       "last_id": 19940,
       "last_message_preview": "Formato de mensagem enviada nao suportado",
@@ -1946,7 +2471,7 @@
       "first_message_at": "2026-03-22T00:00:00.000Z",
       "last_message_at": "2026-03-22T20:01:58.122000Z",
       "last_bot_msg_at": "2026-03-22T17:01:52.182687",
-      "tempo_sem_interacao": "22h 58min",
+      "tempo_sem_interacao": "23h 13min",
       "first_id": 19838,
       "last_id": 19923,
       "last_message_preview": "Dados Fornecidos\nNome: Carlos\nContem CNPJ: Sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o info...",
@@ -2012,7 +2537,7 @@
       "first_message_at": "2026-03-22T00:00:00.000Z",
       "last_message_at": "2026-03-22T19:27:57.827000Z",
       "last_bot_msg_at": "2026-03-22T16:27:52.357873",
-      "tempo_sem_interacao": "23h 32min",
+      "tempo_sem_interacao": "23h 47min",
       "first_id": 19834,
       "last_id": 19922,
       "last_message_preview": "Dados Fornecidos\nNome: Normand\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o inf...",
@@ -2612,7 +3137,7 @@
       "first_message_at": "2026-03-16T00:00:00.000Z",
       "last_message_at": "2026-03-16T19:12:25.564000Z",
       "last_bot_msg_at": "2026-03-16T16:12:25.067437",
-      "tempo_sem_interacao": "6 dias",
+      "tempo_sem_interacao": "7 dias",
       "first_id": 19010,
       "last_id": 19910,
       "last_message_preview": "Bom dia \n\nTd bem ?\n\nSeja muito bem-vindo(a)\nNosso atendimento é de segunda a sexta, das 08:00 as 18:...",
@@ -2713,7 +3238,7 @@
       "first_message_at": "2026-03-23T00:00:00.000Z",
       "last_message_at": "2026-03-23T13:53:57.061000Z",
       "last_bot_msg_at": "2026-03-23T10:53:51.760565",
-      "tempo_sem_interacao": "5h 6min",
+      "tempo_sem_interacao": "5h 21min",
       "first_id": 19908,
       "last_id": 19909,
       "last_message_preview": "Dados Fornecidos\nNome: ijuciara\nContem CNPJ: não\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o in...",
@@ -2774,7 +3299,7 @@
       "first_message_at": "2026-03-23T00:00:00.000Z",
       "last_message_at": "2026-03-23T12:34:19.388000Z",
       "last_bot_msg_at": "2026-03-23T09:34:17.980351",
-      "tempo_sem_interacao": "6h 26min",
+      "tempo_sem_interacao": "6h 41min",
       "first_id": 19903,
       "last_id": 19906,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1327\nNome: Marcio\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns...",
@@ -2845,7 +3370,7 @@
       "first_message_at": "2026-03-23T00:00:00.000Z",
       "last_message_at": "2026-03-23T12:19:16.156000Z",
       "last_bot_msg_at": "2026-03-23T09:19:14.982717",
-      "tempo_sem_interacao": "6h 41min",
+      "tempo_sem_interacao": "6h 56min",
       "first_id": 19881,
       "last_id": 19902,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1323\nNome: \nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do c...",
@@ -2949,7 +3474,7 @@
       "first_message_at": "2026-03-23T00:00:00.000Z",
       "last_message_at": "2026-03-23T12:03:02.108000Z",
       "last_bot_msg_at": "2026-03-23T09:03:00.246719",
-      "tempo_sem_interacao": "6h 57min",
+      "tempo_sem_interacao": "7h 12min",
       "first_id": 19887,
       "last_id": 19900,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1325\nNome: Sergio Mocarzel\n\nMensagem(ns) do cliente:\n2.900,00",
@@ -3050,7 +3575,7 @@
       "first_message_at": "2026-03-23T00:00:00.000Z",
       "last_message_at": "2026-03-23T11:21:56.169000Z",
       "last_bot_msg_at": "2026-03-23T08:21:51.800151",
-      "tempo_sem_interacao": "7h 38min",
+      "tempo_sem_interacao": "7h 53min",
       "first_id": 19893,
       "last_id": 19894,
       "last_message_preview": "Dados Fornecidos\nNome: Marijalma\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o i...",
@@ -3111,7 +3636,7 @@
       "first_message_at": "2026-03-22T00:00:00.000Z",
       "last_message_at": "2026-03-23T02:41:54.916000Z",
       "last_bot_msg_at": "2026-03-22T23:41:49.983489",
-      "tempo_sem_interacao": "16h 18min",
+      "tempo_sem_interacao": "16h 33min",
       "first_id": 19879,
       "last_id": 19880,
       "last_message_preview": "Dados Fornecidos\nNome: Ágape\nContem CNPJ: não\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o infor...",
@@ -3172,7 +3697,7 @@
       "first_message_at": "2026-03-22T00:00:00.000Z",
       "last_message_at": "2026-03-23T02:41:47.329000Z",
       "last_bot_msg_at": "2026-03-22T23:41:45.903488",
-      "tempo_sem_interacao": "16h 18min",
+      "tempo_sem_interacao": "16h 33min",
       "first_id": 19867,
       "last_id": 19878,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1321\nNome: Nanazinha\n\nMensagem(ns) do cliente:\nQuero um plano top",
@@ -3283,7 +3808,7 @@
       "first_message_at": "2026-03-22T00:00:00.000Z",
       "last_message_at": "2026-03-23T00:26:58.033000Z",
       "last_bot_msg_at": "2026-03-22T21:26:51.311156",
-      "tempo_sem_interacao": "18h 33min",
+      "tempo_sem_interacao": "18h 48min",
       "first_id": 19865,
       "last_id": 19866,
       "last_message_preview": "Dados Fornecidos\nNome: Marilda\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o inf...",
@@ -3357,7 +3882,7 @@
       "first_message_at": "2026-03-22T00:00:00.000Z",
       "last_message_at": "2026-03-22T20:17:35.553000Z",
       "last_bot_msg_at": "2026-03-22T17:17:34.609389",
-      "tempo_sem_interacao": "22h 43min",
+      "tempo_sem_interacao": "22h 58min",
       "first_id": 19846,
       "last_id": 19862,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1318\nNome: Thais Melo\n\nMensagem(ns) do cliente:\nNão tenho",
@@ -3468,7 +3993,7 @@
       "first_message_at": "2026-03-22T00:00:00.000Z",
       "last_message_at": "2026-03-22T20:16:02.831000Z",
       "last_bot_msg_at": "2026-03-22T17:16:01.015059",
-      "tempo_sem_interacao": "22h 44min",
+      "tempo_sem_interacao": "22h 59min",
       "first_id": 19836,
       "last_id": 19860,
       "last_message_preview": "Ok! Obrigada pela assistência!",
@@ -4506,10 +5031,10 @@
         "nome": "Marcelo",
         "email": "marcelopego17@gmail.com",
         "qtd_vidas": 6,
-        "desinteresse": false,
+        "desinteresse": true,
         "observacoes": "Marcelo",
         "reagendamento": null,
-        "corretor": "",
+        "corretor": "Isis",
         "temperatura": ""
       },
       "summary": {
@@ -4546,15 +5071,15 @@
         "interesse": "",
         "rede_preferencial": "",
         "contato": "",
-        "consultor": "",
+        "consultor": "Isis",
         "codigo_corretor_b2cor": "",
         "obs_crm": "Marcelo",
         "bot": "Gilbertinho Amarelo (2373)",
-        "formatted": "👤 Cliente: Marcelo\n📧 E-mail: marcelopego17@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99543-5200\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nMarcelo — 57 anos\nDependente 1 — 56 anos\nDependente 2 — 26 anos\nDependente 3 — 57 anos\nDependente 4 — 56 anos\nDependente 5 — 26 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n⚠️ Observação: Marcelo\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Amarelo (2373)"
+        "formatted": "👤 Cliente: Marcelo\n📧 E-mail: marcelopego17@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99543-5200\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nMarcelo — 57 anos\nDependente 1 — 56 anos\nDependente 2 — 26 anos\nDependente 3 — 57 anos\nDependente 4 — 56 anos\nDependente 5 — 26 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n⚠️ Observação: Marcelo\n👤 Distribuído para: Isis\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Amarelo (2373)"
       },
       "status": "quente",
       "bot": "amarelo",
-      "consultor": "",
+      "consultor": "Isis",
       "codigo_corretor_b2cor": "",
       "message_count": 12,
       "first_message_at": "2026-03-21T00:00:00.000Z",
@@ -6358,7 +6883,7 @@
       "first_message_at": "2026-03-18T00:00:00.000Z",
       "last_message_at": "2026-03-18T19:07:41.725000Z",
       "last_bot_msg_at": "2026-03-18T16:07:40.48645",
-      "tempo_sem_interacao": "4 dias",
+      "tempo_sem_interacao": "5 dias",
       "first_id": 19239,
       "last_id": 19558,
       "last_message_preview": "Não precisa\n\nVou alinhar as coisas primeiro com meu marido e minha cunhada\n\nE retorno caso tenha dúv...",
@@ -6616,314 +7141,6 @@
       ]
     },
     {
-      "session_id": "5521978786996@s.whatsapp.net",
-      "phone": "5521978786996",
-      "phone_display": "+55 21 97878-6996",
-      "lead": {
-        "baserow_id": 153,
-        "nome": "",
-        "email": "isis.goncalves@gw9capital.com.br",
-        "qtd_vidas": 2,
-        "desinteresse": true,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": "Frio"
-      },
-      "summary": {
-        "nome": "Não identificado",
-        "email": "isis.goncalves@gw9capital.com.br",
-        "telefone": "+55 21 97878-6996",
-        "vidas": [
-          {
-            "idade": 55
-          },
-          {
-            "idade": 21
-          }
-        ],
-        "cidade": "Rio de Janeiro / RJ",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "MEI",
-        "profissao": "o cnpj / Clínica",
-        "plano_atual": "Porto — Bronze — R$ 280,51 — enfermaria",
-        "motivo": "",
-        "interesse": "Rede Dor",
-        "rede_preferencial": "Badim, Prontobaby, Hospital da Criança, Pasteur, Hospital de Clínica, Hospital Badim",
-        "contato": "",
-        "consultor": "",
-        "codigo_corretor_b2cor": "",
-        "obs_crm": "",
-        "bot": "Não identificado",
-        "formatted": "👤 Cliente: Não identificado\n📧 E-mail: isis.goncalves@gw9capital.com.br\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97878-6996\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nTitular — 55 anos\nDependente 1 — 21 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: o cnpj / Clínica\n\n🏥 Plano atual: Porto — Bronze — R$ 280,51 — enfermaria\n🎯 Rede preferencial: Badim, Prontobaby, Hospital da Criança, Pasteur, Hospital de Clínica, Hospital Badim\n\n🎯 Interesse: Rede Dor\n✅ Status: Lead frio\n🤖 Bot: Não identificado"
-      },
-      "status": "frio",
-      "bot": "desconhecido",
-      "consultor": "",
-      "codigo_corretor_b2cor": "",
-      "message_count": 900,
-      "first_message_at": "2025-12-15T00:00:00.000Z",
-      "last_message_at": "2026-03-19T21:42:44.854Z",
-      "last_bot_msg_at": "2026-03-19T21:42:44.854Z",
-      "tempo_sem_interacao": "3 dias",
-      "first_id": 742,
-      "last_id": 19557,
-      "last_message_preview": "<ContextoImagem>\n\n  <DetalheImagem>\n\n  </DetalheImagem>\n\nContexto Extra: O usuário encaminhou a mens...",
-      "messages": [
-        {
-          "role": "system",
-          "content": "21990664232\n\n21990664232\n\n21990664232\n\n21990664232",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "21990664232\n\n21990664232\n\n21990664232\n\n21990664232",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "+55 21 97523-8325\n\n**👤 Cliente:** Cláudia\n**📧 E-mail:** claudiarf1982@gmail.com\n**📱 Contato:** WhatsApp (por escrito) — hoje, com urgência\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- 59 anos\n- 62 anos\n\n---\n\n**📋 Dados contratuais:**\n- Cidade: Rio de Janeiro / RJ\n- Contratação: CPF\n\n---\n\n**🏥 Plano atual:** Nenhum\n\n**🎯 Hospital preferencial:** Oeste D'Or — próximo de casa, excelente atendimento\n\n---\n\n**💰 Prioridade:** Menor custo com bons hospitais — quer ver se cabe no orçamento para fechar logo\n\n**🎯 Interesse:** SulAmérica\n\n---\n\n**⚠️ Observação:** Cliente aguardando cotação por escrito desde as 11h28 — está esperando retorno! Prioridade alta, cliente quente e pronta para fechar se o valor couber no orçamento. Enviar cotação imediatamente.\n\n**✅ Status:** Lead urgente — aguarda cotação por escrito hoje\n\n+55 21 97523-8325\n\n**👤 Cliente:** Cláudia\n**📧 E-mail:** claudiarf1982@gmail.com\n**📱 Contato:** WhatsApp (por escrito) — hoje, com urgência\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- 59 anos\n- 62 anos\n\n--",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "+55 21 97523-8325\n\n**👤 Cliente:** Cláudia\n**📧 E-mail:** claudiarf1982@gmail.com\n**📱 Contato:** WhatsApp (por escrito) — hoje, com urgência\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- 59 anos\n- 62 anos\n\n---\n\n**📋 Dados contratuais:**\n- Cidade: Rio de Janeiro / RJ\n- Contratação: CPF\n\n---\n\n**🏥 Plano atual:** Nenhum\n\n**🎯 Hospital preferencial:** Oeste D'Or — próximo de casa, excelente atendimento\n\n---\n\n**💰 Prioridade:** Menor custo com bons hospitais — quer ver se cabe no orçamento para fechar logo\n\n**🎯 Interesse:** SulAmérica\n\n---\n\n**⚠️ Observação:** Cliente aguardando cotação por escrito desde as 11h28 — está esperando retorno! Prioridade alta, cliente quente e pronta para fechar se o valor couber no orçamento. Enviar cotação imediatamente.\n\n**✅ Status:** Lead urgente — aguarda cotação por escrito hoje\n\n+55 21 97523-8325\n\n**👤 Cliente:** Cláudia\n**📧 E-mail:** claudiarf1982@gmail.com\n**📱 Contato:** WhatsApp (por escrito) — hoje, com urgência\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- 59 anos\n- 62 anos\n\n--",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "👤 Cliente: Denise\n📧 E-mail: Denisesilvacabral@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96430-0507\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: professora\n🎯 Rede preferencial: emergência pediátrica\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)\n\n👤 Cliente: Denise\n📧 E-mail: Denisesilvacabral@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96430-0507\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: professora\n🎯 Rede preferencial: emergência pediátrica\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)\n\n👤 Cliente: Denise\n📧 E-mail: Denisesilvacabral@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96430-0507\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: professora\n🎯 Rede preferencial: emergência pediátrica\n\n😤 Motivo da troca:\n\nIncluir novas v",
-          "msg_time": "2026-03-06T15:12:36.000619"
-        },
-        {
-          "role": "system",
-          "content": "👤 Cliente: Denise\n📧 E-mail: Denisesilvacabral@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96430-0507\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: professora\n🎯 Rede preferencial: emergência pediátrica\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)\n\n👤 Cliente: Denise\n📧 E-mail: Denisesilvacabral@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96430-0507\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: professora\n🎯 Rede preferencial: emergência pediátrica\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)\n\n👤 Cliente: Denise\n📧 E-mail: Denisesilvacabral@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96430-0507\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: professora\n🎯 Rede preferencial: emergência pediátrica\n\n😤 Motivo da troca:\n\nIncluir novas v",
-          "msg_time": "2026-03-06T15:12:36.915387"
-        },
-        {
-          "role": "system",
-          "content": "👤 Cliente: Denise\n📧 E-mail: Denisesilvacabral@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96430-0507\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: professora\n🎯 Rede preferencial: emergência pediátrica\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)\n\n👤 Cliente: Denise\n📧 E-mail: Denisesilvacabral@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96430-0507\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: professora\n🎯 Rede preferencial: emergência pediátrica\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)\n\n👤 Cliente: Denise\n📧 E-mail: Denisesilvacabral@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96430-0507\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: professora\n🎯 Rede preferencial: emergência pediátrica\n\n😤 Motivo da troca:\n\nIncluir novas v",
-          "msg_time": "2026-03-06T15:12:37.88928"
-        },
-        {
-          "role": "system",
-          "content": "👤 Cliente: Denise\n📧 E-mail: Denisesilvacabral@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96430-0507\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: professora\n🎯 Rede preferencial: emergência pediátrica\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)\n\n👤 Cliente: Denise\n📧 E-mail: Denisesilvacabral@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96430-0507\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: professora\n🎯 Rede preferencial: emergência pediátrica\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)\n\n👤 Cliente: Denise\n📧 E-mail: Denisesilvacabral@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96430-0507\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: professora\n🎯 Rede preferencial: emergência pediátrica\n\n😤 Motivo da troca:\n\nIncluir novas v",
-          "msg_time": "2026-03-06T15:12:38.904265"
-        },
-        {
-          "role": "system",
-          "content": "Então, o Quintador, porque eu sempre levo a minha filha no Quintador, tá assim, emergência garganta, emergência pediátrica, eu levo lá. E eu sei que a Mil não aceita mais no Quintador. Eu sei que o Sul América aceita, porque é o que eu tenho, né? Mas se você tiver outro plano, assim, dá um Ciano Unimed, que eu acho que é Unimed, sem chance. Se você tiver outro, tudo bem, pode me oferecer aí, pode me ofertar, que a gente conversa, tá bem?\n\nEntão, o Quintador, porque eu sempre levo a minha filha no Quintador, tá assim, emergência garganta, emergência pediátrica, eu levo lá. E eu sei que a Mil não aceita mais no Quintador. Eu sei que o Sul América aceita, porque é o que eu tenho, né? Mas se você tiver outro plano, assim, dá um Ciano Unimed, que eu acho que é Unimed, sem chance. Se você tiver outro, tudo bem, pode me oferecer aí, pode me ofertar, que a gente conversa, tá bem?\n\nEntão, o Quintador, porque eu sempre levo a minha filha no Quintador, tá assim, emergência garganta, emergência pe",
-          "msg_time": "2026-03-06T15:12:55.406536"
-        },
-        {
-          "role": "system",
-          "content": "👤 Cliente: Vitor Marcelo Rodrigues L\n📱 Contato: WhatsApp\n📞 Telefone: +55 22 99824-9088\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nVitor Marcelo Rodrigues L — 58 anos\nDependente 1 — 53 anos\nDependente 2 — 35 anos\nDependente 3 — 12 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 27.846.279/0001-85\nTipo: MEI\n🎯 Rede preferencial: Barra D'Or, Rede D'Or\n\n😤 Motivo da troca:\n\nValor alto\nIncluir novas vidas\n\n🎯 Interesse: rede D'or\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Vitor Marcelo Rodrigues L\n📱 Contato: WhatsApp\n📞 Telefone: +55 22 99824-9088\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nVitor Marcelo Rodrigues L — 58 anos\nDependente 1 — 53 anos\nDependente 2 — 35 anos\nDependente 3 — 12 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 27.846.279/0001-85\nTipo: MEI\n🎯 Rede preferencial: Barra D'Or, Rede D'Or\n\n😤 Motivo da troca:\n\nValor alto\nIncluir novas vidas\n\n🎯 Interesse: rede D'or\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinh",
-          "msg_time": "2026-03-06T19:03:04.88334"
-        },
-        {
-          "role": "system",
-          "content": "👤 Cliente: Vitor Marcelo Rodrigues L\n📱 Contato: WhatsApp\n📞 Telefone: +55 22 99824-9088\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nVitor Marcelo Rodrigues L — 58 anos\nDependente 1 — 53 anos\nDependente 2 — 35 anos\nDependente 3 — 12 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 27.846.279/0001-85\nTipo: MEI\n🎯 Rede preferencial: Barra D'Or, Rede D'Or\n\n😤 Motivo da troca:\n\nValor alto\nIncluir novas vidas\n\n🎯 Interesse: rede D'or\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Vitor Marcelo Rodrigues L\n📱 Contato: WhatsApp\n📞 Telefone: +55 22 99824-9088\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nVitor Marcelo Rodrigues L — 58 anos\nDependente 1 — 53 anos\nDependente 2 — 35 anos\nDependente 3 — 12 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 27.846.279/0001-85\nTipo: MEI\n🎯 Rede preferencial: Barra D'Or, Rede D'Or\n\n😤 Motivo da troca:\n\nValor alto\nIncluir novas vidas\n\n🎯 Interesse: rede D'or\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinh",
-          "msg_time": "2026-03-06T19:03:05.8653"
-        },
-        {
-          "role": "system",
-          "content": "👤 Cliente: Vitor Marcelo Rodrigues L\n📱 Contato: WhatsApp\n📞 Telefone: +55 22 99824-9088\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nVitor Marcelo Rodrigues L — 58 anos\nDependente 1 — 53 anos\nDependente 2 — 35 anos\nDependente 3 — 12 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 27.846.279/0001-85\nTipo: MEI\n🎯 Rede preferencial: Barra D'Or, Rede D'Or\n\n😤 Motivo da troca:\n\nValor alto\nIncluir novas vidas\n\n🎯 Interesse: rede D'or\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Vitor Marcelo Rodrigues L\n📱 Contato: WhatsApp\n📞 Telefone: +55 22 99824-9088\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nVitor Marcelo Rodrigues L — 58 anos\nDependente 1 — 53 anos\nDependente 2 — 35 anos\nDependente 3 — 12 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 27.846.279/0001-85\nTipo: MEI\n🎯 Rede preferencial: Barra D'Or, Rede D'Or\n\n😤 Motivo da troca:\n\nValor alto\nIncluir novas vidas\n\n🎯 Interesse: rede D'or\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinh",
-          "msg_time": "2026-03-06T19:03:06.988158"
-        },
-        {
-          "role": "system",
-          "content": "👤 Cliente: Vitor Marcelo Rodrigues L\n📱 Contato: WhatsApp\n📞 Telefone: +55 22 99824-9088\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nVitor Marcelo Rodrigues L — 58 anos\nDependente 1 — 53 anos\nDependente 2 — 35 anos\nDependente 3 — 12 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 27.846.279/0001-85\nTipo: MEI\n🎯 Rede preferencial: Barra D'Or, Rede D'Or\n\n😤 Motivo da troca:\n\nValor alto\nIncluir novas vidas\n\n🎯 Interesse: rede D'or\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Vitor Marcelo Rodrigues L\n📱 Contato: WhatsApp\n📞 Telefone: +55 22 99824-9088\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nVitor Marcelo Rodrigues L — 58 anos\nDependente 1 — 53 anos\nDependente 2 — 35 anos\nDependente 3 — 12 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 27.846.279/0001-85\nTipo: MEI\n🎯 Rede preferencial: Barra D'Or, Rede D'Or\n\n😤 Motivo da troca:\n\nValor alto\nIncluir novas vidas\n\n🎯 Interesse: rede D'or\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinh",
-          "msg_time": "2026-03-06T19:03:07.902212"
-        },
-        {
-          "role": "system",
-          "content": "**👤 Cliente:** Thaiane\n**📱 Contato:** WhatsApp — aguarda contato da especialista Isis\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- Mãe — 49 anos (beneficiária)\n- Thaiane — 34 anos (pagante)\n\n---\n\n**📋 Dados contratuais:**\n- Cidade de uso: Rio de Janeiro / RJ (Caxias D'Or)\n- Cidade da Thaiane: São João de Meriti / RJ\n- Contratação: CPF da mãe\n- Profissão: Autônoma\n\n---\n\n**🏥 Plano atual:** Nenhum\n\n**🎯 Hospital preferencial:** Caxias D'Or\n\n---\n\n**⚠️ Observação:** Thaiane é quem paga, mas o plano é só para a mãe (1 vida). Encaminhado para a especialista Isis.\n\n**✅ Status:** Lead ativo — encaminhado para a Isis\n\n**👤 Cliente:** Thaiane\n**📱 Contato:** WhatsApp — aguarda contato da especialista Isis\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- Mãe — 49 anos (beneficiária)\n- Thaiane — 34 anos (pagante)\n\n---\n\n**📋 Dados contratuais:**\n- Cidade de uso: Rio de Janeiro / RJ (Caxias D'Or)\n- Cidade da Thaiane: São João de Meriti / RJ\n- Contratação: CPF da mãe\n- Profissão: Autônoma\n\n---\n\n**🏥 Plano atual:** Nenhum\n\n**🎯 Ho",
-          "msg_time": "2026-03-09T16:56:36.750614"
-        },
-        {
-          "role": "system",
-          "content": "**👤 Cliente:** Thaiane\n**📱 Contato:** WhatsApp — aguarda contato da especialista Isis\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- Mãe — 49 anos (beneficiária)\n- Thaiane — 34 anos (pagante)\n\n---\n\n**📋 Dados contratuais:**\n- Cidade de uso: Rio de Janeiro / RJ (Caxias D'Or)\n- Cidade da Thaiane: São João de Meriti / RJ\n- Contratação: CPF da mãe\n- Profissão: Autônoma\n\n---\n\n**🏥 Plano atual:** Nenhum\n\n**🎯 Hospital preferencial:** Caxias D'Or\n\n---\n\n**⚠️ Observação:** Thaiane é quem paga, mas o plano é só para a mãe (1 vida). Encaminhado para a especialista Isis.\n\n**✅ Status:** Lead ativo — encaminhado para a Isis\n\n**👤 Cliente:** Thaiane\n**📱 Contato:** WhatsApp — aguarda contato da especialista Isis\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- Mãe — 49 anos (beneficiária)\n- Thaiane — 34 anos (pagante)\n\n---\n\n**📋 Dados contratuais:**\n- Cidade de uso: Rio de Janeiro / RJ (Caxias D'Or)\n- Cidade da Thaiane: São João de Meriti / RJ\n- Contratação: CPF da mãe\n- Profissão: Autônoma\n\n---\n\n**🏥 Plano atual:** Nenhum\n\n**🎯 Ho",
-          "msg_time": "2026-03-09T16:56:39.597354"
-        },
-        {
-          "role": "system",
-          "content": "**👤 Cliente:** Thaiane\n**📱 Contato:** WhatsApp — aguarda contato da especialista Isis\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- Mãe — 49 anos (beneficiária)\n- Thaiane — 34 anos (pagante)\n\n---\n\n**📋 Dados contratuais:**\n- Cidade de uso: Rio de Janeiro / RJ (Caxias D'Or)\n- Cidade da Thaiane: São João de Meriti / RJ\n- Contratação: CPF da mãe\n- Profissão: Autônoma\n\n---\n\n**🏥 Plano atual:** Nenhum\n\n**🎯 Hospital preferencial:** Caxias D'Or\n\n---\n\n**⚠️ Observação:** Thaiane é quem paga, mas o plano é só para a mãe (1 vida). Encaminhado para a especialista Isis.\n\n**✅ Status:** Lead ativo — encaminhado para a Isis\n\n**👤 Cliente:** Thaiane\n**📱 Contato:** WhatsApp — aguarda contato da especialista Isis\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- Mãe — 49 anos (beneficiária)\n- Thaiane — 34 anos (pagante)\n\n---\n\n**📋 Dados contratuais:**\n- Cidade de uso: Rio de Janeiro / RJ (Caxias D'Or)\n- Cidade da Thaiane: São João de Meriti / RJ\n- Contratação: CPF da mãe\n- Profissão: Autônoma\n\n---\n\n**🏥 Plano atual:** Nenhum\n\n**🎯 Ho",
-          "msg_time": "2026-03-09T16:56:42.520665"
-        },
-        {
-          "role": "system",
-          "content": "**👤 Cliente:** Thaiane\n**📱 Contato:** WhatsApp — aguarda contato da especialista Isis\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- Mãe — 49 anos (beneficiária)\n- Thaiane — 34 anos (pagante)\n\n---\n\n**📋 Dados contratuais:**\n- Cidade de uso: Rio de Janeiro / RJ (Caxias D'Or)\n- Cidade da Thaiane: São João de Meriti / RJ\n- Contratação: CPF da mãe\n- Profissão: Autônoma\n\n---\n\n**🏥 Plano atual:** Nenhum\n\n**🎯 Hospital preferencial:** Caxias D'Or\n\n---\n\n**⚠️ Observação:** Thaiane é quem paga, mas o plano é só para a mãe (1 vida). Encaminhado para a especialista Isis.\n\n**✅ Status:** Lead ativo — encaminhado para a Isis\n\n**👤 Cliente:** Thaiane\n**📱 Contato:** WhatsApp — aguarda contato da especialista Isis\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- Mãe — 49 anos (beneficiária)\n- Thaiane — 34 anos (pagante)\n\n---\n\n**📋 Dados contratuais:**\n- Cidade de uso: Rio de Janeiro / RJ (Caxias D'Or)\n- Cidade da Thaiane: São João de Meriti / RJ\n- Contratação: CPF da mãe\n- Profissão: Autônoma\n\n---\n\n**🏥 Plano atual:** Nenhum\n\n**🎯 Ho",
-          "msg_time": "2026-03-09T16:56:46.015768"
-        },
-        {
-          "role": "system",
-          "content": "**👤 Cliente:** Thaiane\n**📱 Contato:** +55 21 99296-4203\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- Mãe — 49 anos (beneficiária)\n- Thaiane — 34 anos (pagante)\n\n---\n\n**📋 Dados contratuais:**\n- Cidade de uso: Rio de Janeiro / RJ (Caxias D'Or)\n- Cidade da Thaiane: São João de Meriti / RJ\n- Contratação: CPF da mãe\n- Profissão: Autônoma\n\n---\n\n**🏥 Plano atual:** Nenhum\n\n**🎯 Hospital preferencial:** Caxias D'Or\n\n---\n\n**⚠️ Observação:** Thaiane é quem paga, mas o plano é só para a mãe (1 vida). Encaminhado para a especialista Isis.\n\n**✅ Status:** Lead ativo — encaminhado para a Isis\n\n**👤 Cliente:** Thaiane\n**📱 Contato:** +55 21 99296-4203\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- Mãe — 49 anos (beneficiária)\n- Thaiane — 34 anos (pagante)\n\n---\n\n**📋 Dados contratuais:**\n- Cidade de uso: Rio de Janeiro / RJ (Caxias D'Or)\n- Cidade da Thaiane: São João de Meriti / RJ\n- Contratação: CPF da mãe\n- Profissão: Autônoma\n\n---\n\n**🏥 Plano atual:** Nenhum\n\n**🎯 Hospital preferencial:** Caxias D'Or\n\n---\n\n**⚠️ Observação:** ",
-          "msg_time": "2026-03-09T16:56:57.87899"
-        },
-        {
-          "role": "system",
-          "content": "**👤 Cliente:** Thaiane\n**📱 Contato:** +55 21 99296-4203\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- Mãe — 49 anos (beneficiária)\n- Thaiane — 34 anos (pagante)\n\n---\n\n**📋 Dados contratuais:**\n- Cidade de uso: Rio de Janeiro / RJ (Caxias D'Or)\n- Cidade da Thaiane: São João de Meriti / RJ\n- Contratação: CPF da mãe\n- Profissão: Autônoma\n\n---\n\n**🏥 Plano atual:** Nenhum\n\n**🎯 Hospital preferencial:** Caxias D'Or\n\n---\n\n**⚠️ Observação:** Thaiane é quem paga, mas o plano é só para a mãe (1 vida). Encaminhado para a especialista Isis.\n\n**✅ Status:** Lead ativo — encaminhado para a Isis\n\n**👤 Cliente:** Thaiane\n**📱 Contato:** +55 21 99296-4203\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- Mãe — 49 anos (beneficiária)\n- Thaiane — 34 anos (pagante)\n\n---\n\n**📋 Dados contratuais:**\n- Cidade de uso: Rio de Janeiro / RJ (Caxias D'Or)\n- Cidade da Thaiane: São João de Meriti / RJ\n- Contratação: CPF da mãe\n- Profissão: Autônoma\n\n---\n\n**🏥 Plano atual:** Nenhum\n\n**🎯 Hospital preferencial:** Caxias D'Or\n\n---\n\n**⚠️ Observação:** ",
-          "msg_time": "2026-03-09T16:56:59.984571"
-        },
-        {
-          "role": "system",
-          "content": "**👤 Cliente:** Thaiane\n**📱 Contato:** +55 21 99296-4203\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- Mãe — 49 anos (beneficiária)\n- Thaiane — 34 anos (pagante)\n\n---\n\n**📋 Dados contratuais:**\n- Cidade de uso: Rio de Janeiro / RJ (Caxias D'Or)\n- Cidade da Thaiane: São João de Meriti / RJ\n- Contratação: CPF da mãe\n- Profissão: Autônoma\n\n---\n\n**🏥 Plano atual:** Nenhum\n\n**🎯 Hospital preferencial:** Caxias D'Or\n\n---\n\n**⚠️ Observação:** Thaiane é quem paga, mas o plano é só para a mãe (1 vida). Encaminhado para a especialista Isis.\n\n**✅ Status:** Lead ativo — encaminhado para a Isis\n\n**👤 Cliente:** Thaiane\n**📱 Contato:** +55 21 99296-4203\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- Mãe — 49 anos (beneficiária)\n- Thaiane — 34 anos (pagante)\n\n---\n\n**📋 Dados contratuais:**\n- Cidade de uso: Rio de Janeiro / RJ (Caxias D'Or)\n- Cidade da Thaiane: São João de Meriti / RJ\n- Contratação: CPF da mãe\n- Profissão: Autônoma\n\n---\n\n**🏥 Plano atual:** Nenhum\n\n**🎯 Hospital preferencial:** Caxias D'Or\n\n---\n\n**⚠️ Observação:** ",
-          "msg_time": "2026-03-09T16:57:03.693563"
-        },
-        {
-          "role": "system",
-          "content": "**👤 Cliente:** Thaiane\n**📱 Contato:** +55 21 99296-4203\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- Mãe — 49 anos (beneficiária)\n- Thaiane — 34 anos (pagante)\n\n---\n\n**📋 Dados contratuais:**\n- Cidade de uso: Rio de Janeiro / RJ (Caxias D'Or)\n- Cidade da Thaiane: São João de Meriti / RJ\n- Contratação: CPF da mãe\n- Profissão: Autônoma\n\n---\n\n**🏥 Plano atual:** Nenhum\n\n**🎯 Hospital preferencial:** Caxias D'Or\n\n---\n\n**⚠️ Observação:** Thaiane é quem paga, mas o plano é só para a mãe (1 vida). Encaminhado para a especialista Isis.\n\n**✅ Status:** Lead ativo — encaminhado para a Isis\n\n**👤 Cliente:** Thaiane\n**📱 Contato:** +55 21 99296-4203\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- Mãe — 49 anos (beneficiária)\n- Thaiane — 34 anos (pagante)\n\n---\n\n**📋 Dados contratuais:**\n- Cidade de uso: Rio de Janeiro / RJ (Caxias D'Or)\n- Cidade da Thaiane: São João de Meriti / RJ\n- Contratação: CPF da mãe\n- Profissão: Autônoma\n\n---\n\n**🏥 Plano atual:** Nenhum\n\n**🎯 Hospital preferencial:** Caxias D'Or\n\n---\n\n**⚠️ Observação:** ",
-          "msg_time": "2026-03-09T16:57:06.983145"
-        },
-        {
-          "role": "system",
-          "content": "**👤 Cliente:** Aurelio\n**📱 Contato:** +55 21 97228-7282\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- Aurelio — 51 anos\n- Vicente (filho) — 6 anos\n\n---\n\n**📋 Dados contratuais:**\n- Cidade: Rio de Janeiro / RJ\n- CNPJ registrado em SP: Instituto de Ciência e Tecnologia Biomas — 07.351.889/0001-09 (fundado em 16/03/2005)\n- Também é servidor federal\n\n---\n\n**🏥 Plano atual:** Plano pelo servidor federal\n\n**🎯 Interesse:** SulAmérica\n\n---\n\n**⚠️ Observação:** SulAmérica exige mínimo de 3 vidas — não atende o perfil. Isis vai apresentar outras opções. CNPJ é de SP mas cliente mora no RJ — verificar elegibilidade.\n\n**✅ Status:** Lead ativo — encaminhado para a Isis\n\n**👤 Cliente:** Aurelio\n**📱 Contato:** +55 21 97228-7282\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- Aurelio — 51 anos\n- Vicente (filho) — 6 anos\n\n---\n\n**📋 Dados contratuais:**\n- Cidade: Rio de Janeiro / RJ\n- CNPJ registrado em SP: Instituto de Ciência e Tecnologia Biomas — 07.351.889/0001-09 (fundado em 16/03/2005)\n- Também é servidor federal\n\n---\n\n**🏥 ",
-          "msg_time": "2026-03-09T17:04:54.990223"
-        },
-        {
-          "role": "system",
-          "content": "**👤 Cliente:** Aurelio\n**📱 Contato:** +55 21 97228-7282\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- Aurelio — 51 anos\n- Vicente (filho) — 6 anos\n\n---\n\n**📋 Dados contratuais:**\n- Cidade: Rio de Janeiro / RJ\n- CNPJ registrado em SP: Instituto de Ciência e Tecnologia Biomas — 07.351.889/0001-09 (fundado em 16/03/2005)\n- Também é servidor federal\n\n---\n\n**🏥 Plano atual:** Plano pelo servidor federal\n\n**🎯 Interesse:** SulAmérica\n\n---\n\n**⚠️ Observação:** SulAmérica exige mínimo de 3 vidas — não atende o perfil. Isis vai apresentar outras opções. CNPJ é de SP mas cliente mora no RJ — verificar elegibilidade.\n\n**✅ Status:** Lead ativo — encaminhado para a Isis\n\n**👤 Cliente:** Aurelio\n**📱 Contato:** +55 21 97228-7282\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- Aurelio — 51 anos\n- Vicente (filho) — 6 anos\n\n---\n\n**📋 Dados contratuais:**\n- Cidade: Rio de Janeiro / RJ\n- CNPJ registrado em SP: Instituto de Ciência e Tecnologia Biomas — 07.351.889/0001-09 (fundado em 16/03/2005)\n- Também é servidor federal\n\n---\n\n**🏥 ",
-          "msg_time": "2026-03-09T17:04:57.112941"
-        },
-        {
-          "role": "system",
-          "content": "**👤 Cliente:** Aurelio\n**📱 Contato:** +55 21 97228-7282\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- Aurelio — 51 anos\n- Vicente (filho) — 6 anos\n\n---\n\n**📋 Dados contratuais:**\n- Cidade: Rio de Janeiro / RJ\n- CNPJ registrado em SP: Instituto de Ciência e Tecnologia Biomas — 07.351.889/0001-09 (fundado em 16/03/2005)\n- Também é servidor federal\n\n---\n\n**🏥 Plano atual:** Plano pelo servidor federal\n\n**🎯 Interesse:** SulAmérica\n\n---\n\n**⚠️ Observação:** SulAmérica exige mínimo de 3 vidas — não atende o perfil. Isis vai apresentar outras opções. CNPJ é de SP mas cliente mora no RJ — verificar elegibilidade.\n\n**✅ Status:** Lead ativo — encaminhado para a Isis\n\n**👤 Cliente:** Aurelio\n**📱 Contato:** +55 21 97228-7282\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- Aurelio — 51 anos\n- Vicente (filho) — 6 anos\n\n---\n\n**📋 Dados contratuais:**\n- Cidade: Rio de Janeiro / RJ\n- CNPJ registrado em SP: Instituto de Ciência e Tecnologia Biomas — 07.351.889/0001-09 (fundado em 16/03/2005)\n- Também é servidor federal\n\n---\n\n**🏥 ",
-          "msg_time": "2026-03-09T17:05:00.108469"
-        },
-        {
-          "role": "system",
-          "content": "**👤 Cliente:** Aurelio\n**📱 Contato:** +55 21 97228-7282\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- Aurelio — 51 anos\n- Vicente (filho) — 6 anos\n\n---\n\n**📋 Dados contratuais:**\n- Cidade: Rio de Janeiro / RJ\n- CNPJ registrado em SP: Instituto de Ciência e Tecnologia Biomas — 07.351.889/0001-09 (fundado em 16/03/2005)\n- Também é servidor federal\n\n---\n\n**🏥 Plano atual:** Plano pelo servidor federal\n\n**🎯 Interesse:** SulAmérica\n\n---\n\n**⚠️ Observação:** SulAmérica exige mínimo de 3 vidas — não atende o perfil. Isis vai apresentar outras opções. CNPJ é de SP mas cliente mora no RJ — verificar elegibilidade.\n\n**✅ Status:** Lead ativo — encaminhado para a Isis\n\n**👤 Cliente:** Aurelio\n**📱 Contato:** +55 21 97228-7282\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- Aurelio — 51 anos\n- Vicente (filho) — 6 anos\n\n---\n\n**📋 Dados contratuais:**\n- Cidade: Rio de Janeiro / RJ\n- CNPJ registrado em SP: Instituto de Ciência e Tecnologia Biomas — 07.351.889/0001-09 (fundado em 16/03/2005)\n- Também é servidor federal\n\n---\n\n**🏥 ",
-          "msg_time": "2026-03-09T17:05:05.394139"
-        },
-        {
-          "role": "system",
-          "content": "Oi, bom dia Gilberto, tudo bem? Não, a gente tá estudando aqui a possibilidade, eu falhei ontem, eu acho que é sua filha pelo sobrenome, eu não sei, a Eze que me atendeu, que nós temos a mil, assim aliás, mas nós não estamos satisfeitos não, porque consulta aqui, cara, na região dos lagos é muito difícil você conseguir, e eu pago dois mil, quase dois mil e quatrocentos reais de consulta, é MEI né, mais dois mil e quatrocentos reais, para a gente conseguir consulta aqui é um é um parto, é 30 dias esperando, 40 dias, e eu fiz um cátion em dezembro e eu tenho que ter acompanhamento de cardiologista, eu preciso de ter o médico à disposição, não por tanto tempo esperando, entendeu? Não só eu, minha esposa, minhas filhas, então a gente não está satisfeito estamos estudando assim aqui, e estamos estudando aqui a possibilidade, e assim que a gente chegar em uma conclusão aqui, aí eu aciono vocês aí, converso com vocês, porque a mil, né, a mil ficaria assim, a carência, nós já temos esse plano,",
-          "msg_time": "2026-03-09T17:07:48.657603"
-        },
-        {
-          "role": "system",
-          "content": "Oi, bom dia Gilberto, tudo bem? Não, a gente tá estudando aqui a possibilidade, eu falhei ontem, eu acho que é sua filha pelo sobrenome, eu não sei, a Eze que me atendeu, que nós temos a mil, assim aliás, mas nós não estamos satisfeitos não, porque consulta aqui, cara, na região dos lagos é muito difícil você conseguir, e eu pago dois mil, quase dois mil e quatrocentos reais de consulta, é MEI né, mais dois mil e quatrocentos reais, para a gente conseguir consulta aqui é um é um parto, é 30 dias esperando, 40 dias, e eu fiz um cátion em dezembro e eu tenho que ter acompanhamento de cardiologista, eu preciso de ter o médico à disposição, não por tanto tempo esperando, entendeu? Não só eu, minha esposa, minhas filhas, então a gente não está satisfeito estamos estudando assim aqui, e estamos estudando aqui a possibilidade, e assim que a gente chegar em uma conclusão aqui, aí eu aciono vocês aí, converso com vocês, porque a mil, né, a mil ficaria assim, a carência, nós já temos esse plano,",
-          "msg_time": "2026-03-09T17:07:50.906487"
-        },
-        {
-          "role": "system",
-          "content": "Oi, bom dia Gilberto, tudo bem? Não, a gente tá estudando aqui a possibilidade, eu falhei ontem, eu acho que é sua filha pelo sobrenome, eu não sei, a Eze que me atendeu, que nós temos a mil, assim aliás, mas nós não estamos satisfeitos não, porque consulta aqui, cara, na região dos lagos é muito difícil você conseguir, e eu pago dois mil, quase dois mil e quatrocentos reais de consulta, é MEI né, mais dois mil e quatrocentos reais, para a gente conseguir consulta aqui é um é um parto, é 30 dias esperando, 40 dias, e eu fiz um cátion em dezembro e eu tenho que ter acompanhamento de cardiologista, eu preciso de ter o médico à disposição, não por tanto tempo esperando, entendeu? Não só eu, minha esposa, minhas filhas, então a gente não está satisfeito estamos estudando assim aqui, e estamos estudando aqui a possibilidade, e assim que a gente chegar em uma conclusão aqui, aí eu aciono vocês aí, converso com vocês, porque a mil, né, a mil ficaria assim, a carência, nós já temos esse plano,",
-          "msg_time": "2026-03-09T17:07:53.892607"
-        },
-        {
-          "role": "system",
-          "content": "Oi, bom dia Gilberto, tudo bem? Não, a gente tá estudando aqui a possibilidade, eu falhei ontem, eu acho que é sua filha pelo sobrenome, eu não sei, a Eze que me atendeu, que nós temos a mil, assim aliás, mas nós não estamos satisfeitos não, porque consulta aqui, cara, na região dos lagos é muito difícil você conseguir, e eu pago dois mil, quase dois mil e quatrocentos reais de consulta, é MEI né, mais dois mil e quatrocentos reais, para a gente conseguir consulta aqui é um é um parto, é 30 dias esperando, 40 dias, e eu fiz um cátion em dezembro e eu tenho que ter acompanhamento de cardiologista, eu preciso de ter o médico à disposição, não por tanto tempo esperando, entendeu? Não só eu, minha esposa, minhas filhas, então a gente não está satisfeito estamos estudando assim aqui, e estamos estudando aqui a possibilidade, e assim que a gente chegar em uma conclusão aqui, aí eu aciono vocês aí, converso com vocês, porque a mil, né, a mil ficaria assim, a carência, nós já temos esse plano,",
-          "msg_time": "2026-03-09T17:07:56.205331"
-        },
-        {
-          "role": "user",
-          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nLead bom\n\nLead bom\n\nLead bom\n\nLead bom\n\nLigar amanhã às 10\n\nLigar amanhã às 10\n\nLigar amanhã às 10\n\nLigar amanhã às 10\n\nOk\n\nOk\n\nOk\n\nOk",
-          "msg_time": "2026-03-09T21:39:59.313781"
-        },
-        {
-          "role": "user",
-          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nLead bom\n\nLead bom\n\nLead bom\n\nLead bom\n\nLigar amanhã às 10\n\nLigar amanhã às 10\n\nLigar amanhã às 10\n\nLigar amanhã às 10\n\nOk\n\nOk\n\nOk\n\nOk",
-          "msg_time": "2026-03-09T21:40:04.148144"
-        },
-        {
-          "role": "user",
-          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nLead bom\n\nLead bom\n\nLead bom\n\nLead bom\n\nLigar amanhã às 10\n\nLigar amanhã às 10\n\nLigar amanhã às 10\n\nLigar amanhã às 10\n\nOk\n\nOk\n\nOk\n\nOk",
-          "msg_time": "2026-03-09T21:40:09.509073"
-        },
-        {
-          "role": "user",
-          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nLead bom\n\nLead bom\n\nLead bom\n\nLead bom\n\nLigar amanhã às 10\n\nLigar amanhã às 10\n\nLigar amanhã às 10\n\nLigar amanhã às 10\n\nOk\n\nOk\n\nOk\n\nOk",
-          "msg_time": "2026-03-09T21:40:13.597451"
-        },
-        {
-          "role": "system",
-          "content": "51619578000161\n\nNo normalmente eu vou em particular em Icaraí\n\nNo normalmente eu vou em particular em Icaraí\n\n51619578000161\n\nNo normalmente eu vou em particular em Icaraí\n\n51619578000161\n\nNo normalmente eu vou em particular em Icaraí\n\n51619578000161\n\nBoa tarde ,\nIdade \n53/54\n\nPorque eu moro em são Gonçalo\n\nPorque eu moro em são Gonçalo\n\nBoa tarde ,\nIdade \n53/54\n\nPorque eu moro em são Gonçalo\n\nBoa tarde ,\nIdade \n53/54\n\nPorque eu moro em são Gonçalo\n\nBoa tarde ,\nIdade \n53/54\n\nSão Gonçalo \nMei\n\nSão Gonçalo \nMei\n\nSão Gonçalo \nMei\n\nSão Gonçalo \nMei\n\nFica atrás do hospital de clínica\n\nChn\n\nFica atrás do hospital de clínica\n\nChn\n\nFica atrás do hospital de clínica\n\nChn\n\nFica atrás do hospital de clínica\n\nChn",
-          "msg_time": "2026-03-09T21:40:34.183985"
-        },
-        {
-          "role": "system",
-          "content": "+55 21 97414-5222\n\n<ContextoPDF>\n  <TranscricaoPDF>\nJunta Comercial do Estado do Rio de Janeiro\nEmpresa: E2 SERVICOS DE ENGENHARIA E REPRESENTACAO LTDA\nNIRE: 332.1321250-9 Protocolo: 2026/00284849-7 Data do protocolo: 24/02/2026\nCERTIFICO O ARQUIVAMENTO em 06/03/2026 SOB O NÚMERO 00007632961 e demais constantes do termo de\nautenticação.\nAutenticação: D5D9362C4C926515D208C1289185B100EFBDAE4CCA8710A3A9B1A27EBD040F8D\nPara validar o documento acesse https://www.jucerja.rj.gov.br/servicos/chanceladigital, informe o nº de protocolo.\nPag. 01/10\nNIRE / Arquivamento CNPJ Endereço / Endereço completo no exterior Bairro Municipio Estado\n00007632961 54.784.677/0001-97 Rua ALBERTO COUPEY 439 MUTONDO São Gonçalo RJ\nxxxxxxxxxxx xx.xxx.xxx/xxxx-xx xxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxx xxxxxxxxxx xx\nxxxxxxxxxxx xx.xxx.xxx/xxxx-xx xxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxx xxxxxxxxxx xx\nxxxxxxxxxxx xx.xxx.xxx/xxxx-xx xxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxx xxxxxxxxxx xx\nxxxxxxxxxxx xx.xxx.xxx",
-          "msg_time": "2026-03-11T13:27:26.364465"
-        },
-        {
-          "role": "system",
-          "content": "8 \n16\n25\n37\n\nSão 4 pessoas\n\nCNPJ\n\nWallace\n\nPreciso de atendimentos zona norte , oeste e Niterói\n\nE com melhor valor\n\nSem coparticipação",
-          "msg_time": "2026-03-11T13:27:53.083217"
-        },
-        {
-          "role": "system",
-          "content": "👤 Cliente: Antônio Couto\n📱 Contato: WhatsApp — aguarda contato do consultor\n\n👨‍👩‍👧‍👧 Vidas no plano:\n\nTitular — 65 anos\nDependente — 74 anos\n\n\n📋 Dados contratuais:\n\nCidades: São Gonçalo e Niterói / RJ\nContratação: CPF\nProfissão: Corretor de imóveis\n\n\n🏥 Plano atual: Leve Saúde (via CNPJ — que não têm mais)\n\n😤 Motivo da troca:\n\nCNPJ encerrado — precisam migrar para CPF\nInsatisfação com a operadora atual (\"muito ruim\")",
-          "msg_time": "2026-03-11T13:55:11.864933"
-        },
-        {
-          "role": "system",
-          "content": "👤 Cliente: Antônio Couto\n📱 Contato: WhatsApp — +55 21 98825-510\n\n👨‍👩‍👧‍👧 Vidas no plano:\n\nTitular — 65 anos\nDependente — 74 anos\n\n\n📋 Dados contratuais:\n\nCidades: São Gonçalo e Niterói / RJ\nContratação: CPF\nProfissão: Corretor de imóveis\n\n\n🏥 Plano atual: Leve Saúde (via CNPJ — que não têm mais)\n\n😤 Motivo da troca:\n\nCNPJ encerrado — precisam migrar para CPF\nInsatisfação com a operadora atual (\"muito ruim\")",
-          "msg_time": "2026-03-11T13:55:29.8725"
-        },
-        {
-          "role": "user",
-          "content": "+55 21 98825-510",
-          "msg_time": "2026-03-11T13:56:32.8942"
-        },
-        {
-          "role": "user",
-          "content": "55 21 98825-5103",
-          "msg_time": "2026-03-11T13:59:05.624273"
-        },
-        {
-          "role": "system",
-          "content": "👤 Cliente: Ana\n📧 E-mail: aninhacaravelas@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97708-3091\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nAna — 85 anos\nDependente 1 — 46 anos\n\n📋 Dados contratuais:\n\nCidade: São Gonçalo / RJ\nContratação: CNPJ\nTipo: MEI\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)",
-          "msg_time": "2026-03-11T14:07:40.222913"
-        },
-        {
-          "role": "system",
-          "content": "👤 Cliente: Fábio Amaral\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99605-7345\n\n📋 Dados contratuais:\n\nCidade: Niteroi / RJ\nContratação: CNPJ\nTipo: MEI\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n\n🎯 Interesse: Amil\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)",
-          "msg_time": "2026-03-16T15:02:26.830128"
-        },
-        {
-          "role": "system",
-          "content": "👤 Cliente: Tanio\n📧 E-mail: tanio-santiago@hotmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96496-9946\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nTanio — 65 anos\nDependente 1 — 63 anos\n\n📋 Dados contratuais:\n\nCidade: São Gonçalo / RJ\nContratação: CNPJ\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)",
-          "msg_time": "2026-03-16T15:09:21.418399"
-        },
-        {
-          "role": "system",
-          "content": "👤 Cliente: Alfredo\n📧 E-mail: alfredo-bittencourt@uol.com.br\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98877-8988\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nAlfredo — 71 anos\nDependente 1 — 66 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\n\n🏥 Plano atual: Nenhum\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)",
-          "msg_time": "2026-03-16T15:12:18.811195"
-        },
-        {
-          "role": "system",
-          "content": "👤 Cliente: Leila\n📧 E-mail: wleiloca@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99969-9878\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n\n🎯 Interesse: SulAmérica\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Leila\nTipo de contratação: CNPJ\nQuantidade de vidas: 1 a 2\nProduto ou operadora de interesse: Amil, Bradesco, Intermédica, Assim Saúde, SulAmérica\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Amarelo (2373)",
-          "msg_time": "2026-03-16T16:29:38.602468"
-        },
-        {
-          "role": "user",
-          "content": "<ContextoPDF>\n  <TranscricaoPDF>\nNome do Plano:\nVigência da\nTabela\nAtuação\nAcomodação\nCoparticipação\nIOF\nFaixa \nVidas\nEtária\nO a 18 \n2\n19 a 23\n29 a 33\n39 a 43\n54 a 58 \n2\n59 ou\nmais\nSomatório \n8\nTaxa\nSomatório+\nIOF\nHospitais\n- \nIsis Gonçalves\nisis.goncalves@gw9capita1.com.br\nDetalhes dos Planos\nSulAmétlca\nPME\nApôli.:o! 24 m.e!ilo!!II\n,@a■uin1tt@\nDireto Nacional QC I Compulsório I Reembolso\nMarch/2026\nNacional\nEnfermaria\nNão\nSim\n!\n�Porto\n�Saúde\nLinha Porto Saúde\nP220 QC I De 03 a 29 vidas I Reembolso I Exceto MEi\nMarch/2026\nNacional\nEnfermaria\nNão\nSim\nValores Unitários por Vida (não multiplicados pelo n\n° \nde vidas)\nDireto Nacional QC I Compulsório I Reembolso\nR$ 280,51\nR$ 350,63\nR$ 544,56\nR$ 908,28\nR$ 1.530,00\nR$ 5.158,61\nSem taxa 1 2,38% de IOF\n5,00 Por vida + 2,38% de IOF\n5.809,61\nResumo de Rede Credenciada\nRede Credenciada Verticalizada\nDireto Nacional QC I Compulsório I Reembolso\nZONA NORTE\nRio de Janeiro\nREDE CREDENCIADA\nDireto Nacional\nHOSPITAIS\n• Hospital Badim - Rede Dor São Lui",
-          "msg_time": "2026-03-18T17:02:52.18864"
-        },
-        {
-          "role": "user",
-          "content": "<ContextoImagem>\n\n  <DetalheImagem>\n\n  </DetalheImagem>\n\nContexto Extra: O usuário encaminhou a mensagem a seguir junto á imagem.\n  <MensagemUsuario>\n\n  </MensagemUsuario>\n\n</ContextoImagem>",
-          "msg_time": "2026-03-18T17:04:42.049742"
-        },
-        {
-          "role": "system",
-          "content": "Duas vidas são quarto particular\n\n1 vida 29 anos\n\n1 vida menor de 18 ( 6 meses)",
-          "msg_time": "2026-03-18T17:16:05.643113"
-        },
-        {
-          "role": "user",
-          "content": "<ContextoImagem>\n\n  <DetalheImagem>\n\n  </DetalheImagem>\n\nContexto Extra: O usuário encaminhou a mensagem a seguir junto á imagem.\n  <MensagemUsuario>\n\n  </MensagemUsuario>\n\n</ContextoImagem>",
-          "msg_time": "2026-03-18T17:19:52.988932"
-        },
-        {
-          "role": "system",
-          "content": "👤 Cliente: Sueli\n📧 E-mail: suelibusch02@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98567-7355\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nSueli — 72 anos\n\n📋 Dados contratuais:\n\nCidade: Itaboraí / RJ\nContratação: CNPJ\nProfissão: saudável\n\n🏥 Plano atual: Unimed\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Amarelo (2373)",
-          "msg_time": "2026-03-19T18:42:44.85459"
-        }
-      ]
-    },
-    {
       "session_id": "5521992638102@s.whatsapp.net",
       "phone": "5521992638102",
       "phone_display": "+55 21 99263-8102",
@@ -7103,7 +7320,7 @@
       "first_message_at": "2026-03-19T00:00:00.000Z",
       "last_message_at": "2026-03-19T19:13:52.957000Z",
       "last_bot_msg_at": "2026-03-19T16:13:51.776603",
-      "tempo_sem_interacao": "3 dias",
+      "tempo_sem_interacao": "4 dias",
       "first_id": 19524,
       "last_id": 19541,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1270\nNome: \nVidas: 3\nCidade: \nTipo Contratação: \n\nMensagem(ns) do ...",
@@ -21543,148 +21760,6 @@
           "role": "system",
           "content": "\n",
           "msg_time": "2026-03-10T12:31:13.091127"
-        }
-      ]
-    },
-    {
-      "session_id": "553195372039@s.whatsapp.net",
-      "phone": "553195372039",
-      "phone_display": "+55 31 9537-2039",
-      "lead": {
-        "baserow_id": 1075,
-        "nome": "Mara",
-        "email": "",
-        "qtd_vidas": "",
-        "desinteresse": true,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Mara",
-        "email": "",
-        "telefone": "+55 31 9537-2039",
-        "vidas": [],
-        "cidade": "Rio de Janeiro / RJ",
-        "contratacao": "",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "Amil",
-        "rede_preferencial": "",
-        "contato": "",
-        "consultor": "",
-        "codigo_corretor_b2cor": "",
-        "obs_crm": "",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Mara\n📱 Contato: WhatsApp\n📞 Telefone: +55 31 9537-2039\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\n\n🎯 Interesse: Amil\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "quente",
-      "bot": "preto",
-      "consultor": "",
-      "codigo_corretor_b2cor": "",
-      "message_count": 4,
-      "first_message_at": "2026-03-08T00:00:00.000Z",
-      "last_message_at": "2026-03-09T01:47:20.822000Z",
-      "last_bot_msg_at": "2026-03-08T22:47:20.331384",
-      "tempo_sem_interacao": "14 dias",
-      "first_id": 17488,
-      "last_id": 18181,
-      "last_message_preview": "Olá Gostaria de uma cotação de um Plano de Saúde Amil",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Olá Gostaria de uma cotação de um Plano de Saúde Amil",
-          "msg_time": "2026-03-08T22:47:20.328936"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Sou Gilberto, analista em Plano Saúde da Corretora GW9. 🚀 Trabalho com todos os planos no Rio de Janeiro. Vou ajudar você a encontrar as melhores opções e organizar tudo para o especialista. Qual seu nome?",
-          "msg_time": "2026-03-08T22:47:20.331384"
-        },
-        {
-          "role": "system",
-          "content": "\n",
-          "msg_time": "2026-03-10T11:01:05.123932"
-        },
-        {
-          "role": "system",
-          "content": "\n",
-          "msg_time": "2026-03-10T12:31:04.556855"
-        }
-      ]
-    },
-    {
-      "session_id": "5521977345728@s.whatsapp.net",
-      "phone": "5521977345728",
-      "phone_display": "+55 21 97734-5728",
-      "lead": {
-        "baserow_id": 1073,
-        "nome": "Cassiana",
-        "email": "silvasscassiana@gmail.com",
-        "qtd_vidas": "",
-        "desinteresse": true,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Cassiana",
-        "email": "silvasscassiana@gmail.com",
-        "telefone": "+55 21 97734-5728",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "",
-        "consultor": "",
-        "codigo_corretor_b2cor": "",
-        "obs_crm": "",
-        "bot": "Gilbertinho Amarelo (2373)",
-        "formatted": "👤 Cliente: Cassiana\n📧 E-mail: silvasscassiana@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97734-5728\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)"
-      },
-      "status": "morno",
-      "bot": "amarelo",
-      "consultor": "",
-      "codigo_corretor_b2cor": "",
-      "message_count": 4,
-      "first_message_at": "2026-03-08T00:00:00.000Z",
-      "last_message_at": "2026-03-09T00:49:59.662000Z",
-      "last_bot_msg_at": "2026-03-08T21:49:53.847826",
-      "tempo_sem_interacao": "14 dias",
-      "first_id": 17476,
-      "last_id": 18178,
-      "last_message_preview": "Dados Fornecidos\nNome: Cassiana\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: nã...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados Fornecidos\nNome: Cassiana\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não informado\nRegião: Não Informado\nPropaganda:\n",
-          "msg_time": "2026-03-08T21:49:53.845657"
-        },
-        {
-          "role": "ai",
-          "content": "Oi Cassiana, eu sou o Gilberto da GW9 Saúde. Você pediu o nosso contato para saber mais sobre plano de saúde e mencionou que deseja um para 3 pessoas e já possui CNPJ. Pra te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo bem?",
-          "msg_time": "2026-03-08T21:49:53.847826"
-        },
-        {
-          "role": "system",
-          "content": "\n",
-          "msg_time": "2026-03-10T11:00:55.190912"
-        },
-        {
-          "role": "system",
-          "content": "\n",
-          "msg_time": "2026-03-10T12:30:52.70024"
         }
       ]
     }
