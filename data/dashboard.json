@@ -1,17 +1,133 @@
 {
   "meta": {
-    "generated_at": "2026-03-23T16:15:37.098Z",
+    "generated_at": "2026-03-23T16:30:36.871Z",
     "total_conversations": 200,
-    "total_messages": 3716,
+    "total_messages": 3729,
     "stats": {
-      "quente": 93,
-      "morno": 62,
-      "frio": 40,
+      "quente": 94,
+      "morno": 60,
+      "frio": 41,
       "desinteresse": 5,
       "sem_classificacao": 0
     }
   },
   "conversations": [
+    {
+      "session_id": "5521965286613@s.whatsapp.net",
+      "phone": "5521965286613",
+      "phone_display": "+55 21 96528-6613",
+      "lead": {
+        "baserow_id": 1332,
+        "nome": "Ana",
+        "email": "",
+        "qtd_vidas": 3,
+        "desinteresse": true,
+        "observacoes": "a",
+        "reagendamento": null,
+        "corretor": "Elisa",
+        "temperatura": "Quente"
+      },
+      "summary": {
+        "nome": "Ana",
+        "email": "",
+        "telefone": "+55 21 96528-6613",
+        "vidas": [
+          {
+            "idade": 22
+          },
+          {
+            "idade": 22
+          },
+          {
+            "idade": 22
+          }
+        ],
+        "cidade": "",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "MEI",
+        "profissao": "",
+        "plano_atual": "R$ 1000",
+        "motivo": "",
+        "interesse": "Barra D'or",
+        "rede_preferencial": "Barra D'Or",
+        "contato": "WhatsApp",
+        "consultor": "Elisa",
+        "codigo_corretor_b2cor": "",
+        "obs_crm": "a",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Ana\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96528-6613\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nAna — 22 anos\nDependente 1 — 22 anos\nDependente 2 — 22 anos\n\n📋 Dados contratuais:\n\nContratação: CNPJ\nTipo: MEI\n\n🏥 Plano atual: R$ 1000\n🎯 Rede preferencial: Barra D'Or\n\n🎯 Interesse: Barra D'or\n\n⚠️ Observação: a\n👤 Distribuído para: Elisa\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "quente",
+      "bot": "preto",
+      "consultor": "Elisa",
+      "codigo_corretor_b2cor": "",
+      "message_count": 11,
+      "first_message_at": "2026-03-23T00:00:00.000Z",
+      "last_message_at": "2026-03-23T16:29:25.938000Z",
+      "last_bot_msg_at": "2026-03-23T13:29:24.909786",
+      "tempo_sem_interacao": "3h 1min",
+      "first_id": 20019,
+      "last_id": 20032,
+      "last_message_preview": "Okk",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1332\nNome: \n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação de um plano de saúde Barra D'or",
+          "msg_time": "2026-03-23T13:24:52.485595"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-03-23T13:24:52.487224"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1332\nNome: a\n\nMensagem(ns) do cliente:\nAna Luizs\n3 vidas\n\n22 anos\n20 anos\n62 anos",
+          "msg_time": "2026-03-23T13:25:41.659835"
+        },
+        {
+          "role": "ai",
+          "content": "Ana, entendi que você busca um plano para 3 pessoas, com idades de 22, 20 e 62 anos. Agora, para encontrar as melhores opções, qual é a cidade onde você precisa do atendimento? Se tiver algum hospital de sua preferência, isso também nos ajuda!",
+          "msg_time": "2026-03-23T13:25:41.66392"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1332\nNome: a\n\nMensagem(ns) do cliente:\nBarra dor",
+          "msg_time": "2026-03-23T13:26:18.698558"
+        },
+        {
+          "role": "ai",
+          "content": "Ana, só para confirmar, você mencionou que precisa do plano na cidade de Barra D'or. Agora, como o plano será contratado: empresarial por CNPJ (MEI ou LTDA) ou como pessoa física com CPF?",
+          "msg_time": "2026-03-23T13:26:18.70007"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1332\nNome: a\n\nMensagem(ns) do cliente:\nCnpj\n\nLtda",
+          "msg_time": "2026-03-23T13:27:16.265785"
+        },
+        {
+          "role": "ai",
+          "content": "Perfeito, Ana! Agora, para finalizar, você já possui um plano de saúde atualmente? Se sim, qual é e quanto paga hoje? Isso nos ajuda a encontrar a melhor opção para você.",
+          "msg_time": "2026-03-23T13:27:16.268386"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1332\nNome: a\n\nMensagem(ns) do cliente:\nN tenho, quero pagar 1000 e pouco",
+          "msg_time": "2026-03-23T13:29:24.907794"
+        },
+        {
+          "role": "ai",
+          "content": "Ana, obrigada por todas as informações! Vou encaminhar seu contato para o Elisa, nosso especialista, que vai te apresentar as melhores opções de plano para vocês em Barra D'or. Ele vai te chamar aqui no WhatsApp em breve.",
+          "msg_time": "2026-03-23T13:29:24.909786"
+        },
+        {
+          "role": "user",
+          "content": "Okk",
+          "msg_time": "2026-03-23T13:30:08.851439"
+        }
+      ]
+    },
     {
       "session_id": "5521971405276@s.whatsapp.net",
       "phone": "5521971405276",
@@ -24,7 +140,7 @@
         "desinteresse": true,
         "observacoes": "Vania",
         "reagendamento": null,
-        "corretor": "",
+        "corretor": "Elisa",
         "temperatura": ""
       },
       "summary": {
@@ -42,24 +158,24 @@
         "interesse": "Amil",
         "rede_preferencial": "",
         "contato": "",
-        "consultor": "nosso",
+        "consultor": "Elisa",
         "codigo_corretor_b2cor": "",
         "obs_crm": "Vania",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Vania\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97140-5276\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: bem objetiva\nVamos aos valores\n\n🏥 Plano atual: Nenhum\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Vania\n👤 Distribuído para: nosso\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Vania\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97140-5276\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: bem objetiva\nVamos aos valores\n\n🏥 Plano atual: Nenhum\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Vania\n👤 Distribuído para: Elisa\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Preto (0479)"
       },
       "status": "quente",
       "bot": "preto",
-      "consultor": "nosso",
+      "consultor": "Elisa",
       "codigo_corretor_b2cor": "",
-      "message_count": 21,
+      "message_count": 27,
       "first_message_at": "2026-03-23T00:00:00.000Z",
       "last_message_at": "2026-03-23T16:04:18.685000Z",
       "last_bot_msg_at": "2026-03-23T13:04:17.385286",
-      "tempo_sem_interacao": "3h 11min",
+      "tempo_sem_interacao": "3h 26min",
       "first_id": 19987,
-      "last_id": 20011,
-      "last_message_preview": "????",
+      "last_id": 20023,
+      "last_message_preview": "Desculpe errei  o numer\n\nDesculpe errei  o numero\n\nA tá\n\nDuas vidas!\n\nDesculpe\n\nPor nada",
       "messages": [
         {
           "role": "user",
@@ -165,6 +281,395 @@
           "role": "user",
           "content": "????",
           "msg_time": "2026-03-23T13:13:43.702036"
+        },
+        {
+          "role": "system",
+          "content": "Olá!\nDesculpe\nEu apenas consolido as informações para encaminhar a um especilista.",
+          "msg_time": "2026-03-23T13:20:43.25728"
+        },
+        {
+          "role": "system",
+          "content": "Vania.  obrigada por todas as informações! Vou encaminhar seu contato para a Elisa, nossa especialista, que vai te apresentar as melhores opções para vocês, agora com 3 vidas em Rio de Janeiro. Ela vai te chamar aqui no WhatsApp em breve.",
+          "msg_time": "2026-03-23T13:21:21.160147"
+        },
+        {
+          "role": "user",
+          "content": "Deixa eu te falar... três vidas... para mim não resolve. Só tem eu e minha mãe. Meu irmão é da Petrobras... tem dois planos de saúde... e meu irmão... minha cunhada é do Banco do Brasil. Minha outra irmã tem... do meu cunhado... que mora em Cabo Frio... inclusive eu estou aqui agora. Entendeu? Então ela é dependente dele. Minha outra irmã é dependente do meu sobrinho. Portanto, a família pequena não sobrou ninguém. O meu filho faleceu no Hemorríeo... há 17 anos com aplasia de medula severa. Então não adianta ela nem me ligar. Obrigada.",
+          "msg_time": "2026-03-23T13:23:24.014505"
+        },
+        {
+          "role": "user",
+          "content": "Outra coisa, o que vocês botam de propaganda ali, né, mexendo ágil, seja lá o nome que eles chamar, é mentira, porque vocês botam duas vidas, né? Então agora é três? Isso tá errado, ok? Isso dá processo, tá, querido?",
+          "msg_time": "2026-03-23T13:23:50.557896"
+        },
+        {
+          "role": "user",
+          "content": "Desculpe errei  o numer\n\nDesculpe errei  o numero\n\nA tá\n\nDuas vidas!\n\nDesculpe\n\nPor nada",
+          "msg_time": "2026-03-23T13:24:59.188077"
+        },
+        {
+          "role": "system",
+          "content": "Formato de mensagem enviada nao suportado",
+          "msg_time": "2026-03-23T13:25:21.258903"
+        }
+      ]
+    },
+    {
+      "session_id": "5521978944636@s.whatsapp.net",
+      "phone": "5521978944636",
+      "phone_display": "+55 21 97894-4636",
+      "lead": {
+        "baserow_id": 1243,
+        "nome": "Elisa Oliveira - GW9",
+        "email": "",
+        "qtd_vidas": 2,
+        "desinteresse": true,
+        "observacoes": "Elisa Oliveira - GW9",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Elisa Oliveira - GW9",
+        "email": "",
+        "telefone": "+55 21 97894-4636",
+        "vidas": [
+          {
+            "idade": 5
+          },
+          {
+            "idade": 6
+          }
+        ],
+        "cidade": "RJ e MG",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "escritório",
+        "plano_atual": "porto — especial 100 — R$ 5200",
+        "motivo": "",
+        "interesse": "",
+        "rede_preferencial": "",
+        "contato": "",
+        "consultor": "",
+        "codigo_corretor_b2cor": "",
+        "obs_crm": "Elisa Oliveira - GW9",
+        "bot": "Gilbertinho Amarelo (2373)",
+        "formatted": "👤 Cliente: Elisa Oliveira - GW9\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97894-4636\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nElisa Oliveira - GW9 — 5 anos\nDependente 1 — 6 anos\n\n📋 Dados contratuais:\n\nCidade: RJ e MG\nContratação: CNPJ\nProfissão: escritório\n\n🏥 Plano atual: porto — especial 100 — R$ 5200\n\n⚠️ Observação: Elisa Oliveira - GW9\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Amarelo (2373)"
+      },
+      "status": "quente",
+      "bot": "amarelo",
+      "consultor": "",
+      "codigo_corretor_b2cor": "",
+      "message_count": 431,
+      "first_message_at": "2026-03-18T00:00:00.000Z",
+      "last_message_at": "2026-03-18T13:54:29.855000Z",
+      "last_bot_msg_at": "2026-03-18T10:54:28.553903",
+      "tempo_sem_interacao": "5 dias",
+      "first_id": 77,
+      "last_id": 20022,
+      "last_message_preview": "ok\n\npode deixar",
+      "messages": [
+        {
+          "role": "system",
+          "content": "👤 Cliente: Jaque\n📧 E-mail: jaquebil2017@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97445-1006\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nJaque — 42 anos\nDependente 1 — 16 anos\nDependente 2 — 14 anos\nDependente 3 — 42 anos\nDependente 4 — 16 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 27.335.253/0001-72\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n\n🎯 Interesse: Amil\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Amarelo (2373)\n\n👤 Cliente: Jaque\n📧 E-mail: jaquebil2017@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97445-1006\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nJaque — 42 anos\nDependente 1 — 16 anos\nDependente 2 — 14 anos\nDependente 3 — 42 anos\nDependente 4 — 16 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 27.335.253/0001-72\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n\n🎯 Interesse: Amil\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Amarelo (2373)\n\n👤 Cliente: Jaque\n📧 E-mail: jaquebil2017@gmail.com\n📱 Co",
+          "msg_time": "2026-03-09T16:53:47.798926"
+        },
+        {
+          "role": "system",
+          "content": "👤 Cliente: Jaque\n📧 E-mail: jaquebil2017@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97445-1006\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nJaque — 42 anos\nDependente 1 — 16 anos\nDependente 2 — 14 anos\nDependente 3 — 42 anos\nDependente 4 — 16 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 27.335.253/0001-72\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n\n🎯 Interesse: Amil\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Amarelo (2373)\n\n👤 Cliente: Jaque\n📧 E-mail: jaquebil2017@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97445-1006\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nJaque — 42 anos\nDependente 1 — 16 anos\nDependente 2 — 14 anos\nDependente 3 — 42 anos\nDependente 4 — 16 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 27.335.253/0001-72\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n\n🎯 Interesse: Amil\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Amarelo (2373)\n\n👤 Cliente: Jaque\n📧 E-mail: jaquebil2017@gmail.com\n📱 Co",
+          "msg_time": "2026-03-09T16:53:48.415443"
+        },
+        {
+          "role": "system",
+          "content": "👤 Cliente: Jaque\n📧 E-mail: jaquebil2017@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97445-1006\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nJaque — 42 anos\nDependente 1 — 16 anos\nDependente 2 — 14 anos\nDependente 3 — 42 anos\nDependente 4 — 16 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 27.335.253/0001-72\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n\n🎯 Interesse: Amil\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Amarelo (2373)\n\n👤 Cliente: Jaque\n📧 E-mail: jaquebil2017@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97445-1006\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nJaque — 42 anos\nDependente 1 — 16 anos\nDependente 2 — 14 anos\nDependente 3 — 42 anos\nDependente 4 — 16 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 27.335.253/0001-72\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n\n🎯 Interesse: Amil\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Amarelo (2373)\n\n👤 Cliente: Jaque\n📧 E-mail: jaquebil2017@gmail.com\n📱 Co",
+          "msg_time": "2026-03-09T16:53:48.650658"
+        },
+        {
+          "role": "system",
+          "content": "👤 Cliente: Luana Silveira\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97285-7156\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 61.807.168/0001-06\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Luana Silveira\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97285-7156\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 61.807.168/0001-06\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Luana Silveira\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97285-7156\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 61.807.168/0001-06\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)",
+          "msg_time": "2026-03-09T16:59:58.532067"
+        },
+        {
+          "role": "system",
+          "content": "👤 Cliente: Luana Silveira\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97285-7156\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 61.807.168/0001-06\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Luana Silveira\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97285-7156\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 61.807.168/0001-06\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Luana Silveira\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97285-7156\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 61.807.168/0001-06\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)",
+          "msg_time": "2026-03-09T16:59:58.6099"
+        },
+        {
+          "role": "system",
+          "content": "👤 Cliente: Luana Silveira\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97285-7156\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 61.807.168/0001-06\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Luana Silveira\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97285-7156\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 61.807.168/0001-06\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Luana Silveira\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97285-7156\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 61.807.168/0001-06\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)",
+          "msg_time": "2026-03-09T16:59:58.726104"
+        },
+        {
+          "role": "system",
+          "content": "👤 Cliente: Hilda\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98884-6057\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: profissional autonoma\n\n😤 Motivo da troca:\n\nPrevenção\nEncerramento do plano atual\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Hilda\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98884-6057\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: profissional autonoma\n\n😤 Motivo da troca:\n\nPrevenção\nEncerramento do plano atual\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Hilda\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98884-6057\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: profissional autonoma\n\n😤 Motivo da troca:\n\nPrevenção\nEncerramento do plano atual\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)",
+          "msg_time": "2026-03-09T17:01:59.61545"
+        },
+        {
+          "role": "system",
+          "content": "👤 Cliente: Hilda\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98884-6057\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: profissional autonoma\n\n😤 Motivo da troca:\n\nPrevenção\nEncerramento do plano atual\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Hilda\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98884-6057\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: profissional autonoma\n\n😤 Motivo da troca:\n\nPrevenção\nEncerramento do plano atual\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Hilda\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98884-6057\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: profissional autonoma\n\n😤 Motivo da troca:\n\nPrevenção\nEncerramento do plano atual\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)",
+          "msg_time": "2026-03-09T17:01:59.703157"
+        },
+        {
+          "role": "system",
+          "content": "👤 Cliente: Hilda\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98884-6057\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: profissional autonoma\n\n😤 Motivo da troca:\n\nPrevenção\nEncerramento do plano atual\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Hilda\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98884-6057\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: profissional autonoma\n\n😤 Motivo da troca:\n\nPrevenção\nEncerramento do plano atual\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Hilda\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98884-6057\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: profissional autonoma\n\n😤 Motivo da troca:\n\nPrevenção\nEncerramento do plano atual\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)",
+          "msg_time": "2026-03-09T17:02:00.282488"
+        },
+        {
+          "role": "system",
+          "content": "👤 Cliente: Jaciara Magalhães Francisco\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99315-0772\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nJaciara Magalhães Francisco — 2 anos\nDependente 1 — 58 anos\nDependente 2 — 62 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Jaciara Magalhães Francisco\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99315-0772\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nJaciara Magalhães Francisco — 2 anos\nDependente 1 — 58 anos\nDependente 2 — 62 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Jaciara Magalhães Francisco\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99315-0772\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nJaciara Magalhães Francisco — 2 anos\nDependente 1 — 58 anos\nDependente 2 — ",
+          "msg_time": "2026-03-09T17:11:13.005311"
+        },
+        {
+          "role": "system",
+          "content": "👤 Cliente: Jaciara Magalhães Francisco\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99315-0772\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nJaciara Magalhães Francisco — 2 anos\nDependente 1 — 58 anos\nDependente 2 — 62 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Jaciara Magalhães Francisco\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99315-0772\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nJaciara Magalhães Francisco — 2 anos\nDependente 1 — 58 anos\nDependente 2 — 62 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Jaciara Magalhães Francisco\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99315-0772\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nJaciara Magalhães Francisco — 2 anos\nDependente 1 — 58 anos\nDependente 2 — ",
+          "msg_time": "2026-03-09T17:11:13.597738"
+        },
+        {
+          "role": "system",
+          "content": "👤 Cliente: Jaciara Magalhães Francisco\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99315-0772\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nJaciara Magalhães Francisco — 2 anos\nDependente 1 — 58 anos\nDependente 2 — 62 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Jaciara Magalhães Francisco\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99315-0772\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nJaciara Magalhães Francisco — 2 anos\nDependente 1 — 58 anos\nDependente 2 — 62 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Jaciara Magalhães Francisco\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99315-0772\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nJaciara Magalhães Francisco — 2 anos\nDependente 1 — 58 anos\nDependente 2 — ",
+          "msg_time": "2026-03-09T17:11:13.742626"
+        },
+        {
+          "role": "user",
+          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado",
+          "msg_time": "2026-03-09T17:30:40.764641"
+        },
+        {
+          "role": "user",
+          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado",
+          "msg_time": "2026-03-09T17:30:41.411833"
+        },
+        {
+          "role": "user",
+          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado",
+          "msg_time": "2026-03-09T17:30:41.557211"
+        },
+        {
+          "role": "user",
+          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado",
+          "msg_time": "2026-03-09T17:31:09.488546"
+        },
+        {
+          "role": "user",
+          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado",
+          "msg_time": "2026-03-09T17:31:09.586083"
+        },
+        {
+          "role": "user",
+          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado",
+          "msg_time": "2026-03-09T17:31:10.415213"
+        },
+        {
+          "role": "user",
+          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado",
+          "msg_time": "2026-03-09T17:50:06.631086"
+        },
+        {
+          "role": "user",
+          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado",
+          "msg_time": "2026-03-09T17:50:06.917659"
+        },
+        {
+          "role": "user",
+          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado",
+          "msg_time": "2026-03-09T17:50:07.51217"
+        },
+        {
+          "role": "system",
+          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de ",
+          "msg_time": "2026-03-09T21:28:40.900549"
+        },
+        {
+          "role": "system",
+          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de ",
+          "msg_time": "2026-03-09T21:28:40.980771"
+        },
+        {
+          "role": "system",
+          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de ",
+          "msg_time": "2026-03-09T21:28:41.319224"
+        },
+        {
+          "role": "system",
+          "content": "Lead Bom\n\nLead Bom\n\nLead Bom",
+          "msg_time": "2026-03-09T21:29:26.140321"
+        },
+        {
+          "role": "system",
+          "content": "Lead Bom\n\nLead Bom\n\nLead Bom",
+          "msg_time": "2026-03-09T21:29:26.231315"
+        },
+        {
+          "role": "system",
+          "content": "Lead Bom\n\nLead Bom\n\nLead Bom",
+          "msg_time": "2026-03-09T21:29:26.563956"
+        },
+        {
+          "role": "system",
+          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\n42, 40, 20, 9, 3 anos\n\nAraruama  (Unimed araruama)\n\nCPF mas está abrindo MEI\n\n42, 40, 20, 9, 3 anos\n\nAraruama  (Unimed araruama)\n\nCPF mas está abrindo MEI\n\n42, 40, 20, 9, 3 anos\n\nAraruama  (Unimed araruama)\n\nCPF mas está abrindo MEI",
+          "msg_time": "2026-03-09T21:37:12.514186"
+        },
+        {
+          "role": "system",
+          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\n42, 40, 20, 9, 3 anos\n\nAraruama  (Unimed araruama)\n\nCPF mas está abrindo MEI\n\n42, 40, 20, 9, 3 anos\n\nAraruama  (Unimed araruama)\n\nCPF mas está abrindo MEI\n\n42, 40, 20, 9, 3 anos\n\nAraruama  (Unimed araruama)\n\nCPF mas está abrindo MEI",
+          "msg_time": "2026-03-09T21:37:13.237134"
+        },
+        {
+          "role": "system",
+          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\n42, 40, 20, 9, 3 anos\n\nAraruama  (Unimed araruama)\n\nCPF mas está abrindo MEI\n\n42, 40, 20, 9, 3 anos\n\nAraruama  (Unimed araruama)\n\nCPF mas está abrindo MEI\n\n42, 40, 20, 9, 3 anos\n\nAraruama  (Unimed araruama)\n\nCPF mas está abrindo MEI",
+          "msg_time": "2026-03-09T21:37:13.347835"
+        },
+        {
+          "role": "system",
+          "content": "👤 Cliente: Carla\n📧 E-mail: carlacampos.cpmc@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96499-9238\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nCarla — 23 anos\nDependente 1 — 19 anos\n\n📋 Dados contratuais:\n\nContratação: CNPJ\nTipo: MEI\nProfissão: responsável pelo pagamento do plano de saúde do meu irmão\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\nIncluir novas vidas\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)",
+          "msg_time": "2026-03-11T12:49:33.209502"
+        },
+        {
+          "role": "system",
+          "content": "**👤 Cliente:** Sr. Marcelo (contato via Ana, sua assistente)\n**📱 Contato:** WhatsApp — amanhã após as 10h\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- Bebê — 7 meses\n- Criança — 4 anos\n- Adulto — 29 anos\n\n---\n\n**📋 Dados contratuais:**\n- Cidade: São Gonçalo / RJ\n- Contratação: MEI (mais de 10 anos de abertura)\n\n---\n\n**🏥 Plano atual:** Assim Saúde — quase 6 meses de uso\n\n---\n\n**😤 Motivo da troca:**\n- Sem emergência em São Gonçalo\n- Insatisfação geral com a rede local\n\n---\n\n**🎯 Interesse:** Amil — sem coparticipação\n**Prioridades:** Emergência, pediatria e ginecologia em São Gonçalo + info sobre carências\n\n---\n\n**⚠️ Observação:** Bebê de 7 meses — atenção especial à cobertura pediátrica. Com 6 meses na Assim, portabilidade pode ser estratégia para carências. Ana cuida dos assuntos do Sr. Marcelo — tratar ela como interlocutora principal.\n\n**✅ Status:** Lead ativo — agendado para amanhã após as 10h",
+          "msg_time": "2026-03-11T14:11:04.022506"
+        },
+        {
+          "role": "user",
+          "content": "Formato de mensagem enviada nao suportado",
+          "msg_time": "2026-03-11T14:14:37.330223"
+        },
+        {
+          "role": "system",
+          "content": "👤 Cliente: Renata\n📧 E-mail: rebbrindes@hotmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96419-8995\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nRenata — 67 anos\nDependente 1 — 56 anos\nDependente 2 — 8 anos\n\n\n📋 Dados contratuais:\n\nCidade: São Gonçalo / RJ\nContratação: CNPJ\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n\n🎯 Interesse: Amil\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Preto (0479)",
+          "msg_time": "2026-03-11T15:47:09.502736"
+        },
+        {
+          "role": "system",
+          "content": "Formato de mensagem enviada nao suportado\n\n👤 Cliente: Noemi\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96422-9888\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nNoemi — 52 anos\nDependente 1 — 16 anos\nDependente 2 — 2 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 18.674.653/0001-11\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n🎯 Rede preferencial: Barra D'Or\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n\n🎯 Interesse: Barra D'or\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Preto (0479)",
+          "msg_time": "2026-03-11T15:50:25.678071"
+        },
+        {
+          "role": "user",
+          "content": "Formato de mensagem enviada nao suportado",
+          "msg_time": "2026-03-11T15:52:57.081907"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nNome: Elisa Oliveira - GW9\n\nMensagem(ns) do cliente:\npegarei\n\nagora\n\nDemoroy\n\nestava arrumando o escritório\n\nnão pego entao?\n\nBoraaaaa\n\nDemoro\n\nKkkkk\n\ntá",
+          "msg_time": "2026-03-18T10:54:28.550884"
+        },
+        {
+          "role": "ai",
+          "content": "Oi, Elisa! \n\nEntendo que você estava cuidando do escritório, sem problemas! 😊\n\nSe precisar de algo ou se tiver alguma dúvida para conversarmos, é só avisar. Estou aqui para ajudar!",
+          "msg_time": "2026-03-18T10:54:28.553903"
+        },
+        {
+          "role": "system",
+          "content": "Pega ele no b2cor\n\nTb",
+          "msg_time": "2026-03-18T10:54:51.400458"
+        },
+        {
+          "role": "system",
+          "content": "👤 Cliente: Reinaldo\n📧 E-mail: pr.reinaldogomes@yahoo.com.br\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99638-3687\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n\n😤 Motivo da troca:\n\nDificuldade de agendamento\nIncluir novas vidas\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)",
+          "msg_time": "2026-03-18T16:48:39.201229"
+        },
+        {
+          "role": "system",
+          "content": "Gilberto querido, boa tarde, tudo bem? Eu sou o pastor Reinaldo e eu tô ainda em busca realmente de um plano de saúde que seja, não vou dizer que seja barato, mas que caiba no meu bolso, é um plano de saúde pra mim e pra minha esposa. Eu tenho 56 anos, minha esposa tem 40 anos, nós estamos em busca de um plano que não seja somente laboratorial, seja um plano de saúde com direito a internação, com direito a consultas, cirurgia, um plano que tenha emergência. Então hoje nós estamos em busca de um plano que atenda a emergência, que não seja laboratorial, ambulatorial, melhor dizendo, um plano de saúde que tenha cirurgias e não precisa ser quarto particular, pode ser quarto coletivo. E é isso, nós estamos em busca de um plano de saúde nessa categoria, que não seja muito caro, porque a gente sabe que os planos de saúde hoje estão tudo muito caro e a gente tá tentando aí ter um plano de saúde que não seja muito caro, tá bom? Tem a possibilidade desse plano de saúde também ser feito no CNPJ, ",
+          "msg_time": "2026-03-18T16:51:10.116206"
+        },
+        {
+          "role": "user",
+          "content": "Formato de mensagem enviada nao suportado",
+          "msg_time": "2026-03-19T14:13:24.273023"
+        },
+        {
+          "role": "system",
+          "content": "👤 Cliente: Rosana  \n📱 Contato: WhatsApp  \n📞 Telefone: +55 21 99486-4749  \n\n👨‍👩‍👧‍👦 Vidas no plano:  \nRosana — 64 anos  \nDependente 1 — 34 anos  \nDependente 2 — 32 anos  \n\n📋 Dados contratuais:  \nCidade: São Gonçalo/RJ  \nContratação: CNPJ  \nTipo: MEI  \n\n🏥 Plano atual: AMIL  \n\n😤 Motivo da busca:  \nEncerramento do plano atual  \n✅ Status: Lead qualificado  \n🤖 Bot: Gilbertinho Amarelo (2373)",
+          "msg_time": "2026-03-19T17:01:49.295047"
+        },
+        {
+          "role": "system",
+          "content": "👤 Cliente: Clean  \n📱 Contato: WhatsApp  \n📞 Telefone: +55 21 97418-5584  \n\n📋 Dados contratuais:  \n\nCidade: Jacarepaguá  \nContratação: CNPJ  \nTipo: MEI  \n\n🏥 Plano atual: SulAmérica  \n\n🎯 Interesse: Sulamérica  \n✅ Status: Lead qualificado  \n🤖 Bot: Gilbertinho Preto (0479)  \n\n👨‍👩‍👧‍👦 Vidas no plano:  \nTitular — 47 anos  \nDependente 1 — 29 anos  \nDependente 2 — 6 anos",
+          "msg_time": "2026-03-19T17:03:10.700689"
+        },
+        {
+          "role": "system",
+          "content": "👤 Cliente: Ana Carla\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96519-3233\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nAna Carla — 36 anos\nDependente 1 — 54 anos\nDependente 2 — 55 anos\n\n📋 Dados contratuais:\n\nContratação: CNPJ — 59.941.046/0001-58\nTipo: MEI\n\n🏥 Plano atual: SulAmérica\n\n🎯 Interesse: Sulamérica\n\n⚠️ Observação: Ana Carla\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Preto (0479)",
+          "msg_time": "2026-03-20T12:11:58.150216"
+        },
+        {
+          "role": "user",
+          "content": "Formato de mensagem enviada nao suportado",
+          "msg_time": "2026-03-20T12:56:04.24672"
+        },
+        {
+          "role": "system",
+          "content": "esse cara está mto quente\n\nvai no mais barato",
+          "msg_time": "2026-03-23T11:09:14.291629"
+        },
+        {
+          "role": "user",
+          "content": "ok\n\npode deixar",
+          "msg_time": "2026-03-23T11:10:25.291635"
+        },
+        {
+          "role": "system",
+          "content": "👤 Cliente: Vania\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97140-5276\n\n📋 Dados contratuais: - \nNúmero de vidas: 2\n- Idades: 80 e 60\n\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: bem objetiva\nVamos aos valores\n\n🏥 Plano atual: Nenhum\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Vania\n👤 Distribuído para: nosso\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Preto (0479)",
+          "msg_time": "2026-03-23T13:23:30.95353"
+        },
+        {
+          "role": "system",
+          "content": "Deixa eu te falar... três vidas... para mim não resolve. Só tem eu e minha mãe. Meu irmão é da Petrobras... tem dois planos de saúde... e meu irmão... minha cunhada é do Banco do Brasil. Minha outra irmã tem... do meu cunhado... que mora em Cabo Frio... inclusive eu estou aqui agora. Entendeu? Então ela é dependente dele. Minha outra irmã é dependente do meu sobrinho. Portanto, a família pequena não sobrou ninguém. O meu filho faleceu no Hemorríeo... há 17 anos com aplasia de medula severa. Então não adianta ela nem me ligar. Obrigada.",
+          "msg_time": "2026-03-23T13:25:04.074646"
+        }
+      ]
+    },
+    {
+      "session_id": "55219952621656@s.whatsapp.net",
+      "phone": "55219952621656",
+      "phone_display": "55219952621656",
+      "lead": null,
+      "summary": {
+        "nome": "Lorrany",
+        "email": "",
+        "telefone": "55219952621656",
+        "vidas": [],
+        "cidade": "",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "",
+        "rede_preferencial": "",
+        "contato": "",
+        "consultor": "",
+        "codigo_corretor_b2cor": "",
+        "obs_crm": "",
+        "bot": "Não identificado",
+        "formatted": "👤 Cliente: Lorrany\n📱 Contato: WhatsApp\n📞 Telefone: 55219952621656\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n✅ Status: Lead frio\n🤖 Bot: Não identificado"
+      },
+      "status": "frio",
+      "bot": "desconhecido",
+      "consultor": "",
+      "codigo_corretor_b2cor": "",
+      "message_count": 2,
+      "first_message_at": "2026-03-23T16:18:51.185Z",
+      "last_message_at": "2026-03-23T16:18:51.191Z",
+      "last_bot_msg_at": "2026-03-23T13:18:51.191741",
+      "tempo_sem_interacao": "3h 11min",
+      "first_id": 20012,
+      "last_id": 20013,
+      "last_message_preview": "Dados Fornecidos\nNome: Lorrany\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o inf...",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados Fornecidos\nNome: Lorrany\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o informado\nRegiÃƒÂ£o: NÃƒÂ£o Informado\nPropaganda:\n",
+          "msg_time": "2026-03-23T13:18:51.185551"
+        },
+        {
+          "role": "ai",
+          "content": "Oi Lorrany! Sou o Gilberto da GW9, corretora de planos de saúde. Você pediu nosso contato para saber mais sobre plano de saúde e vi que já possui um CNPJ. Para te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo certo?",
+          "msg_time": "2026-03-23T13:18:51.191741"
         }
       ]
     },
@@ -527,7 +1032,7 @@
       "first_message_at": "2025-12-15T00:00:00.000Z",
       "last_message_at": "2026-03-23T16:02:42.211Z",
       "last_bot_msg_at": "2026-03-23T16:02:42.211Z",
-      "tempo_sem_interacao": "12min",
+      "tempo_sem_interacao": "27min",
       "first_id": 742,
       "last_id": 19997,
       "last_message_preview": "<ContextoImagem>\n\n  <DetalheImagem>\n\n  </DetalheImagem>\n\nContexto Extra: O usuário encaminhou a mens...",
@@ -835,7 +1340,7 @@
       "first_message_at": "2026-03-23T00:00:00.000Z",
       "last_message_at": "2026-03-23T16:02:33.384000Z",
       "last_bot_msg_at": "2026-03-23T13:02:31.986588",
-      "tempo_sem_interacao": "3h 13min",
+      "tempo_sem_interacao": "3h 28min",
       "first_id": 19883,
       "last_id": 19996,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1324\nNome: Tatiane\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(n...",
@@ -936,7 +1441,7 @@
       "first_message_at": "2026-03-23T16:00:51.856Z",
       "last_message_at": "2026-03-23T16:00:51.859Z",
       "last_bot_msg_at": "2026-03-23T13:00:51.859159",
-      "tempo_sem_interacao": "3h 14min",
+      "tempo_sem_interacao": "3h 29min",
       "first_id": 19985,
       "last_id": 19986,
       "last_message_preview": "Dados Fornecidos\nNome: Vania\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o infor...",
@@ -997,7 +1502,7 @@
       "first_message_at": "2026-03-23T00:00:00.000Z",
       "last_message_at": "2026-03-23T15:55:10.990000Z",
       "last_bot_msg_at": "2026-03-23T12:55:09.945184",
-      "tempo_sem_interacao": "3h 20min",
+      "tempo_sem_interacao": "3h 35min",
       "first_id": 19962,
       "last_id": 19976,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1330\nNome: André Antunes\n\nMensagem(ns) do cliente:\nJá tenho o Amil...",
@@ -1108,7 +1613,7 @@
       "first_message_at": "2026-03-22T00:00:00.000Z",
       "last_message_at": "2026-03-22T22:05:57.278000Z",
       "last_bot_msg_at": "2026-03-22T19:05:51.868221",
-      "tempo_sem_interacao": "21h 9min",
+      "tempo_sem_interacao": "21h 24min",
       "first_id": 19863,
       "last_id": 19970,
       "last_message_preview": "Pode deixar. Obrigada! É MTA informação só pra me passar alguns preços.",
@@ -1201,7 +1706,7 @@
       "first_message_at": "2026-03-23T00:00:00.000Z",
       "last_message_at": "2026-03-23T14:51:05.660000Z",
       "last_bot_msg_at": "2026-03-23T11:51:03.910414",
-      "tempo_sem_interacao": "4h 24min",
+      "tempo_sem_interacao": "4h 39min",
       "first_id": 19947,
       "last_id": 19960,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1329\nNome: \n\nMensagem(ns) do cliente:\nNão tenho plano não",
@@ -1785,7 +2290,7 @@
       "first_message_at": "2026-01-31T00:00:00.000Z",
       "last_message_at": "2026-03-23T14:08:03.633000Z",
       "last_bot_msg_at": "2026-03-23T11:08:01.881567",
-      "tempo_sem_interacao": "5h 7min",
+      "tempo_sem_interacao": "5h 22min",
       "first_id": 11940,
       "last_id": 19940,
       "last_message_preview": "Formato de mensagem enviada nao suportado",
@@ -1965,314 +2470,6 @@
           "role": "user",
           "content": "Pode entrar em contato durante o dia, estarei disponível",
           "msg_time": "2026-03-23T11:11:05.970358"
-        }
-      ]
-    },
-    {
-      "session_id": "5521978944636@s.whatsapp.net",
-      "phone": "5521978944636",
-      "phone_display": "+55 21 97894-4636",
-      "lead": {
-        "baserow_id": 1243,
-        "nome": "Elisa Oliveira - GW9",
-        "email": "",
-        "qtd_vidas": 2,
-        "desinteresse": true,
-        "observacoes": "Elisa Oliveira - GW9",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Elisa Oliveira - GW9",
-        "email": "",
-        "telefone": "+55 21 97894-4636",
-        "vidas": [
-          {
-            "idade": 5
-          },
-          {
-            "idade": 6
-          }
-        ],
-        "cidade": "RJ e MG",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "escritório",
-        "plano_atual": "porto — especial 100 — R$ 5200",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "",
-        "consultor": "",
-        "codigo_corretor_b2cor": "",
-        "obs_crm": "Elisa Oliveira - GW9",
-        "bot": "Gilbertinho Amarelo (2373)",
-        "formatted": "👤 Cliente: Elisa Oliveira - GW9\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97894-4636\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nElisa Oliveira - GW9 — 5 anos\nDependente 1 — 6 anos\n\n📋 Dados contratuais:\n\nCidade: RJ e MG\nContratação: CNPJ\nProfissão: escritório\n\n🏥 Plano atual: porto — especial 100 — R$ 5200\n\n⚠️ Observação: Elisa Oliveira - GW9\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Amarelo (2373)"
-      },
-      "status": "quente",
-      "bot": "amarelo",
-      "consultor": "",
-      "codigo_corretor_b2cor": "",
-      "message_count": 429,
-      "first_message_at": "2026-03-18T00:00:00.000Z",
-      "last_message_at": "2026-03-18T13:54:29.855000Z",
-      "last_bot_msg_at": "2026-03-18T10:54:28.553903",
-      "tempo_sem_interacao": "5 dias",
-      "first_id": 77,
-      "last_id": 19936,
-      "last_message_preview": "ok\n\npode deixar",
-      "messages": [
-        {
-          "role": "system",
-          "content": "👤 Cliente: Marcelo\n📱 Contato: WhatsApp (mensagem de texto)\n📞 Telefone: +55 21 99610-8823\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nMarcelo — 56 anos\nDependente 1 — 53 anos\n\n📋 Dados contratuais:\n\nCidade: Niterói / RJ\nContratação: CNPJ\nTipo: MEI\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n\n⚠️ Observação: Marcelo\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)\n\n👤 Cliente: Marcelo\n📱 Contato: WhatsApp (mensagem de texto)\n📞 Telefone: +55 21 99610-8823\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nMarcelo — 56 anos\nDependente 1 — 53 anos\n\n📋 Dados contratuais:\n\nCidade: Niterói / RJ\nContratação: CNPJ\nTipo: MEI\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n\n⚠️ Observação: Marcelo\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)\n\n👤 Cliente: Marcelo\n📱 Contato: WhatsApp (mensagem de texto)\n📞 Telefone: +55 21 99610-8823\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nMarcelo — 56 anos\nDependente 1 — 53 anos\n\n📋 Dados contratuais:\n\nCidade: Niterói / RJ\nContratação: CNPJ\nTipo: MEI\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n\n⚠️ Observaçã",
-          "msg_time": "2026-03-06T15:10:21.969539"
-        },
-        {
-          "role": "system",
-          "content": "👤 Cliente: Marcelo\n📱 Contato: WhatsApp (mensagem de texto)\n📞 Telefone: +55 21 99610-8823\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nMarcelo — 56 anos\nDependente 1 — 53 anos\n\n📋 Dados contratuais:\n\nCidade: Niterói / RJ\nContratação: CNPJ\nTipo: MEI\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n\n⚠️ Observação: Marcelo\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)\n\n👤 Cliente: Marcelo\n📱 Contato: WhatsApp (mensagem de texto)\n📞 Telefone: +55 21 99610-8823\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nMarcelo — 56 anos\nDependente 1 — 53 anos\n\n📋 Dados contratuais:\n\nCidade: Niterói / RJ\nContratação: CNPJ\nTipo: MEI\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n\n⚠️ Observação: Marcelo\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)\n\n👤 Cliente: Marcelo\n📱 Contato: WhatsApp (mensagem de texto)\n📞 Telefone: +55 21 99610-8823\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nMarcelo — 56 anos\nDependente 1 — 53 anos\n\n📋 Dados contratuais:\n\nCidade: Niterói / RJ\nContratação: CNPJ\nTipo: MEI\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n\n⚠️ Observaçã",
-          "msg_time": "2026-03-06T15:10:22.059369"
-        },
-        {
-          "role": "system",
-          "content": "👤 Cliente: Jaque\n📧 E-mail: jaquebil2017@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97445-1006\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nJaque — 42 anos\nDependente 1 — 16 anos\nDependente 2 — 14 anos\nDependente 3 — 42 anos\nDependente 4 — 16 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 27.335.253/0001-72\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n\n🎯 Interesse: Amil\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Amarelo (2373)\n\n👤 Cliente: Jaque\n📧 E-mail: jaquebil2017@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97445-1006\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nJaque — 42 anos\nDependente 1 — 16 anos\nDependente 2 — 14 anos\nDependente 3 — 42 anos\nDependente 4 — 16 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 27.335.253/0001-72\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n\n🎯 Interesse: Amil\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Amarelo (2373)\n\n👤 Cliente: Jaque\n📧 E-mail: jaquebil2017@gmail.com\n📱 Co",
-          "msg_time": "2026-03-09T16:53:47.798926"
-        },
-        {
-          "role": "system",
-          "content": "👤 Cliente: Jaque\n📧 E-mail: jaquebil2017@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97445-1006\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nJaque — 42 anos\nDependente 1 — 16 anos\nDependente 2 — 14 anos\nDependente 3 — 42 anos\nDependente 4 — 16 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 27.335.253/0001-72\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n\n🎯 Interesse: Amil\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Amarelo (2373)\n\n👤 Cliente: Jaque\n📧 E-mail: jaquebil2017@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97445-1006\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nJaque — 42 anos\nDependente 1 — 16 anos\nDependente 2 — 14 anos\nDependente 3 — 42 anos\nDependente 4 — 16 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 27.335.253/0001-72\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n\n🎯 Interesse: Amil\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Amarelo (2373)\n\n👤 Cliente: Jaque\n📧 E-mail: jaquebil2017@gmail.com\n📱 Co",
-          "msg_time": "2026-03-09T16:53:48.415443"
-        },
-        {
-          "role": "system",
-          "content": "👤 Cliente: Jaque\n📧 E-mail: jaquebil2017@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97445-1006\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nJaque — 42 anos\nDependente 1 — 16 anos\nDependente 2 — 14 anos\nDependente 3 — 42 anos\nDependente 4 — 16 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 27.335.253/0001-72\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n\n🎯 Interesse: Amil\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Amarelo (2373)\n\n👤 Cliente: Jaque\n📧 E-mail: jaquebil2017@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97445-1006\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nJaque — 42 anos\nDependente 1 — 16 anos\nDependente 2 — 14 anos\nDependente 3 — 42 anos\nDependente 4 — 16 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 27.335.253/0001-72\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n\n🎯 Interesse: Amil\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Amarelo (2373)\n\n👤 Cliente: Jaque\n📧 E-mail: jaquebil2017@gmail.com\n📱 Co",
-          "msg_time": "2026-03-09T16:53:48.650658"
-        },
-        {
-          "role": "system",
-          "content": "👤 Cliente: Luana Silveira\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97285-7156\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 61.807.168/0001-06\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Luana Silveira\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97285-7156\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 61.807.168/0001-06\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Luana Silveira\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97285-7156\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 61.807.168/0001-06\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)",
-          "msg_time": "2026-03-09T16:59:58.532067"
-        },
-        {
-          "role": "system",
-          "content": "👤 Cliente: Luana Silveira\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97285-7156\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 61.807.168/0001-06\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Luana Silveira\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97285-7156\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 61.807.168/0001-06\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Luana Silveira\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97285-7156\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 61.807.168/0001-06\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)",
-          "msg_time": "2026-03-09T16:59:58.6099"
-        },
-        {
-          "role": "system",
-          "content": "👤 Cliente: Luana Silveira\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97285-7156\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 61.807.168/0001-06\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Luana Silveira\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97285-7156\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 61.807.168/0001-06\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Luana Silveira\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97285-7156\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 61.807.168/0001-06\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)",
-          "msg_time": "2026-03-09T16:59:58.726104"
-        },
-        {
-          "role": "system",
-          "content": "👤 Cliente: Hilda\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98884-6057\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: profissional autonoma\n\n😤 Motivo da troca:\n\nPrevenção\nEncerramento do plano atual\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Hilda\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98884-6057\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: profissional autonoma\n\n😤 Motivo da troca:\n\nPrevenção\nEncerramento do plano atual\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Hilda\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98884-6057\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: profissional autonoma\n\n😤 Motivo da troca:\n\nPrevenção\nEncerramento do plano atual\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)",
-          "msg_time": "2026-03-09T17:01:59.61545"
-        },
-        {
-          "role": "system",
-          "content": "👤 Cliente: Hilda\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98884-6057\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: profissional autonoma\n\n😤 Motivo da troca:\n\nPrevenção\nEncerramento do plano atual\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Hilda\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98884-6057\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: profissional autonoma\n\n😤 Motivo da troca:\n\nPrevenção\nEncerramento do plano atual\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Hilda\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98884-6057\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: profissional autonoma\n\n😤 Motivo da troca:\n\nPrevenção\nEncerramento do plano atual\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)",
-          "msg_time": "2026-03-09T17:01:59.703157"
-        },
-        {
-          "role": "system",
-          "content": "👤 Cliente: Hilda\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98884-6057\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: profissional autonoma\n\n😤 Motivo da troca:\n\nPrevenção\nEncerramento do plano atual\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Hilda\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98884-6057\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: profissional autonoma\n\n😤 Motivo da troca:\n\nPrevenção\nEncerramento do plano atual\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Hilda\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98884-6057\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: profissional autonoma\n\n😤 Motivo da troca:\n\nPrevenção\nEncerramento do plano atual\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)",
-          "msg_time": "2026-03-09T17:02:00.282488"
-        },
-        {
-          "role": "system",
-          "content": "👤 Cliente: Jaciara Magalhães Francisco\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99315-0772\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nJaciara Magalhães Francisco — 2 anos\nDependente 1 — 58 anos\nDependente 2 — 62 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Jaciara Magalhães Francisco\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99315-0772\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nJaciara Magalhães Francisco — 2 anos\nDependente 1 — 58 anos\nDependente 2 — 62 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Jaciara Magalhães Francisco\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99315-0772\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nJaciara Magalhães Francisco — 2 anos\nDependente 1 — 58 anos\nDependente 2 — ",
-          "msg_time": "2026-03-09T17:11:13.005311"
-        },
-        {
-          "role": "system",
-          "content": "👤 Cliente: Jaciara Magalhães Francisco\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99315-0772\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nJaciara Magalhães Francisco — 2 anos\nDependente 1 — 58 anos\nDependente 2 — 62 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Jaciara Magalhães Francisco\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99315-0772\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nJaciara Magalhães Francisco — 2 anos\nDependente 1 — 58 anos\nDependente 2 — 62 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Jaciara Magalhães Francisco\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99315-0772\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nJaciara Magalhães Francisco — 2 anos\nDependente 1 — 58 anos\nDependente 2 — ",
-          "msg_time": "2026-03-09T17:11:13.597738"
-        },
-        {
-          "role": "system",
-          "content": "👤 Cliente: Jaciara Magalhães Francisco\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99315-0772\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nJaciara Magalhães Francisco — 2 anos\nDependente 1 — 58 anos\nDependente 2 — 62 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Jaciara Magalhães Francisco\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99315-0772\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nJaciara Magalhães Francisco — 2 anos\nDependente 1 — 58 anos\nDependente 2 — 62 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)\n\n👤 Cliente: Jaciara Magalhães Francisco\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99315-0772\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nJaciara Magalhães Francisco — 2 anos\nDependente 1 — 58 anos\nDependente 2 — ",
-          "msg_time": "2026-03-09T17:11:13.742626"
-        },
-        {
-          "role": "user",
-          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado",
-          "msg_time": "2026-03-09T17:30:40.764641"
-        },
-        {
-          "role": "user",
-          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado",
-          "msg_time": "2026-03-09T17:30:41.411833"
-        },
-        {
-          "role": "user",
-          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado",
-          "msg_time": "2026-03-09T17:30:41.557211"
-        },
-        {
-          "role": "user",
-          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado",
-          "msg_time": "2026-03-09T17:31:09.488546"
-        },
-        {
-          "role": "user",
-          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado",
-          "msg_time": "2026-03-09T17:31:09.586083"
-        },
-        {
-          "role": "user",
-          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado",
-          "msg_time": "2026-03-09T17:31:10.415213"
-        },
-        {
-          "role": "user",
-          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado",
-          "msg_time": "2026-03-09T17:50:06.631086"
-        },
-        {
-          "role": "user",
-          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado",
-          "msg_time": "2026-03-09T17:50:06.917659"
-        },
-        {
-          "role": "user",
-          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado",
-          "msg_time": "2026-03-09T17:50:07.51217"
-        },
-        {
-          "role": "system",
-          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de ",
-          "msg_time": "2026-03-09T21:28:40.900549"
-        },
-        {
-          "role": "system",
-          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de ",
-          "msg_time": "2026-03-09T21:28:40.980771"
-        },
-        {
-          "role": "system",
-          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de ",
-          "msg_time": "2026-03-09T21:28:41.319224"
-        },
-        {
-          "role": "system",
-          "content": "Lead Bom\n\nLead Bom\n\nLead Bom",
-          "msg_time": "2026-03-09T21:29:26.140321"
-        },
-        {
-          "role": "system",
-          "content": "Lead Bom\n\nLead Bom\n\nLead Bom",
-          "msg_time": "2026-03-09T21:29:26.231315"
-        },
-        {
-          "role": "system",
-          "content": "Lead Bom\n\nLead Bom\n\nLead Bom",
-          "msg_time": "2026-03-09T21:29:26.563956"
-        },
-        {
-          "role": "system",
-          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\n42, 40, 20, 9, 3 anos\n\nAraruama  (Unimed araruama)\n\nCPF mas está abrindo MEI\n\n42, 40, 20, 9, 3 anos\n\nAraruama  (Unimed araruama)\n\nCPF mas está abrindo MEI\n\n42, 40, 20, 9, 3 anos\n\nAraruama  (Unimed araruama)\n\nCPF mas está abrindo MEI",
-          "msg_time": "2026-03-09T21:37:12.514186"
-        },
-        {
-          "role": "system",
-          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\n42, 40, 20, 9, 3 anos\n\nAraruama  (Unimed araruama)\n\nCPF mas está abrindo MEI\n\n42, 40, 20, 9, 3 anos\n\nAraruama  (Unimed araruama)\n\nCPF mas está abrindo MEI\n\n42, 40, 20, 9, 3 anos\n\nAraruama  (Unimed araruama)\n\nCPF mas está abrindo MEI",
-          "msg_time": "2026-03-09T21:37:13.237134"
-        },
-        {
-          "role": "system",
-          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado\n\n42, 40, 20, 9, 3 anos\n\nAraruama  (Unimed araruama)\n\nCPF mas está abrindo MEI\n\n42, 40, 20, 9, 3 anos\n\nAraruama  (Unimed araruama)\n\nCPF mas está abrindo MEI\n\n42, 40, 20, 9, 3 anos\n\nAraruama  (Unimed araruama)\n\nCPF mas está abrindo MEI",
-          "msg_time": "2026-03-09T21:37:13.347835"
-        },
-        {
-          "role": "system",
-          "content": "👤 Cliente: Carla\n📧 E-mail: carlacampos.cpmc@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96499-9238\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nCarla — 23 anos\nDependente 1 — 19 anos\n\n📋 Dados contratuais:\n\nContratação: CNPJ\nTipo: MEI\nProfissão: responsável pelo pagamento do plano de saúde do meu irmão\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\nIncluir novas vidas\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)",
-          "msg_time": "2026-03-11T12:49:33.209502"
-        },
-        {
-          "role": "system",
-          "content": "**👤 Cliente:** Sr. Marcelo (contato via Ana, sua assistente)\n**📱 Contato:** WhatsApp — amanhã após as 10h\n\n---\n\n**👨‍👩‍👧‍👧 Vidas no plano:**\n- Bebê — 7 meses\n- Criança — 4 anos\n- Adulto — 29 anos\n\n---\n\n**📋 Dados contratuais:**\n- Cidade: São Gonçalo / RJ\n- Contratação: MEI (mais de 10 anos de abertura)\n\n---\n\n**🏥 Plano atual:** Assim Saúde — quase 6 meses de uso\n\n---\n\n**😤 Motivo da troca:**\n- Sem emergência em São Gonçalo\n- Insatisfação geral com a rede local\n\n---\n\n**🎯 Interesse:** Amil — sem coparticipação\n**Prioridades:** Emergência, pediatria e ginecologia em São Gonçalo + info sobre carências\n\n---\n\n**⚠️ Observação:** Bebê de 7 meses — atenção especial à cobertura pediátrica. Com 6 meses na Assim, portabilidade pode ser estratégia para carências. Ana cuida dos assuntos do Sr. Marcelo — tratar ela como interlocutora principal.\n\n**✅ Status:** Lead ativo — agendado para amanhã após as 10h",
-          "msg_time": "2026-03-11T14:11:04.022506"
-        },
-        {
-          "role": "user",
-          "content": "Formato de mensagem enviada nao suportado",
-          "msg_time": "2026-03-11T14:14:37.330223"
-        },
-        {
-          "role": "system",
-          "content": "👤 Cliente: Renata\n📧 E-mail: rebbrindes@hotmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96419-8995\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nRenata — 67 anos\nDependente 1 — 56 anos\nDependente 2 — 8 anos\n\n\n📋 Dados contratuais:\n\nCidade: São Gonçalo / RJ\nContratação: CNPJ\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n\n🎯 Interesse: Amil\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Preto (0479)",
-          "msg_time": "2026-03-11T15:47:09.502736"
-        },
-        {
-          "role": "system",
-          "content": "Formato de mensagem enviada nao suportado\n\n👤 Cliente: Noemi\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96422-9888\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nNoemi — 52 anos\nDependente 1 — 16 anos\nDependente 2 — 2 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 18.674.653/0001-11\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n🎯 Rede preferencial: Barra D'Or\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n\n🎯 Interesse: Barra D'or\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Preto (0479)",
-          "msg_time": "2026-03-11T15:50:25.678071"
-        },
-        {
-          "role": "user",
-          "content": "Formato de mensagem enviada nao suportado",
-          "msg_time": "2026-03-11T15:52:57.081907"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Elisa Oliveira - GW9\n\nMensagem(ns) do cliente:\npegarei\n\nagora\n\nDemoroy\n\nestava arrumando o escritório\n\nnão pego entao?\n\nBoraaaaa\n\nDemoro\n\nKkkkk\n\ntá",
-          "msg_time": "2026-03-18T10:54:28.550884"
-        },
-        {
-          "role": "ai",
-          "content": "Oi, Elisa! \n\nEntendo que você estava cuidando do escritório, sem problemas! 😊\n\nSe precisar de algo ou se tiver alguma dúvida para conversarmos, é só avisar. Estou aqui para ajudar!",
-          "msg_time": "2026-03-18T10:54:28.553903"
-        },
-        {
-          "role": "system",
-          "content": "Pega ele no b2cor\n\nTb",
-          "msg_time": "2026-03-18T10:54:51.400458"
-        },
-        {
-          "role": "system",
-          "content": "👤 Cliente: Reinaldo\n📧 E-mail: pr.reinaldogomes@yahoo.com.br\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99638-3687\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n\n😤 Motivo da troca:\n\nDificuldade de agendamento\nIncluir novas vidas\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)",
-          "msg_time": "2026-03-18T16:48:39.201229"
-        },
-        {
-          "role": "system",
-          "content": "Gilberto querido, boa tarde, tudo bem? Eu sou o pastor Reinaldo e eu tô ainda em busca realmente de um plano de saúde que seja, não vou dizer que seja barato, mas que caiba no meu bolso, é um plano de saúde pra mim e pra minha esposa. Eu tenho 56 anos, minha esposa tem 40 anos, nós estamos em busca de um plano que não seja somente laboratorial, seja um plano de saúde com direito a internação, com direito a consultas, cirurgia, um plano que tenha emergência. Então hoje nós estamos em busca de um plano que atenda a emergência, que não seja laboratorial, ambulatorial, melhor dizendo, um plano de saúde que tenha cirurgias e não precisa ser quarto particular, pode ser quarto coletivo. E é isso, nós estamos em busca de um plano de saúde nessa categoria, que não seja muito caro, porque a gente sabe que os planos de saúde hoje estão tudo muito caro e a gente tá tentando aí ter um plano de saúde que não seja muito caro, tá bom? Tem a possibilidade desse plano de saúde também ser feito no CNPJ, ",
-          "msg_time": "2026-03-18T16:51:10.116206"
-        },
-        {
-          "role": "user",
-          "content": "Formato de mensagem enviada nao suportado",
-          "msg_time": "2026-03-19T14:13:24.273023"
-        },
-        {
-          "role": "system",
-          "content": "👤 Cliente: Rosana  \n📱 Contato: WhatsApp  \n📞 Telefone: +55 21 99486-4749  \n\n👨‍👩‍👧‍👦 Vidas no plano:  \nRosana — 64 anos  \nDependente 1 — 34 anos  \nDependente 2 — 32 anos  \n\n📋 Dados contratuais:  \nCidade: São Gonçalo/RJ  \nContratação: CNPJ  \nTipo: MEI  \n\n🏥 Plano atual: AMIL  \n\n😤 Motivo da busca:  \nEncerramento do plano atual  \n✅ Status: Lead qualificado  \n🤖 Bot: Gilbertinho Amarelo (2373)",
-          "msg_time": "2026-03-19T17:01:49.295047"
-        },
-        {
-          "role": "system",
-          "content": "👤 Cliente: Clean  \n📱 Contato: WhatsApp  \n📞 Telefone: +55 21 97418-5584  \n\n📋 Dados contratuais:  \n\nCidade: Jacarepaguá  \nContratação: CNPJ  \nTipo: MEI  \n\n🏥 Plano atual: SulAmérica  \n\n🎯 Interesse: Sulamérica  \n✅ Status: Lead qualificado  \n🤖 Bot: Gilbertinho Preto (0479)  \n\n👨‍👩‍👧‍👦 Vidas no plano:  \nTitular — 47 anos  \nDependente 1 — 29 anos  \nDependente 2 — 6 anos",
-          "msg_time": "2026-03-19T17:03:10.700689"
-        },
-        {
-          "role": "system",
-          "content": "👤 Cliente: Ana Carla\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96519-3233\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nAna Carla — 36 anos\nDependente 1 — 54 anos\nDependente 2 — 55 anos\n\n📋 Dados contratuais:\n\nContratação: CNPJ — 59.941.046/0001-58\nTipo: MEI\n\n🏥 Plano atual: SulAmérica\n\n🎯 Interesse: Sulamérica\n\n⚠️ Observação: Ana Carla\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Preto (0479)",
-          "msg_time": "2026-03-20T12:11:58.150216"
-        },
-        {
-          "role": "user",
-          "content": "Formato de mensagem enviada nao suportado",
-          "msg_time": "2026-03-20T12:56:04.24672"
-        },
-        {
-          "role": "system",
-          "content": "esse cara está mto quente\n\nvai no mais barato",
-          "msg_time": "2026-03-23T11:09:14.291629"
-        },
-        {
-          "role": "user",
-          "content": "ok\n\npode deixar",
-          "msg_time": "2026-03-23T11:10:25.291635"
         }
       ]
     },
@@ -2471,7 +2668,7 @@
       "first_message_at": "2026-03-22T00:00:00.000Z",
       "last_message_at": "2026-03-22T20:01:58.122000Z",
       "last_bot_msg_at": "2026-03-22T17:01:52.182687",
-      "tempo_sem_interacao": "23h 13min",
+      "tempo_sem_interacao": "23h 28min",
       "first_id": 19838,
       "last_id": 19923,
       "last_message_preview": "Dados Fornecidos\nNome: Carlos\nContem CNPJ: Sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o info...",
@@ -2537,7 +2734,7 @@
       "first_message_at": "2026-03-22T00:00:00.000Z",
       "last_message_at": "2026-03-22T19:27:57.827000Z",
       "last_bot_msg_at": "2026-03-22T16:27:52.357873",
-      "tempo_sem_interacao": "23h 47min",
+      "tempo_sem_interacao": "1 dia",
       "first_id": 19834,
       "last_id": 19922,
       "last_message_preview": "Dados Fornecidos\nNome: Normand\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o inf...",
@@ -3238,7 +3435,7 @@
       "first_message_at": "2026-03-23T00:00:00.000Z",
       "last_message_at": "2026-03-23T13:53:57.061000Z",
       "last_bot_msg_at": "2026-03-23T10:53:51.760565",
-      "tempo_sem_interacao": "5h 21min",
+      "tempo_sem_interacao": "5h 36min",
       "first_id": 19908,
       "last_id": 19909,
       "last_message_preview": "Dados Fornecidos\nNome: ijuciara\nContem CNPJ: não\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o in...",
@@ -3299,7 +3496,7 @@
       "first_message_at": "2026-03-23T00:00:00.000Z",
       "last_message_at": "2026-03-23T12:34:19.388000Z",
       "last_bot_msg_at": "2026-03-23T09:34:17.980351",
-      "tempo_sem_interacao": "6h 41min",
+      "tempo_sem_interacao": "6h 56min",
       "first_id": 19903,
       "last_id": 19906,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1327\nNome: Marcio\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns...",
@@ -3370,7 +3567,7 @@
       "first_message_at": "2026-03-23T00:00:00.000Z",
       "last_message_at": "2026-03-23T12:19:16.156000Z",
       "last_bot_msg_at": "2026-03-23T09:19:14.982717",
-      "tempo_sem_interacao": "6h 56min",
+      "tempo_sem_interacao": "7h 11min",
       "first_id": 19881,
       "last_id": 19902,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1323\nNome: \nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do c...",
@@ -3474,7 +3671,7 @@
       "first_message_at": "2026-03-23T00:00:00.000Z",
       "last_message_at": "2026-03-23T12:03:02.108000Z",
       "last_bot_msg_at": "2026-03-23T09:03:00.246719",
-      "tempo_sem_interacao": "7h 12min",
+      "tempo_sem_interacao": "7h 27min",
       "first_id": 19887,
       "last_id": 19900,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1325\nNome: Sergio Mocarzel\n\nMensagem(ns) do cliente:\n2.900,00",
@@ -3575,7 +3772,7 @@
       "first_message_at": "2026-03-23T00:00:00.000Z",
       "last_message_at": "2026-03-23T11:21:56.169000Z",
       "last_bot_msg_at": "2026-03-23T08:21:51.800151",
-      "tempo_sem_interacao": "7h 53min",
+      "tempo_sem_interacao": "8h 8min",
       "first_id": 19893,
       "last_id": 19894,
       "last_message_preview": "Dados Fornecidos\nNome: Marijalma\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o i...",
@@ -3636,7 +3833,7 @@
       "first_message_at": "2026-03-22T00:00:00.000Z",
       "last_message_at": "2026-03-23T02:41:54.916000Z",
       "last_bot_msg_at": "2026-03-22T23:41:49.983489",
-      "tempo_sem_interacao": "16h 33min",
+      "tempo_sem_interacao": "16h 48min",
       "first_id": 19879,
       "last_id": 19880,
       "last_message_preview": "Dados Fornecidos\nNome: Ágape\nContem CNPJ: não\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o infor...",
@@ -3697,7 +3894,7 @@
       "first_message_at": "2026-03-22T00:00:00.000Z",
       "last_message_at": "2026-03-23T02:41:47.329000Z",
       "last_bot_msg_at": "2026-03-22T23:41:45.903488",
-      "tempo_sem_interacao": "16h 33min",
+      "tempo_sem_interacao": "16h 48min",
       "first_id": 19867,
       "last_id": 19878,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1321\nNome: Nanazinha\n\nMensagem(ns) do cliente:\nQuero um plano top",
@@ -3808,7 +4005,7 @@
       "first_message_at": "2026-03-22T00:00:00.000Z",
       "last_message_at": "2026-03-23T00:26:58.033000Z",
       "last_bot_msg_at": "2026-03-22T21:26:51.311156",
-      "tempo_sem_interacao": "18h 48min",
+      "tempo_sem_interacao": "19h 3min",
       "first_id": 19865,
       "last_id": 19866,
       "last_message_preview": "Dados Fornecidos\nNome: Marilda\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o inf...",
@@ -3882,7 +4079,7 @@
       "first_message_at": "2026-03-22T00:00:00.000Z",
       "last_message_at": "2026-03-22T20:17:35.553000Z",
       "last_bot_msg_at": "2026-03-22T17:17:34.609389",
-      "tempo_sem_interacao": "22h 58min",
+      "tempo_sem_interacao": "23h 13min",
       "first_id": 19846,
       "last_id": 19862,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1318\nNome: Thais Melo\n\nMensagem(ns) do cliente:\nNão tenho",
@@ -3993,7 +4190,7 @@
       "first_message_at": "2026-03-22T00:00:00.000Z",
       "last_message_at": "2026-03-22T20:16:02.831000Z",
       "last_bot_msg_at": "2026-03-22T17:16:01.015059",
-      "tempo_sem_interacao": "22h 59min",
+      "tempo_sem_interacao": "23h 14min",
       "first_id": 19836,
       "last_id": 19860,
       "last_message_preview": "Ok! Obrigada pela assistência!",
@@ -4939,7 +5136,7 @@
       "first_message_at": "2026-03-20T00:00:00.000Z",
       "last_message_at": "2026-03-20T19:22:57.906000Z",
       "last_bot_msg_at": "2026-03-20T16:22:52.426629",
-      "tempo_sem_interacao": "2 dias",
+      "tempo_sem_interacao": "3 dias",
       "first_id": 19641,
       "last_id": 19719,
       "last_message_preview": "Dados Fornecidos\nNome: 𝓥𝓪𝓵𝓮𝓻𝓲𝓪\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒ...",
@@ -20516,7 +20713,7 @@
       "first_message_at": "2026-03-09T00:00:00.000Z",
       "last_message_at": "2026-03-09T19:06:57.427000Z",
       "last_bot_msg_at": "2026-03-09T16:20:45.241363",
-      "tempo_sem_interacao": "13 dias",
+      "tempo_sem_interacao": "14 dias",
       "first_id": 17805,
       "last_id": 18210,
       "last_message_preview": "Não tinha opção 1  Niterói\n\nNão tinha opção 1  Niterói",
@@ -21618,148 +21815,6 @@
           "role": "system",
           "content": "\n",
           "msg_time": "2026-03-10T12:31:29.227945"
-        }
-      ]
-    },
-    {
-      "session_id": "5521993593046@s.whatsapp.net",
-      "phone": "5521993593046",
-      "phone_display": "+55 21 99359-3046",
-      "lead": {
-        "baserow_id": 1081,
-        "nome": "Anderson",
-        "email": "anlunapaz@gmail.com",
-        "qtd_vidas": "",
-        "desinteresse": true,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Anderson",
-        "email": "anlunapaz@gmail.com",
-        "telefone": "+55 21 99359-3046",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "",
-        "consultor": "",
-        "codigo_corretor_b2cor": "",
-        "obs_crm": "",
-        "bot": "Gilbertinho Amarelo (2373)",
-        "formatted": "👤 Cliente: Anderson\n📧 E-mail: anlunapaz@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99359-3046\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)"
-      },
-      "status": "morno",
-      "bot": "amarelo",
-      "consultor": "",
-      "codigo_corretor_b2cor": "",
-      "message_count": 4,
-      "first_message_at": "2026-03-09T00:00:00.000Z",
-      "last_message_at": "2026-03-09T11:08:58.952000Z",
-      "last_bot_msg_at": "2026-03-09T08:08:52.924314",
-      "tempo_sem_interacao": "14 dias",
-      "first_id": 17548,
-      "last_id": 18189,
-      "last_message_preview": "Dados Fornecidos\nNome: Anderson\nContem CNPJ: não\nNumero de Vidas: 3_vidas\nOperadora de Interesse: nã...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados Fornecidos\nNome: Anderson\nContem CNPJ: não\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não informado\nRegião: Não Informado\nPropaganda:\n",
-          "msg_time": "2026-03-09T08:08:52.921984"
-        },
-        {
-          "role": "ai",
-          "content": "Oi Anderson, eu sou o Gilberto da GW9 Saúde. Você pediu nosso contato para saber mais sobre plano de saúde e mencionou que tem interesse para 3 pessoas. Para te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo bem?",
-          "msg_time": "2026-03-09T08:08:52.924314"
-        },
-        {
-          "role": "system",
-          "content": "\n",
-          "msg_time": "2026-03-10T11:01:29.580542"
-        },
-        {
-          "role": "system",
-          "content": "\n",
-          "msg_time": "2026-03-10T12:31:23.409161"
-        }
-      ]
-    },
-    {
-      "session_id": "5531995372039@s.whatsapp.net",
-      "phone": "5531995372039",
-      "phone_display": "+55 31 99537-2039",
-      "lead": {
-        "baserow_id": 1076,
-        "nome": "Rosimara",
-        "email": "rmaragf@gmail.com",
-        "qtd_vidas": "",
-        "desinteresse": true,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Rosimara",
-        "email": "rmaragf@gmail.com",
-        "telefone": "+55 31 99537-2039",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "",
-        "consultor": "",
-        "codigo_corretor_b2cor": "",
-        "obs_crm": "",
-        "bot": "Gilbertinho Amarelo (2373)",
-        "formatted": "👤 Cliente: Rosimara\n📧 E-mail: rmaragf@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 31 99537-2039\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)"
-      },
-      "status": "morno",
-      "bot": "amarelo",
-      "consultor": "",
-      "codigo_corretor_b2cor": "",
-      "message_count": 4,
-      "first_message_at": "2026-03-08T00:00:00.000Z",
-      "last_message_at": "2026-03-09T01:47:56.812000Z",
-      "last_bot_msg_at": "2026-03-08T22:47:52.311495",
-      "tempo_sem_interacao": "14 dias",
-      "first_id": 17490,
-      "last_id": 18184,
-      "last_message_preview": "Dados Fornecidos\nNome: Rosimara\nContem CNPJ: sim\nNumero de Vidas: 2_vidas\nOperadora de Interesse: nã...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados Fornecidos\nNome: Rosimara\nContem CNPJ: sim\nNumero de Vidas: 2_vidas\nOperadora de Interesse: não informado\nRegião: Não Informado\nPropaganda:\n",
-          "msg_time": "2026-03-08T22:47:52.309873"
-        },
-        {
-          "role": "ai",
-          "content": "Oi Rosimara, eu sou o Gilberto da GW9 Saúde. Você pediu o nosso contato para saber mais sobre plano de saúde e, como você já possui um CNPJ para 2 vidas, preciso confirmar algumas informações rápidas para te ajudar. Tudo bem?",
-          "msg_time": "2026-03-08T22:47:52.311495"
-        },
-        {
-          "role": "system",
-          "content": "\n",
-          "msg_time": "2026-03-10T11:01:10.711328"
-        },
-        {
-          "role": "system",
-          "content": "\n",
-          "msg_time": "2026-03-10T12:31:13.091127"
         }
       ]
     }
