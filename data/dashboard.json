@@ -1,17 +1,78 @@
 {
   "meta": {
-    "generated_at": "2026-03-24T20:55:22.125Z",
+    "generated_at": "2026-03-24T21:00:23.587Z",
     "total_conversations": 200,
-    "total_messages": 3710,
+    "total_messages": 3671,
     "stats": {
-      "quente": 93,
-      "morno": 59,
+      "quente": 94,
+      "morno": 58,
       "frio": 44,
       "desinteresse": 4,
       "sem_classificacao": 0
     }
   },
   "conversations": [
+    {
+      "session_id": "5521999166989@s.whatsapp.net",
+      "phone": "5521999166989",
+      "phone_display": "+55 21 99916-6989",
+      "lead": {
+        "baserow_id": 1386,
+        "nome": "Ana Maria",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "observacoes": "Ana Maria",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Ana Maria",
+        "email": "",
+        "telefone": "+55 21 99916-6989",
+        "vidas": [],
+        "cidade": "",
+        "contratacao": "",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "Bradesco",
+        "rede_preferencial": "",
+        "contato": "",
+        "consultor": "",
+        "codigo_corretor_b2cor": "",
+        "obs_crm": "Ana Maria",
+        "bot": "Não identificado",
+        "formatted": "👤 Cliente: Ana Maria\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99916-6989\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: Bradesco\n\n⚠️ Observação: Ana Maria\n✅ Status: Lead ativo\n🤖 Bot: Não identificado"
+      },
+      "status": "quente",
+      "bot": "desconhecido",
+      "consultor": "",
+      "codigo_corretor_b2cor": "",
+      "message_count": 2,
+      "first_message_at": "2026-03-24T00:00:00.000Z",
+      "last_message_at": "2026-03-24T20:59:10.261000Z",
+      "last_bot_msg_at": "2026-03-24T17:59:07.3363",
+      "tempo_sem_interacao": "3h 1min",
+      "first_id": 20277,
+      "last_id": 20278,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1386\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1386\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Bradesco",
+          "msg_time": "2026-03-24T17:59:07.330861"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-03-24T17:59:07.3363"
+        }
+      ]
+    },
     {
       "session_id": "5521981361150@s.whatsapp.net",
       "phone": "5521981361150",
@@ -69,7 +130,7 @@
       "first_message_at": "2026-03-24T00:00:00.000Z",
       "last_message_at": "2026-03-24T17:14:21.873000Z",
       "last_bot_msg_at": "2026-03-24T14:14:20.734043",
-      "tempo_sem_interacao": "6h 41min",
+      "tempo_sem_interacao": "6h 46min",
       "first_id": 20255,
       "last_id": 20276,
       "last_message_preview": "Formato de mensagem enviada nao suportado",
@@ -640,7 +701,7 @@
       "first_message_at": "2026-03-24T00:00:00.000Z",
       "last_message_at": "2026-03-24T16:42:14.791000Z",
       "last_bot_msg_at": "2026-03-24T13:42:13.718832",
-      "tempo_sem_interacao": "7h 13min",
+      "tempo_sem_interacao": "7h 18min",
       "first_id": 20239,
       "last_id": 20249,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1384\nNome: \nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do c...",
@@ -1034,7 +1095,7 @@
       "first_message_at": "2026-03-24T00:00:00.000Z",
       "last_message_at": "2026-03-24T16:46:20.203000Z",
       "last_bot_msg_at": "2026-03-24T13:46:19.089177",
-      "tempo_sem_interacao": "7h 9min",
+      "tempo_sem_interacao": "7h 14min",
       "first_id": 20200,
       "last_id": 20246,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1351\nNome: Ezio\nVidas: 4\nCidade: \nTipo Contratação: \n\nMensagem(ns)...",
@@ -1165,7 +1226,7 @@
       "first_message_at": "2026-03-24T00:00:00.000Z",
       "last_message_at": "2026-03-24T15:13:29.228000Z",
       "last_bot_msg_at": "2026-03-24T12:13:28.09261",
-      "tempo_sem_interacao": "8h 41min",
+      "tempo_sem_interacao": "8h 46min",
       "first_id": 20188,
       "last_id": 20198,
       "last_message_preview": "Ok",
@@ -1271,7 +1332,7 @@
       "first_message_at": "2026-03-24T00:00:00.000Z",
       "last_message_at": "2026-03-24T15:01:58.322000Z",
       "last_bot_msg_at": "2026-03-24T12:01:52.840794",
-      "tempo_sem_interacao": "8h 53min",
+      "tempo_sem_interacao": "8h 58min",
       "first_id": 20186,
       "last_id": 20187,
       "last_message_preview": "Dados Fornecidos\nNome: Francisca\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o i...",
@@ -1332,7 +1393,7 @@
       "first_message_at": "2026-03-24T00:00:00.000Z",
       "last_message_at": "2026-03-24T14:59:34.166000Z",
       "last_bot_msg_at": "2026-03-24T11:59:33.049963",
-      "tempo_sem_interacao": "8h 55min",
+      "tempo_sem_interacao": "9h",
       "first_id": 20182,
       "last_id": 20185,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1348\nNome: Regina\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns...",
@@ -1413,7 +1474,7 @@
       "first_message_at": "2026-03-24T00:00:00.000Z",
       "last_message_at": "2026-03-24T14:40:51.384000Z",
       "last_bot_msg_at": "2026-03-24T11:40:50.130059",
-      "tempo_sem_interacao": "9h 14min",
+      "tempo_sem_interacao": "9h 19min",
       "first_id": 20170,
       "last_id": 20181,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1346\nNome: Luiz Berriel\n\nMensagem(ns) do cliente:\nTenho o Saúde Br...",
@@ -1514,7 +1575,7 @@
       "first_message_at": "2026-03-24T00:00:00.000Z",
       "last_message_at": "2026-03-24T14:22:59.153000Z",
       "last_bot_msg_at": "2026-03-24T11:22:52.992074",
-      "tempo_sem_interacao": "9h 32min",
+      "tempo_sem_interacao": "9h 37min",
       "first_id": 20172,
       "last_id": 20173,
       "last_message_preview": "Dados Fornecidos\nNome: Maria\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o infor...",
@@ -2077,7 +2138,7 @@
       "first_message_at": "2026-03-24T00:00:00.000Z",
       "last_message_at": "2026-03-24T13:54:30.739000Z",
       "last_bot_msg_at": "2026-03-24T10:54:29.486574",
-      "tempo_sem_interacao": "10h",
+      "tempo_sem_interacao": "10h 5min",
       "first_id": 20139,
       "last_id": 20159,
       "last_message_preview": "62\n24\n30 dias",
@@ -2193,7 +2254,7 @@
       "first_message_at": "2026-03-24T13:54:41.434Z",
       "last_message_at": "2026-03-24T13:54:41.438Z",
       "last_bot_msg_at": "2026-03-24T10:54:41.43898",
-      "tempo_sem_interacao": "10h",
+      "tempo_sem_interacao": "10h 5min",
       "first_id": 20155,
       "last_id": 20156,
       "last_message_preview": "Dados Fornecidos\nNome: Lorrany\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o inf...",
@@ -2244,7 +2305,7 @@
       "first_message_at": "2026-03-24T13:52:53.096Z",
       "last_message_at": "2026-03-24T13:52:53.099Z",
       "last_bot_msg_at": "2026-03-24T10:52:53.099588",
-      "tempo_sem_interacao": "10h 2min",
+      "tempo_sem_interacao": "10h 7min",
       "first_id": 20149,
       "last_id": 20150,
       "last_message_preview": "Dados Fornecidos\nNome: Vania\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o infor...",
@@ -2305,7 +2366,7 @@
       "first_message_at": "2026-03-24T00:00:00.000Z",
       "last_message_at": "2026-03-24T13:50:58.628000Z",
       "last_bot_msg_at": "2026-03-24T10:50:52.40241",
-      "tempo_sem_interacao": "10h 4min",
+      "tempo_sem_interacao": "10h 9min",
       "first_id": 20143,
       "last_id": 20144,
       "last_message_preview": "Dados Fornecidos\nNome: Nilza\nContem CNPJ: não\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o infor...",
@@ -2366,7 +2427,7 @@
       "first_message_at": "2026-03-24T00:00:00.000Z",
       "last_message_at": "2026-03-24T12:18:57.510000Z",
       "last_bot_msg_at": "2026-03-24T09:18:52.691469",
-      "tempo_sem_interacao": "11h 36min",
+      "tempo_sem_interacao": "11h 41min",
       "first_id": 20135,
       "last_id": 20136,
       "last_message_preview": "Dados Fornecidos\nNome: Andrezito\nContem CNPJ: não\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o i...",
@@ -2427,7 +2488,7 @@
       "first_message_at": "2026-03-24T00:00:00.000Z",
       "last_message_at": "2026-03-24T12:06:57.092000Z",
       "last_bot_msg_at": "2026-03-24T09:06:52.259452",
-      "tempo_sem_interacao": "11h 48min",
+      "tempo_sem_interacao": "11h 53min",
       "first_id": 20133,
       "last_id": 20134,
       "last_message_preview": "Dados Fornecidos\nNome: Vanessa\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o inf...",
@@ -2504,7 +2565,7 @@
       "first_message_at": "2026-03-24T00:00:00.000Z",
       "last_message_at": "2026-03-24T12:01:01.590000Z",
       "last_bot_msg_at": "2026-03-24T09:00:59.970477",
-      "tempo_sem_interacao": "11h 54min",
+      "tempo_sem_interacao": "11h 59min",
       "first_id": 20112,
       "last_id": 20132,
       "last_message_preview": "Ok obrigado bom dia",
@@ -2756,7 +2817,7 @@
       "first_message_at": "2026-03-23T00:00:00.000Z",
       "last_message_at": "2026-03-24T10:15:41.578000Z",
       "last_bot_msg_at": "2026-03-24T07:15:40.032483",
-      "tempo_sem_interacao": "13h 39min",
+      "tempo_sem_interacao": "13h 44min",
       "first_id": 20101,
       "last_id": 20110,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1340\nNome: \n\nMensagem(ns) do cliente:\nSim Bradesco Nacional. 4.800...",
@@ -2857,7 +2918,7 @@
       "first_message_at": "2026-03-23T00:00:00.000Z",
       "last_message_at": "2026-03-24T00:53:57.898000Z",
       "last_bot_msg_at": "2026-03-23T21:53:51.580726",
-      "tempo_sem_interacao": "23h 1min",
+      "tempo_sem_interacao": "23h 6min",
       "first_id": 20099,
       "last_id": 20100,
       "last_message_preview": "Dados Fornecidos\nNome: Fiore\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o infor...",
@@ -2908,7 +2969,7 @@
       "first_message_at": "2026-03-24T00:35:53.377Z",
       "last_message_at": "2026-03-24T00:35:53.381Z",
       "last_bot_msg_at": "2026-03-23T21:35:53.381076",
-      "tempo_sem_interacao": "23h 19min",
+      "tempo_sem_interacao": "23h 24min",
       "first_id": 20097,
       "last_id": 20098,
       "last_message_preview": "Dados Fornecidos\nNome: Nilza\nContem CNPJ: não\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o infor...",
@@ -21360,262 +21421,6 @@
           "role": "system",
           "content": "Vinícius, imagino que esteja ocupado. Quando tiver um tempo, posso ajudar a agendar a ligação do especialista. Estou à disposição!",
           "msg_time": "2026-03-10T19:00:36.325738"
-        }
-      ]
-    },
-    {
-      "session_id": "5521992964203@s.whatsapp.net",
-      "phone": "5521992964203",
-      "phone_display": "+55 21 99296-4203",
-      "lead": {
-        "baserow_id": 1102,
-        "nome": "Thaiane Ataide🦋",
-        "email": "",
-        "qtd_vidas": "",
-        "desinteresse": true,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Thaiane Ataide🦋",
-        "email": "",
-        "telefone": "+55 21 99296-4203",
-        "vidas": [],
-        "cidade": "São João de Meriti / RJ",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "MEI",
-        "profissao": "",
-        "plano_atual": "Nenhum",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "Caxias D'Or",
-        "contato": "WhatsApp / Ligação",
-        "consultor": "te",
-        "codigo_corretor_b2cor": "",
-        "obs_crm": "",
-        "bot": "Gilbertinho Amarelo (2373)",
-        "formatted": "👤 Cliente: Thaiane Ataide🦋\n📱 Contato: WhatsApp / Ligação\n📞 Telefone: +55 21 99296-4203\n\n📋 Dados contratuais:\n\nCidade: São João de Meriti / RJ\nContratação: CNPJ\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n🎯 Rede preferencial: Caxias D'Or\n👤 Distribuído para: te\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)"
-      },
-      "status": "morno",
-      "bot": "amarelo",
-      "consultor": "te",
-      "codigo_corretor_b2cor": "",
-      "message_count": 41,
-      "first_message_at": "2026-03-09T00:00:00.000Z",
-      "last_message_at": "2026-03-10T14:06:36.946000Z",
-      "last_bot_msg_at": "2026-03-10T11:06:36.507226",
-      "tempo_sem_interacao": "14 dias",
-      "first_id": 17822,
-      "last_id": 18275,
-      "last_message_preview": "Pode ser hoje",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Ola, gostaria de uma cotação de um plano de saúde caxias D'or",
-          "msg_time": "2026-03-09T16:45:18.009989"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Eu sou Gilberto, analista em Plano Saúde da Corretora GW9. 🚀\nTrabalhamos com todos os planos de saúde no Rio de Janeiro. Vou te ajudar com as melhores opções.\n\nQual o seu nome?",
-          "msg_time": "2026-03-09T16:45:18.012887"
-        },
-        {
-          "role": "user",
-          "content": "Meu nome e thaiane\n\nMais queria fazer um plano pra minha mae\n\nQue seja do Caxias dor",
-          "msg_time": "2026-03-09T16:48:00.154421"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Thaiane! É importante saber a idade da sua mãe para cotar o plano ideal no Caxias D'Or.\n\nPode me informar a idade dela, por favor? E em qual cidade será usado o plano?",
-          "msg_time": "2026-03-09T16:48:00.161307"
-        },
-        {
-          "role": "user",
-          "content": "49",
-          "msg_time": "2026-03-09T16:48:32.689442"
-        },
-        {
-          "role": "ai",
-          "content": "Obrigado pela informação, Thaiane.\n\nSó para confirmar, o plano será só para sua mãe (uma vida), certo? E será para Caxias do Sul ou outra cidade?\n\nTambém, você sabe se será contratado no CPF dela (pessoa física) ou em CNPJ?",
-          "msg_time": "2026-03-09T16:48:32.691712"
-        },
-        {
-          "role": "user",
-          "content": "Vai ser utilizado no Caxias dor",
-          "msg_time": "2026-03-09T16:49:40.521239"
-        },
-        {
-          "role": "ai",
-          "content": "Obrigada pela confirmação de uso no Caxias D’Or.\n\nSó falta saber como será a contratação: no CPF dela (pessoa física) ou CNPJ/MEI (empresa)? Planos empresariais costumam ter até 30–40% de desconto.",
-          "msg_time": "2026-03-09T16:49:40.522977"
-        },
-        {
-          "role": "user",
-          "content": "930.606.375.04",
-          "msg_time": "2026-03-09T16:50:41.356825"
-        },
-        {
-          "role": "ai",
-          "content": "Perfeito, Thaiane! Esse número é o CPF da sua mãe para a contratação?\n\nAlém disso, ela já tem plano de saúde hoje ou está sem? E tem algum hospital ou médico que façam questão de manter na rede?",
-          "msg_time": "2026-03-09T16:50:41.359486"
-        },
-        {
-          "role": "user",
-          "content": "CPF dela",
-          "msg_time": "2026-03-09T16:51:02.890115"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Thaiane, contratação no CPF dela.\n\nPara fechamento, qual a profissão dela? Algumas administradoras solicitam essa informação.\n\nE ela já possui plano de saúde hoje ou está sem?",
-          "msg_time": "2026-03-09T16:51:02.894241"
-        },
-        {
-          "role": "user",
-          "content": "Eu que vou pagar\n\nEla e autônoma\n\nEstar sem",
-          "msg_time": "2026-03-09T16:51:58.533214"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Thaiane! Você vai custear o plano, ela é autônoma e está sem plano atualmente. \n\nQual sua idade para incluir na cotação? E a cidade onde você está? Isso ajuda a encontrar o melhor preço e coberturas.",
-          "msg_time": "2026-03-09T16:51:58.540186"
-        },
-        {
-          "role": "user",
-          "content": "34 anos\n\nRio de Janeiro\n\nSão João de Meriti",
-          "msg_time": "2026-03-09T16:53:08.392723"
-        },
-        {
-          "role": "ai",
-          "content": "Perfeito, Thaiane. Entendi que você tem 34 anos e mora em São João de Meriti, RJ.\n\nAgora vamos validar as informações: plano para sua mãe de 49 anos, sem plano atualmente, contratação via CPF dela, e você custeando o plano. Está correto?",
-          "msg_time": "2026-03-09T16:53:08.39463"
-        },
-        {
-          "role": "user",
-          "content": "Isso",
-          "msg_time": "2026-03-09T16:53:57.762841"
-        },
-        {
-          "role": "ai",
-          "content": "Thaiane, para te enviar a cotação correta, preciso confirmar as idades de todas as pessoas que vão entrar no plano. Você mencionou a sua mãe e você, certo? Pode me confirmar sua idade novamente para finalizar?",
-          "msg_time": "2026-03-09T16:53:57.767894"
-        },
-        {
-          "role": "user",
-          "content": "34\n\nThaiane \n\nA Isis, nossa especialista,  vai te chamar para te passar algumas opções.\n\nCombinado?\n\nOk",
-          "msg_time": "2026-03-09T16:55:57.198913"
-        },
-        {
-          "role": "ai",
-          "content": "Thaiane, nossa especialista Ísis vai te chamar para apresentar as opções do plano Caxias D'Or para sua mãe. Combinado?",
-          "msg_time": "2026-03-09T16:55:57.201289"
-        },
-        {
-          "role": "user",
-          "content": "Ok\n\nMuito obrigado",
-          "msg_time": "2026-03-09T16:57:13.969179"
-        },
-        {
-          "role": "ai",
-          "content": "Thaiane, nossa especialista Ísis vai entrar em contato para apresentar as opções do plano Caxias D'Or para sua mãe. Muito obrigado por confiar na gente! Qualquer dúvida, estou aqui.",
-          "msg_time": "2026-03-09T16:57:13.971074"
-        },
-        {
-          "role": "user",
-          "content": "Ok",
-          "msg_time": "2026-03-09T17:00:27.550531"
-        },
-        {
-          "role": "ai",
-          "content": "Thaiane, nossa especialista Ísis vai entrar em contato para apresentar as opções do plano Caxias D'Or para sua mãe. Muito obrigado por confiar na gente! Qualquer dúvida, estou aqui.",
-          "msg_time": "2026-03-09T17:00:27.552791"
-        },
-        {
-          "role": "system",
-          "content": "Thaiane, ainda está por aí? Estou aguardando sua resposta para dar sequência.",
-          "msg_time": "2026-03-09T19:01:04.031748"
-        },
-        {
-          "role": "user",
-          "content": "Sim",
-          "msg_time": "2026-03-09T19:07:06.421039"
-        },
-        {
-          "role": "ai",
-          "content": "Thaiane, vou registrar agora suas informações para encaminhar para a especialista Ísis. Obrigado pela paciência! Em breve ela entrará em contato para te ajudar com a cotação do plano Caxias D'Or.",
-          "msg_time": "2026-03-09T19:07:06.422976"
-        },
-        {
-          "role": "user",
-          "content": "Ok",
-          "msg_time": "2026-03-09T19:07:57.639821"
-        },
-        {
-          "role": "ai",
-          "content": "Thaiane, já encaminhei todos os seus dados para a especialista Ísis. Em breve ela entrará em contato para ajudar com a cotação do plano Caxias D'Or para sua mãe. Muito obrigado!",
-          "msg_time": "2026-03-09T19:07:57.641764"
-        },
-        {
-          "role": "user",
-          "content": "Obrigado vc",
-          "msg_time": "2026-03-09T19:08:37.428862"
-        },
-        {
-          "role": "ai",
-          "content": "Thaiane, nossa especialista Ísis está pronta para te ajudar com a cotação do plano Caxias D'Or. Obrigado pela confiança! Em breve ela entrará em contato.",
-          "msg_time": "2026-03-09T19:08:37.430629"
-        },
-        {
-          "role": "user",
-          "content": "Formato de mensagem enviada nao suportado",
-          "msg_time": "2026-03-09T19:09:14.286268"
-        },
-        {
-          "role": "ai",
-          "content": "Thaiane, para finalizar preciso confirmar o número de vidas e idades no registro para encaminhar ao especialista. Você mencionou só sua mãe e você, certo? Vou registrar só vocês duas para garantir. Confirmo e já passo para o consultor. Pode ser?",
-          "msg_time": "2026-03-09T19:09:14.288357"
-        },
-        {
-          "role": "system",
-          "content": "\n",
-          "msg_time": "2026-03-10T11:03:13.676197"
-        },
-        {
-          "role": "user",
-          "content": "Tenho interesse sem ontem. Você falou que a menina entra em contato comigo, mas ninguém falou nada. Só ficou vindo essas mensagens. Eu acho que a mensagem programada",
-          "msg_time": "2026-03-10T11:05:32.951976"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Thaiane! Peço desculpas pela demora. Vou verificar aqui para agilizar o contato com a especialista Ísis. Quer que eu confirme o melhor dia e horário para ela te ligar?",
-          "msg_time": "2026-03-10T11:05:32.954207"
-        },
-        {
-          "role": "user",
-          "content": "Pode ser hoje",
-          "msg_time": "2026-03-10T11:06:36.504988"
-        },
-        {
-          "role": "ai",
-          "content": "👍 Obrigado, Thaiane!\n\nQual horário fica melhor para te ligar hoje? E prefere WhatsApp, ligação ou vídeo?",
-          "msg_time": "2026-03-10T11:06:36.507226"
-        },
-        {
-          "role": "system",
-          "content": "Thaiane, imagino que esteja ocupada, sem problema. Quando tiver um tempo, estou à disposição para te ajudar. Qual horário fica melhor para a Ísis te ligar hoje?",
-          "msg_time": "2026-03-10T12:31:19.811545"
-        },
-        {
-          "role": "system",
-          "content": "\n",
-          "msg_time": "2026-03-10T12:32:55.823349"
-        },
-        {
-          "role": "system",
-          "content": "Thaiane, estou aqui para te ajudar. Você pode me dizer qual horário fica melhor para a Ísis te ligar hoje? Assim conseguimos agilizar a cotação do plano Caxias D'Or.",
-          "msg_time": "2026-03-10T19:00:30.092981"
         }
       ]
     }
