@@ -1,17 +1,86 @@
 {
   "meta": {
-    "generated_at": "2026-03-25T23:00:42.893Z",
+    "generated_at": "2026-03-25T23:15:41.635Z",
     "total_conversations": 200,
-    "total_messages": 3429,
+    "total_messages": 3404,
     "stats": {
       "quente": 0,
-      "morno": 15,
+      "morno": 16,
       "frio": 18,
-      "desinteresse": 167,
+      "desinteresse": 166,
       "sem_classificacao": 0
     }
   },
   "conversations": [
+    {
+      "session_id": "5521991073716@s.whatsapp.net",
+      "phone": "5521991073716",
+      "phone_display": "+55 21 99107-3716",
+      "lead": {
+        "baserow_id": 1440,
+        "nome": "Luiz",
+        "email": "luizassisfaria@gmail.com",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "observacoes": "",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Luiz",
+        "email": "luizassisfaria@gmail.com",
+        "telefone": "+55 21 99107-3716",
+        "vidas": [],
+        "cidade": "",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "Sulamérica",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Luiz\n📧 E-mail: luizassisfaria@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99107-3716\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n\n🎯 Interesse: Sulamérica\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "morno",
+      "bot": "preto",
+      "consultor": "",
+      "message_count": 4,
+      "first_message_at": "2026-03-25T00:00:00.000Z",
+      "last_message_at": "2026-03-25T23:09:33.651000Z",
+      "last_bot_msg_at": "2026-03-25T20:09:46.467255",
+      "tempo_sem_interacao": "3h 5min",
+      "first_id": 20513,
+      "last_id": 20516,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1439\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados Fornecidos\nNome: Luiz\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o informado\nRegiÃƒÂ£o: NÃƒÂ£o Informado\nPropaganda:\n",
+          "msg_time": "2026-03-25T20:09:27.946857"
+        },
+        {
+          "role": "ai",
+          "content": "Oi Luiz! Sou o Gilberto da GW9, corretora de planos de saúde. Você pediu nosso contato para saber mais sobre plano de saúde e vi que já possui um CNPJ. Para te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo certo?",
+          "msg_time": "2026-03-25T20:09:27.954457"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1439\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Sulamérica",
+          "msg_time": "2026-03-25T20:09:46.46522"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te ajudar com a cotação do plano Sulamérica, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-03-25T20:09:46.467255"
+        }
+      ]
+    },
     {
       "session_id": "5521994152995@s.whatsapp.net",
       "phone": "5521994152995",
@@ -653,7 +722,7 @@
       "first_message_at": "2026-03-25T00:00:00.000Z",
       "last_message_at": "2026-03-25T22:43:32.682000Z",
       "last_bot_msg_at": "2026-03-25T19:43:27.932068",
-      "tempo_sem_interacao": "3h 17min",
+      "tempo_sem_interacao": "3h 32min",
       "first_id": 20503,
       "last_id": 20504,
       "last_message_preview": "Dados Fornecidos\nNome: Tania\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o infor...",
@@ -719,7 +788,7 @@
       "first_message_at": "2025-12-15T00:00:00.000Z",
       "last_message_at": "2026-03-25T21:57:21.139Z",
       "last_bot_msg_at": "2026-03-25T21:57:21.139Z",
-      "tempo_sem_interacao": "1h 3min",
+      "tempo_sem_interacao": "1h 18min",
       "first_id": 742,
       "last_id": 20502,
       "last_message_preview": "<ContextoImagem>\n\n  <DetalheImagem>\n\n  </DetalheImagem>\n\nContexto Extra: O usuário encaminhou a mens...",
@@ -1031,7 +1100,7 @@
       "first_message_at": "2026-03-25T00:00:00.000Z",
       "last_message_at": "2026-03-25T21:38:26.224000Z",
       "last_bot_msg_at": "2026-03-25T18:38:24.758616",
-      "tempo_sem_interacao": "4h 22min",
+      "tempo_sem_interacao": "4h 37min",
       "first_id": 20338,
       "last_id": 20496,
       "last_message_preview": "Vou aguardar",
@@ -1220,7 +1289,7 @@
       "first_message_at": "2026-03-25T00:00:00.000Z",
       "last_message_at": "2026-03-25T21:32:11.697000Z",
       "last_bot_msg_at": "2026-03-25T18:32:10.333035",
-      "tempo_sem_interacao": "4h 28min",
+      "tempo_sem_interacao": "4h 43min",
       "first_id": 20326,
       "last_id": 20493,
       "last_message_preview": "Poxa não Obrigada",
@@ -1414,7 +1483,7 @@
       "first_message_at": "2026-03-25T00:00:00.000Z",
       "last_message_at": "2026-03-25T21:03:59.562000Z",
       "last_bot_msg_at": "2026-03-25T18:03:58.427547",
-      "tempo_sem_interacao": "4h 56min",
+      "tempo_sem_interacao": "5h 11min",
       "first_id": 20368,
       "last_id": 20439,
       "last_message_preview": "Que ótimo\nMuito obrigado",
@@ -1543,7 +1612,7 @@
       "first_message_at": "2026-03-25T00:00:00.000Z",
       "last_message_at": "2026-03-25T20:29:15.242000Z",
       "last_bot_msg_at": "2026-03-25T17:29:14.143396",
-      "tempo_sem_interacao": "5h 31min",
+      "tempo_sem_interacao": "5h 46min",
       "first_id": 20395,
       "last_id": 20396,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1404\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -1612,7 +1681,7 @@
       "first_message_at": "2026-03-25T00:00:00.000Z",
       "last_message_at": "2026-03-25T20:23:47.453000Z",
       "last_bot_msg_at": "2026-03-25T17:23:46.238527",
-      "tempo_sem_interacao": "5h 36min",
+      "tempo_sem_interacao": "5h 51min",
       "first_id": 20381,
       "last_id": 20394,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1402\nNome: Amanda\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns...",
@@ -1731,7 +1800,7 @@
       "first_message_at": "2026-03-25T00:00:00.000Z",
       "last_message_at": "2026-03-25T18:46:26.081000Z",
       "last_bot_msg_at": "2026-03-25T15:46:24.618688",
-      "tempo_sem_interacao": "7h 14min",
+      "tempo_sem_interacao": "7h 29min",
       "first_id": 20352,
       "last_id": 20380,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1398\nNome: Benedito\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(...",
@@ -1800,7 +1869,7 @@
       "first_message_at": "2026-03-24T00:00:00.000Z",
       "last_message_at": "2026-03-25T18:45:44.918000Z",
       "last_bot_msg_at": "2026-03-25T15:45:43.437467",
-      "tempo_sem_interacao": "7h 14min",
+      "tempo_sem_interacao": "7h 29min",
       "first_id": 20308,
       "last_id": 20378,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1391\nNome: Simone\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns...",
@@ -1879,7 +1948,7 @@
       "first_message_at": "2026-03-25T00:00:00.000Z",
       "last_message_at": "2026-03-25T18:24:20.247000Z",
       "last_bot_msg_at": "2026-03-25T15:24:14.521354",
-      "tempo_sem_interacao": "7h 36min",
+      "tempo_sem_interacao": "7h 51min",
       "first_id": 20373,
       "last_id": 20374,
       "last_message_preview": "Dados Fornecidos\nNome: Silverio\nContem CNPJ: não\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o in...",
@@ -1928,7 +1997,7 @@
       "first_message_at": "2026-03-25T18:22:28.153Z",
       "last_message_at": "2026-03-25T18:22:28.162Z",
       "last_bot_msg_at": "2026-03-25T15:22:28.162917",
-      "tempo_sem_interacao": "7h 38min",
+      "tempo_sem_interacao": "7h 53min",
       "first_id": 20371,
       "last_id": 20372,
       "last_message_preview": "Dados Fornecidos\nNome: Daniele\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o inf...",
@@ -2129,7 +2198,7 @@
       "first_message_at": "2026-03-18T23:43:17.891Z",
       "last_message_at": "2026-03-25T18:17:40.564Z",
       "last_bot_msg_at": "2026-03-25T15:17:40.564425",
-      "tempo_sem_interacao": "7h 43min",
+      "tempo_sem_interacao": "7h 58min",
       "first_id": 19447,
       "last_id": 20367,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1399\nNome: \n\nMensagem(ns) do cliente:\nOi",
@@ -2940,7 +3009,7 @@
       "first_message_at": "2026-03-25T00:00:00.000Z",
       "last_message_at": "2026-03-25T13:36:58Z",
       "last_bot_msg_at": "2026-03-25T10:36:53.026748",
-      "tempo_sem_interacao": "12h 23min",
+      "tempo_sem_interacao": "12h 38min",
       "first_id": 20340,
       "last_id": 20341,
       "last_message_preview": "Dados Fornecidos\nNome: Vanda\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o infor...",
@@ -2999,7 +3068,7 @@
       "first_message_at": "2026-03-25T00:00:00.000Z",
       "last_message_at": "2026-03-25T12:51:21.098000Z",
       "last_bot_msg_at": "2026-03-25T09:51:19.331503",
-      "tempo_sem_interacao": "13h 9min",
+      "tempo_sem_interacao": "13h 24min",
       "first_id": 20328,
       "last_id": 20337,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1395\nNome: Ávila ☪️🧘🏻‍♀️♌️🔮🪬🧿🌀🗝️🦋\n\nMensagem(ns) do cliente...",
@@ -3098,7 +3167,7 @@
       "first_message_at": "2026-03-25T00:00:00.000Z",
       "last_message_at": "2026-03-25T12:01:47.516000Z",
       "last_bot_msg_at": "2026-03-25T09:01:46.385548",
-      "tempo_sem_interacao": "13h 58min",
+      "tempo_sem_interacao": "14h 13min",
       "first_id": 20314,
       "last_id": 20325,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1393\nNome: Odair\n\nMensagem(ns) do cliente:\nNão tenho",
@@ -3207,7 +3276,7 @@
       "first_message_at": "2026-03-25T00:00:00.000Z",
       "last_message_at": "2026-03-25T11:03:00Z",
       "last_bot_msg_at": "2026-03-25T08:02:54.645348",
-      "tempo_sem_interacao": "14h 57min",
+      "tempo_sem_interacao": "15h 12min",
       "first_id": 20312,
       "last_id": 20313,
       "last_message_preview": "Dados Fornecidos\nNome: Angela\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o info...",
@@ -10185,7 +10254,7 @@
       "first_message_at": "2026-03-19T00:00:00.000Z",
       "last_message_at": "2026-03-20T02:02:53.244000Z",
       "last_bot_msg_at": "2026-03-19T23:02:51.675967",
-      "tempo_sem_interacao": "5 dias",
+      "tempo_sem_interacao": "6 dias",
       "first_id": 19585,
       "last_id": 19624,
       "last_message_preview": "SulAmérica\n\nComo no anúncio de vcs",
@@ -12457,7 +12526,7 @@
       "first_message_at": "2026-03-17T00:00:00.000Z",
       "last_message_at": "2026-03-18T02:03:09.813000Z",
       "last_bot_msg_at": "2026-03-17T23:03:04.276521",
-      "tempo_sem_interacao": "7 dias",
+      "tempo_sem_interacao": "8 dias",
       "first_id": 19144,
       "last_id": 19482,
       "last_message_preview": "Dados Fornecidos\nNome: Afonso\nContem CNPJ: sim\nNumero de Vidas: 2_vidas\nOperadora de Interesse: não ...",
@@ -19995,200 +20064,6 @@
           "role": "system",
           "content": "Antonio \n\nA Isis nossa especilista vai lhe chamar agora para passar algumas opções.\n\nObrigada pelo seu tempo.",
           "msg_time": "2026-03-11T13:55:01.386606"
-        }
-      ]
-    },
-    {
-      "session_id": "5521992652483@s.whatsapp.net",
-      "phone": "5521992652483",
-      "phone_display": "+55 21 99265-2483",
-      "lead": {
-        "baserow_id": 1131,
-        "nome": "Marcela",
-        "email": "",
-        "qtd_vidas": "",
-        "desinteresse": true,
-        "observacoes": "",
-        "reagendamento": "2026-03-11T18:00:00Z",
-        "corretor": "João",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Marcela",
-        "email": "",
-        "telefone": "+55 21 99265-2483",
-        "vidas": [],
-        "cidade": "Rio de Janeiro / RJ",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "MEI",
-        "profissao": "",
-        "plano_atual": "Nenhum",
-        "motivo": "",
-        "interesse": "Barra D'or",
-        "rede_preferencial": "Barra D'Or",
-        "contato": "WhatsApp",
-        "consultor": "João",
-        "obs_crm": "",
-        "bot": "Gilbertinho Amarelo (2373)",
-        "formatted": "👤 Cliente: Marcela\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99265-2483\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n🎯 Rede preferencial: Barra D'Or\n\n🎯 Interesse: Barra D'or\n👤 Consultor: João\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Amarelo (2373)"
-      },
-      "status": "desinteresse",
-      "bot": "amarelo",
-      "consultor": "João",
-      "message_count": 29,
-      "first_message_at": "2026-03-11T00:00:00.000Z",
-      "last_message_at": "2026-03-11T16:20:12.975000Z",
-      "last_bot_msg_at": "2026-03-11T13:20:12.4652",
-      "tempo_sem_interacao": "14 dias",
-      "first_id": 18390,
-      "last_id": 18560,
-      "last_message_preview": "Muito obrigada pela atenção",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Ola, gostaria de uma cotação de um plano de saúde Barra D'or",
-          "msg_time": "2026-03-11T00:10:50.467534"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Eu sou Gilberto, analista em Plano Saúde da Corretora GW9. 🚀 Trabalhamos com todos os Planos de saúde no Rio de Janeiro. Vou te ajudar a entender as melhores opções de plano e, se fizer sentido, já deixo tudo organizado para o especialista te atender de forma objetiva. Pode ser? Qual o seu nome?",
-          "msg_time": "2026-03-11T00:10:50.469843"
-        },
-        {
-          "role": "user",
-          "content": "Eu tenho 50 anos e meu marido  60 anos",
-          "msg_time": "2026-03-11T00:12:01.830667"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, para vocês dois então. Para apresentar o melhor plano, preciso só saber: em qual cidade do Rio de Janeiro o plano será usado? E como o plano será contratado: por CPF (pessoa física) ou CNPJ/MEI (empresa)? Pode me informar?",
-          "msg_time": "2026-03-11T00:12:01.851793"
-        },
-        {
-          "role": "user",
-          "content": "Planos para CNPJ",
-          "msg_time": "2026-03-11T00:12:19.037797"
-        },
-        {
-          "role": "ai",
-          "content": "Perfeito! Para verificarmos as operadoras disponíveis, você pode me informar o número do CNPJ? Em algumas seguradoras, o tipo e o tempo de abertura da empresa podem gerar descontos ou restrições. Se não souber, me diga se é MEI ou LTDA e há quanto tempo está aberta.",
-          "msg_time": "2026-03-11T00:12:19.039807"
-        },
-        {
-          "role": "system",
-          "content": "Ainda está por aí? Estou aguardando sua resposta para dar sequência.",
-          "msg_time": "2026-03-11T09:00:21.892003"
-        },
-        {
-          "role": "system",
-          "content": "Como comentei antes, preciso dessas informações para te enviar as melhores opções de plano de saúde. Você pode me informar o número do CNPJ ou se é MEI/LTDA e há quanto tempo está aberta?",
-          "msg_time": "2026-03-11T12:30:32.190447"
-        },
-        {
-          "role": "user",
-          "content": "Boa tarde, tudo bem? Vou ver e te passo no final da tarde.",
-          "msg_time": "2026-03-11T12:31:59.762186"
-        },
-        {
-          "role": "ai",
-          "content": "Ótimo, vou aguardar sua informação no final da tarde para dar continuidade. Enquanto isso, só para confirmar: são duas pessoas, você com 50 anos e seu marido com 60, certo? E o plano será usado no Rio de Janeiro?",
-          "msg_time": "2026-03-11T12:31:59.766146"
-        },
-        {
-          "role": "user",
-          "content": "O Mei precisa estar aberta há quanto tempo?",
-          "msg_time": "2026-03-11T12:36:44.367726"
-        },
-        {
-          "role": "ai",
-          "content": "🤔 Normalmente, para planos empresariais MEI, as seguradoras pedem que a empresa esteja aberta há pelo menos 6 meses para oferecer melhores condições. Se quiser, posso anotar isso para o consultor explicar melhor depois. Quer que eu registre essa dúvida?",
-          "msg_time": "2026-03-11T12:36:44.370736"
-        },
-        {
-          "role": "system",
-          "content": "Oi Marcela\nDesculpe \nAtivo a mais de 6 meses",
-          "msg_time": "2026-03-11T13:10:04.658096"
-        },
-        {
-          "role": "system",
-          "content": "Esse CNPJ existe desde 1984 rs",
-          "msg_time": "2026-03-11T13:12:25.280075"
-        },
-        {
-          "role": "user",
-          "content": "Seria apenas para 2 no momento\n\nFormato de mensagem enviada nao suportado",
-          "msg_time": "2026-03-11T13:17:34.090839"
-        },
-        {
-          "role": "system",
-          "content": "A contratação seria nesse CNPJ ?",
-          "msg_time": "2026-03-11T13:18:17.580255"
-        },
-        {
-          "role": "user",
-          "content": "Tenho outro mei, por isso perguntei do prazo",
-          "msg_time": "2026-03-11T13:20:12.46107"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, você tem dois MEIs. A contratação será pelo CNPJ do MEI aberto desde 1984, certo? Só pra confirmar, será para duas pessoas usando esse plano, correto? E qual a cidade onde o plano será utilizado?",
-          "msg_time": "2026-03-11T13:20:12.4652"
-        },
-        {
-          "role": "system",
-          "content": "Acredito que a contratação por esse que passou com mais tempo tenha uma precificação melhor.",
-          "msg_time": "2026-03-11T13:21:14.091936"
-        },
-        {
-          "role": "system",
-          "content": "Para passar para o especialista... Marcela qual região que você mora ?",
-          "msg_time": "2026-03-11T13:21:31.58229"
-        },
-        {
-          "role": "system",
-          "content": "Você hoje já possui Plano de Saúde?",
-          "msg_time": "2026-03-11T13:21:51.290146"
-        },
-        {
-          "role": "system",
-          "content": "Marcela,\n\nAssim que conseguir me responder a Elisa nossa especialista vai te chamar para te passar algumas opções.\n\nEssa informação é importante para conseguirmos te enviar um plano compativel com o que vc já possui hoje, se tiver.",
-          "msg_time": "2026-03-11T13:48:38.740218"
-        },
-        {
-          "role": "user",
-          "content": "Sim. Rio de Janeiro",
-          "msg_time": "2026-03-11T13:49:27.943142"
-        },
-        {
-          "role": "user",
-          "content": "Eu não sabia que fazia diferença",
-          "msg_time": "2026-03-11T13:49:51.801113"
-        },
-        {
-          "role": "user",
-          "content": "Deixa eu te perguntar uma coisa, neste CNPJ tem Unimed atrelado. Isso tem problema?",
-          "msg_time": "2026-03-11T13:50:28.340691"
-        },
-        {
-          "role": "user",
-          "content": "Estamos sem plano no momento",
-          "msg_time": "2026-03-11T13:50:45.490081"
-        },
-        {
-          "role": "system",
-          "content": "Nenhum! Vocë pode ter mais de uma operadora no CNPK\n\nNenhum! Vocë pode ter mais de uma operadora no CNPJ\n\nAh, ótimo\n\nMarcela,\n\nAssim que conseguir me responder a Joao nossa especialista vai te chamar para te passar algumas opções.\n\nEssa informação é importante para conseguirmos te enviar um plano compativel com o que vc já possui hoje, se tiver.",
-          "msg_time": "2026-03-11T13:51:30.48207"
-        },
-        {
-          "role": "system",
-          "content": "Marcela\n\nJa enviei todas essas informações para o  João, nosso especialista,  que vai lhe camar agora para te trazer as melhores opçoes.",
-          "msg_time": "2026-03-11T13:52:16.40751"
-        },
-        {
-          "role": "user",
-          "content": "Muito obrigada pela atenção",
-          "msg_time": "2026-03-11T13:52:39.283881"
         }
       ]
     }
