@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_at": "2026-03-25T21:44:02.846Z",
+    "generated_at": "2026-03-25T21:45:41.507Z",
     "total_conversations": 200,
-    "total_messages": 3427,
+    "total_messages": 3428,
     "stats": {
       "quente": 2,
       "morno": 14,
@@ -12,6 +12,203 @@
     }
   },
   "conversations": [
+    {
+      "session_id": "5521982810119@s.whatsapp.net",
+      "phone": "5521982810119",
+      "phone_display": "+55 21 98281-0119",
+      "lead": {
+        "baserow_id": 1396,
+        "nome": "Sandra",
+        "email": "arthurbrasilamb@gmail.com",
+        "qtd_vidas": 4,
+        "desinteresse": true,
+        "observacoes": "",
+        "reagendamento": null,
+        "corretor": "Isis",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Sandra",
+        "email": "arthurbrasilamb@gmail.com",
+        "telefone": "+55 21 98281-0119",
+        "vidas": [
+          {
+            "idade": 29
+          },
+          {
+            "idade": 33
+          },
+          {
+            "idade": 57
+          },
+          {
+            "idade": 70
+          }
+        ],
+        "cidade": "",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "unimed",
+        "motivo": "Descredenciamento de rede\nDificuldade de agendamento\nEncerramento do plano atual",
+        "interesse": "",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "Isis",
+        "obs_crm": "",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Sandra\n📧 E-mail: arthurbrasilamb@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98281-0119\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nSandra — 29 anos\nDependente 1 — 33 anos\nDependente 2 — 57 anos\nDependente 3 — 70 anos\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n\n🏥 Plano atual: unimed\n\n😤 Motivo da troca:\n\nDescredenciamento de rede\nDificuldade de agendamento\nEncerramento do plano atual\n👤 Consultor: Isis\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "desinteresse",
+      "bot": "preto",
+      "consultor": "Isis",
+      "message_count": 27,
+      "first_message_at": "2026-03-25T00:00:00.000Z",
+      "last_message_at": "2026-03-25T21:38:26.224000Z",
+      "last_bot_msg_at": "2026-03-25T18:38:24.758616",
+      "tempo_sem_interacao": "3h 7min",
+      "first_id": 20338,
+      "last_id": 20495,
+      "last_message_preview": "Sim",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados Fornecidos\nNome: Sandra\nContem CNPJ: não\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o informado\nRegiÃƒÂ£o: NÃƒÂ£o Informado\nPropaganda:\n",
+          "msg_time": "2026-03-25T10:11:52.518825"
+        },
+        {
+          "role": "ai",
+          "content": "Oi Sandra! Sou o Gilberto da GW9, corretora de planos de saúde. Você pediu nosso contato para saber mais sobre plano de saúde e preciso de algumas informações rápidas para te ajudar a encontrar a melhor opção. Tudo certo?",
+          "msg_time": "2026-03-25T10:11:52.522037"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1396\nNome: Sandra\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nSão 4 vidas",
+          "msg_time": "2026-03-25T18:31:02.156106"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Sandra! Para completar seu cadastro, preciso das idades das 4 pessoas que estarão no plano. Você pode me informar, por favor?",
+          "msg_time": "2026-03-25T18:31:02.163888"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1396\nNome: \nVidas: 4\nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\n29,33,57,70",
+          "msg_time": "2026-03-25T18:31:38.332498"
+        },
+        {
+          "role": "ai",
+          "content": "Ótimo, Sandra! Agora que tenho as idades, só para confirmar: você mencionou as idades 29, 33, 57 e 70 para as 4 vidas. Qual é a cidade e estado onde você gostaria de contratar o plano?",
+          "msg_time": "2026-03-25T18:31:38.334352"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1396\nNome: \nVidas: 4\nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nBelford roxo",
+          "msg_time": "2026-03-25T18:32:21.169685"
+        },
+        {
+          "role": "ai",
+          "content": "Perfeito, Sandra! Você mencionou que a cidade é Belford Roxo. Agora, para finalizar, como o plano será contratado: será por CPF ou CNPJ?",
+          "msg_time": "2026-03-25T18:32:21.171305"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1396\nNome: \nVidas: 4\nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nVc pode fazer  pelos dois por favor",
+          "msg_time": "2026-03-25T18:33:14.023309"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Sandra! Mas para prosseguir, preciso que você escolha apenas um: será por CPF ou CNPJ? Isso me ajuda a encontrar as melhores opções para você.",
+          "msg_time": "2026-03-25T18:33:14.025704"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1396\nNome: \nVidas: 4\nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nEntão\n\nNão posso  dar",
+          "msg_time": "2026-03-25T18:34:03.837829"
+        },
+        {
+          "role": "ai",
+          "content": "Sem problemas, Sandra! Nesse caso, posso registrar como CPF apenas para prosseguir. Isso não é um problema. Vou seguir com essa informação, tudo bem?",
+          "msg_time": "2026-03-25T18:34:03.839993"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1396\nNome: \nVidas: 4\nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nObrigada",
+          "msg_time": "2026-03-25T18:34:48.648711"
+        },
+        {
+          "role": "ai",
+          "content": "De nada, Sandra! 😊 Agora, para finalizar, você já possui algum plano de saúde atualmente? Se sim, pode me informar qual e quanto paga hoje? Isso me ajudará a encontrar a melhor opção para você.",
+          "msg_time": "2026-03-25T18:34:48.650761"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1396\nNome: \nVidas: 4\nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nPergunto, pois os valores dos Planos de saúde são tabelados e os preços mudam de acordo com a rede credenciada.  Por isso se você também puder informar o valor que estaria dentro do seu orcamento vai ajudar o nosso especialista a encontrar o melhor plano com a melhor relação cusoxacesso.\n\nNão precisa ser o valor exato... pode ser aproximado... \nEssa informação é importante pois não adianta lhe oferecemos opções muito acessíveis em que a rede de atendimento não faça sentido para você.\n\nAssim como também não adianta oferecermos Planos com ampla rede, mas que por isso terá que fazer um investimento que não caberá no seu orçamento.",
+          "msg_time": "2026-03-25T18:36:11.869124"
+        },
+        {
+          "role": "ai",
+          "content": "Ótima consideração, Sandra! Para que nosso especialista possa te ajudar da melhor forma, você poderia informar um valor aproximado que estaria disposto a investir no plano de saúde? Isso ajudará a alinhar as opções com seu orçamento.",
+          "msg_time": "2026-03-25T18:36:11.871017"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1396\nNome: \nVidas: 4\nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nEu quero plano bom",
+          "msg_time": "2026-03-25T18:37:41.375301"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Sandra! Você busca um plano de saúde de boa qualidade. Para seguir com as opções que atendem suas expectativas, seria interessante ter uma faixa de preço aproximado. Você conseguiria me dar uma ideia do valor em que se sente mais confortável?",
+          "msg_time": "2026-03-25T18:37:41.378374"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1396\nNome: \nVidas: 4\nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nEsse tal de leve  eu não quero",
+          "msg_time": "2026-03-25T18:38:24.757308"
+        },
+        {
+          "role": "ai",
+          "content": "Compreendo, Sandra! Se o plano \"Leve\" não é o que você busca, vamos trabalhar para encontrar opções que atendam às suas necessidades de qualidade. 🏥\n\nVou precisar de um último detalhe. Já que não quer o \"Leve\", poderia me falar se você tem algum plano atual ou o que espera em termos de preço? Isso ajudará a direcionar melhor as escolhas.",
+          "msg_time": "2026-03-25T18:38:24.758616"
+        },
+        {
+          "role": "user",
+          "content": "Nao\n\nPode mandar\n\nTenho  unimed",
+          "msg_time": "2026-03-25T18:39:04.472668"
+        },
+        {
+          "role": "user",
+          "content": "Estou querendo trocar",
+          "msg_time": "2026-03-25T18:39:24.698471"
+        },
+        {
+          "role": "user",
+          "content": "Entendido. Realmente a Unimed está deixando a desejar devido aos descredenciamentos.\n\nMais tmbm que funciona na baixada tmbm",
+          "msg_time": "2026-03-25T18:40:10.645172"
+        },
+        {
+          "role": "user",
+          "content": "Que seja regional",
+          "msg_time": "2026-03-25T18:40:31.041089"
+        },
+        {
+          "role": "system",
+          "content": "Sandra agradeço pelas informações. A Isis nossa especialista vai te enviar algumas opções para você verificar. \n\nCombinado?",
+          "msg_time": "2026-03-25T18:41:33.71517"
+        },
+        {
+          "role": "user",
+          "content": "Sim",
+          "msg_time": "2026-03-25T18:41:56.881105"
+        },
+        {
+          "role": "system",
+          "content": "Muito obrigada Sandra :)",
+          "msg_time": "2026-03-25T18:43:59.395025"
+        }
+      ]
+    },
     {
       "session_id": "5521978786996@s.whatsapp.net",
       "phone": "5521978786996",
@@ -61,7 +258,7 @@
       "first_message_at": "2025-12-15T00:00:00.000Z",
       "last_message_at": "2026-03-25T21:43:37.576Z",
       "last_bot_msg_at": "2026-03-25T21:43:37.576Z",
-      "tempo_sem_interacao": "0min",
+      "tempo_sem_interacao": "2min",
       "first_id": 742,
       "last_id": 20494,
       "last_message_preview": "n achei esse lead no b2cor",
@@ -360,7 +557,7 @@
       "first_message_at": "2026-03-25T00:00:00.000Z",
       "last_message_at": "2026-03-25T21:32:11.697000Z",
       "last_bot_msg_at": "2026-03-25T18:32:10.333035",
-      "tempo_sem_interacao": "3h 11min",
+      "tempo_sem_interacao": "3h 13min",
       "first_id": 20326,
       "last_id": 20493,
       "last_message_preview": "Poxa não Obrigada",
@@ -513,198 +710,6 @@
       ]
     },
     {
-      "session_id": "5521982810119@s.whatsapp.net",
-      "phone": "5521982810119",
-      "phone_display": "+55 21 98281-0119",
-      "lead": {
-        "baserow_id": 1396,
-        "nome": "Sandra",
-        "email": "arthurbrasilamb@gmail.com",
-        "qtd_vidas": 4,
-        "desinteresse": true,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "Isis",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Sandra",
-        "email": "arthurbrasilamb@gmail.com",
-        "telefone": "+55 21 98281-0119",
-        "vidas": [
-          {
-            "idade": 29
-          },
-          {
-            "idade": 33
-          },
-          {
-            "idade": 57
-          },
-          {
-            "idade": 70
-          }
-        ],
-        "cidade": "",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "unimed",
-        "motivo": "Descredenciamento de rede\nDificuldade de agendamento\nEncerramento do plano atual",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "Isis",
-        "obs_crm": "",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Sandra\n📧 E-mail: arthurbrasilamb@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98281-0119\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nSandra — 29 anos\nDependente 1 — 33 anos\nDependente 2 — 57 anos\nDependente 3 — 70 anos\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n\n🏥 Plano atual: unimed\n\n😤 Motivo da troca:\n\nDescredenciamento de rede\nDificuldade de agendamento\nEncerramento do plano atual\n👤 Consultor: Isis\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "desinteresse",
-      "bot": "preto",
-      "consultor": "Isis",
-      "message_count": 26,
-      "first_message_at": "2026-03-25T00:00:00.000Z",
-      "last_message_at": "2026-03-25T21:38:26.224000Z",
-      "last_bot_msg_at": "2026-03-25T18:38:24.758616",
-      "tempo_sem_interacao": "3h 5min",
-      "first_id": 20338,
-      "last_id": 20491,
-      "last_message_preview": "Sim",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados Fornecidos\nNome: Sandra\nContem CNPJ: não\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o informado\nRegiÃƒÂ£o: NÃƒÂ£o Informado\nPropaganda:\n",
-          "msg_time": "2026-03-25T10:11:52.518825"
-        },
-        {
-          "role": "ai",
-          "content": "Oi Sandra! Sou o Gilberto da GW9, corretora de planos de saúde. Você pediu nosso contato para saber mais sobre plano de saúde e preciso de algumas informações rápidas para te ajudar a encontrar a melhor opção. Tudo certo?",
-          "msg_time": "2026-03-25T10:11:52.522037"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1396\nNome: Sandra\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nSão 4 vidas",
-          "msg_time": "2026-03-25T18:31:02.156106"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Sandra! Para completar seu cadastro, preciso das idades das 4 pessoas que estarão no plano. Você pode me informar, por favor?",
-          "msg_time": "2026-03-25T18:31:02.163888"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1396\nNome: \nVidas: 4\nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\n29,33,57,70",
-          "msg_time": "2026-03-25T18:31:38.332498"
-        },
-        {
-          "role": "ai",
-          "content": "Ótimo, Sandra! Agora que tenho as idades, só para confirmar: você mencionou as idades 29, 33, 57 e 70 para as 4 vidas. Qual é a cidade e estado onde você gostaria de contratar o plano?",
-          "msg_time": "2026-03-25T18:31:38.334352"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1396\nNome: \nVidas: 4\nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nBelford roxo",
-          "msg_time": "2026-03-25T18:32:21.169685"
-        },
-        {
-          "role": "ai",
-          "content": "Perfeito, Sandra! Você mencionou que a cidade é Belford Roxo. Agora, para finalizar, como o plano será contratado: será por CPF ou CNPJ?",
-          "msg_time": "2026-03-25T18:32:21.171305"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1396\nNome: \nVidas: 4\nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nVc pode fazer  pelos dois por favor",
-          "msg_time": "2026-03-25T18:33:14.023309"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Sandra! Mas para prosseguir, preciso que você escolha apenas um: será por CPF ou CNPJ? Isso me ajuda a encontrar as melhores opções para você.",
-          "msg_time": "2026-03-25T18:33:14.025704"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1396\nNome: \nVidas: 4\nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nEntão\n\nNão posso  dar",
-          "msg_time": "2026-03-25T18:34:03.837829"
-        },
-        {
-          "role": "ai",
-          "content": "Sem problemas, Sandra! Nesse caso, posso registrar como CPF apenas para prosseguir. Isso não é um problema. Vou seguir com essa informação, tudo bem?",
-          "msg_time": "2026-03-25T18:34:03.839993"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1396\nNome: \nVidas: 4\nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nObrigada",
-          "msg_time": "2026-03-25T18:34:48.648711"
-        },
-        {
-          "role": "ai",
-          "content": "De nada, Sandra! 😊 Agora, para finalizar, você já possui algum plano de saúde atualmente? Se sim, pode me informar qual e quanto paga hoje? Isso me ajudará a encontrar a melhor opção para você.",
-          "msg_time": "2026-03-25T18:34:48.650761"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1396\nNome: \nVidas: 4\nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nPergunto, pois os valores dos Planos de saúde são tabelados e os preços mudam de acordo com a rede credenciada.  Por isso se você também puder informar o valor que estaria dentro do seu orcamento vai ajudar o nosso especialista a encontrar o melhor plano com a melhor relação cusoxacesso.\n\nNão precisa ser o valor exato... pode ser aproximado... \nEssa informação é importante pois não adianta lhe oferecemos opções muito acessíveis em que a rede de atendimento não faça sentido para você.\n\nAssim como também não adianta oferecermos Planos com ampla rede, mas que por isso terá que fazer um investimento que não caberá no seu orçamento.",
-          "msg_time": "2026-03-25T18:36:11.869124"
-        },
-        {
-          "role": "ai",
-          "content": "Ótima consideração, Sandra! Para que nosso especialista possa te ajudar da melhor forma, você poderia informar um valor aproximado que estaria disposto a investir no plano de saúde? Isso ajudará a alinhar as opções com seu orçamento.",
-          "msg_time": "2026-03-25T18:36:11.871017"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1396\nNome: \nVidas: 4\nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nEu quero plano bom",
-          "msg_time": "2026-03-25T18:37:41.375301"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Sandra! Você busca um plano de saúde de boa qualidade. Para seguir com as opções que atendem suas expectativas, seria interessante ter uma faixa de preço aproximado. Você conseguiria me dar uma ideia do valor em que se sente mais confortável?",
-          "msg_time": "2026-03-25T18:37:41.378374"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1396\nNome: \nVidas: 4\nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nEsse tal de leve  eu não quero",
-          "msg_time": "2026-03-25T18:38:24.757308"
-        },
-        {
-          "role": "ai",
-          "content": "Compreendo, Sandra! Se o plano \"Leve\" não é o que você busca, vamos trabalhar para encontrar opções que atendam às suas necessidades de qualidade. 🏥\n\nVou precisar de um último detalhe. Já que não quer o \"Leve\", poderia me falar se você tem algum plano atual ou o que espera em termos de preço? Isso ajudará a direcionar melhor as escolhas.",
-          "msg_time": "2026-03-25T18:38:24.758616"
-        },
-        {
-          "role": "user",
-          "content": "Nao\n\nPode mandar\n\nTenho  unimed",
-          "msg_time": "2026-03-25T18:39:04.472668"
-        },
-        {
-          "role": "user",
-          "content": "Estou querendo trocar",
-          "msg_time": "2026-03-25T18:39:24.698471"
-        },
-        {
-          "role": "user",
-          "content": "Entendido. Realmente a Unimed está deixando a desejar devido aos descredenciamentos.\n\nMais tmbm que funciona na baixada tmbm",
-          "msg_time": "2026-03-25T18:40:10.645172"
-        },
-        {
-          "role": "user",
-          "content": "Que seja regional",
-          "msg_time": "2026-03-25T18:40:31.041089"
-        },
-        {
-          "role": "system",
-          "content": "Sandra agradeço pelas informações. A Isis nossa especialista vai te enviar algumas opções para você verificar. \n\nCombinado?",
-          "msg_time": "2026-03-25T18:41:33.71517"
-        },
-        {
-          "role": "user",
-          "content": "Sim",
-          "msg_time": "2026-03-25T18:41:56.881105"
-        }
-      ]
-    },
-    {
       "session_id": "5521992510775@s.whatsapp.net",
       "phone": "5521992510775",
       "phone_display": "+55 21 99251-0775",
@@ -746,7 +751,7 @@
       "first_message_at": "2026-03-25T00:00:00.000Z",
       "last_message_at": "2026-03-25T21:03:59.562000Z",
       "last_bot_msg_at": "2026-03-25T18:03:58.427547",
-      "tempo_sem_interacao": "3h 40min",
+      "tempo_sem_interacao": "3h 41min",
       "first_id": 20368,
       "last_id": 20439,
       "last_message_preview": "Que ótimo\nMuito obrigado",
@@ -875,7 +880,7 @@
       "first_message_at": "2026-03-25T00:00:00.000Z",
       "last_message_at": "2026-03-25T20:29:15.242000Z",
       "last_bot_msg_at": "2026-03-25T17:29:14.143396",
-      "tempo_sem_interacao": "4h 14min",
+      "tempo_sem_interacao": "4h 16min",
       "first_id": 20395,
       "last_id": 20396,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1404\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -944,7 +949,7 @@
       "first_message_at": "2026-03-25T00:00:00.000Z",
       "last_message_at": "2026-03-25T20:18:21.857000Z",
       "last_bot_msg_at": "2026-03-25T17:23:46.238527",
-      "tempo_sem_interacao": "4h 20min",
+      "tempo_sem_interacao": "4h 21min",
       "first_id": 20381,
       "last_id": 20394,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1402\nNome: Amanda\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns...",
@@ -1063,7 +1068,7 @@
       "first_message_at": "2026-03-25T00:00:00.000Z",
       "last_message_at": "2026-03-25T18:46:26.081000Z",
       "last_bot_msg_at": "2026-03-25T15:46:24.618688",
-      "tempo_sem_interacao": "5h 57min",
+      "tempo_sem_interacao": "5h 59min",
       "first_id": 20352,
       "last_id": 20380,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1398\nNome: Benedito\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(...",
@@ -1132,7 +1137,7 @@
       "first_message_at": "2026-03-24T00:00:00.000Z",
       "last_message_at": "2026-03-25T18:45:44.918000Z",
       "last_bot_msg_at": "2026-03-25T15:45:43.437467",
-      "tempo_sem_interacao": "5h 58min",
+      "tempo_sem_interacao": "5h 59min",
       "first_id": 20308,
       "last_id": 20378,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1391\nNome: Simone\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns...",
@@ -1211,7 +1216,7 @@
       "first_message_at": "2026-03-25T00:00:00.000Z",
       "last_message_at": "2026-03-25T18:24:20.247000Z",
       "last_bot_msg_at": "2026-03-25T15:24:14.521354",
-      "tempo_sem_interacao": "6h 19min",
+      "tempo_sem_interacao": "6h 21min",
       "first_id": 20373,
       "last_id": 20374,
       "last_message_preview": "Dados Fornecidos\nNome: Silverio\nContem CNPJ: não\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o in...",
@@ -1260,7 +1265,7 @@
       "first_message_at": "2026-03-25T18:22:28.153Z",
       "last_message_at": "2026-03-25T18:22:28.162Z",
       "last_bot_msg_at": "2026-03-25T15:22:28.162917",
-      "tempo_sem_interacao": "6h 21min",
+      "tempo_sem_interacao": "6h 23min",
       "first_id": 20371,
       "last_id": 20372,
       "last_message_preview": "Dados Fornecidos\nNome: Daniele\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o inf...",
@@ -1471,7 +1476,7 @@
       "first_message_at": "2026-01-29T00:00:00.000Z",
       "last_message_at": "2026-03-25T18:17:42.361000Z",
       "last_bot_msg_at": "2026-03-25T15:17:40.564425",
-      "tempo_sem_interacao": "6h 26min",
+      "tempo_sem_interacao": "6h 28min",
       "first_id": 19447,
       "last_id": 20367,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1399\nNome: \n\nMensagem(ns) do cliente:\nOi",
@@ -2666,7 +2671,7 @@
       "first_message_at": "2026-03-25T00:00:00.000Z",
       "last_message_at": "2026-03-25T13:36:58Z",
       "last_bot_msg_at": "2026-03-25T10:36:53.026748",
-      "tempo_sem_interacao": "11h 7min",
+      "tempo_sem_interacao": "11h 8min",
       "first_id": 20340,
       "last_id": 20341,
       "last_message_preview": "Dados Fornecidos\nNome: Vanda\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o infor...",
@@ -2725,7 +2730,7 @@
       "first_message_at": "2026-03-25T00:00:00.000Z",
       "last_message_at": "2026-03-25T12:51:21.098000Z",
       "last_bot_msg_at": "2026-03-25T09:51:19.331503",
-      "tempo_sem_interacao": "11h 52min",
+      "tempo_sem_interacao": "11h 54min",
       "first_id": 20328,
       "last_id": 20337,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1395\nNome: Ávila ☪️🧘🏻‍♀️♌️🔮🪬🧿🌀🗝️🦋\n\nMensagem(ns) do cliente...",
@@ -2824,7 +2829,7 @@
       "first_message_at": "2026-03-25T00:00:00.000Z",
       "last_message_at": "2026-03-25T12:01:47.516000Z",
       "last_bot_msg_at": "2026-03-25T09:01:46.385548",
-      "tempo_sem_interacao": "12h 42min",
+      "tempo_sem_interacao": "12h 43min",
       "first_id": 20314,
       "last_id": 20325,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1393\nNome: Odair\n\nMensagem(ns) do cliente:\nNão tenho",
@@ -2933,7 +2938,7 @@
       "first_message_at": "2026-03-25T00:00:00.000Z",
       "last_message_at": "2026-03-25T11:03:00Z",
       "last_bot_msg_at": "2026-03-25T08:02:54.645348",
-      "tempo_sem_interacao": "13h 41min",
+      "tempo_sem_interacao": "13h 42min",
       "first_id": 20312,
       "last_id": 20313,
       "last_message_preview": "Dados Fornecidos\nNome: Angela\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o info...",
