@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-03-27T00:30:22.871Z",
+    "generated_at": "2026-03-27T00:45:25.907Z",
     "total_conversations": 200,
-    "total_messages": 3390,
+    "total_messages": 3396,
     "stats": {
-      "quente": 0,
+      "quente": 1,
       "morno": 14,
       "frio": 22,
-      "desinteresse": 164,
+      "desinteresse": 163,
       "sem_classificacao": 0
     }
   },
@@ -21,7 +21,7 @@
         "nome": "Laysa Corrêa",
         "email": "",
         "qtd_vidas": 4,
-        "desinteresse": true,
+        "desinteresse": false,
         "observacoes": "Laysa Corrêa",
         "reagendamento": null,
         "corretor": "",
@@ -58,19 +58,19 @@
         "consultor": "Laysa",
         "obs_crm": "Laysa Corrêa",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Laysa Corrêa\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99325-7007\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nLaysa Corrêa — 5 anos\nDependente 1 — 13 anos\nDependente 2 — 17 anos\nDependente 3 — 59 anos\n\n📋 Dados contratuais:\n\nCidade: Niteroi / RJ\nContratação: CNPJ\nTipo: LTDA\n\n🏥 Plano atual: sulamerica  plano pago 2000\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\nIncluir novas vidas\n\n🎯 Interesse: sulamerica\n\n⚠️ Observação: Laysa Corrêa\n👤 Consultor: Laysa\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Laysa Corrêa\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99325-7007\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nLaysa Corrêa — 5 anos\nDependente 1 — 13 anos\nDependente 2 — 17 anos\nDependente 3 — 59 anos\n\n📋 Dados contratuais:\n\nCidade: Niteroi / RJ\nContratação: CNPJ\nTipo: LTDA\n\n🏥 Plano atual: sulamerica  plano pago 2000\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\nIncluir novas vidas\n\n🎯 Interesse: sulamerica\n\n⚠️ Observação: Laysa Corrêa\n👤 Consultor: Laysa\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Preto (0479)"
       },
-      "status": "desinteresse",
+      "status": "quente",
       "bot": "preto",
       "consultor": "Laysa",
-      "message_count": 33,
+      "message_count": 39,
       "first_message_at": "2026-01-29T00:00:00.000Z",
-      "last_message_at": "2026-03-27T00:25:58.027000Z",
-      "last_bot_msg_at": "2026-03-26T21:25:57.083733",
-      "tempo_sem_interacao": "3h 4min",
+      "last_message_at": "2026-03-27T00:43:45.878000Z",
+      "last_bot_msg_at": "2026-03-26T21:43:44.861152",
+      "tempo_sem_interacao": "3h 1min",
       "first_id": 19447,
-      "last_id": 20627,
-      "last_message_preview": "CNPJ",
+      "last_id": 20633,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1453\nNome: Laysa Corrêa\n\nMensagem(ns) do cliente:\n:)",
       "messages": [
         {
           "role": "user",
@@ -236,6 +236,36 @@
           "role": "user",
           "content": "CNPJ",
           "msg_time": "2026-03-26T21:28:20.216011"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1453\nNome: Laysa Corrêa\n\nMensagem(ns) do cliente:\nCNPJ",
+          "msg_time": "2026-03-26T21:32:30.154899"
+        },
+        {
+          "role": "ai",
+          "content": "Perfeito, Laysa! Você optou por contratar o plano com CNPJ. Agora, para finalizar, você já possui um plano de saúde atualmente? Se sim, qual e quanto paga hoje?",
+          "msg_time": "2026-03-26T21:32:30.156736"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1453\nNome: Laysa Corrêa\n\nMensagem(ns) do cliente:\n.",
+          "msg_time": "2026-03-26T21:39:11.88797"
+        },
+        {
+          "role": "ai",
+          "content": "Laysa, só para confirmar: você já tem um plano de saúde atualmente? Se sim, pode me dizer qual é e quanto paga? Isso é importante para ajudar a encontrar a melhor opção para você.",
+          "msg_time": "2026-03-26T21:39:11.89007"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1453\nNome: Laysa Corrêa\n\nMensagem(ns) do cliente:\n:)",
+          "msg_time": "2026-03-26T21:43:44.456386"
+        },
+        {
+          "role": "ai",
+          "content": "Laysa, que bom ver seu sorriso! 😊 Para que eu possa te ajudar da melhor forma, só preciso saber se você já possui um plano de saúde e, caso tenha, quanto paga atualmente por ele. Isso nos ajudará a encontrar a opção ideal.",
+          "msg_time": "2026-03-26T21:43:44.861152"
         }
       ]
     },
@@ -281,7 +311,7 @@
       "first_message_at": "2026-03-26T00:00:00.000Z",
       "last_message_at": "2026-03-27T00:21:52.930000Z",
       "last_bot_msg_at": "2026-03-26T21:21:51.946276",
-      "tempo_sem_interacao": "3h 8min",
+      "tempo_sem_interacao": "3h 23min",
       "first_id": 20621,
       "last_id": 20622,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1452\nNome: Cida\n\nMensagem(ns) do cliente:\nOlÃ¡ Gostaria de uma cot...",
@@ -340,7 +370,7 @@
       "first_message_at": "2026-03-26T00:00:00.000Z",
       "last_message_at": "2026-03-26T22:22:32.656000Z",
       "last_bot_msg_at": "2026-03-26T19:22:26.694979",
-      "tempo_sem_interacao": "5h 7min",
+      "tempo_sem_interacao": "5h 22min",
       "first_id": 20615,
       "last_id": 20616,
       "last_message_preview": "Dados Fornecidos\nNome: Lobo\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o inform...",
@@ -399,7 +429,7 @@
       "first_message_at": "2026-03-26T00:00:00.000Z",
       "last_message_at": "2026-03-26T19:11:29.491000Z",
       "last_bot_msg_at": "2026-03-26T16:11:27.766863",
-      "tempo_sem_interacao": "8h 18min",
+      "tempo_sem_interacao": "8h 33min",
       "first_id": 20610,
       "last_id": 20614,
       "last_message_preview": "Ok",
@@ -473,7 +503,7 @@
       "first_message_at": "2026-03-26T00:00:00.000Z",
       "last_message_at": "2026-03-26T18:11:10.451000Z",
       "last_bot_msg_at": "2026-03-26T15:11:09.21128",
-      "tempo_sem_interacao": "9h 19min",
+      "tempo_sem_interacao": "9h 34min",
       "first_id": 20597,
       "last_id": 20609,
       "last_message_preview": "Ok",
@@ -696,7 +726,7 @@
       "first_message_at": "2026-03-26T00:00:00.000Z",
       "last_message_at": "2026-03-26T15:30:01.280000Z",
       "last_bot_msg_at": "2026-03-26T12:29:59.662185",
-      "tempo_sem_interacao": "12h",
+      "tempo_sem_interacao": "12h 15min",
       "first_id": 20591,
       "last_id": 20594,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1448\nNome: Almir\n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cot...",
@@ -775,7 +805,7 @@
       "first_message_at": "2026-03-26T00:00:00.000Z",
       "last_message_at": "2026-03-26T15:27:54.776000Z",
       "last_bot_msg_at": "2026-03-26T12:27:53.546486",
-      "tempo_sem_interacao": "12h 2min",
+      "tempo_sem_interacao": "12h 17min",
       "first_id": 20544,
       "last_id": 20590,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1443\nNome: Luiz\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) ...",
@@ -1274,7 +1304,7 @@
       "first_message_at": "2026-03-26T00:00:00.000Z",
       "last_message_at": "2026-03-26T14:43:33.121000Z",
       "last_bot_msg_at": "2026-03-26T11:43:27.609767",
-      "tempo_sem_interacao": "12h 46min",
+      "tempo_sem_interacao": "13h 1min",
       "first_id": 20581,
       "last_id": 20582,
       "last_message_preview": "Dados Fornecidos\nNome: Claudia\nContem CNPJ: não\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o inf...",
@@ -1333,7 +1363,7 @@
       "first_message_at": "2026-03-26T00:00:00.000Z",
       "last_message_at": "2026-03-26T14:31:32.571000Z",
       "last_bot_msg_at": "2026-03-26T11:31:27.403944",
-      "tempo_sem_interacao": "12h 58min",
+      "tempo_sem_interacao": "13h 13min",
       "first_id": 20579,
       "last_id": 20580,
       "last_message_preview": "Dados Fornecidos\nNome: Eliane\nContem CNPJ: não\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o info...",
@@ -1392,7 +1422,7 @@
       "first_message_at": "2026-03-26T00:00:00.000Z",
       "last_message_at": "2026-03-26T14:30:08.626000Z",
       "last_bot_msg_at": "2026-03-26T11:30:06.96921",
-      "tempo_sem_interacao": "13h",
+      "tempo_sem_interacao": "13h 15min",
       "first_id": 20567,
       "last_id": 20578,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1445\nNome: José Carlos\n\nMensagem(ns) do cliente:\nJosé Carlos 56 Si...",
@@ -1511,7 +1541,7 @@
       "first_message_at": "2026-03-26T00:00:00.000Z",
       "last_message_at": "2026-03-26T14:21:03.307000Z",
       "last_bot_msg_at": "2026-03-26T11:21:01.171628",
-      "tempo_sem_interacao": "13h 9min",
+      "tempo_sem_interacao": "13h 24min",
       "first_id": 20546,
       "last_id": 20566,
       "last_message_preview": "Ok, obrigada!",
@@ -1672,7 +1702,7 @@
       "first_message_at": "2026-03-26T00:00:00.000Z",
       "last_message_at": "2026-03-26T11:59:35.143000Z",
       "last_bot_msg_at": "2026-03-26T08:59:33.51879",
-      "tempo_sem_interacao": "15h 30min",
+      "tempo_sem_interacao": "15h 45min",
       "first_id": 20531,
       "last_id": 20543,
       "last_message_preview": "Sim",
