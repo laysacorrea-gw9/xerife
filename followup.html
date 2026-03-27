@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>GW9 — Follow-up Control</title>
+<style>
+:root {
+  --bg: #0a0f1e;
+  --surface: #111827;
+  --surface2: #1a2235;
+  --border: #1e2d45;
+  --accent: #00d4aa;
+  --accent2: #3b82f6;
+  --yellow: #f59e0b;
+  --red: #ef4444;
+  --green: #10b981;
+  --gray: #475569;
+  --text: #e2e8f0;
+  --text2: #94a3b8;
+  --text3: #64748b;
+  --bot-amarelo: #eab308;
+  --bot-preto: #94a3b8;
+}
+* { margin:0; padding:0; box-sizing:border-box; }
+body { font-family:'Segoe UI',sans-serif; background:var(--bg); color:var(--text); min-height:100vh; }
+.container { max-width:1400px; margin:0 auto; padding:0 20px; }
+
+/* AUTH */
+#auth-screen { display:flex; align-items:center; justify-content:center; min-height:100vh; }
+.auth-box { background:var(--surface); border:1px solid var(--border); border-radius:16px; padding:40px; max-width:380px; width:100%; text-align:center; }
+.auth-box h2 { font-size:22px; font-weight:700; margin-bottom:6px; }
+.auth-box p { color:var(--text3); font-size:13px; margin-bottom:20px; }
+.auth-box input { width:100%; padding:11px 14px; background:var(--bg); border:1px solid var(--border); border-radius:8px; color:var(--text); font-size:14px; margin-bottom:14px; }
+.auth-box input:focus { outline:none; border-color:var(--accent); }
+.auth-box button { width:100%; padding:11px; background:var(--accent); color:#0a0f1e; border:none; border-radius:8px; font-size:14px; font-weight:600; cursor:pointer; }
+.auth-box .error { color:var(--red); font-size:12px; margin-top:6px; display:none; }
+
+#app { display:none; }
+
+/* HEADER */
+header { padding:20px 0 16px; border-bottom:1px solid var(--border); margin-bottom:24px; display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:12px; }
+header h1 { font-size:18px; font-weight:700; }
+header h1 span { color:var(--accent); }
+.header-right { display:flex; align-items:center; gap:10px; }
+.header-badge { font-size:12px; color:var(--text3); background:var(--surface); border:1px solid var(--border); padding:6px 12px; border-radius:6px; }
+.refresh-btn { background:var(--surface); border:1px solid var(--border); color:var(--text3); padding:6px 14px; border-radius:6px; cursor:pointer; font-size:12px; }
+.refresh-btn:hover { border-color:var(--accent); color:var(--accent); }
+.xerife-link { color:var(--accent); text-decoration:none; font-size:12px; border:1px solid var(--accent); padding:6px 14px; border-radius:6px; }
+.xerife-link:hover { background:rgba(0,212,170,0.1); }
+
+/* KPIs */
+.kpis { display:grid; grid-template-columns:repeat(auto-fit,minmax(110px,1fr)); gap:10px; margin-bottom:20px; }
+.kpi { background:var(--surface); border:1px solid var(--border); border-radius:10px; padding:14px; text-align:center; cursor:pointer; transition:border-color 0.2s; }
+.kpi:hover { border-color:var(--accent); }
+.kpi.active { border-color:var(--accent); background:rgba(0,212,170,0.05); }
+.kpi-val { font-size:26px; font-weight:800; line-height:1; margin-bottom:3px; }
+.kpi-lbl { font-size:10px; color:var(--text3); text-transform:uppercase; letter-spacing:0.5px; }
+
+/* ACTIONS BAR */
+.actions { display:flex; gap:12px; margin-bottom:12px; align-items:center; flex-wrap:wrap; }
+.select-all { display:flex; align-items:center; gap:6px; font-size:12px; color:var(--text2); cursor:pointer; }
+.select-all input { width:15px; height:15px; accent-color:var(--accent); cursor:pointer; }
+.selected-count { font-size:12px; color:var(--accent); font-weight:600; }
+.send-btn { padding:8px 20px; background:var(--accent); color:#0a0f1e; border:none; border-radius:8px; font-size:12px; font-weight:600; cursor:pointer; }
+.send-btn:disabled { background:var(--border); color:var(--text3); cursor:not-allowed; }
+.send-btn:hover:not(:disabled) { opacity:0.9; }
+.status-msg { font-size:12px; color:var(--text3); padding:4px 0; min-height:20px; }
+
+/* FILTERS */
+.filters { display:flex; gap:8px; margin-bottom:16px; flex-wrap:wrap; align-items:center; }
+.filters label { font-size:11px; color:var(--text3); }
+.filter-btn { padding:5px 12px; border-radius:16px; border:1px solid var(--border); background:var(--surface); color:var(--text2); font-size:11px; cursor:pointer; }
+.filter-btn:hover { border-color:var(--accent); }
+.filter-btn.active { background:var(--accent); border-color:var(--accent); color:#0a0f1e; }
+.search-box { padding:7px 12px; background:var(--surface); border:1px solid var(--border); border-radius:8px; color:var(--text); font-size:12px; width:200px; }
+.search-box:focus { outline:none; border-color:var(--accent); }
+
+/* TABLE */
+.tbl { width:100%; border-collapse:collapse; background:var(--surface); border:1px solid var(--border); border-radius:10px; overflow:hidden; }
+.tbl thead { background:var(--surface2); }
+.tbl th { text-align:left; font-size:10px; color:var(--text3); text-transform:uppercase; letter-spacing:0.6px; padding:9px 10px; border-bottom:1px solid var(--border); cursor:pointer; white-space:nowrap; user-select:none; }
+.tbl th:hover { color:var(--text); }
+.tbl th.sorted-asc::after { content:' \25b2'; }
+.tbl th.sorted-desc::after { content:' \25bc'; }
+.tbl td { font-size:11px; padding:8px 10px; border-bottom:1px solid var(--border); color:var(--text2); }
+.tbl tr:last-child td { border-bottom:none; }
+.tbl tr:hover td { background:rgba(0,212,170,0.03); }
+.tbl .cb { width:28px; text-align:center; }
+.tbl .cb input { width:14px; height:14px; accent-color:var(--accent); cursor:pointer; }
+.nome { font-weight:600; color:var(--text); }
+.quem-bot { color:var(--accent); font-weight:600; }
+.quem-lead { color:var(--yellow); font-weight:600; }
+.t-ok { color:var(--green); }
+.t-warn { color:var(--yellow); }
+.t-danger { color:var(--red); font-weight:600; }
+.nunca { color:var(--red); font-style:italic; font-size:10px; }
+.conv-link { color:var(--accent); text-decoration:none; }
+.conv-link:hover { text-decoration:underline; }
+
+.empty { text-align:center; padding:40px; color:var(--text3); }
+.loading { text-align:center; padding:40px; }
+.spinner { display:inline-block; width:28px; height:28px; border:3px solid var(--border); border-top-color:var(--accent); border-radius:50%; animation:spin 0.7s linear infinite; }
+@keyframes spin { to { transform:rotate(360deg); } }
+
+.toast { position:fixed; bottom:20px; left:50%; transform:translateX(-50%); background:var(--green); color:#fff; padding:10px 20px; border-radius:8px; font-size:13px; font-weight:600; z-index:999; opacity:0; transition:opacity 0.3s; pointer-events:none; }
+.toast.show { opacity:1; }
+
+footer { padding:24px 0; text-align:center; border-top:1px solid var(--border); font-size:11px; color:var(--text3); margin-top:32px; }
+
+@media (max-width:768px) {
+  .kpis { grid-template-columns:repeat(3,1fr); }
+  .tbl { font-size:10px; }
+  .tbl th, .tbl td { padding:6px 6px; }
+  .search-box { width:100%; }
+}
+</style>
+</head>
+<body>
+
+<div id="auth-screen">
+  <div class="auth-box">
+    <div style="font-size:40px;margin-bottom:12px">&#x1f4e2;</div>
+    <h2>Follow-up Control</h2>
+    <p>Painel de controle de follow-up GW9</p>
+    <input type="password" id="auth-pass" placeholder="Senha de acesso" onkeydown="if(event.key==='Enter')checkAuth()">
+    <button onclick="checkAuth()">Entrar</button>
+    <div class="error" id="auth-error">Senha incorreta</div>
+  </div>
+</div>
+
+<div id="app">
+  <div class="container">
+    <header>
+      <h1>&#x1f4e2; Follow-up <span>Control</span></h1>
+      <div class="header-right">
+        <span class="header-badge" id="updated-badge">Carregando...</span>
+        <button class="refresh-btn" onclick="loadData()">&#x21bb; Atualizar</button>
+        <a class="xerife-link" href="index.html">&#x1f6e1; Xerife</a>
+      </div>
+    </header>
+
+    <div id="kpis-container"></div>
+
+    <div class="filters">
+      <label>Bot:</label>
+      <button class="filter-btn active" onclick="setBotFilter('todos',this)">Todos</button>
+      <button class="filter-btn" onclick="setBotFilter('preto',this)">0479</button>
+      <button class="filter-btn" onclick="setBotFilter('amarelo',this)">2373</button>
+      <label style="margin-left:12px">Tempo:</label>
+      <button class="filter-btn active" onclick="setTempoFilter('todos',this)">Todos</button>
+      <button class="filter-btn" onclick="setTempoFilter('24',this)">&lt;24h</button>
+      <button class="filter-btn" onclick="setTempoFilter('48',this)">1-2d</button>
+      <button class="filter-btn" onclick="setTempoFilter('72',this)">2-3d</button>
+      <button class="filter-btn" onclick="setTempoFilter('120',this)">3-5d</button>
+      <button class="filter-btn" onclick="setTempoFilter('999',this)">&gt;5d</button>
+      <input class="search-box" id="search-input" placeholder="Buscar nome, telefone..." oninput="renderTable()">
+    </div>
+
+    <div class="actions">
+      <label class="select-all"><input type="checkbox" id="select-all-cb" onchange="toggleAll(this.checked)"> Selecionar todos</label>
+      <span class="selected-count" id="sel-count"></span>
+      <button class="send-btn" id="send-btn" onclick="sendFollowup()" disabled>&#x1f4e2; Enviar Follow-up</button>
+      <div class="status-msg" id="status-msg"></div>
+    </div>
+
+    <div id="table-container">
+      <div class="loading"><div class="spinner"></div><p style="margin-top:10px;color:var(--text3)">Carregando...</p></div>
+    </div>
+  </div>
+
+  <footer><div class="container">Follow-up Control GW9 &middot; <span id="footer-date">-</span></div></footer>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script>
+// ── Auth ──
+const PASS_HASH='e10052dccfd14dfc8e7db2bb8ec0ae3325af4d1a7e5db1eeec7c08f9d49dab2d';
+async function sha256(m){const b=new TextEncoder().encode(m);const h=await crypto.subtle.digest('SHA-256',b);return Array.from(new Uint8Array(h)).map(x=>x.toString(16).padStart(2,'0')).join('');}
+async function checkAuth(){const p=document.getElementById('auth-pass').value;if(await sha256(p)===PASS_HASH){sessionStorage.setItem('fu_auth','1');showApp();}else{document.getElementById('auth-error').style.display='block';}}
+function showApp(){document.getElementById('auth-screen').style.display='none';document.getElementById('app').style.display='block';loadData();}
+if(sessionStorage.getItem('fu_auth')==='1')showApp();
+
+// ── Data ──
+let allConversations=[];
+let botFilter='todos';
+let tempoFilter='todos';
+let selected=new Set();
+let sortCol='horas';
+let sortDir='desc';
+
+async function loadData(){
+  try{
+    const r=await fetch('data/dashboard.json?'+Date.now());
+    if(!r.ok)return;
+    const d=await r.json();
+    allConversations=d.conversations||[];
+    const dt=d.meta?d.meta.generated_at:'';
+    if(dt){
+      const dd=new Date(dt);
+      document.getElementById('updated-badge').textContent='Atualizado '+dd.toLocaleTimeString('pt-BR',{hour:'2-digit',minute:'2-digit',timeZone:'America/Sao_Paulo'});
+      document.getElementById('footer-date').textContent=dd.toLocaleString('pt-BR',{timeZone:'America/Sao_Paulo'});
+    }
+    renderAll();
+  }catch(e){document.getElementById('table-container').innerHTML='<div class="empty">Erro ao carregar dados</div>';}
+}
+
+// ── Helpers ──
+function getLeads(){
+  return allConversations.filter(c=>{
+    const l=c.lead||{};
+    if(l.desinteresse===true||l.desinteresse==='true')return false;
+    if(c.status==='quente')return false;
+    if(l.corretor&&l.corretor.trim()!=='')return false;
+    return true;
+  });
+}
+
+function lastAiMsg(c){
+  const m=c.messages||[];
+  for(let i=m.length-1;i>=0;i--){if(m[i].role==='ai')return m[i];}
+  return null;
+}
+function lastUserMsg(c){
+  const m=c.messages||[];
+  for(let i=m.length-1;i>=0;i--){if(m[i].role==='user'||m[i].role==='human')return m[i];}
+  return null;
+}
+function lastSender(c){
+  const m=c.messages||[];
+  if(!m.length)return '?';
+  return m[m.length-1].role==='ai'?'Bot':'Lead';
+}
+function everResponded(c){
+  return(c.messages||[]).some(m=>m.role==='user'||m.role==='human');
+}
+function horasSem(c){
+  const ai=lastAiMsg(c);
+  const t=ai&&ai.msg_time?ai.msg_time:(c.last_bot_msg_at||c.last_message_at);
+  if(!t)return 999;
+  return Math.floor((Date.now()-new Date(t).getTime())/3600000);
+}
+function fmtDt(iso){
+  if(!iso)return '';
+  const d=new Date(iso);
+  return d.toLocaleDateString('pt-BR',{day:'2-digit',month:'2-digit',timeZone:'America/Sao_Paulo'})+' '+d.toLocaleTimeString('pt-BR',{hour:'2-digit',minute:'2-digit',timeZone:'America/Sao_Paulo'});
+}
+function esc(s){if(!s)return'';const d=document.createElement('div');d.textContent=s;return d.innerHTML;}
+
+// ── Filters ──
+function setBotFilter(v,btn){
+  botFilter=v;
+  document.querySelectorAll('.filters .filter-btn').forEach(b=>{
+    if(b.onclick&&b.onclick.toString().includes('setBotFilter'))b.classList.remove('active');
+  });
+  btn.classList.add('active');
+  renderAll();
+}
+function setTempoFilter(v,btn){
+  tempoFilter=v;
+  document.querySelectorAll('.filters .filter-btn').forEach(b=>{
+    if(b.onclick&&b.onclick.toString().includes('setTempoFilter'))b.classList.remove('active');
+  });
+  btn.classList.add('active');
+  renderAll();
+}
+
+function getFilteredLeads(){
+  const q=(document.getElementById('search-input').value||'').toLowerCase();
+  let leads=getLeads();
+  if(botFilter!=='todos')leads=leads.filter(c=>c.bot===botFilter);
+  if(tempoFilter!=='todos'){
+    const h=parseInt(tempoFilter);
+    if(h===24)leads=leads.filter(c=>horasSem(c)<24);
+    else if(h===48)leads=leads.filter(c=>{const hh=horasSem(c);return hh>=24&&hh<48;});
+    else if(h===72)leads=leads.filter(c=>{const hh=horasSem(c);return hh>=48&&hh<72;});
+    else if(h===120)leads=leads.filter(c=>{const hh=horasSem(c);return hh>=72&&hh<120;});
+    else if(h===999)leads=leads.filter(c=>horasSem(c)>=120);
+  }
+  if(q)leads=leads.filter(c=>{
+    const s=c.summary||{};
+    return(s.nome||'').toLowerCase().includes(q)||c.phone.includes(q)||(c.phone_display||'').includes(q);
+  });
+  // Sort
+  leads.sort((a,b)=>{
+    let va,vb;
+    if(sortCol==='horas'){va=horasSem(a);vb=horasSem(b);}
+    else if(sortCol==='nome'){va=(a.summary||{}).nome||'';vb=(b.summary||{}).nome||'';}
+    else if(sortCol==='bot'){va=a.bot||'';vb=b.bot||'';}
+    else if(sortCol==='ultima'){va=a.last_message_at||'';vb=b.last_message_at||'';}
+    else{va=horasSem(a);vb=horasSem(b);}
+    if(typeof va==='string')return sortDir==='asc'?va.localeCompare(vb):vb.localeCompare(va);
+    return sortDir==='asc'?va-vb:vb-va;
+  });
+  return leads;
+}
+
+// ── Render ──
+function renderAll(){
+  renderKPIs();
+  renderTable();
+}
+
+function renderKPIs(){
+  const leads=getLeads();
+  const total=leads.length;
+  const preto=leads.filter(c=>c.bot==='preto').length;
+  const amarelo=leads.filter(c=>c.bot==='amarelo').length;
+  const nunca=leads.filter(c=>!everResponded(c)).length;
+  const f={'<24h':0,'1-2d':0,'2-3d':0,'3-5d':0,'5-7d':0,'>7d':0};
+  for(const c of leads){
+    const h=horasSem(c);
+    if(h<24)f['<24h']++;else if(h<48)f['1-2d']++;else if(h<72)f['2-3d']++;else if(h<120)f['3-5d']++;else if(h<168)f['5-7d']++;else f['>7d']++;
+  }
+  let h='<div class="kpis">';
+  h+='<div class="kpi"><div class="kpi-val" style="color:var(--accent2)">'+total+'</div><div class="kpi-lbl">Total</div></div>';
+  h+='<div class="kpi"><div class="kpi-val" style="color:var(--bot-preto)">'+preto+'</div><div class="kpi-lbl">Preto 0479</div></div>';
+  h+='<div class="kpi"><div class="kpi-val" style="color:var(--bot-amarelo)">'+amarelo+'</div><div class="kpi-lbl">Amarelo 2373</div></div>';
+  h+='<div class="kpi"><div class="kpi-val" style="color:var(--red)">'+nunca+'</div><div class="kpi-lbl">Sem resposta</div></div>';
+  h+='<div class="kpi"><div class="kpi-val" style="color:var(--green)">'+f['<24h']+'</div><div class="kpi-lbl">&lt;24h</div></div>';
+  h+='<div class="kpi"><div class="kpi-val" style="color:var(--yellow)">'+f['1-2d']+'</div><div class="kpi-lbl">1-2 dias</div></div>';
+  h+='<div class="kpi"><div class="kpi-val" style="color:var(--yellow)">'+f['2-3d']+'</div><div class="kpi-lbl">2-3 dias</div></div>';
+  h+='<div class="kpi"><div class="kpi-val" style="color:var(--red)">'+f['3-5d']+'</div><div class="kpi-lbl">3-5 dias</div></div>';
+  h+='<div class="kpi"><div class="kpi-val" style="color:var(--red)">'+f['5-7d']+'</div><div class="kpi-lbl">5-7 dias</div></div>';
+  h+='<div class="kpi"><div class="kpi-val" style="color:var(--red)">'+f['>7d']+'</div><div class="kpi-lbl">&gt;7 dias</div></div>';
+  h+='</div>';
+  document.getElementById('kpis-container').innerHTML=h;
+}
+
+function sortBy(col){
+  if(sortCol===col)sortDir=sortDir==='asc'?'desc':'asc';
+  else{sortCol=col;sortDir='desc';}
+  renderTable();
+}
+
+function renderTable(){
+  const leads=getFilteredLeads();
+  selected.clear();
+  document.getElementById('select-all-cb').checked=false;
+  updateSelCount();
+
+  if(!leads.length){
+    document.getElementById('table-container').innerHTML='<div class="empty">&#x2705; Nenhum lead pendente</div>';
+    return;
+  }
+
+  const sc=sortCol;const sd=sortDir;
+  const thClass=(col)=>sc===col?(sd==='asc'?'sorted-asc':'sorted-desc'):'';
+
+  let h='<table class="tbl"><thead><tr>';
+  h+='<th class="cb"><input type="checkbox" onchange="toggleAll(this.checked)"></th>';
+  h+='<th class="'+thClass('nome')+'" onclick="sortBy(\'nome\')">Nome</th>';
+  h+='<th>Telefone</th>';
+  h+='<th class="'+thClass('bot')+'" onclick="sortBy(\'bot\')">Bot</th>';
+  h+='<th class="'+thClass('ultima')+'" onclick="sortBy(\'ultima\')">Ultima msg</th>';
+  h+='<th>Quem</th>';
+  h+='<th>Resp. lead</th>';
+  h+='<th>Respondeu?</th>';
+  h+='<th class="'+thClass('horas')+'" onclick="sortBy(\'horas\')">Sem resposta</th>';
+  h+='<th>Conversa</th>';
+  h+='</tr></thead><tbody>';
+
+  for(const c of leads){
+    const s=c.summary||{};
+    const nome=s.nome||'Desconhecido';
+    const bot=c.bot==='preto'?'0479':c.bot==='amarelo'?'2373':'?';
+    const botStyle=c.bot==='amarelo'?'color:var(--bot-amarelo)':'';
+    const quem=lastSender(c);
+    const qClass=quem==='Bot'?'quem-bot':'quem-lead';
+    const lr=lastUserMsg(c);
+    const respDt=lr&&lr.msg_time?fmtDt(lr.msg_time):'';
+    const resp=everResponded(c);
+    const hrs=horasSem(c);
+    const hLabel=hrs<24?hrs+'h':Math.floor(hrs/24)+'d '+hrs%24+'h';
+    const hClass=hrs<24?'t-ok':hrs<72?'t-warn':'t-danger';
+
+    h+='<tr>';
+    h+='<td class="cb"><input type="checkbox" data-phone="'+esc(c.phone)+'" data-bot="'+esc(c.bot)+'" onchange="toggleOne(this)"></td>';
+    h+='<td class="nome">'+esc(nome)+'</td>';
+    h+='<td>'+esc(c.phone_display||c.phone)+'</td>';
+    h+='<td style="'+botStyle+'">'+bot+'</td>';
+    h+='<td>'+fmtDt(c.last_message_at)+'</td>';
+    h+='<td><span class="'+qClass+'">'+quem+'</span></td>';
+    h+='<td>'+(respDt||'<span class="nunca">nunca</span>')+'</td>';
+    h+='<td>'+(resp?'<span style="color:var(--green)">Sim</span>':'<span class="nunca">Nao</span>')+'</td>';
+    h+='<td><span class="'+hClass+'">'+hLabel+'</span></td>';
+    h+='<td><a class="conv-link" href="index.html" target="_blank">Ver</a></td>';
+    h+='</tr>';
+  }
+  h+='</tbody></table>';
+  document.getElementById('table-container').innerHTML=h;
+}
+
+// ── Selection ──
+function toggleAll(checked){
+  document.querySelectorAll('#table-container input[type=checkbox][data-phone]').forEach(b=>{b.checked=checked;});
+  selected.clear();
+  if(checked)document.querySelectorAll('#table-container input[type=checkbox][data-phone]').forEach(b=>selected.add(b.dataset.phone));
+  updateSelCount();
+}
+function toggleOne(cb){
+  if(cb.checked)selected.add(cb.dataset.phone);else selected.delete(cb.dataset.phone);
+  updateSelCount();
+}
+function updateSelCount(){
+  const n=selected.size;
+  document.getElementById('sel-count').textContent=n?n+' selecionado'+(n>1?'s':''):'';
+  document.getElementById('send-btn').disabled=n===0;
+}
+
+// ── Send Follow-up ──
+async function sendFollowup(){
+  const phones=Array.from(selected);
+  if(!phones.length)return;
+  const btn=document.getElementById('send-btn');
+  const msg=document.getElementById('status-msg');
+  btn.disabled=true;
+  btn.textContent='Enviando...';
+  msg.textContent='Disparando follow-up para '+phones.length+' leads...';
+  msg.style.color='var(--text3)';
+
+  const payload=phones.map(p=>{
+    const cb=document.querySelector('input[data-phone="'+p+'"]');
+    return{phone:p,bot:cb?cb.dataset.bot:''};
+  });
+
+  try{
+    const r=await fetch('https://n8n.gw9saude.com/webhook/followup-forcado',{
+      method:'POST',
+      headers:{'Content-Type':'application/json'},
+      body:JSON.stringify({leads:payload})
+    });
+    if(r.ok){
+      msg.textContent='Follow-up disparado para '+phones.length+' leads! Enviando 1 a cada 30s.';
+      msg.style.color='var(--green)';
+      showToast('Follow-up enviado!');
+    }else{
+      msg.textContent='Erro: '+(await r.text());
+      msg.style.color='var(--red)';
+    }
+  }catch(e){
+    msg.textContent='Erro de conexao: '+e.message;
+    msg.style.color='var(--red)';
+  }
+  btn.textContent='\ud83d\udce2 Enviar Follow-up';
+  btn.disabled=false;
+  selected.clear();
+  updateSelCount();
+  document.querySelectorAll('#table-container input[type=checkbox]').forEach(b=>b.checked=false);
+  document.getElementById('select-all-cb').checked=false;
+}
+
+function showToast(m){
+  const t=document.getElementById('toast');
+  t.textContent=m;t.classList.add('show');
+  setTimeout(()=>t.classList.remove('show'),2500);
+}
+
+// Auto-refresh 5min
+setInterval(()=>{if(document.getElementById('app').style.display!=='none')loadData();},5*60*1000);
+</script>
+</body>
+</html>
