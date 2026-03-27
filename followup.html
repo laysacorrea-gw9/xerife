@@ -225,16 +225,26 @@ function lastAiMsg(c){
 }
 function lastUserMsg(c){
   const m=c.messages||[];
-  for(let i=m.length-1;i>=0;i--){if(m[i].role==='user'||m[i].role==='human')return m[i];}
+  for(let i=m.length-1;i>=0;i--){if(isRealUserMsg(m[i]))return m[i];}
   return null;
 }
 function lastSender(c){
   const m=c.messages||[];
   if(!m.length)return '?';
-  return m[m.length-1].role==='ai'?'Bot':'Lead';
+  var last=m[m.length-1];
+  if(last.role==='ai')return 'Bot';
+  return isRealUserMsg(last)?'Lead':'Bot';
+}
+function isRealUserMsg(m){
+  if(m.role!=='user'&&m.role!=='human')return false;
+  var c=(m.content||'').substring(0,30);
+  if(c.indexOf('Dados Fornecidos')===0)return false;
+  if(c.indexOf('Dados do lead')===0)return false;
+  if(c.indexOf('ROW_ID:')>=0)return false;
+  return true;
 }
 function everResponded(c){
-  return(c.messages||[]).some(m=>m.role==='user'||m.role==='human');
+  return(c.messages||[]).some(isRealUserMsg);
 }
 function horasSem(c){
   const ai=lastAiMsg(c);
