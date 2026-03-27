@@ -1,17 +1,138 @@
 {
   "meta": {
-    "generated_at": "2026-03-27T17:15:25.111Z",
+    "generated_at": "2026-03-27T17:30:24.024Z",
     "total_conversations": 200,
-    "total_messages": 3385,
+    "total_messages": 3386,
     "stats": {
-      "quente": 1,
-      "morno": 9,
-      "frio": 21,
-      "desinteresse": 169,
+      "quente": 2,
+      "morno": 10,
+      "frio": 22,
+      "desinteresse": 166,
       "sem_classificacao": 0
     }
   },
   "conversations": [
+    {
+      "session_id": "5521988961473@s.whatsapp.net",
+      "phone": "5521988961473",
+      "phone_display": "+55 21 98896-1473",
+      "lead": {
+        "baserow_id": 1326,
+        "nome": "Marijalma",
+        "email": "marijalmamurtas@gmail.com",
+        "qtd_vidas": 2,
+        "desinteresse": false,
+        "observacoes": "Registro interno: Encaminhado ao consultor.\nNome do lead: Marijalma\nTipo de contratação: CNPJ\nCidade/UF: Rio de Janeiro/RJ\nQuantidade de vidas: 3\nIdades dos beneficiários: 29, 72, 44",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Marijalma",
+        "email": "marijalmamurtas@gmail.com",
+        "telefone": "+55 21 98896-1473",
+        "vidas": [
+          {
+            "idade": 29
+          },
+          {
+            "idade": 72
+          }
+        ],
+        "cidade": "",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "Registro interno: Encaminhado ao consultor.\nNome do lead: Marijalma\nTipo de contratação: CNPJ\nCidade/UF: Rio de Janeiro/RJ\nQuantidade de vidas: 3\nIdades dos beneficiários: 29, 72, 44",
+        "bot": "Gilbertinho Amarelo (2373)",
+        "formatted": "👤 Cliente: Marijalma\n📧 E-mail: marijalmamurtas@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98896-1473\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nMarijalma — 29 anos\nDependente 1 — 72 anos\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Marijalma\nTipo de contratação: CNPJ\nCidade/UF: Rio de Janeiro/RJ\nQuantidade de vidas: 3\nIdades dos beneficiários: 29, 72, 44\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)"
+      },
+      "status": "morno",
+      "bot": "amarelo",
+      "consultor": "",
+      "message_count": 13,
+      "first_message_at": "2026-03-23T00:00:00.000Z",
+      "last_message_at": "2026-03-23T11:21:56.169000Z",
+      "last_bot_msg_at": "2026-03-23T08:21:51.800151",
+      "tempo_sem_interacao": "4 dias",
+      "first_id": 19893,
+      "last_id": 20675,
+      "last_message_preview": "Rio de Janeira.",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados Fornecidos\nNome: Marijalma\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o informado\nRegiÃƒÂ£o: NÃƒÂ£o Informado\nPropaganda:\n",
+          "msg_time": "2026-03-23T08:21:51.797583"
+        },
+        {
+          "role": "ai",
+          "content": "Oi Marijalma! Sou o Gilberto da GW9, corretora de planos de saúde. Você pediu nosso contato para saber mais sobre plano de saúde e vi que já possui um CNPJ. Para te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo certo?",
+          "msg_time": "2026-03-23T08:21:51.800151"
+        },
+        {
+          "role": "system",
+          "content": "\n",
+          "msg_time": "2026-03-24T11:00:36.787232"
+        },
+        {
+          "role": "user",
+          "content": "8",
+          "msg_time": "2026-03-24T12:20:19.37024"
+        },
+        {
+          "role": "system",
+          "content": "Marijalma\nEu vou colocar as informações que preciso aqui e quando puder você me responde.\nTrabalhamos com todos os Planos de saúde no Rio de Janeiro. \nMeu trabalho é de colher essa informações e deixar tudo organizado para o especialista te atender de forma objetiva. ok ?",
+          "msg_time": "2026-03-24T13:53:49.135666"
+        },
+        {
+          "role": "system",
+          "content": "Pode me dizer:  \n- Quantas pessoas são e as idades?  \n- Qual a cidade?  \n- Seu CNPJ é MEI ou LTDA ? Hoje os planos empresariais costumam ter valores até cerca de 30–40% menores, dependendo da operadora.  \n- Você já possui Plano ? Se sim qual? E o motivo de estar buscando um novo.\nQuando puder eu aguardo sua resposta.",
+          "msg_time": "2026-03-24T13:55:13.096853"
+        },
+        {
+          "role": "system",
+          "content": "Ah e se quiser pode enviar audio também 😉",
+          "msg_time": "2026-03-24T13:56:02.231913"
+        },
+        {
+          "role": "user",
+          "content": "29 72 acho 44 ainda não falei com ela.",
+          "msg_time": "2026-03-24T13:56:57.201185"
+        },
+        {
+          "role": "system",
+          "content": "- Qual a cidade ou Hospital que buscam atendimento?  \n- Seu CNPJ é  MEI ou LTDA ? \n- Você já possui Plano ? Se sim qual? E o motivo de estar buscando um novo.\nVai respondendo no seu tempo ...",
+          "msg_time": "2026-03-24T13:58:05.699037"
+        },
+        {
+          "role": "user",
+          "content": "Rio de Janeira.",
+          "msg_time": "2026-03-24T14:10:57.721629"
+        },
+        {
+          "role": "system",
+          "content": "- Seu CNPJ é  MEI ou LTDA ? \n- Você já possui Plano ? Se sim qual? E o motivo de estar buscando um novo.",
+          "msg_time": "2026-03-24T14:22:01.504238"
+        },
+        {
+          "role": "system",
+          "content": "Boa noite Marijalma! Tentei falar com você algumas vezes mas acho que não consegui te pegar em um bom momento.\nSó preciso de algumas informações pra te ajudar com o plano de saúde.\nQual o melhor horário pra eu te retornar? ",
+          "msg_time": "2026-03-25T19:46:10.223978"
+        },
+        {
+          "role": "system",
+          "content": "Marijalma \n\nTudo bem ?\n\nHoje é um bom dia para voltarmos ao tema do seu Plano de Saúde ?",
+          "msg_time": "2026-03-27T14:19:28.064697"
+        }
+      ]
+    },
     {
       "session_id": "5521971444007@s.whatsapp.net",
       "phone": "5521971444007",
@@ -54,7 +175,7 @@
       "first_message_at": "2026-03-27T00:00:00.000Z",
       "last_message_at": "2026-03-27T17:10:35.405000Z",
       "last_bot_msg_at": "2026-03-27T14:10:28.665579",
-      "tempo_sem_interacao": "3h 4min",
+      "tempo_sem_interacao": "3h 19min",
       "first_id": 20673,
       "last_id": 20674,
       "last_message_preview": "Dados Fornecidos\nNome: Camila\nContem CNPJ: não\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o info...",
@@ -113,7 +234,7 @@
       "first_message_at": "2026-03-27T00:00:00.000Z",
       "last_message_at": "2026-03-27T16:32:32.064000Z",
       "last_bot_msg_at": "2026-03-27T13:32:26.641355",
-      "tempo_sem_interacao": "3h 42min",
+      "tempo_sem_interacao": "3h 57min",
       "first_id": 20671,
       "last_id": 20672,
       "last_message_preview": "Dados Fornecidos\nNome: Atelier\nContem CNPJ: não\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o inf...",
@@ -172,7 +293,7 @@
       "first_message_at": "2026-03-26T00:00:00.000Z",
       "last_message_at": "2026-03-26T22:22:32.656000Z",
       "last_bot_msg_at": "2026-03-26T19:22:26.694979",
-      "tempo_sem_interacao": "21h 52min",
+      "tempo_sem_interacao": "22h 7min",
       "first_id": 20615,
       "last_id": 20670,
       "last_message_preview": "Dados Fornecidos\nNome: Lobo\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o inform...",
@@ -313,7 +434,7 @@
       "first_message_at": "2026-03-18T23:43:17.891Z",
       "last_message_at": "2026-03-27T16:20:04.150Z",
       "last_bot_msg_at": "2026-03-27T13:20:04.150964",
-      "tempo_sem_interacao": "3h 55min",
+      "tempo_sem_interacao": "4h 10min",
       "first_id": 19447,
       "last_id": 20668,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1454\nNome: Laysa Corrêa\n\nMensagem(ns) do cliente:\nsim",
@@ -607,7 +728,7 @@
       "first_message_at": "2026-03-26T00:00:00.000Z",
       "last_message_at": "2026-03-27T16:15:24.927000Z",
       "last_bot_msg_at": "2026-03-27T13:15:23.349744",
-      "tempo_sem_interacao": "4h",
+      "tempo_sem_interacao": "4h 15min",
       "first_id": 20579,
       "last_id": 20666,
       "last_message_preview": "Formato de mensagem enviada nao suportado",
@@ -693,7 +814,7 @@
       "first_message_at": "2026-03-27T00:00:00.000Z",
       "last_message_at": "2026-03-27T15:57:43.004000Z",
       "last_bot_msg_at": "2026-03-27T12:57:41.766631",
-      "tempo_sem_interacao": "4h 17min",
+      "tempo_sem_interacao": "4h 32min",
       "first_id": 20651,
       "last_id": 20660,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1457\nNome: j.nevesdecarvalho@gmail.c\n\nMensagem(ns) do cliente:\nMor...",
@@ -792,7 +913,7 @@
       "first_message_at": "2026-03-27T00:00:00.000Z",
       "last_message_at": "2026-03-27T14:19:36.187000Z",
       "last_bot_msg_at": "2026-03-27T11:19:29.330436",
-      "tempo_sem_interacao": "5h 55min",
+      "tempo_sem_interacao": "6h 10min",
       "first_id": 20649,
       "last_id": 20650,
       "last_message_preview": "Dados Fornecidos\nNome: Washington\nContem CNPJ: não\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o ...",
@@ -851,7 +972,7 @@
       "first_message_at": "2026-03-27T00:00:00.000Z",
       "last_message_at": "2026-03-27T06:41:33.441000Z",
       "last_bot_msg_at": "2026-03-27T03:41:26.885181",
-      "tempo_sem_interacao": "13h 33min",
+      "tempo_sem_interacao": "13h 48min",
       "first_id": 20647,
       "last_id": 20648,
       "last_message_preview": "Dados Fornecidos\nNome: Emilia\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o info...",
@@ -900,7 +1021,7 @@
       "first_message_at": "2026-03-27T00:46:28.468Z",
       "last_message_at": "2026-03-27T01:17:28.202Z",
       "last_bot_msg_at": "2026-03-26T22:17:28.202885",
-      "tempo_sem_interacao": "18h 57min",
+      "tempo_sem_interacao": "19h 12min",
       "first_id": 20634,
       "last_id": 20646,
       "last_message_preview": "Dados Fornecidos\nNome: Graci\nContem CNPJ: não\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o infor...",
@@ -969,7 +1090,7 @@
       "first_message_at": "2026-03-26T00:00:00.000Z",
       "last_message_at": "2026-03-27T00:21:52.930000Z",
       "last_bot_msg_at": "2026-03-26T21:21:51.946276",
-      "tempo_sem_interacao": "19h 53min",
+      "tempo_sem_interacao": "20h 8min",
       "first_id": 20621,
       "last_id": 20622,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1452\nNome: Cida\n\nMensagem(ns) do cliente:\nOlÃ¡ Gostaria de uma cot...",
@@ -2865,122 +2986,6 @@
       ]
     },
     {
-      "session_id": "5521988961473@s.whatsapp.net",
-      "phone": "5521988961473",
-      "phone_display": "+55 21 98896-1473",
-      "lead": {
-        "baserow_id": 1326,
-        "nome": "Marijalma",
-        "email": "marijalmamurtas@gmail.com",
-        "qtd_vidas": 2,
-        "desinteresse": true,
-        "observacoes": "Registro interno: Encaminhado ao consultor.\nNome do lead: Marijalma\nTipo de contratação: CNPJ\nCidade/UF: Rio de Janeiro/RJ\nQuantidade de vidas: 3\nIdades dos beneficiários: 29, 72, 44",
-        "reagendamento": null,
-        "corretor": "João",
-        "temperatura": "Frio"
-      },
-      "summary": {
-        "nome": "Marijalma",
-        "email": "marijalmamurtas@gmail.com",
-        "telefone": "+55 21 98896-1473",
-        "vidas": [
-          {
-            "idade": 29
-          },
-          {
-            "idade": 72
-          }
-        ],
-        "cidade": "",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "João",
-        "obs_crm": "Registro interno: Encaminhado ao consultor.\nNome do lead: Marijalma\nTipo de contratação: CNPJ\nCidade/UF: Rio de Janeiro/RJ\nQuantidade de vidas: 3\nIdades dos beneficiários: 29, 72, 44",
-        "bot": "Gilbertinho Amarelo (2373)",
-        "formatted": "👤 Cliente: Marijalma\n📧 E-mail: marijalmamurtas@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98896-1473\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nMarijalma — 29 anos\nDependente 1 — 72 anos\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Marijalma\nTipo de contratação: CNPJ\nCidade/UF: Rio de Janeiro/RJ\nQuantidade de vidas: 3\nIdades dos beneficiários: 29, 72, 44\n👤 Consultor: João\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Amarelo (2373)"
-      },
-      "status": "desinteresse",
-      "bot": "amarelo",
-      "consultor": "João",
-      "message_count": 12,
-      "first_message_at": "2026-03-23T00:00:00.000Z",
-      "last_message_at": "2026-03-23T11:21:56.169000Z",
-      "last_bot_msg_at": "2026-03-23T08:21:51.800151",
-      "tempo_sem_interacao": "4 dias",
-      "first_id": 19893,
-      "last_id": 20506,
-      "last_message_preview": "Rio de Janeira.",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados Fornecidos\nNome: Marijalma\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o informado\nRegiÃƒÂ£o: NÃƒÂ£o Informado\nPropaganda:\n",
-          "msg_time": "2026-03-23T08:21:51.797583"
-        },
-        {
-          "role": "ai",
-          "content": "Oi Marijalma! Sou o Gilberto da GW9, corretora de planos de saúde. Você pediu nosso contato para saber mais sobre plano de saúde e vi que já possui um CNPJ. Para te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo certo?",
-          "msg_time": "2026-03-23T08:21:51.800151"
-        },
-        {
-          "role": "system",
-          "content": "\n",
-          "msg_time": "2026-03-24T11:00:36.787232"
-        },
-        {
-          "role": "user",
-          "content": "8",
-          "msg_time": "2026-03-24T12:20:19.37024"
-        },
-        {
-          "role": "system",
-          "content": "Marijalma\nEu vou colocar as informações que preciso aqui e quando puder você me responde.\nTrabalhamos com todos os Planos de saúde no Rio de Janeiro. \nMeu trabalho é de colher essa informações e deixar tudo organizado para o especialista te atender de forma objetiva. ok ?",
-          "msg_time": "2026-03-24T13:53:49.135666"
-        },
-        {
-          "role": "system",
-          "content": "Pode me dizer:  \n- Quantas pessoas são e as idades?  \n- Qual a cidade?  \n- Seu CNPJ é MEI ou LTDA ? Hoje os planos empresariais costumam ter valores até cerca de 30–40% menores, dependendo da operadora.  \n- Você já possui Plano ? Se sim qual? E o motivo de estar buscando um novo.\nQuando puder eu aguardo sua resposta.",
-          "msg_time": "2026-03-24T13:55:13.096853"
-        },
-        {
-          "role": "system",
-          "content": "Ah e se quiser pode enviar audio também 😉",
-          "msg_time": "2026-03-24T13:56:02.231913"
-        },
-        {
-          "role": "user",
-          "content": "29 72 acho 44 ainda não falei com ela.",
-          "msg_time": "2026-03-24T13:56:57.201185"
-        },
-        {
-          "role": "system",
-          "content": "- Qual a cidade ou Hospital que buscam atendimento?  \n- Seu CNPJ é  MEI ou LTDA ? \n- Você já possui Plano ? Se sim qual? E o motivo de estar buscando um novo.\nVai respondendo no seu tempo ...",
-          "msg_time": "2026-03-24T13:58:05.699037"
-        },
-        {
-          "role": "user",
-          "content": "Rio de Janeira.",
-          "msg_time": "2026-03-24T14:10:57.721629"
-        },
-        {
-          "role": "system",
-          "content": "- Seu CNPJ é  MEI ou LTDA ? \n- Você já possui Plano ? Se sim qual? E o motivo de estar buscando um novo.",
-          "msg_time": "2026-03-24T14:22:01.504238"
-        },
-        {
-          "role": "system",
-          "content": "Boa noite Marijalma! Tentei falar com você algumas vezes mas acho que não consegui te pegar em um bom momento.\nSó preciso de algumas informações pra te ajudar com o plano de saúde.\nQual o melhor horário pra eu te retornar? ",
-          "msg_time": "2026-03-25T19:46:10.223978"
-        }
-      ]
-    },
-    {
       "session_id": "5521994140854@s.whatsapp.net",
       "phone": "5521994140854",
       "phone_display": "+55 21 99414-0854",
@@ -3981,7 +3986,7 @@
       "first_message_at": "2026-03-25T00:00:00.000Z",
       "last_message_at": "2026-03-25T20:29:15.242000Z",
       "last_bot_msg_at": "2026-03-25T17:29:14.143396",
-      "tempo_sem_interacao": "1 dia",
+      "tempo_sem_interacao": "2 dias",
       "first_id": 20395,
       "last_id": 20396,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1404\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -4007,11 +4012,11 @@
         "nome": "Amanda",
         "email": "",
         "qtd_vidas": 3,
-        "desinteresse": true,
+        "desinteresse": false,
         "observacoes": "Amanda",
         "reagendamento": null,
-        "corretor": "João",
-        "temperatura": "Quente"
+        "corretor": "",
+        "temperatura": ""
       },
       "summary": {
         "nome": "Amanda",
@@ -4038,19 +4043,19 @@
         "interesse": "Amil",
         "rede_preferencial": "",
         "contato": "WhatsApp",
-        "consultor": "João",
+        "consultor": "",
         "obs_crm": "Amanda",
         "bot": "Gilbertinho Amarelo (2373)",
-        "formatted": "👤 Cliente: Amanda\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99063-2197\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nAmanda — 1 anos\nDependente 1 — 28 anos\nDependente 2 — 1 anos\n\n📋 Dados contratuais:\n\nCidade: São Gonçalo / RJ\nContratação: CNPJ\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Amanda\n👤 Consultor: João\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Amarelo (2373)"
+        "formatted": "👤 Cliente: Amanda\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99063-2197\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nAmanda — 1 anos\nDependente 1 — 28 anos\nDependente 2 — 1 anos\n\n📋 Dados contratuais:\n\nCidade: São Gonçalo / RJ\nContratação: CNPJ\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Amanda\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Amarelo (2373)"
       },
-      "status": "desinteresse",
+      "status": "quente",
       "bot": "amarelo",
-      "consultor": "João",
+      "consultor": "",
       "message_count": 14,
       "first_message_at": "2026-03-25T00:00:00.000Z",
       "last_message_at": "2026-03-25T20:23:47.453000Z",
       "last_bot_msg_at": "2026-03-25T17:23:46.238527",
-      "tempo_sem_interacao": "1 dia",
+      "tempo_sem_interacao": "2 dias",
       "first_id": 20381,
       "last_id": 20394,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1402\nNome: Amanda\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns...",
@@ -5688,11 +5693,11 @@
         "nome": "Ana Maria",
         "email": "",
         "qtd_vidas": "",
-        "desinteresse": true,
+        "desinteresse": false,
         "observacoes": "Registro interno: Encaminhado ao consultor.\nNome do lead: Ana Maria\nProduto ou operadora de interesse: Plano de Saúde Bradesco",
         "reagendamento": null,
-        "corretor": "Isis",
-        "temperatura": "Frio"
+        "corretor": "",
+        "temperatura": ""
       },
       "summary": {
         "nome": "Ana Maria",
@@ -5709,14 +5714,14 @@
         "interesse": "",
         "rede_preferencial": "",
         "contato": "WhatsApp",
-        "consultor": "Isis",
+        "consultor": "",
         "obs_crm": "Registro interno: Encaminhado ao consultor.\nNome do lead: Ana Maria\nProduto ou operadora de interesse: Plano de Saúde Bradesco",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Ana Maria\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99916-6989\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Ana Maria\nProduto ou operadora de interesse: Plano de Saúde Bradesco\n👤 Consultor: Isis\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Ana Maria\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99916-6989\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Ana Maria\nProduto ou operadora de interesse: Plano de Saúde Bradesco\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
       },
-      "status": "desinteresse",
+      "status": "frio",
       "bot": "preto",
-      "consultor": "Isis",
+      "consultor": "",
       "message_count": 2,
       "first_message_at": "2026-03-24T00:00:00.000Z",
       "last_message_at": "2026-03-24T20:59:10.261000Z",
@@ -10357,7 +10362,7 @@
       "first_message_at": "2026-03-22T00:00:00.000Z",
       "last_message_at": "2026-03-22T20:17:35.553000Z",
       "last_bot_msg_at": "2026-03-22T17:17:34.609389",
-      "tempo_sem_interacao": "4 dias",
+      "tempo_sem_interacao": "5 dias",
       "first_id": 19846,
       "last_id": 19862,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1318\nNome: Thais Melo\n\nMensagem(ns) do cliente:\nNão tenho",
@@ -10463,7 +10468,7 @@
       "first_message_at": "2026-03-22T00:00:00.000Z",
       "last_message_at": "2026-03-22T20:16:02.831000Z",
       "last_bot_msg_at": "2026-03-22T17:16:01.015059",
-      "tempo_sem_interacao": "4 dias",
+      "tempo_sem_interacao": "5 dias",
       "first_id": 19836,
       "last_id": 19860,
       "last_message_preview": "Ok! Obrigada pela assistência!",
@@ -12263,7 +12268,7 @@
       "first_message_at": "2026-03-18T00:00:00.000Z",
       "last_message_at": "2026-03-18T20:29:59.925000Z",
       "last_bot_msg_at": "2026-03-18T17:29:58.712472",
-      "tempo_sem_interacao": "8 dias",
+      "tempo_sem_interacao": "9 dias",
       "first_id": 19280,
       "last_id": 19613,
       "last_message_preview": "Dados do lead no sistema:\nNome: Alexandre\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do clien...",
