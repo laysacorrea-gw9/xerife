@@ -209,7 +209,8 @@ async function loadData(){
 // ── Helpers ──
 function getLeads(){
   return allConversations.filter(c=>{
-    const l=c.lead||{};
+    if(!c.lead||!c.lead.baserow_id)return false; // sem registro no Baserow = ignorar
+    const l=c.lead;
     if(l.desinteresse===true||l.desinteresse==='true')return false;
     if(c.status==='quente')return false;
     if(l.corretor&&l.corretor.trim()!=='')return false;
