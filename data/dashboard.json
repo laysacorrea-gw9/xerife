@@ -1,17 +1,76 @@
 {
   "meta": {
-    "generated_at": "2026-03-28T17:00:23.893Z",
+    "generated_at": "2026-03-28T17:15:23.294Z",
     "total_conversations": 200,
-    "total_messages": 3376,
+    "total_messages": 3365,
     "stats": {
       "quente": 1,
       "morno": 9,
-      "frio": 17,
-      "desinteresse": 173,
+      "frio": 18,
+      "desinteresse": 172,
       "sem_classificacao": 0
     }
   },
   "conversations": [
+    {
+      "session_id": "5521998309325@s.whatsapp.net",
+      "phone": "5521998309325",
+      "phone_display": "+55 21 99830-9325",
+      "lead": {
+        "baserow_id": 1474,
+        "nome": "João",
+        "email": "prjblopes@hotmail.com",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "observacoes": "",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "João",
+        "email": "prjblopes@hotmail.com",
+        "telefone": "+55 21 99830-9325",
+        "vidas": [],
+        "cidade": "",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "",
+        "bot": "Gilbertinho Amarelo (2373)",
+        "formatted": "👤 Cliente: João\n📧 E-mail: prjblopes@hotmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99830-9325\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Amarelo (2373)"
+      },
+      "status": "frio",
+      "bot": "amarelo",
+      "consultor": "",
+      "message_count": 2,
+      "first_message_at": "2026-03-28T00:00:00.000Z",
+      "last_message_at": "2026-03-28T17:02:34.234000Z",
+      "last_bot_msg_at": "2026-03-28T14:02:27.784227",
+      "tempo_sem_interacao": "3h 12min",
+      "first_id": 20832,
+      "last_id": 20833,
+      "last_message_preview": "Dados Fornecidos\nNome: João\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o inform...",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados Fornecidos\nNome: João\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o informado\nRegiÃƒÂ£o: NÃƒÂ£o Informado\nPropaganda:\n",
+          "msg_time": "2026-03-28T14:02:27.780849"
+        },
+        {
+          "role": "ai",
+          "content": "Oi João! Sou o Gilberto da GW9, corretora de planos de saúde. Você pediu nosso contato para saber mais sobre plano de saúde e vi que já possui um CNPJ. Para te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo certo?",
+          "msg_time": "2026-03-28T14:02:27.784227"
+        }
+      ]
+    },
     {
       "session_id": "5521991783166@s.whatsapp.net",
       "phone": "5521991783166",
@@ -54,7 +113,7 @@
       "first_message_at": "2026-03-28T00:00:00.000Z",
       "last_message_at": "2026-03-28T16:57:32.832000Z",
       "last_bot_msg_at": "2026-03-28T13:57:26.830024",
-      "tempo_sem_interacao": "3h 2min",
+      "tempo_sem_interacao": "3h 17min",
       "first_id": 20830,
       "last_id": 20831,
       "last_message_preview": "Dados Fornecidos\nNome: Carlos\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o info...",
@@ -120,7 +179,7 @@
       "first_message_at": "2026-03-28T00:00:00.000Z",
       "last_message_at": "2026-03-28T15:45:35.708000Z",
       "last_bot_msg_at": "2026-03-28T12:45:34.718926",
-      "tempo_sem_interacao": "4h 14min",
+      "tempo_sem_interacao": "4h 29min",
       "first_id": 20817,
       "last_id": 20829,
       "last_message_preview": "Ok\n\nObrigada",
@@ -234,7 +293,7 @@
       "first_message_at": "2026-03-27T00:00:00.000Z",
       "last_message_at": "2026-03-28T15:32:47.925000Z",
       "last_bot_msg_at": "2026-03-28T12:32:46.86595",
-      "tempo_sem_interacao": "4h 27min",
+      "tempo_sem_interacao": "4h 42min",
       "first_id": 20671,
       "last_id": 20816,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1458\nNome: Nelze\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns)...",
@@ -313,7 +372,7 @@
       "first_message_at": "2026-03-27T00:00:00.000Z",
       "last_message_at": "2026-03-27T21:59:37.086000Z",
       "last_bot_msg_at": "2026-03-27T18:59:35.755386",
-      "tempo_sem_interacao": "22h",
+      "tempo_sem_interacao": "22h 15min",
       "first_id": 20727,
       "last_id": 20814,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1464\nNome: Thais\nVidas: 2\nCidade: \nTipo Contratação: \n\nMensagem(ns...",
@@ -757,7 +816,7 @@
       "first_message_at": "2026-03-28T00:00:00.000Z",
       "last_message_at": "2026-03-28T13:22:00.351000Z",
       "last_bot_msg_at": "2026-03-28T10:21:59.180903",
-      "tempo_sem_interacao": "6h 38min",
+      "tempo_sem_interacao": "6h 53min",
       "first_id": 20784,
       "last_id": 20803,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1471\nNome: Aldeir\n\nMensagem(ns) do cliente:\nMoro atualmente em rio...",
@@ -977,7 +1036,7 @@
       "first_message_at": "2026-03-28T00:00:00.000Z",
       "last_message_at": "2026-03-28T13:08:33.810000Z",
       "last_bot_msg_at": "2026-03-28T10:08:32.933057",
-      "tempo_sem_interacao": "6h 51min",
+      "tempo_sem_interacao": "7h 6min",
       "first_id": 20780,
       "last_id": 20783,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1470\nNome: Rosangela\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem...",
@@ -1046,7 +1105,7 @@
       "first_message_at": "2026-03-28T00:00:00.000Z",
       "last_message_at": "2026-03-28T12:48:33.167000Z",
       "last_bot_msg_at": "2026-03-28T09:48:27.226535",
-      "tempo_sem_interacao": "7h 11min",
+      "tempo_sem_interacao": "7h 26min",
       "first_id": 20778,
       "last_id": 20779,
       "last_message_preview": "Dados Fornecidos\nNome: Henrique\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o in...",
@@ -1105,7 +1164,7 @@
       "first_message_at": "2026-03-28T00:00:00.000Z",
       "last_message_at": "2026-03-28T11:44:44.759000Z",
       "last_bot_msg_at": "2026-03-28T08:44:43.828186",
-      "tempo_sem_interacao": "8h 15min",
+      "tempo_sem_interacao": "8h 30min",
       "first_id": 20762,
       "last_id": 20777,
       "last_message_preview": "estou falando com um robo?",
@@ -1840,7 +1899,7 @@
       "first_message_at": "2026-03-28T00:00:00.000Z",
       "last_message_at": "2026-03-28T10:54:34.531000Z",
       "last_bot_msg_at": "2026-03-28T07:54:29.051435",
-      "tempo_sem_interacao": "9h 5min",
+      "tempo_sem_interacao": "9h 20min",
       "first_id": 20750,
       "last_id": 20751,
       "last_message_preview": "Dados Fornecidos\nNome: Cláudio\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o inf...",
@@ -1909,7 +1968,7 @@
       "first_message_at": "2026-03-28T00:00:00.000Z",
       "last_message_at": "2026-03-28T04:35:34Z",
       "last_bot_msg_at": "2026-03-28T01:35:33.082658",
-      "tempo_sem_interacao": "15h 24min",
+      "tempo_sem_interacao": "15h 39min",
       "first_id": 20737,
       "last_id": 20749,
       "last_message_preview": "Obrigada 🙏🏽",
@@ -2023,7 +2082,7 @@
       "first_message_at": "2026-03-27T00:00:00.000Z",
       "last_message_at": "2026-03-27T23:12:55.600000Z",
       "last_bot_msg_at": "2026-03-27T20:12:54.645896",
-      "tempo_sem_interacao": "20h 47min",
+      "tempo_sem_interacao": "21h 2min",
       "first_id": 20735,
       "last_id": 20736,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1465\nNome: \n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação...",
@@ -2082,7 +2141,7 @@
       "first_message_at": "2026-03-27T00:00:00.000Z",
       "last_message_at": "2026-03-27T21:27:14.887000Z",
       "last_bot_msg_at": "2026-03-27T18:27:13.912379",
-      "tempo_sem_interacao": "22h 33min",
+      "tempo_sem_interacao": "22h 48min",
       "first_id": 20713,
       "last_id": 20726,
       "last_message_preview": "Sim",
@@ -2208,7 +2267,7 @@
       "first_message_at": "2025-12-15T00:00:00.000Z",
       "last_message_at": "2026-03-27T19:16:10.567Z",
       "last_bot_msg_at": "2026-03-27T19:16:10.567Z",
-      "tempo_sem_interacao": "21h 44min",
+      "tempo_sem_interacao": "21h 59min",
       "first_id": 742,
       "last_id": 20712,
       "last_message_preview": "<ContextoImagem>\n\n  <DetalheImagem>\n\n  </DetalheImagem>\n\nContexto Extra: O usuário encaminhou a mens...",
@@ -10894,7 +10953,7 @@
       "first_message_at": "2026-03-22T00:00:00.000Z",
       "last_message_at": "2026-03-22T20:01:58.122000Z",
       "last_bot_msg_at": "2026-03-22T17:01:52.182687",
-      "tempo_sem_interacao": "5 dias",
+      "tempo_sem_interacao": "6 dias",
       "first_id": 19838,
       "last_id": 19923,
       "last_message_preview": "Dados Fornecidos\nNome: Carlos\nContem CNPJ: Sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o info...",
@@ -19795,120 +19854,6 @@
           "role": "user",
           "content": "Formato de mensagem enviada nao suportado",
           "msg_time": "2026-03-16T15:41:11.822789"
-        }
-      ]
-    },
-    {
-      "session_id": "5521986248512@s.whatsapp.net",
-      "phone": "5521986248512",
-      "phone_display": "+55 21 98624-8512",
-      "lead": {
-        "baserow_id": 1154,
-        "nome": "CRISTIANE",
-        "email": "criscristianefernandes@gmail.com",
-        "qtd_vidas": "",
-        "desinteresse": true,
-        "observacoes": "Registro interno: Encaminhado ao consultor.\nNome do lead: CRISTIANE\nTipo de plano: Saúde\nTipo de contratação: CNPJ\nTipo de empresa (se CNPJ): MEI\nCidade/UF: Niterói\nQuantidade de vidas: 3\nIdades dos beneficiários: 49, 47, 10\nPossui plano atualmente: Sim\nOperadora atual: Unimed Leste\nTempo de uso do plano anterior: Mais de 5 anos\nProduto ou operadora de interesse: Amil, Bradesco, Assim Saúde, SulAmérica, Unimed, Porto Seguro, Golden Cross\nPreferências de rede (hospitais/médicos/laboratórios): Sem coparticipação\nMotivo da contratação: Aumento do plano atual\nCritério de decisão (preço, qualidade ou ambos): Não informado\nCanal preferido para contato: WhatsApp\nData preferida para contato: Não informado\nHorário preferido para contato: Não informado",
-        "reagendamento": null,
-        "corretor": "Isis",
-        "temperatura": "Quente"
-      },
-      "summary": {
-        "nome": "CRISTIANE",
-        "email": "criscristianefernandes@gmail.com",
-        "telefone": "+55 21 98624-8512",
-        "vidas": [],
-        "cidade": "Niterói / RJ",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "MEI",
-        "profissao": "",
-        "plano_atual": "Unimed leste",
-        "motivo": "Encerramento do plano atual",
-        "interesse": "SulAmérica",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "Isis",
-        "obs_crm": "Registro interno: Encaminhado ao consultor.\nNome do lead: CRISTIANE\nTipo de plano: Saúde\nTipo de contratação: CNPJ\nTipo de empresa (se CNPJ): MEI\nCidade/UF: Niterói\nQuantidade de vidas: 3\nIdades dos beneficiários: 49, 47, 10\nPossui plano atualmente: Sim\nOperadora atual: Unimed Leste\nTempo de uso do plano anterior: Mais de 5 anos\nProduto ou operadora de interesse: Amil, Bradesco, Assim Saúde, SulAmérica, Unimed, Porto Seguro, Golden Cross\nPreferências de rede (hospitais/médicos/laboratórios): Sem coparticipação\nMotivo da contratação: Aumento do plano atual\nCritério de decisão (preço, qualidade ou ambos): Não informado\nCanal preferido para contato: WhatsApp\nData preferida para contato: Não informado\nHorário preferido para contato: Não informado",
-        "bot": "Gilbertinho Amarelo (2373)",
-        "formatted": "👤 Cliente: CRISTIANE\n📧 E-mail: criscristianefernandes@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98624-8512\n\n📋 Dados contratuais:\n\nCidade: Niterói / RJ\nContratação: CNPJ\nTipo: MEI\n\n🏥 Plano atual: Unimed leste\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\n\n🎯 Interesse: SulAmérica\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: CRISTIANE\nTipo de plano: Saúde\nTipo de contratação: CNPJ\nTipo de empresa (se CNPJ): MEI\nCidade/UF: Niterói\nQuantidade de vidas: 3\nIdades dos beneficiários: 49, 47, 10\nPossui plano atualmente: Sim\nOperadora atual: Unimed Leste\nTempo de uso do plano anterior: Mais de 5 anos\nProduto ou operadora de interesse: Amil, Bradesco, Assim Saúde, SulAmérica, Unimed, Porto Seguro, Golden Cross\nPreferências de rede (hospitais/médicos/laboratórios): Sem coparticipação\nMotivo da contratação: Aumento do plano atual\nCritério de decisão (preço, qualidade ou ambos): Não informado\nCanal preferido para contato: WhatsApp\nData preferida para contato: Não informado\nHorário preferido para contato: Não informado\n👤 Consultor: Isis\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Amarelo (2373)"
-      },
-      "status": "desinteresse",
-      "bot": "amarelo",
-      "consultor": "Isis",
-      "message_count": 13,
-      "first_message_at": "2026-03-13T00:00:00.000Z",
-      "last_message_at": "2026-03-14T00:16:57.025000Z",
-      "last_bot_msg_at": "2026-03-13T21:16:56.609922",
-      "tempo_sem_interacao": "14 dias",
-      "first_id": 18628,
-      "last_id": 18996,
-      "last_message_preview": "Dados do lead no sistema:\nNome: CRISTIANE\n\nMensagem(ns) do cliente:\nGostaria de um plano sem coparti...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados Fornecidos\nNome: CRISTIANE\nContem CNPJ: Sim\nNumero de Vidas: 3 a 5 Vidas\nOperadora de Interesse: Amil, Bradesco, Assim Saúde, SulAmérica, Unimed, Porto Seguro, Golden Cross\nRegião: Não Informado\nPropaganda:\n",
-          "msg_time": "2026-03-13T21:12:26.11362"
-        },
-        {
-          "role": "ai",
-          "content": "Oi CRISTIANE, eu sou o Gilberto da GW9 Saúde. Você pediu o nosso contato para saber mais sobre Plano de Saúde e mencionou interesse em Amil, Bradesco, Assim Saúde, SulAmérica, Unimed, Porto Seguro ou Golden Cross para 3 a 5 vidas e que já possui um CNPJ. Pra te ajudar e ser mais assertivo, preciso confirmar mais algumas informações. Tudo bem?",
-          "msg_time": "2026-03-13T21:12:26.116681"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: CRISTIANE\n\nMensagem(ns) do cliente:\nTudo bem",
-          "msg_time": "2026-03-13T21:13:19.411662"
-        },
-        {
-          "role": "ai",
-          "content": "CRISTIANE, perfeito! Para avançar quero entender melhor o perfil: quantas pessoas serão incluídas exatamente e suas idades? Qual cidade vai usar o plano? E o CNPJ que vai usar para contratar, pode me confirmar ou informar detalhes? Pode responder por áudio se preferir. 🎙️",
-          "msg_time": "2026-03-13T21:13:19.414049"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: CRISTIANE\n\nMensagem(ns) do cliente:\nGostaria de fazer uma cotação: eu tenho 49, meu esposo 47 e meu filho 10. Moro em Niterói\n\nTenho cnpj",
-          "msg_time": "2026-03-13T21:14:43.986697"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, CRISTIANE: 3 vidas — você (49), seu esposo (47) e seu filho (10) em Niterói, contratando pelo CNPJ. Pra finalizar essa parte, qual o tipo da empresa? É MEI ou LTDA? E há quanto tempo está aberta?",
-          "msg_time": "2026-03-13T21:14:43.990058"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: CRISTIANE\n\nMensagem(ns) do cliente:\nJá tenho Unimed leste, mas aumentou muito\n\nMei\n\nMais de 5 anos",
-          "msg_time": "2026-03-13T21:15:35.901424"
-        },
-        {
-          "role": "ai",
-          "content": "CRISTIANE, pelo que entendi são 3 vidas em Niterói, contratando via MEI, com o plano atual Unimed Leste. Confirma?",
-          "msg_time": "2026-03-13T21:15:35.903536"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: CRISTIANE\n\nMensagem(ns) do cliente:\nSim",
-          "msg_time": "2026-03-13T21:16:13.9231"
-        },
-        {
-          "role": "ai",
-          "content": "CRISTIANE, então pelo que entendi: 3 vidas, Niterói, contratação via MEI, e plano atual Unimed Leste. Está correto?",
-          "msg_time": "2026-03-13T21:16:13.925951"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: CRISTIANE\n\nMensagem(ns) do cliente:\nGostaria de um plano sem coparticipação\n\nSim",
-          "msg_time": "2026-03-13T21:16:56.608298"
-        },
-        {
-          "role": "ai",
-          "content": "CRISTIANE, obrigado por confirmar as informações e a preferência por plano sem coparticipação. Estou encaminhando seus dados para o consultor que vai te ajudar a encontrar a melhor opção. Ele vai te chamar aqui no WhatsApp em breve. Obrigado!",
-          "msg_time": "2026-03-13T21:16:56.609922"
-        },
-        {
-          "role": "system",
-          "content": "Cristiane\nBoa tarde!\nDesculpe a demroa a Consultora ELisa vai te chamar para te passar algumas opções.",
-          "msg_time": "2026-03-16T15:14:12.522841"
         }
       ]
     }
