@@ -1,17 +1,367 @@
 {
   "meta": {
-    "generated_at": "2026-03-28T14:00:23.955Z",
+    "generated_at": "2026-03-28T14:15:23.220Z",
     "total_conversations": 200,
-    "total_messages": 3385,
+    "total_messages": 3390,
     "stats": {
       "quente": 1,
-      "morno": 6,
-      "frio": 20,
+      "morno": 10,
+      "frio": 16,
       "desinteresse": 173,
       "sem_classificacao": 0
     }
   },
   "conversations": [
+    {
+      "session_id": "5521983461508@s.whatsapp.net",
+      "phone": "5521983461508",
+      "phone_display": "+55 21 98346-1508",
+      "lead": {
+        "baserow_id": 1464,
+        "nome": "Thais",
+        "email": "thaidmarinatoadv@gmail.com",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "observacoes": "Thais",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Thais",
+        "email": "thaidmarinatoadv@gmail.com",
+        "telefone": "+55 21 98346-1508",
+        "vidas": [],
+        "cidade": "",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "Encerramento do plano atual",
+        "interesse": "SulAmérica",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "Thais",
+        "bot": "Gilbertinho Amarelo (2373)",
+        "formatted": "👤 Cliente: Thais\n📧 E-mail: thaidmarinatoadv@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98346-1508\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\n\n🎯 Interesse: SulAmérica\n\n⚠️ Observação: Thais\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)"
+      },
+      "status": "morno",
+      "bot": "amarelo",
+      "consultor": "",
+      "message_count": 9,
+      "first_message_at": "2026-03-27T00:00:00.000Z",
+      "last_message_at": "2026-03-27T21:59:37.086000Z",
+      "last_bot_msg_at": "2026-03-27T18:59:35.755386",
+      "tempo_sem_interacao": "19h 15min",
+      "first_id": 20727,
+      "last_id": 20808,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1464\nNome: Thais\nVidas: 2\nCidade: \nTipo Contratação: \n\nMensagem(ns...",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados Fornecidos\nNome: Thais\nContem CNPJ: Sim\nNumero de Vidas: \nOperadora de Interesse: Amil, SulAmérica, Unimed, Porto Seguro\nRegiÃƒÂ£o: NÃƒÂ£o Informado\nPropaganda:\n",
+          "msg_time": "2026-03-27T18:56:26.701196"
+        },
+        {
+          "role": "ai",
+          "content": "Oi Thais! Sou o Gilberto da GW9, corretora de planos de saúde. Você pediu nosso contato para saber mais sobre plano de saúde e vi que já possui um CNPJ e tem interesse em operadoras como Amil, SulAmérica, Unimed e Porto Seguro. Para te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo certo?",
+          "msg_time": "2026-03-27T18:56:26.704646"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1464\nNome: Thais\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nSim",
+          "msg_time": "2026-03-27T18:57:20.265194"
+        },
+        {
+          "role": "ai",
+          "content": "Ótimo, Thais! Para seguir, preciso saber quantas pessoas vão precisar do plano e as idades de cada uma. Isso nos ajuda a encontrar as melhores opções para vocês. Você pode me passar essas informações?",
+          "msg_time": "2026-03-27T18:57:20.266982"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1464\nNome: Thais\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\n2 pessoas! Uma com 32 e outra com 56",
+          "msg_time": "2026-03-27T18:58:53.856185"
+        },
+        {
+          "role": "ai",
+          "content": "Perfeito, Thais! Agora que temos as idades, só falta saber em qual cidade vocês precisam do atendimento. Isso é importante para ver as coberturas que estão disponíveis para vocês. Qual é a cidade? Se tiver algum hospital de preferência, também me avise!",
+          "msg_time": "2026-03-27T18:58:53.859244"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1464\nNome: Thais\nVidas: 2\nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nItaborai",
+          "msg_time": "2026-03-27T18:59:35.753179"
+        },
+        {
+          "role": "ai",
+          "content": "Obrigado, Thais! Estamos quase lá. Agora, para finalizar, como o plano será contratado: empresarial por CNPJ MEI ou LTDA? Se tiver o número do CNPJ, pode me informar. Se não, só preciso saber se é MEI ou LTDA.",
+          "msg_time": "2026-03-27T18:59:35.755386"
+        },
+        {
+          "role": "system",
+          "content": "\n",
+          "msg_time": "2026-03-28T11:00:53.130307"
+        }
+      ]
+    },
+    {
+      "session_id": "5521994489583@s.whatsapp.net",
+      "phone": "5521994489583",
+      "phone_display": "+55 21 99448-9583",
+      "lead": {
+        "baserow_id": 1460,
+        "nome": "Luiz",
+        "email": "luizffbaptista@gmail.com",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "observacoes": "",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Luiz",
+        "email": "luizffbaptista@gmail.com",
+        "telefone": "+55 21 99448-9583",
+        "vidas": [],
+        "cidade": "",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "",
+        "bot": "Gilbertinho Amarelo (2373)",
+        "formatted": "👤 Cliente: Luiz\n📧 E-mail: luizffbaptista@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99448-9583\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)"
+      },
+      "status": "morno",
+      "bot": "amarelo",
+      "consultor": "",
+      "message_count": 3,
+      "first_message_at": "2026-03-27T00:00:00.000Z",
+      "last_message_at": "2026-03-27T17:42:32.385000Z",
+      "last_bot_msg_at": "2026-03-27T14:42:26.537051",
+      "tempo_sem_interacao": "23h 32min",
+      "first_id": 20676,
+      "last_id": 20807,
+      "last_message_preview": "Dados Fornecidos\nNome: Luiz\nContem CNPJ: não\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o inform...",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados Fornecidos\nNome: Luiz\nContem CNPJ: não\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o informado\nRegiÃƒÂ£o: NÃƒÂ£o Informado\nPropaganda:\n",
+          "msg_time": "2026-03-27T14:42:26.535305"
+        },
+        {
+          "role": "ai",
+          "content": "Oi Luiz! Sou o Gilberto da GW9, corretora de planos de saúde. Você pediu nosso contato para saber mais sobre plano de saúde e para te ajudar a encontrar a melhor opção, preciso de algumas informações rápidas. Tudo certo?",
+          "msg_time": "2026-03-27T14:42:26.537051"
+        },
+        {
+          "role": "system",
+          "content": "\n",
+          "msg_time": "2026-03-28T11:00:49.883308"
+        }
+      ]
+    },
+    {
+      "session_id": "5521996917426@s.whatsapp.net",
+      "phone": "5521996917426",
+      "phone_display": "+55 21 99691-7426",
+      "lead": {
+        "baserow_id": 1458,
+        "nome": "Nelze",
+        "email": "nelzelicanedo@gmail.com",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "observacoes": "",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Nelze",
+        "email": "nelzelicanedo@gmail.com",
+        "telefone": "+55 21 99691-7426",
+        "vidas": [],
+        "cidade": "",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "",
+        "bot": "Gilbertinho Amarelo (2373)",
+        "formatted": "👤 Cliente: Nelze\n📧 E-mail: nelzelicanedo@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99691-7426\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)"
+      },
+      "status": "morno",
+      "bot": "amarelo",
+      "consultor": "",
+      "message_count": 3,
+      "first_message_at": "2026-03-27T00:00:00.000Z",
+      "last_message_at": "2026-03-27T16:32:32.064000Z",
+      "last_bot_msg_at": "2026-03-27T13:32:26.641355",
+      "tempo_sem_interacao": "1 dia",
+      "first_id": 20671,
+      "last_id": 20806,
+      "last_message_preview": "Dados Fornecidos\nNome: Atelier\nContem CNPJ: não\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o inf...",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados Fornecidos\nNome: Atelier\nContem CNPJ: não\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o informado\nRegiÃƒÂ£o: NÃƒÂ£o Informado\nPropaganda:\n",
+          "msg_time": "2026-03-27T13:32:26.637817"
+        },
+        {
+          "role": "ai",
+          "content": "Oi Atelier! Sou o Gilberto da GW9, corretora de planos de saúde. Você pediu nosso contato para saber mais sobre plano de saúde e para te ajudar a encontrar a melhor opção, preciso de algumas informações rápidas. Tudo certo?",
+          "msg_time": "2026-03-27T13:32:26.641355"
+        },
+        {
+          "role": "system",
+          "content": "\n",
+          "msg_time": "2026-03-28T11:00:45.904446"
+        }
+      ]
+    },
+    {
+      "session_id": "5521964675787@s.whatsapp.net",
+      "phone": "5521964675787",
+      "phone_display": "+55 21 96467-5787",
+      "lead": {
+        "baserow_id": 1456,
+        "nome": "Washington",
+        "email": "limadacruz.26@hotmail.com",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "observacoes": "",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Washington",
+        "email": "limadacruz.26@hotmail.com",
+        "telefone": "+55 21 96467-5787",
+        "vidas": [],
+        "cidade": "",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "",
+        "bot": "Gilbertinho Amarelo (2373)",
+        "formatted": "👤 Cliente: Washington\n📧 E-mail: limadacruz.26@hotmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96467-5787\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)"
+      },
+      "status": "morno",
+      "bot": "amarelo",
+      "consultor": "",
+      "message_count": 3,
+      "first_message_at": "2026-03-27T00:00:00.000Z",
+      "last_message_at": "2026-03-27T14:19:36.187000Z",
+      "last_bot_msg_at": "2026-03-27T11:19:29.330436",
+      "tempo_sem_interacao": "1 dia",
+      "first_id": 20649,
+      "last_id": 20805,
+      "last_message_preview": "Dados Fornecidos\nNome: Washington\nContem CNPJ: não\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o ...",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados Fornecidos\nNome: Washington\nContem CNPJ: não\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o informado\nRegiÃƒÂ£o: NÃƒÂ£o Informado\nPropaganda:\n",
+          "msg_time": "2026-03-27T11:19:29.326601"
+        },
+        {
+          "role": "ai",
+          "content": "Oi Washington! Sou o Gilberto da GW9, corretora de planos de saúde. Você pediu nosso contato para saber mais sobre plano de saúde e, para te ajudar a encontrar a melhor opção, preciso de algumas informações rápidas. Tudo certo?",
+          "msg_time": "2026-03-27T11:19:29.330436"
+        },
+        {
+          "role": "system",
+          "content": "\n",
+          "msg_time": "2026-03-28T11:00:39.367512"
+        }
+      ]
+    },
+    {
+      "session_id": "5521996994434@s.whatsapp.net",
+      "phone": "5521996994434",
+      "phone_display": "+55 21 99699-4434",
+      "lead": {
+        "baserow_id": 1455,
+        "nome": "Emilia",
+        "email": "emidamasceno@gmail.com",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "observacoes": "",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Emilia",
+        "email": "emidamasceno@gmail.com",
+        "telefone": "+55 21 99699-4434",
+        "vidas": [],
+        "cidade": "",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "",
+        "bot": "Gilbertinho Amarelo (2373)",
+        "formatted": "👤 Cliente: Emilia\n📧 E-mail: emidamasceno@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99699-4434\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)"
+      },
+      "status": "morno",
+      "bot": "amarelo",
+      "consultor": "",
+      "message_count": 3,
+      "first_message_at": "2026-03-27T00:00:00.000Z",
+      "last_message_at": "2026-03-27T06:41:33.441000Z",
+      "last_bot_msg_at": "2026-03-27T03:41:26.885181",
+      "tempo_sem_interacao": "1 dia",
+      "first_id": 20647,
+      "last_id": 20804,
+      "last_message_preview": "Dados Fornecidos\nNome: Emilia\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o info...",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados Fornecidos\nNome: Emilia\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o informado\nRegiÃƒÂ£o: NÃƒÂ£o Informado\nPropaganda:\n",
+          "msg_time": "2026-03-27T03:41:26.879902"
+        },
+        {
+          "role": "ai",
+          "content": "Oi Emilia! Sou o Gilberto da GW9, corretora de planos de saúde. Você pediu nosso contato para saber mais sobre plano de saúde e vi que já possui um CNPJ. Para te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo certo?",
+          "msg_time": "2026-03-27T03:41:26.885181"
+        },
+        {
+          "role": "system",
+          "content": "\n",
+          "msg_time": "2026-03-28T11:00:35.369382"
+        }
+      ]
+    },
     {
       "session_id": "5524999228274@s.whatsapp.net",
       "phone": "5524999228274",
@@ -61,7 +411,7 @@
       "first_message_at": "2026-03-28T00:00:00.000Z",
       "last_message_at": "2026-03-28T13:22:00.351000Z",
       "last_bot_msg_at": "2026-03-28T10:21:59.180903",
-      "tempo_sem_interacao": "3h 38min",
+      "tempo_sem_interacao": "3h 53min",
       "first_id": 20784,
       "last_id": 20803,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1471\nNome: Aldeir\n\nMensagem(ns) do cliente:\nMoro atualmente em rio...",
@@ -281,7 +631,7 @@
       "first_message_at": "2026-03-28T00:00:00.000Z",
       "last_message_at": "2026-03-28T13:08:33.810000Z",
       "last_bot_msg_at": "2026-03-28T10:08:32.933057",
-      "tempo_sem_interacao": "3h 51min",
+      "tempo_sem_interacao": "4h 6min",
       "first_id": 20780,
       "last_id": 20783,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1470\nNome: Rosangela\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem...",
@@ -350,7 +700,7 @@
       "first_message_at": "2026-03-28T00:00:00.000Z",
       "last_message_at": "2026-03-28T12:48:33.167000Z",
       "last_bot_msg_at": "2026-03-28T09:48:27.226535",
-      "tempo_sem_interacao": "4h 11min",
+      "tempo_sem_interacao": "4h 26min",
       "first_id": 20778,
       "last_id": 20779,
       "last_message_preview": "Dados Fornecidos\nNome: Henrique\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o in...",
@@ -409,7 +759,7 @@
       "first_message_at": "2026-03-28T00:00:00.000Z",
       "last_message_at": "2026-03-28T11:44:44.759000Z",
       "last_bot_msg_at": "2026-03-28T08:44:43.828186",
-      "tempo_sem_interacao": "5h 15min",
+      "tempo_sem_interacao": "5h 30min",
       "first_id": 20762,
       "last_id": 20777,
       "last_message_preview": "estou falando com um robo?",
@@ -1144,7 +1494,7 @@
       "first_message_at": "2026-03-28T00:00:00.000Z",
       "last_message_at": "2026-03-28T10:54:34.531000Z",
       "last_bot_msg_at": "2026-03-28T07:54:29.051435",
-      "tempo_sem_interacao": "6h 5min",
+      "tempo_sem_interacao": "6h 20min",
       "first_id": 20750,
       "last_id": 20751,
       "last_message_preview": "Dados Fornecidos\nNome: Cláudio\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o inf...",
@@ -1213,7 +1563,7 @@
       "first_message_at": "2026-03-28T00:00:00.000Z",
       "last_message_at": "2026-03-28T04:35:34Z",
       "last_bot_msg_at": "2026-03-28T01:35:33.082658",
-      "tempo_sem_interacao": "12h 24min",
+      "tempo_sem_interacao": "12h 39min",
       "first_id": 20737,
       "last_id": 20749,
       "last_message_preview": "Obrigada 🙏🏽",
@@ -1327,7 +1677,7 @@
       "first_message_at": "2026-03-27T00:00:00.000Z",
       "last_message_at": "2026-03-27T23:12:55.600000Z",
       "last_bot_msg_at": "2026-03-27T20:12:54.645896",
-      "tempo_sem_interacao": "17h 47min",
+      "tempo_sem_interacao": "18h 2min",
       "first_id": 20735,
       "last_id": 20736,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1465\nNome: \n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação...",
@@ -1341,95 +1691,6 @@
           "role": "ai",
           "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
           "msg_time": "2026-03-27T20:12:54.645896"
-        }
-      ]
-    },
-    {
-      "session_id": "5521983461508@s.whatsapp.net",
-      "phone": "5521983461508",
-      "phone_display": "+55 21 98346-1508",
-      "lead": {
-        "baserow_id": 1464,
-        "nome": "Thais",
-        "email": "thaidmarinatoadv@gmail.com",
-        "qtd_vidas": "",
-        "desinteresse": false,
-        "observacoes": "Thais",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Thais",
-        "email": "thaidmarinatoadv@gmail.com",
-        "telefone": "+55 21 98346-1508",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "Encerramento do plano atual",
-        "interesse": "SulAmérica",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "Thais",
-        "bot": "Gilbertinho Amarelo (2373)",
-        "formatted": "👤 Cliente: Thais\n📧 E-mail: thaidmarinatoadv@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98346-1508\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\n\n🎯 Interesse: SulAmérica\n\n⚠️ Observação: Thais\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)"
-      },
-      "status": "morno",
-      "bot": "amarelo",
-      "consultor": "",
-      "message_count": 8,
-      "first_message_at": "2026-03-27T00:00:00.000Z",
-      "last_message_at": "2026-03-27T21:59:37.086000Z",
-      "last_bot_msg_at": "2026-03-27T18:59:35.755386",
-      "tempo_sem_interacao": "19h",
-      "first_id": 20727,
-      "last_id": 20734,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1464\nNome: Thais\nVidas: 2\nCidade: \nTipo Contratação: \n\nMensagem(ns...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados Fornecidos\nNome: Thais\nContem CNPJ: Sim\nNumero de Vidas: \nOperadora de Interesse: Amil, SulAmérica, Unimed, Porto Seguro\nRegiÃƒÂ£o: NÃƒÂ£o Informado\nPropaganda:\n",
-          "msg_time": "2026-03-27T18:56:26.701196"
-        },
-        {
-          "role": "ai",
-          "content": "Oi Thais! Sou o Gilberto da GW9, corretora de planos de saúde. Você pediu nosso contato para saber mais sobre plano de saúde e vi que já possui um CNPJ e tem interesse em operadoras como Amil, SulAmérica, Unimed e Porto Seguro. Para te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo certo?",
-          "msg_time": "2026-03-27T18:56:26.704646"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1464\nNome: Thais\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nSim",
-          "msg_time": "2026-03-27T18:57:20.265194"
-        },
-        {
-          "role": "ai",
-          "content": "Ótimo, Thais! Para seguir, preciso saber quantas pessoas vão precisar do plano e as idades de cada uma. Isso nos ajuda a encontrar as melhores opções para vocês. Você pode me passar essas informações?",
-          "msg_time": "2026-03-27T18:57:20.266982"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1464\nNome: Thais\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\n2 pessoas! Uma com 32 e outra com 56",
-          "msg_time": "2026-03-27T18:58:53.856185"
-        },
-        {
-          "role": "ai",
-          "content": "Perfeito, Thais! Agora que temos as idades, só falta saber em qual cidade vocês precisam do atendimento. Isso é importante para ver as coberturas que estão disponíveis para vocês. Qual é a cidade? Se tiver algum hospital de preferência, também me avise!",
-          "msg_time": "2026-03-27T18:58:53.859244"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1464\nNome: Thais\nVidas: 2\nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nItaborai",
-          "msg_time": "2026-03-27T18:59:35.753179"
-        },
-        {
-          "role": "ai",
-          "content": "Obrigado, Thais! Estamos quase lá. Agora, para finalizar, como o plano será contratado: empresarial por CNPJ MEI ou LTDA? Se tiver o número do CNPJ, pode me informar. Se não, só preciso saber se é MEI ou LTDA.",
-          "msg_time": "2026-03-27T18:59:35.755386"
         }
       ]
     },
@@ -1475,7 +1736,7 @@
       "first_message_at": "2026-03-27T00:00:00.000Z",
       "last_message_at": "2026-03-27T21:27:14.887000Z",
       "last_bot_msg_at": "2026-03-27T18:27:13.912379",
-      "tempo_sem_interacao": "19h 33min",
+      "tempo_sem_interacao": "19h 48min",
       "first_id": 20713,
       "last_id": 20726,
       "last_message_preview": "Sim",
@@ -1601,7 +1862,7 @@
       "first_message_at": "2025-12-15T00:00:00.000Z",
       "last_message_at": "2026-03-27T19:16:10.567Z",
       "last_bot_msg_at": "2026-03-27T19:16:10.567Z",
-      "tempo_sem_interacao": "18h 44min",
+      "tempo_sem_interacao": "18h 59min",
       "first_id": 742,
       "last_id": 20712,
       "last_message_preview": "<ContextoImagem>\n\n  <DetalheImagem>\n\n  </DetalheImagem>\n\nContexto Extra: O usuário encaminhou a mens...",
@@ -1910,7 +2171,7 @@
       "first_message_at": "2026-03-27T00:00:00.000Z",
       "last_message_at": "2026-03-27T18:13:15.612000Z",
       "last_bot_msg_at": "2026-03-27T15:13:14.160186",
-      "tempo_sem_interacao": "22h 47min",
+      "tempo_sem_interacao": "23h 2min",
       "first_id": 20678,
       "last_id": 20711,
       "last_message_preview": "Ok",
@@ -2059,7 +2320,7 @@
       "first_message_at": "2026-03-27T00:00:00.000Z",
       "last_message_at": "2026-03-27T18:27:35.479000Z",
       "last_bot_msg_at": "2026-03-27T15:27:34.424538",
-      "tempo_sem_interacao": "22h 32min",
+      "tempo_sem_interacao": "22h 47min",
       "first_id": 20673,
       "last_id": 20710,
       "last_message_preview": "Formato de mensagem enviada nao suportado",
@@ -2138,65 +2399,6 @@
           "role": "user",
           "content": "Formato de mensagem enviada nao suportado",
           "msg_time": "2026-03-27T15:50:43.617843"
-        }
-      ]
-    },
-    {
-      "session_id": "5521994489583@s.whatsapp.net",
-      "phone": "5521994489583",
-      "phone_display": "+55 21 99448-9583",
-      "lead": {
-        "baserow_id": 1460,
-        "nome": "Luiz",
-        "email": "luizffbaptista@gmail.com",
-        "qtd_vidas": "",
-        "desinteresse": false,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Luiz",
-        "email": "luizffbaptista@gmail.com",
-        "telefone": "+55 21 99448-9583",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "",
-        "bot": "Gilbertinho Amarelo (2373)",
-        "formatted": "👤 Cliente: Luiz\n📧 E-mail: luizffbaptista@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99448-9583\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Amarelo (2373)"
-      },
-      "status": "frio",
-      "bot": "amarelo",
-      "consultor": "",
-      "message_count": 2,
-      "first_message_at": "2026-03-27T00:00:00.000Z",
-      "last_message_at": "2026-03-27T17:42:32.385000Z",
-      "last_bot_msg_at": "2026-03-27T14:42:26.537051",
-      "tempo_sem_interacao": "23h 17min",
-      "first_id": 20676,
-      "last_id": 20677,
-      "last_message_preview": "Dados Fornecidos\nNome: Luiz\nContem CNPJ: não\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o inform...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados Fornecidos\nNome: Luiz\nContem CNPJ: não\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o informado\nRegiÃƒÂ£o: NÃƒÂ£o Informado\nPropaganda:\n",
-          "msg_time": "2026-03-27T14:42:26.535305"
-        },
-        {
-          "role": "ai",
-          "content": "Oi Luiz! Sou o Gilberto da GW9, corretora de planos de saúde. Você pediu nosso contato para saber mais sobre plano de saúde e para te ajudar a encontrar a melhor opção, preciso de algumas informações rápidas. Tudo certo?",
-          "msg_time": "2026-03-27T14:42:26.537051"
         }
       ]
     },
@@ -2318,65 +2520,6 @@
           "role": "system",
           "content": "Marijalma \n\nTudo bem ?\n\nHoje é um bom dia para voltarmos ao tema do seu Plano de Saúde ?",
           "msg_time": "2026-03-27T14:19:28.064697"
-        }
-      ]
-    },
-    {
-      "session_id": "5521996917426@s.whatsapp.net",
-      "phone": "5521996917426",
-      "phone_display": "+55 21 99691-7426",
-      "lead": {
-        "baserow_id": 1458,
-        "nome": "Nelze",
-        "email": "nelzelicanedo@gmail.com",
-        "qtd_vidas": "",
-        "desinteresse": false,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Nelze",
-        "email": "nelzelicanedo@gmail.com",
-        "telefone": "+55 21 99691-7426",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "",
-        "bot": "Gilbertinho Amarelo (2373)",
-        "formatted": "👤 Cliente: Nelze\n📧 E-mail: nelzelicanedo@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99691-7426\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Amarelo (2373)"
-      },
-      "status": "frio",
-      "bot": "amarelo",
-      "consultor": "",
-      "message_count": 2,
-      "first_message_at": "2026-03-27T00:00:00.000Z",
-      "last_message_at": "2026-03-27T16:32:32.064000Z",
-      "last_bot_msg_at": "2026-03-27T13:32:26.641355",
-      "tempo_sem_interacao": "1 dia",
-      "first_id": 20671,
-      "last_id": 20672,
-      "last_message_preview": "Dados Fornecidos\nNome: Atelier\nContem CNPJ: não\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o inf...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados Fornecidos\nNome: Atelier\nContem CNPJ: não\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o informado\nRegiÃƒÂ£o: NÃƒÂ£o Informado\nPropaganda:\n",
-          "msg_time": "2026-03-27T13:32:26.637817"
-        },
-        {
-          "role": "ai",
-          "content": "Oi Atelier! Sou o Gilberto da GW9, corretora de planos de saúde. Você pediu nosso contato para saber mais sobre plano de saúde e para te ajudar a encontrar a melhor opção, preciso de algumas informações rápidas. Tudo certo?",
-          "msg_time": "2026-03-27T13:32:26.641355"
         }
       ]
     },
@@ -2859,124 +3002,6 @@
           "role": "ai",
           "content": "José Antônio, obrigada por todas as informações! Vou encaminhar seu contato para a Elisa, nosso especialista, que vai te apresentar as melhores opções de plano para vocês em Niterói. Ela vai te chamar aqui no WhatsApp em breve.",
           "msg_time": "2026-03-27T12:57:41.766631"
-        }
-      ]
-    },
-    {
-      "session_id": "5521964675787@s.whatsapp.net",
-      "phone": "5521964675787",
-      "phone_display": "+55 21 96467-5787",
-      "lead": {
-        "baserow_id": 1456,
-        "nome": "Washington",
-        "email": "limadacruz.26@hotmail.com",
-        "qtd_vidas": "",
-        "desinteresse": false,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Washington",
-        "email": "limadacruz.26@hotmail.com",
-        "telefone": "+55 21 96467-5787",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "",
-        "bot": "Gilbertinho Amarelo (2373)",
-        "formatted": "👤 Cliente: Washington\n📧 E-mail: limadacruz.26@hotmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96467-5787\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Amarelo (2373)"
-      },
-      "status": "frio",
-      "bot": "amarelo",
-      "consultor": "",
-      "message_count": 2,
-      "first_message_at": "2026-03-27T00:00:00.000Z",
-      "last_message_at": "2026-03-27T14:19:36.187000Z",
-      "last_bot_msg_at": "2026-03-27T11:19:29.330436",
-      "tempo_sem_interacao": "1 dia",
-      "first_id": 20649,
-      "last_id": 20650,
-      "last_message_preview": "Dados Fornecidos\nNome: Washington\nContem CNPJ: não\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o ...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados Fornecidos\nNome: Washington\nContem CNPJ: não\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o informado\nRegiÃƒÂ£o: NÃƒÂ£o Informado\nPropaganda:\n",
-          "msg_time": "2026-03-27T11:19:29.326601"
-        },
-        {
-          "role": "ai",
-          "content": "Oi Washington! Sou o Gilberto da GW9, corretora de planos de saúde. Você pediu nosso contato para saber mais sobre plano de saúde e, para te ajudar a encontrar a melhor opção, preciso de algumas informações rápidas. Tudo certo?",
-          "msg_time": "2026-03-27T11:19:29.330436"
-        }
-      ]
-    },
-    {
-      "session_id": "5521996994434@s.whatsapp.net",
-      "phone": "5521996994434",
-      "phone_display": "+55 21 99699-4434",
-      "lead": {
-        "baserow_id": 1455,
-        "nome": "Emilia",
-        "email": "emidamasceno@gmail.com",
-        "qtd_vidas": "",
-        "desinteresse": false,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Emilia",
-        "email": "emidamasceno@gmail.com",
-        "telefone": "+55 21 99699-4434",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "",
-        "bot": "Gilbertinho Amarelo (2373)",
-        "formatted": "👤 Cliente: Emilia\n📧 E-mail: emidamasceno@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99699-4434\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Amarelo (2373)"
-      },
-      "status": "frio",
-      "bot": "amarelo",
-      "consultor": "",
-      "message_count": 2,
-      "first_message_at": "2026-03-27T00:00:00.000Z",
-      "last_message_at": "2026-03-27T06:41:33.441000Z",
-      "last_bot_msg_at": "2026-03-27T03:41:26.885181",
-      "tempo_sem_interacao": "1 dia",
-      "first_id": 20647,
-      "last_id": 20648,
-      "last_message_preview": "Dados Fornecidos\nNome: Emilia\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o info...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados Fornecidos\nNome: Emilia\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o informado\nRegiÃƒÂ£o: NÃƒÂ£o Informado\nPropaganda:\n",
-          "msg_time": "2026-03-27T03:41:26.879902"
-        },
-        {
-          "role": "ai",
-          "content": "Oi Emilia! Sou o Gilberto da GW9, corretora de planos de saúde. Você pediu nosso contato para saber mais sobre plano de saúde e vi que já possui um CNPJ. Para te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo certo?",
-          "msg_time": "2026-03-27T03:41:26.885181"
         }
       ]
     },
@@ -7001,7 +7026,7 @@
       "first_message_at": "2026-03-24T00:00:00.000Z",
       "last_message_at": "2026-03-24T17:14:21.873000Z",
       "last_bot_msg_at": "2026-03-24T14:14:20.734043",
-      "tempo_sem_interacao": "3 dias",
+      "tempo_sem_interacao": "4 dias",
       "first_id": 20255,
       "last_id": 20276,
       "last_message_preview": "Formato de mensagem enviada nao suportado",
@@ -10381,7 +10406,7 @@
       "first_message_at": "2026-03-22T00:00:00.000Z",
       "last_message_at": "2026-03-22T17:12:15.908000Z",
       "last_bot_msg_at": "2026-03-22T14:12:14.416619",
-      "tempo_sem_interacao": "5 dias",
+      "tempo_sem_interacao": "6 dias",
       "first_id": 19822,
       "last_id": 19939,
       "last_message_preview": "Pode entrar em contato durante o dia, estarei disponível",
@@ -10713,7 +10738,7 @@
       "first_message_at": "2026-03-22T00:00:00.000Z",
       "last_message_at": "2026-03-22T17:14:56.631000Z",
       "last_bot_msg_at": "2026-03-22T14:14:51.419981",
-      "tempo_sem_interacao": "5 dias",
+      "tempo_sem_interacao": "6 dias",
       "first_id": 19832,
       "last_id": 19921,
       "last_message_preview": "Dados Fornecidos\nNome: Renato\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o info...",
@@ -14948,7 +14973,7 @@
       "first_message_at": "2026-03-19T00:00:00.000Z",
       "last_message_at": "2026-03-19T17:10:35.326000Z",
       "last_bot_msg_at": "2026-03-19T14:10:33.483297",
-      "tempo_sem_interacao": "8 dias",
+      "tempo_sem_interacao": "9 dias",
       "first_id": 19493,
       "last_id": 19507,
       "last_message_preview": "Sim",
