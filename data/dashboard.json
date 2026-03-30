@@ -1,17 +1,116 @@
 {
   "meta": {
-    "generated_at": "2026-03-30T16:45:25.233Z",
+    "generated_at": "2026-03-30T17:00:29.238Z",
     "total_conversations": 200,
-    "total_messages": 3281,
+    "total_messages": 3288,
     "stats": {
       "quente": 0,
       "morno": 3,
-      "frio": 11,
-      "desinteresse": 186,
+      "frio": 12,
+      "desinteresse": 185,
       "sem_classificacao": 0
     }
   },
   "conversations": [
+    {
+      "session_id": "5521980195979@s.whatsapp.net",
+      "phone": "5521980195979",
+      "phone_display": "+55 21 98019-5979",
+      "lead": {
+        "baserow_id": 1493,
+        "nome": "vanessa de souza pereira",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": true,
+        "observacoes": "Registro interno: Encaminhado ao consultor.\nNome do lead: 𝓐𝔃𝓾𝓸𝓼 𝓙𝓪𝓿𝓪𝓾\nTipo de plano: Saúde\nTipo de contratação: Pessoa física\nCidade/UF: Rio de Janeiro/RJ\nQuantidade de vidas: 1\nIdades dos beneficiários: 7\nPossui plano atualmente: Não\nOperadora atual: Norte D'or ou Caxias D'or",
+        "reagendamento": null,
+        "corretor": "João",
+        "temperatura": "Quente"
+      },
+      "summary": {
+        "nome": "vanessa de souza pereira",
+        "email": "",
+        "telefone": "+55 21 98019-5979",
+        "vidas": [],
+        "cidade": "Rio de Janeiro / RJ",
+        "contratacao": "",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "Encerramento do plano atual",
+        "interesse": "Barra D'or",
+        "rede_preferencial": "Barra D'Or",
+        "contato": "WhatsApp",
+        "consultor": "João",
+        "obs_crm": "Registro interno: Encaminhado ao consultor.\nNome do lead: 𝓐𝔃𝓾𝓸𝓼 𝓙𝓪𝓿𝓪𝓾\nTipo de plano: Saúde\nTipo de contratação: Pessoa física\nCidade/UF: Rio de Janeiro/RJ\nQuantidade de vidas: 1\nIdades dos beneficiários: 7\nPossui plano atualmente: Não\nOperadora atual: Norte D'or ou Caxias D'or",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: vanessa de souza pereira\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98019-5979\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\n🎯 Rede preferencial: Barra D'Or\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\n\n🎯 Interesse: Barra D'or\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: 𝓐𝔃𝓾𝓸𝓼 𝓙𝓪𝓿𝓪𝓾\nTipo de plano: Saúde\nTipo de contratação: Pessoa física\nCidade/UF: Rio de Janeiro/RJ\nQuantidade de vidas: 1\nIdades dos beneficiários: 7\nPossui plano atualmente: Não\nOperadora atual: Norte D'or ou Caxias D'or\n👤 Consultor: João\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "desinteresse",
+      "bot": "preto",
+      "consultor": "João",
+      "message_count": 10,
+      "first_message_at": "2026-03-30T00:00:00.000Z",
+      "last_message_at": "2026-03-30T16:57:26.728000Z",
+      "last_bot_msg_at": "2026-03-30T13:58:23.744373",
+      "tempo_sem_interacao": "3h 2min",
+      "first_id": 20934,
+      "last_id": 20943,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1493\nNome: 𝓐𝔃𝓾𝓸𝓼 𝓥𝓪𝓷𝓮𝓼𝓼𝓪\n\nMensagem(ns) do cliente:\nnão",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1493\nNome: \n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação de um plano de saúde Barra D'or",
+          "msg_time": "2026-03-30T13:54:02.284049"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-03-30T13:54:02.330673"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1493\nNome: 𝓐𝔃𝓾𝓸𝓼 𝓥𝓪𝓷𝓮𝓼𝓼𝓪\n\nMensagem(ns) do cliente:\nvanessa de souza pereira\n\numa pessoa\n\n7 anos",
+          "msg_time": "2026-03-30T13:54:55.345164"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Azuzos Vanessa! Então, você está buscando um plano de saúde para uma criança de 7 anos. \n\nOs valores dos planos de saúde são tabelados e os preços mudam de acordo com a rede credenciada, por isso, qual é a cidade que busca atendimento? Se tiver algum hospital de sua preferência, também nos ajuda a encontrar o plano com uma rede que te atenda.",
+          "msg_time": "2026-03-30T13:54:55.348174"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1493\nNome: 𝓐𝔃𝓾𝓸𝓼 𝓥𝓪𝓷𝓮𝓼𝓼𝓪\n\nMensagem(ns) do cliente:\nrio de janeiro",
+          "msg_time": "2026-03-30T13:57:00.532152"
+        },
+        {
+          "role": "ai",
+          "content": "Ótimo, Azuzos Vanessa! Você mencionou que a busca é para o Rio de Janeiro. \n\nAgora sobre a contratação: como o plano será contratado? Será empresarial por CNPJ (MEI ou LTDA) ou você pretende contratar como pessoa física, com CPF? Se tiver o número do CNPJ, pode me informar, mas se não tiver, sem problema. ",
+          "msg_time": "2026-03-30T13:57:00.536886"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1493\nNome: 𝓐𝔃𝓾𝓸𝓼 𝓥𝓪𝓷𝓮𝓼𝓼𝓪\n\nMensagem(ns) do cliente:\nnorte dor\n\ncaxias dor",
+          "msg_time": "2026-03-30T13:57:25.650149"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Azuzos Vanessa! Então, você mencionou que pretende contratar o plano através da Norte D'or ou Caxias D'or. Para finalizar: você já possui plano de saúde atualmente? Se sim, qual é o seu plano e quanto paga hoje? Como te expliquei, os planos têm valores tabelados, e, normalmente, quanto maior o valor, maior o acesso à rede. ",
+          "msg_time": "2026-03-30T13:57:25.652062"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1493\nNome: 𝓐𝔃𝓾𝓸𝓼 𝓥𝓪𝓷𝓮𝓼𝓼𝓪\n\nMensagem(ns) do cliente:\nnão",
+          "msg_time": "2026-03-30T13:58:23.741993"
+        },
+        {
+          "role": "ai",
+          "content": "Azuzos Vanessa, obrigada por todas as informações! Vou encaminhar seu contato para o João, nosso especialista, que vai te apresentar as melhores opções de plano para você em Rio de Janeiro. Ele vai te chamar aqui no WhatsApp em breve.",
+          "msg_time": "2026-03-30T13:58:23.744373"
+        }
+      ]
+    },
     {
       "session_id": "5521999166989@s.whatsapp.net",
       "phone": "5521999166989",
@@ -150,7 +249,7 @@
       "first_message_at": "2026-03-29T00:00:00.000Z",
       "last_message_at": "2026-03-29T20:52:32.736000Z",
       "last_bot_msg_at": "2026-03-29T17:52:27.863749",
-      "tempo_sem_interacao": "22h 52min",
+      "tempo_sem_interacao": "23h 8min",
       "first_id": 20899,
       "last_id": 20932,
       "last_message_preview": "Dados Fornecidos\nNome: Ademar\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o info...",
@@ -1413,7 +1512,7 @@
       "first_message_at": "2026-03-27T00:00:00.000Z",
       "last_message_at": "2026-03-30T13:39:27.072000Z",
       "last_bot_msg_at": "2026-03-30T10:39:25.853196",
-      "tempo_sem_interacao": "6h 5min",
+      "tempo_sem_interacao": "6h 21min",
       "first_id": 20727,
       "last_id": 20920,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1464\nNome: Thais\nVidas: 2\nCidade: \nTipo Contratação: \n\nMensagem(ns...",
@@ -1754,7 +1853,7 @@
       "first_message_at": "2026-03-29T00:00:00.000Z",
       "last_message_at": "2026-03-30T01:02:32.385000Z",
       "last_bot_msg_at": "2026-03-29T22:02:27.037455",
-      "tempo_sem_interacao": "18h 42min",
+      "tempo_sem_interacao": "18h 58min",
       "first_id": 20912,
       "last_id": 20913,
       "last_message_preview": "Dados Fornecidos\nNome: Thatiana\nContem CNPJ: não\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o in...",
@@ -1780,11 +1879,11 @@
         "nome": "Elza Abreu",
         "email": "",
         "qtd_vidas": "",
-        "desinteresse": true,
+        "desinteresse": false,
         "observacoes": "Elza Abreu",
         "reagendamento": null,
-        "corretor": "Elisa",
-        "temperatura": "Manual"
+        "corretor": "",
+        "temperatura": ""
       },
       "summary": {
         "nome": "Elza Abreu",
@@ -1801,19 +1900,19 @@
         "interesse": "Barra D'or",
         "rede_preferencial": "Barra D'Or",
         "contato": "WhatsApp",
-        "consultor": "Elisa",
+        "consultor": "",
         "obs_crm": "Elza Abreu",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Elza Abreu\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99633-9546\n\n📋 Dados contratuais:\n\n🎯 Rede preferencial: Barra D'Or\n\n🎯 Interesse: Barra D'or\n\n⚠️ Observação: Elza Abreu\n👤 Consultor: Elisa\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Elza Abreu\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99633-9546\n\n📋 Dados contratuais:\n\n🎯 Rede preferencial: Barra D'Or\n\n🎯 Interesse: Barra D'or\n\n⚠️ Observação: Elza Abreu\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
       },
-      "status": "desinteresse",
+      "status": "frio",
       "bot": "preto",
-      "consultor": "Elisa",
+      "consultor": "",
       "message_count": 2,
       "first_message_at": "2026-03-29T00:00:00.000Z",
       "last_message_at": "2026-03-30T00:51:23.698000Z",
       "last_bot_msg_at": "2026-03-29T21:51:21.218305",
-      "tempo_sem_interacao": "18h 54min",
+      "tempo_sem_interacao": "19h 9min",
       "first_id": 20910,
       "last_id": 20911,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1491\nNome: \n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação...",
@@ -1885,7 +1984,7 @@
       "first_message_at": "2026-03-29T00:00:00.000Z",
       "last_message_at": "2026-03-29T21:23:07.839000Z",
       "last_bot_msg_at": "2026-03-29T18:23:06.671892",
-      "tempo_sem_interacao": "22h 22min",
+      "tempo_sem_interacao": "22h 37min",
       "first_id": 20897,
       "last_id": 20909,
       "last_message_preview": "Grato.",
@@ -10289,7 +10388,7 @@
       "first_message_at": "2026-03-21T00:00:00.000Z",
       "last_message_at": "2026-03-23T19:46:46.480000Z",
       "last_bot_msg_at": "2026-03-23T16:46:45.29527",
-      "tempo_sem_interacao": "6 dias",
+      "tempo_sem_interacao": "7 dias",
       "first_id": 19734,
       "last_id": 20091,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1303\nNome: Vania\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns)...",
@@ -14066,7 +14165,7 @@
       "first_message_at": "2026-03-20T00:00:00.000Z",
       "last_message_at": "2026-03-20T19:55:58.079000Z",
       "last_bot_msg_at": "2026-03-20T16:55:52.891833",
-      "tempo_sem_interacao": "9 dias",
+      "tempo_sem_interacao": "10 dias",
       "first_id": 19599,
       "last_id": 19720,
       "last_message_preview": "Dados Fornecidos\nNome: Haédio\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o info...",
@@ -16876,7 +16975,7 @@
       "first_message_at": "2026-03-18T00:00:00.000Z",
       "last_message_at": "2026-03-18T19:56:22.597000Z",
       "last_bot_msg_at": "2026-03-18T16:56:16.173236",
-      "tempo_sem_interacao": "11 dias",
+      "tempo_sem_interacao": "12 dias",
       "first_id": 19286,
       "last_id": 19489,
       "last_message_preview": "Poderia me enviar as votações por aqui por gentileza\n\nTenho 56 anos\n\nCPF 01426856741",
@@ -19376,70 +19475,6 @@
           "role": "ai",
           "content": "Oi Jamilson! Aqui e o Gilberto da GW9 Saude. Ha alguns dias voce demonstrou interesse em plano de saude, mas nao conseguimos conversar. Ainda tem interesse? Se sim, posso te ajudar rapidinho!",
           "msg_time": "2026-03-18T09:43:43.450646"
-        }
-      ]
-    },
-    {
-      "session_id": "5521991858899@s.whatsapp.net",
-      "phone": "5521991858899",
-      "phone_display": "+55 21 99185-8899",
-      "lead": {
-        "baserow_id": 1166,
-        "nome": "Francisco",
-        "email": "franciscobelo47@gmail.com",
-        "qtd_vidas": "",
-        "desinteresse": true,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Francisco",
-        "email": "franciscobelo47@gmail.com",
-        "telefone": "+55 21 99185-8899",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "",
-        "bot": "Gilbertinho Amarelo (2373)",
-        "formatted": "👤 Cliente: Francisco\n📧 E-mail: franciscobelo47@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99185-8899\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Amarelo (2373)"
-      },
-      "status": "desinteresse",
-      "bot": "amarelo",
-      "consultor": "",
-      "message_count": 3,
-      "first_message_at": "2026-03-14T00:00:00.000Z",
-      "last_message_at": "2026-03-15T00:37:33.445000Z",
-      "last_bot_msg_at": "2026-03-18T09:43:09.763184",
-      "tempo_sem_interacao": "12 dias",
-      "first_id": 18728,
-      "last_id": 19155,
-      "last_message_preview": "Dados Fornecidos\nNome: prof\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não in...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados Fornecidos\nNome: prof\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não informado\nRegião: Não Informado\nPropaganda:\n",
-          "msg_time": "2026-03-14T21:37:26.136833"
-        },
-        {
-          "role": "ai",
-          "content": "Oi prof, eu sou o Gilberto da GW9 Saúde. Você pediu o nosso contato para saber mais sobre plano de saúde e vi que tem interesse para 3 pessoas e possui CNPJ. Pra te ajudar e ser mais assertivo, preciso confirmar mais algumas informações. Tudo bem?",
-          "msg_time": "2026-03-14T21:37:26.138394"
-        },
-        {
-          "role": "ai",
-          "content": "Oi Francisco! Aqui e o Gilberto da GW9 Saude. Ha alguns dias voce demonstrou interesse em plano de saude, mas nao conseguimos conversar. Ainda tem interesse? Se sim, posso te ajudar rapidinho!",
-          "msg_time": "2026-03-18T09:43:09.763184"
         }
       ]
     }
