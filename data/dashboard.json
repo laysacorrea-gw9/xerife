@@ -1,17 +1,81 @@
 {
   "meta": {
-    "generated_at": "2026-04-01T14:00:24.433Z",
+    "generated_at": "2026-04-01T14:15:24.425Z",
     "total_conversations": 200,
-    "total_messages": 3275,
+    "total_messages": 3276,
     "stats": {
       "quente": 0,
-      "morno": 5,
-      "frio": 19,
+      "morno": 6,
+      "frio": 18,
       "desinteresse": 176,
       "sem_classificacao": 0
     }
   },
   "conversations": [
+    {
+      "session_id": "5521992784197@s.whatsapp.net",
+      "phone": "5521992784197",
+      "phone_display": "+55 21 99278-4197",
+      "lead": {
+        "baserow_id": 1496,
+        "nome": "NHServiços",
+        "email": "novohorizontesvs@gmail.com",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "observacoes": "",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "NHServiços",
+        "email": "novohorizontesvs@gmail.com",
+        "telefone": "+55 21 99278-4197",
+        "vidas": [],
+        "cidade": "",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "",
+        "bot": "Gilbertinho Amarelo (2373)",
+        "formatted": "👤 Cliente: NHServiços\n📧 E-mail: novohorizontesvs@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99278-4197\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Amarelo (2373)"
+      },
+      "status": "morno",
+      "bot": "amarelo",
+      "consultor": "",
+      "message_count": 3,
+      "first_message_at": "2026-03-31T00:00:00.000Z",
+      "last_message_at": "2026-03-31T16:49:07.914000Z",
+      "last_bot_msg_at": "2026-03-31T13:49:01.943545",
+      "tempo_sem_interacao": "1 dia",
+      "first_id": 20986,
+      "last_id": 21012,
+      "last_message_preview": "Dados Fornecidos\nNome: NHServiços\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o ...",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados Fornecidos\nNome: NHServiços\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o informado\nRegiÃƒÂ£o: NÃƒÂ£o Informado\nPropaganda:\n",
+          "msg_time": "2026-03-31T13:49:01.937741"
+        },
+        {
+          "role": "ai",
+          "content": "Oi NHServiços! Sou o Gilberto da GW9, corretora de planos de saúde. Você pediu nosso contato para saber mais sobre plano de saúde e vi que já possui um CNPJ. Para te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo certo?",
+          "msg_time": "2026-03-31T13:49:01.943545"
+        },
+        {
+          "role": "system",
+          "content": "\n",
+          "msg_time": "2026-04-01T11:00:35.87825"
+        }
+      ]
+    },
     {
       "session_id": "5521995123259@s.whatsapp.net",
       "phone": "5521995123259",
@@ -61,7 +125,7 @@
       "first_message_at": "2026-04-01T00:00:00.000Z",
       "last_message_at": "2026-04-01T12:02:29.407000Z",
       "last_bot_msg_at": "2026-04-01T09:02:27.493544",
-      "tempo_sem_interacao": "4h 57min",
+      "tempo_sem_interacao": "5h 12min",
       "first_id": 20994,
       "last_id": 21011,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1498\nNome: Leo\n\nMensagem(ns) do cliente:\nSó que é a empresa que eu...",
@@ -200,7 +264,7 @@
       "first_message_at": "2026-03-31T00:00:00.000Z",
       "last_message_at": "2026-04-01T02:44:29.831000Z",
       "last_bot_msg_at": "2026-03-31T23:44:28.691461",
-      "tempo_sem_interacao": "14h 15min",
+      "tempo_sem_interacao": "14h 30min",
       "first_id": 20992,
       "last_id": 20993,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1497\nNome: \n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação...",
@@ -579,65 +643,6 @@
           "role": "ai",
           "content": "Oi Thaissa! Sou o Gilberto da GW9, corretora de planos de saúde. Você pediu nosso contato para saber mais sobre plano de saúde e vi que já possui um CNPJ. Para te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo certo?",
           "msg_time": "2026-03-31T13:52:42.577741"
-        }
-      ]
-    },
-    {
-      "session_id": "5521992784197@s.whatsapp.net",
-      "phone": "5521992784197",
-      "phone_display": "+55 21 99278-4197",
-      "lead": {
-        "baserow_id": 1496,
-        "nome": "NHServiços",
-        "email": "novohorizontesvs@gmail.com",
-        "qtd_vidas": "",
-        "desinteresse": false,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "NHServiços",
-        "email": "novohorizontesvs@gmail.com",
-        "telefone": "+55 21 99278-4197",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "",
-        "bot": "Gilbertinho Amarelo (2373)",
-        "formatted": "👤 Cliente: NHServiços\n📧 E-mail: novohorizontesvs@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99278-4197\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Amarelo (2373)"
-      },
-      "status": "frio",
-      "bot": "amarelo",
-      "consultor": "",
-      "message_count": 2,
-      "first_message_at": "2026-03-31T00:00:00.000Z",
-      "last_message_at": "2026-03-31T16:49:07.914000Z",
-      "last_bot_msg_at": "2026-03-31T13:49:01.943545",
-      "tempo_sem_interacao": "1 dia",
-      "first_id": 20986,
-      "last_id": 20987,
-      "last_message_preview": "Dados Fornecidos\nNome: NHServiços\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o ...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados Fornecidos\nNome: NHServiços\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o informado\nRegiÃƒÂ£o: NÃƒÂ£o Informado\nPropaganda:\n",
-          "msg_time": "2026-03-31T13:49:01.937741"
-        },
-        {
-          "role": "ai",
-          "content": "Oi NHServiços! Sou o Gilberto da GW9, corretora de planos de saúde. Você pediu nosso contato para saber mais sobre plano de saúde e vi que já possui um CNPJ. Para te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo certo?",
-          "msg_time": "2026-03-31T13:49:01.943545"
         }
       ]
     },
@@ -3418,7 +3423,7 @@
       "first_message_at": "2026-03-28T00:00:00.000Z",
       "last_message_at": "2026-03-28T17:02:34.234000Z",
       "last_bot_msg_at": "2026-03-28T14:02:27.784227",
-      "tempo_sem_interacao": "3 dias",
+      "tempo_sem_interacao": "4 dias",
       "first_id": 20832,
       "last_id": 20833,
       "last_message_preview": "Dados Fornecidos\nNome: João\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o inform...",
@@ -9472,7 +9477,7 @@
       "first_message_at": "2026-03-24T00:00:00.000Z",
       "last_message_at": "2026-03-24T17:14:21.873000Z",
       "last_bot_msg_at": "2026-03-24T14:14:20.734043",
-      "tempo_sem_interacao": "7 dias",
+      "tempo_sem_interacao": "8 dias",
       "first_id": 20255,
       "last_id": 20276,
       "last_message_preview": "Formato de mensagem enviada nao suportado",
@@ -12852,7 +12857,7 @@
       "first_message_at": "2026-03-22T00:00:00.000Z",
       "last_message_at": "2026-03-22T17:12:15.908000Z",
       "last_bot_msg_at": "2026-03-22T14:12:14.416619",
-      "tempo_sem_interacao": "9 dias",
+      "tempo_sem_interacao": "10 dias",
       "first_id": 19822,
       "last_id": 19939,
       "last_message_preview": "Pode entrar em contato durante o dia, estarei disponível",
@@ -13184,7 +13189,7 @@
       "first_message_at": "2026-03-22T00:00:00.000Z",
       "last_message_at": "2026-03-22T17:14:56.631000Z",
       "last_bot_msg_at": "2026-03-22T14:14:51.419981",
-      "tempo_sem_interacao": "9 dias",
+      "tempo_sem_interacao": "10 dias",
       "first_id": 19832,
       "last_id": 19921,
       "last_message_preview": "Dados Fornecidos\nNome: Renato\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o info...",
@@ -17419,7 +17424,7 @@
       "first_message_at": "2026-03-19T00:00:00.000Z",
       "last_message_at": "2026-03-19T17:10:35.326000Z",
       "last_bot_msg_at": "2026-03-19T14:10:33.483297",
-      "tempo_sem_interacao": "12 dias",
+      "tempo_sem_interacao": "13 dias",
       "first_id": 19493,
       "last_id": 19507,
       "last_message_preview": "Sim",
