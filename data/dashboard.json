@@ -1,17 +1,126 @@
 {
   "meta": {
-    "generated_at": "2026-04-01T17:30:27.301Z",
+    "generated_at": "2026-04-01T17:45:29.997Z",
     "total_conversations": 200,
-    "total_messages": 3277,
+    "total_messages": 3281,
     "stats": {
       "quente": 0,
-      "morno": 6,
+      "morno": 7,
       "frio": 18,
-      "desinteresse": 176,
+      "desinteresse": 175,
       "sem_classificacao": 0
     }
   },
   "conversations": [
+    {
+      "session_id": "5521997379912@s.whatsapp.net",
+      "phone": "5521997379912",
+      "phone_display": "+55 21 99737-9912",
+      "lead": {
+        "baserow_id": 1499,
+        "nome": "Neusa",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "observacoes": "Registro interno: Encaminhado ao consultor.\nNome do lead: Neusa Figueira\nTipo de plano: Saúde\nTipo de contratação: CNPJ\nTipo de empresa (se CNPJ): MEI\nCidade/UF: Rio de Janeiro/RJ\nQuantidade de vidas: 4\nIdades dos beneficiários: 21, 23, 6, 75\nPossui plano atualmente:\nOperadora atual:\nTempo de uso do plano anterior:\nProduto ou operadora de interesse: Sulamérica\nPreferências de rede (hospitais/médicos/laboratórios):\nMotivo da contratação:\nCritério de decisão (preço, qualidade ou ambos):\nCanal preferido para contato:\nData preferida para contato:\nHorário preferido para contato:",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Neusa",
+        "email": "",
+        "telefone": "+55 21 99737-9912",
+        "vidas": [],
+        "cidade": "Rio de Janeiro / RJ",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "MEI",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "Encerramento do plano atual\nIncluir novas vidas",
+        "interesse": "Sulamérica",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "Registro interno: Encaminhado ao consultor.\nNome do lead: Neusa Figueira\nTipo de plano: Saúde\nTipo de contratação: CNPJ\nTipo de empresa (se CNPJ): MEI\nCidade/UF: Rio de Janeiro/RJ\nQuantidade de vidas: 4\nIdades dos beneficiários: 21, 23, 6, 75\nPossui plano atualmente:\nOperadora atual:\nTempo de uso do plano anterior:\nProduto ou operadora de interesse: Sulamérica\nPreferências de rede (hospitais/médicos/laboratórios):\nMotivo da contratação:\nCritério de decisão (preço, qualidade ou ambos):\nCanal preferido para contato:\nData preferida para contato:\nHorário preferido para contato:",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Neusa\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99737-9912\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\nIncluir novas vidas\n\n🎯 Interesse: Sulamérica\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Neusa Figueira\nTipo de plano: Saúde\nTipo de contratação: CNPJ\nTipo de empresa (se CNPJ): MEI\nCidade/UF: Rio de Janeiro/RJ\nQuantidade de vidas: 4\nIdades dos beneficiários: 21, 23, 6, 75\nPossui plano atualmente:\nOperadora atual:\nTempo de uso do plano anterior:\nProduto ou operadora de interesse: Sulamérica\nPreferências de rede (hospitais/médicos/laboratórios):\nMotivo da contratação:\nCritério de decisão (preço, qualidade ou ambos):\nCanal preferido para contato:\nData preferida para contato:\nHorário preferido para contato:\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "morno",
+      "bot": "preto",
+      "consultor": "",
+      "message_count": 12,
+      "first_message_at": "2026-04-01T00:00:00.000Z",
+      "last_message_at": "2026-04-01T17:44:17.241000Z",
+      "last_bot_msg_at": "2026-04-01T14:44:15.906496",
+      "tempo_sem_interacao": "3h 1min",
+      "first_id": 21014,
+      "last_id": 21025,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1499\nNome: Neusa Figueira\n\nMensagem(ns) do cliente:\nMEI",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1499\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Sulamérica",
+          "msg_time": "2026-04-01T14:31:31.281367"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-04-01T14:31:31.303774"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1499\nNome: Neusa Figueira\n\nMensagem(ns) do cliente:\n04 pessoas\n\nEu 21",
+          "msg_time": "2026-04-01T14:40:24.984845"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Neusa! Serão 4 pessoas e você tem 21 anos. Agora, para que eu possa te ajudar melhor, qual é a idade das outras 3 pessoas que vão incluir no plano?",
+          "msg_time": "2026-04-01T14:40:24.989916"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1499\nNome: Neusa Figueira\n\nMensagem(ns) do cliente:\nMinha irmã 23",
+          "msg_time": "2026-04-01T14:40:47.228484"
+        },
+        {
+          "role": "ai",
+          "content": "Ótimo, Neusa! Você tem 21 anos e sua irmã tem 23. Agora, só precisamos das idades das outras duas pessoas. Poderia me informar, por favor?",
+          "msg_time": "2026-04-01T14:40:47.241685"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1499\nNome: Neusa Figueira\n\nMensagem(ns) do cliente:\nMeu sobrinho 06\n\nMinha avó 75",
+          "msg_time": "2026-04-01T14:41:22.633558"
+        },
+        {
+          "role": "ai",
+          "content": "Perfeito, Neusa! Agora temos:\n\n- Você: 21 anos\n- Sua irmã: 23 anos\n- Seu sobrinho: 6 anos\n- Sua avó: 75 anos\n\nPara prosseguir, qual é a cidade onde você pretende utilizar o plano de saúde? Se tem algum hospital de preferência, isso também pode nos ajudar a encontrar a melhor opção!",
+          "msg_time": "2026-04-01T14:41:22.637535"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1499\nNome: Neusa Figueira\n\nMensagem(ns) do cliente:\nRJ",
+          "msg_time": "2026-04-01T14:43:13.876348"
+        },
+        {
+          "role": "ai",
+          "content": "Obrigada, Neusa! Então, a cidade é Rio de Janeiro. Agora, como o plano será contratado: empresarial por CNPJ (MEI ou LTDA) ou CPF? Se for CNPJ, você pode me informar o número? Se não tiver, só preciso saber se é MEI ou LTDA.",
+          "msg_time": "2026-04-01T14:43:13.879142"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1499\nNome: Neusa Figueira\n\nMensagem(ns) do cliente:\nMEI",
+          "msg_time": "2026-04-01T14:44:15.902135"
+        },
+        {
+          "role": "ai",
+          "content": "Perfeito, Neusa! Entendi que a contratação será como MEI. Para finalizar: você já possui plano de saúde atualmente? Se sim, qual é o seu plano e quanto você paga hoje? Isso vai nos ajudar a encontrar a melhor opção para você e sua família.",
+          "msg_time": "2026-04-01T14:44:15.906496"
+        }
+      ]
+    },
     {
       "session_id": "5521992784197@s.whatsapp.net",
       "phone": "5521992784197",
@@ -130,7 +239,7 @@
       "first_message_at": "2026-04-01T00:00:00.000Z",
       "last_message_at": "2026-04-01T12:02:29.407000Z",
       "last_bot_msg_at": "2026-04-01T09:02:27.493544",
-      "tempo_sem_interacao": "8h 27min",
+      "tempo_sem_interacao": "8h 43min",
       "first_id": 20994,
       "last_id": 21011,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1498\nNome: Leo\n\nMensagem(ns) do cliente:\nSó que é a empresa que eu...",
@@ -269,7 +378,7 @@
       "first_message_at": "2026-03-31T00:00:00.000Z",
       "last_message_at": "2026-04-01T02:44:29.831000Z",
       "last_bot_msg_at": "2026-03-31T23:44:28.691461",
-      "tempo_sem_interacao": "17h 45min",
+      "tempo_sem_interacao": "18h 1min",
       "first_id": 20992,
       "last_id": 20993,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1497\nNome: \n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação...",
@@ -19253,95 +19362,6 @@
           "role": "ai",
           "content": "Olá, Alexandre!  \n\nEu agradeço pelo convite e pela disposição para ajudar com a inscrição! 🎉 \n\nSó para seguir com as opções de plano de saúde, poderia me informar algumas informações?  \n1️⃣ Quantas pessoas são e quais são suas idades?  \n2️⃣ Qual a cidade que busca atendimento?  \n3️⃣ Como o plano será contratado: empresarial (CNPJ/MEI)?  \n4️⃣ Você já possui um plano atualmente? Se sim, qual?\n\nAguardo suas respostas para que possamos prosseguir!",
           "msg_time": "2026-03-18T12:26:58.512699"
-        }
-      ]
-    },
-    {
-      "session_id": "5521982934405@s.whatsapp.net",
-      "phone": "5521982934405",
-      "phone_display": "+55 21 98293-4405",
-      "lead": {
-        "baserow_id": 1234,
-        "nome": "Rose",
-        "email": "Gerencia0701@hotmail.com",
-        "qtd_vidas": "",
-        "desinteresse": true,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Rose",
-        "email": "Gerencia0701@hotmail.com",
-        "telefone": "+55 21 98293-4405",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "",
-        "bot": "Gilbertinho Amarelo (2373)",
-        "formatted": "👤 Cliente: Rose\n📧 E-mail: Gerencia0701@hotmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98293-4405\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Amarelo (2373)"
-      },
-      "status": "desinteresse",
-      "bot": "amarelo",
-      "consultor": "",
-      "message_count": 8,
-      "first_message_at": "2026-03-17T00:00:00.000Z",
-      "last_message_at": "2026-03-17T17:47:37.356000Z",
-      "last_bot_msg_at": "2026-03-18T09:48:13.784071",
-      "tempo_sem_interacao": "14 dias",
-      "first_id": 19116,
-      "last_id": 19206,
-      "last_message_preview": "Dados Fornecidos\nNome: Rose\nContem CNPJ: sim\nNumero de Vidas: 4_vidas\nOperadora de Interesse: não in...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados Fornecidos\nNome: Rose\nContem CNPJ: sim\nNumero de Vidas: 4_vidas\nOperadora de Interesse: não informado\nRegião: Não Informado\nPropaganda:\n",
-          "msg_time": "2026-03-17T13:47:35.378079"
-        },
-        {
-          "role": "ai",
-          "content": "Oi Rose, eu sou o Gilberto da GW9 Saúde. Você pediu o nosso contato para saber mais sobre o plano de saúde e vi que mencionou que tem interesse para 4 pessoas e já possui um CNPJ. Para te ajudar melhor, preciso confirmar mais algumas informações. Tudo bem?",
-          "msg_time": "2026-03-17T13:47:35.380735"
-        },
-        {
-          "role": "user",
-          "content": "Dados Fornecidos\nNome: Rose\nContem CNPJ: sim\nNumero de Vidas: 4_vidas\nOperadora de Interesse: não informado\nRegião: Não Informado\nPropaganda:\n",
-          "msg_time": "2026-03-17T13:48:28.118637"
-        },
-        {
-          "role": "ai",
-          "content": "Oi Rose, eu sou o Gilberto da GW9 Saúde. Você solicitou nosso contato para saber sobre plano de saúde e vi que tem interesse para 4 pessoas e já possui um CNPJ. Para te ajudar da melhor forma, preciso confirmar mais algumas informações. Tudo bem?",
-          "msg_time": "2026-03-17T13:48:28.122219"
-        },
-        {
-          "role": "user",
-          "content": "Dados Fornecidos\nNome: Rose\nContem CNPJ: sim\nNumero de Vidas: 4_vidas\nOperadora de Interesse: não informado\nRegião: Não Informado\nPropaganda:\n",
-          "msg_time": "2026-03-17T14:47:31.884421"
-        },
-        {
-          "role": "ai",
-          "content": "Oi Rose, eu sou o Gilberto da GW9 Saúde. Você pediu nosso contato para saber mais sobre plano de saúde e vi que tem interesse para 4 pessoas e já possui um CNPJ. Para te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo certo?",
-          "msg_time": "2026-03-17T14:47:31.888404"
-        },
-        {
-          "role": "ai",
-          "content": "Oi Rose! Aqui e o Gilberto da GW9 Saude. Ha alguns dias voce demonstrou interesse em plano de saude, mas nao conseguimos conversar. Ainda tem interesse? Se sim, posso te ajudar rapidinho!",
-          "msg_time": "2026-03-18T09:48:13.784071"
-        },
-        {
-          "role": "system",
-          "content": "\n",
-          "msg_time": "2026-03-18T11:00:37.441746"
         }
       ]
     }
