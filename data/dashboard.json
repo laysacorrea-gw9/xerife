@@ -1,12 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-01T11:00:25.126Z",
+    "generated_at": "2026-04-01T11:15:27.101Z",
     "total_conversations": 200,
-    "total_messages": 3259,
+    "total_messages": 3267,
     "stats": {
-      "quente": 0,
+      "quente": 1,
       "morno": 5,
-      "frio": 20,
+      "frio": 19,
       "desinteresse": 175,
       "sem_classificacao": 0
     }
@@ -20,7 +20,7 @@
         "baserow_id": 1498,
         "nome": "Leo",
         "email": "",
-        "qtd_vidas": "",
+        "qtd_vidas": 2,
         "desinteresse": false,
         "observacoes": "Leo",
         "reagendamento": null,
@@ -31,33 +31,40 @@
         "nome": "Leo",
         "email": "",
         "telefone": "+55 21 99512-3259",
-        "vidas": [],
+        "vidas": [
+          {
+            "idade": 63
+          },
+          {
+            "idade": 46
+          }
+        ],
         "cidade": "",
         "contratacao": "",
         "cnpj": "",
         "tipo_empresa": "",
-        "profissao": "",
+        "profissao": "aposentado",
         "plano_atual": "",
-        "motivo": "",
+        "motivo": "Encerramento do plano atual",
         "interesse": "Amil",
         "rede_preferencial": "",
         "contato": "WhatsApp",
         "consultor": "",
         "obs_crm": "Leo",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Leo\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99512-3259\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Leo\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Leo\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99512-3259\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nLeo — 63 anos\nDependente 1 — 46 anos\n\n📋 Dados contratuais:\n\nProfissão: aposentado\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Leo\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Preto (0479)"
       },
-      "status": "frio",
+      "status": "quente",
       "bot": "preto",
       "consultor": "",
-      "message_count": 2,
+      "message_count": 10,
       "first_message_at": "2026-04-01T00:00:00.000Z",
-      "last_message_at": "2026-04-01T10:46:24.736000Z",
-      "last_bot_msg_at": "2026-04-01T07:46:23.693293",
-      "tempo_sem_interacao": "3h 14min",
+      "last_message_at": "2026-04-01T11:09:31.040000Z",
+      "last_bot_msg_at": "2026-04-01T08:09:29.80168",
+      "tempo_sem_interacao": "3h 5min",
       "first_id": 20994,
-      "last_id": 20995,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1498\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
+      "last_id": 21003,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1498\nNome: Leo\n\nMensagem(ns) do cliente:\nNão eu não tenho empresa ...",
       "messages": [
         {
           "role": "user",
@@ -68,6 +75,46 @@
           "role": "ai",
           "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
           "msg_time": "2026-04-01T07:46:23.693293"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1498\nNome: Leo\n\nMensagem(ns) do cliente:\nRomildo\n\n2 pessoas",
+          "msg_time": "2026-04-01T08:05:00.951285"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Leo! Então o plano é para você e Romildo. Só pra eu completar, qual é a idade de cada um? Isso me ajuda a encontrar as melhores opções de plano para vocês.",
+          "msg_time": "2026-04-01T08:05:00.954776"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1498\nNome: Leo\n\nMensagem(ns) do cliente:\n63 e 46",
+          "msg_time": "2026-04-01T08:05:40.515638"
+        },
+        {
+          "role": "ai",
+          "content": "Ótimo, Leo! Para a próxima etapa, qual é a cidade onde vocês desejam utilizar o plano de saúde? Se tiver algum hospital de sua preferência, isso também nos ajuda a encontrar o plano ideal.",
+          "msg_time": "2026-04-01T08:05:40.517182"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1498\nNome: Leo\n\nMensagem(ns) do cliente:\nEu moro em Fragoso Magé",
+          "msg_time": "2026-04-01T08:07:50.324438"
+        },
+        {
+          "role": "ai",
+          "content": "Perfeito, Leo! Agora, como o plano será contratado: empresarial por CNPJ MEI ou LTDA? Se tiver o número do CNPJ, pode me informar. Se não tiver, só preciso saber se é MEI ou LTDA.",
+          "msg_time": "2026-04-01T08:07:50.32659"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1498\nNome: Leo\n\nMensagem(ns) do cliente:\nNão eu não tenho empresa sou aposentado",
+          "msg_time": "2026-04-01T08:09:29.757636"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Leo! Então o plano será contratado com CPF. Para finalizar: você já possui plano de saúde atualmente? Se sim, qual é o seu plano e quanto paga hoje? Essa informação me ajuda a encontrar o melhor equilíbrio entre custo e acesso.",
+          "msg_time": "2026-04-01T08:09:29.80168"
         }
       ]
     },
@@ -113,7 +160,7 @@
       "first_message_at": "2026-03-31T00:00:00.000Z",
       "last_message_at": "2026-04-01T02:44:29.831000Z",
       "last_bot_msg_at": "2026-03-31T23:44:28.691461",
-      "tempo_sem_interacao": "11h 15min",
+      "tempo_sem_interacao": "11h 30min",
       "first_id": 20992,
       "last_id": 20993,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1497\nNome: \n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação...",
@@ -468,7 +515,7 @@
       "first_message_at": "2026-03-31T16:39:36.433Z",
       "last_message_at": "2026-03-31T16:52:42.577Z",
       "last_bot_msg_at": "2026-03-31T13:52:42.577741",
-      "tempo_sem_interacao": "21h 7min",
+      "tempo_sem_interacao": "21h 22min",
       "first_id": 20982,
       "last_id": 20989,
       "last_message_preview": "Dados Fornecidos\nNome: Thaissa\nContem CNPJ: Sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o inf...",
@@ -537,7 +584,7 @@
       "first_message_at": "2026-03-31T00:00:00.000Z",
       "last_message_at": "2026-03-31T16:49:07.914000Z",
       "last_bot_msg_at": "2026-03-31T13:49:01.943545",
-      "tempo_sem_interacao": "21h 11min",
+      "tempo_sem_interacao": "21h 26min",
       "first_id": 20986,
       "last_id": 20987,
       "last_message_preview": "Dados Fornecidos\nNome: NHServiços\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o ...",
@@ -586,7 +633,7 @@
       "first_message_at": "2026-03-31T16:18:24.882Z",
       "last_message_at": "2026-03-31T16:43:57.421Z",
       "last_bot_msg_at": "2026-03-31T13:43:57.421087",
-      "tempo_sem_interacao": "21h 16min",
+      "tempo_sem_interacao": "21h 31min",
       "first_id": 20976,
       "last_id": 20985,
       "last_message_preview": "Dados Fornecidos\nNome: Carlos\nContem CNPJ: Sim\nNumero de Vidas: \nOperadora de Interesse: Amil, Brade...",
@@ -645,7 +692,7 @@
       "first_message_at": "2026-03-31T16:33:42.765Z",
       "last_message_at": "2026-03-31T16:33:42.767Z",
       "last_bot_msg_at": "2026-03-31T13:33:42.767001",
-      "tempo_sem_interacao": "21h 26min",
+      "tempo_sem_interacao": "21h 41min",
       "first_id": 20980,
       "last_id": 20981,
       "last_message_preview": "Dados Fornecidos\nNome: Kleber\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o info...",
@@ -694,7 +741,7 @@
       "first_message_at": "2026-03-31T16:25:26.617Z",
       "last_message_at": "2026-03-31T16:25:26.624Z",
       "last_bot_msg_at": "2026-03-31T13:25:26.62438",
-      "tempo_sem_interacao": "21h 34min",
+      "tempo_sem_interacao": "21h 50min",
       "first_id": 20978,
       "last_id": 20979,
       "last_message_preview": "Dados Fornecidos\nNome: Maria\nContem CNPJ: não\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o infor...",
@@ -743,7 +790,7 @@
       "first_message_at": "2026-03-31T16:09:51.759Z",
       "last_message_at": "2026-03-31T16:09:51.761Z",
       "last_bot_msg_at": "2026-03-31T13:09:51.761791",
-      "tempo_sem_interacao": "21h 50min",
+      "tempo_sem_interacao": "22h 5min",
       "first_id": 20974,
       "last_id": 20975,
       "last_message_preview": "Dados Fornecidos\nNome: Salete\nContem CNPJ: não\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o info...",
@@ -792,7 +839,7 @@
       "first_message_at": "2026-03-31T16:01:42.030Z",
       "last_message_at": "2026-03-31T16:01:42.035Z",
       "last_bot_msg_at": "2026-03-31T13:01:42.03512",
-      "tempo_sem_interacao": "21h 58min",
+      "tempo_sem_interacao": "22h 13min",
       "first_id": 20972,
       "last_id": 20973,
       "last_message_preview": "Dados Fornecidos\nNome: Carlos\nContem CNPJ: não\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o info...",
@@ -12661,7 +12708,7 @@
       "first_message_at": "2026-01-31T00:00:00.000Z",
       "last_message_at": "2026-03-23T14:08:03.633000Z",
       "last_bot_msg_at": "2026-03-23T11:08:01.881567",
-      "tempo_sem_interacao": "8 dias",
+      "tempo_sem_interacao": "9 dias",
       "first_id": 11940,
       "last_id": 19940,
       "last_message_preview": "Formato de mensagem enviada nao suportado",
@@ -12894,7 +12941,7 @@
       "first_message_at": "2026-03-22T00:00:00.000Z",
       "last_message_at": "2026-03-22T14:06:24.947000Z",
       "last_bot_msg_at": "2026-03-22T11:06:23.941127",
-      "tempo_sem_interacao": "9 dias",
+      "tempo_sem_interacao": "10 dias",
       "first_id": 19790,
       "last_id": 19930,
       "last_message_preview": "Sim",
@@ -14656,7 +14703,7 @@
       "first_message_at": "2026-03-21T14:10:20.953Z",
       "last_message_at": "2026-03-21T14:10:20.956Z",
       "last_bot_msg_at": "2026-03-21T11:10:20.956868",
-      "tempo_sem_interacao": "10 dias",
+      "tempo_sem_interacao": "11 dias",
       "first_id": 19724,
       "last_id": 19725,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1302\nNome: \n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação...",
