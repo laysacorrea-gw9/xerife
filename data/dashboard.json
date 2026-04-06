@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-04-06T19:45:48.344Z",
+    "generated_at": "2026-04-06T20:00:49.551Z",
     "total_conversations": 200,
-    "total_messages": 3374,
+    "total_messages": 3379,
     "stats": {
       "quente": 0,
-      "morno": 5,
+      "morno": 4,
       "frio": 12,
-      "desinteresse": 183,
+      "desinteresse": 184,
       "sem_classificacao": 0
     }
   },
@@ -21,11 +21,11 @@
         "nome": "Kelen Vasconcelos",
         "email": "",
         "qtd_vidas": "",
-        "desinteresse": false,
+        "desinteresse": true,
         "observacoes": "Kelen Vasconcelos",
         "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
+        "corretor": "Isis",
+        "temperatura": "Quente"
       },
       "summary": {
         "nome": "Kelen Vasconcelos",
@@ -34,30 +34,30 @@
         "vidas": [],
         "cidade": "Niterói / RJ",
         "contratacao": "CNPJ",
-        "cnpj": "",
+        "cnpj": "24.159.342/0001-17",
         "tipo_empresa": "MEI",
         "profissao": "clínica",
         "plano_atual": "",
-        "motivo": "",
+        "motivo": "Encerramento do plano atual",
         "interesse": "Amil",
         "rede_preferencial": "",
         "contato": "WhatsApp",
-        "consultor": "",
+        "consultor": "Isis",
         "obs_crm": "Kelen Vasconcelos",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Kelen Vasconcelos\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97123-2385\n\n📋 Dados contratuais:\n\nCidade: Niterói / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: clínica\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Kelen Vasconcelos\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Kelen Vasconcelos\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97123-2385\n\n📋 Dados contratuais:\n\nCidade: Niterói / RJ\nContratação: CNPJ — 24.159.342/0001-17\nTipo: MEI\nProfissão: clínica\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Kelen Vasconcelos\n👤 Consultor: Isis\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
       },
-      "status": "morno",
+      "status": "desinteresse",
       "bot": "preto",
-      "consultor": "",
-      "message_count": 6,
+      "consultor": "Isis",
+      "message_count": 11,
       "first_message_at": "2026-04-06T00:00:00.000Z",
-      "last_message_at": "2026-04-06T19:38:31.897000Z",
-      "last_bot_msg_at": "2026-04-06T16:38:31.45925",
-      "tempo_sem_interacao": "3h 7min",
+      "last_message_at": "2026-04-06T19:47:48.887000Z",
+      "last_bot_msg_at": "2026-04-06T16:47:48.066081",
+      "tempo_sem_interacao": "3h 13min",
       "first_id": 20531,
-      "last_id": 20536,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1442\nNome: Kelen Vasconcelos\n\nMensagem(ns) do cliente:\nNós residim...",
+      "last_id": 20541,
+      "last_message_preview": "Ok",
       "messages": [
         {
           "role": "user",
@@ -88,6 +88,31 @@
           "role": "ai",
           "content": "Ótimo, Kelen! Agradeço pela informação. Agora, como o plano será contratado: empresarial por CNPJ (MEI ou LTDA) ou por CPF? Se não tiver CNPJ, sem problemas.",
           "msg_time": "2026-04-06T16:38:31.45925"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1442\nNome: Kelen Vasconcelos\n\nMensagem(ns) do cliente:\nTenho 24159342000117",
+          "msg_time": "2026-04-06T16:46:41.558734"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Kelen! Você vai contratar pelo CNPJ. Para finalizar, você já possui plano de saúde atualmente? Se sim, qual e quanto paga hoje? Isso vai me ajudar a encontrar a melhor opção para vocês.",
+          "msg_time": "2026-04-06T16:46:41.560821"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1442\nNome: Kelen Vasconcelos\n\nMensagem(ns) do cliente:\nNão.",
+          "msg_time": "2026-04-06T16:47:48.060019"
+        },
+        {
+          "role": "ai",
+          "content": "Kelen, obrigada por todas as informações! Vou encaminhar seu contato para a Isis, nosso especialista, que vai te apresentar as melhores opções de plano para vocês duas em Maricá. Ela vai te chamar aqui no WhatsApp em breve.",
+          "msg_time": "2026-04-06T16:47:48.066081"
+        },
+        {
+          "role": "user",
+          "content": "Ok",
+          "msg_time": "2026-04-06T16:50:30.05459"
         }
       ]
     },
@@ -397,7 +422,7 @@
       "first_message_at": "2026-03-24T00:00:00.000Z",
       "last_message_at": "2026-03-24T22:45:56.630000Z",
       "last_bot_msg_at": "2026-03-24T19:45:51.863641",
-      "tempo_sem_interacao": "12 dias",
+      "tempo_sem_interacao": "13 dias",
       "first_id": 20297,
       "last_id": 20511,
       "last_message_preview": "Dados Fornecidos\nNome: Ponto\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o infor...",
@@ -3739,7 +3764,7 @@
       "first_message_at": "2026-03-24T00:00:00.000Z",
       "last_message_at": "2026-03-24T22:47:09.567000Z",
       "last_bot_msg_at": "2026-03-24T19:47:08.512578",
-      "tempo_sem_interacao": "12 dias",
+      "tempo_sem_interacao": "13 dias",
       "first_id": 20293,
       "last_id": 20302,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1388\nNome: christiani prado\n\nMensagem(ns) do cliente:\nRj\n\nEu tenho...",
