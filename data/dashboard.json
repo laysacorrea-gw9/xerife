@@ -1,17 +1,76 @@
 {
   "meta": {
-    "generated_at": "2026-04-06T19:15:48.693Z",
+    "generated_at": "2026-04-06T19:30:50.672Z",
     "total_conversations": 200,
-    "total_messages": 3391,
+    "total_messages": 3370,
     "stats": {
       "quente": 0,
       "morno": 4,
-      "frio": 12,
-      "desinteresse": 184,
+      "frio": 13,
+      "desinteresse": 183,
       "sem_classificacao": 0
     }
   },
   "conversations": [
+    {
+      "session_id": "5521971232385@s.whatsapp.net",
+      "phone": "5521971232385",
+      "phone_display": "+55 21 97123-2385",
+      "lead": {
+        "baserow_id": 1442,
+        "nome": "Kelen Vasconcelos",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "observacoes": "Kelen Vasconcelos",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Kelen Vasconcelos",
+        "email": "",
+        "telefone": "+55 21 97123-2385",
+        "vidas": [],
+        "cidade": "",
+        "contratacao": "",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "Amil",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "Kelen Vasconcelos",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Kelen Vasconcelos\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97123-2385\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Kelen Vasconcelos\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "frio",
+      "bot": "preto",
+      "consultor": "",
+      "message_count": 2,
+      "first_message_at": "2026-04-06T00:00:00.000Z",
+      "last_message_at": "2026-04-06T19:30:46.270000Z",
+      "last_bot_msg_at": "2026-04-06T16:28:57.201868",
+      "tempo_sem_interacao": "3h 1min",
+      "first_id": 20531,
+      "last_id": 20532,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1442\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1442\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Amil",
+          "msg_time": "2026-04-06T16:28:57.185"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. \n\nQual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-04-06T16:28:57.201868"
+        }
+      ]
+    },
     {
       "session_id": "5521979452655@s.whatsapp.net",
       "phone": "5521979452655",
@@ -11269,7 +11328,7 @@
       "first_message_at": "2026-03-19T00:00:00.000Z",
       "last_message_at": "2026-03-19T22:29:52.104000Z",
       "last_bot_msg_at": "2026-03-19T19:29:51.057006",
-      "tempo_sem_interacao": "17 dias",
+      "tempo_sem_interacao": "18 dias",
       "first_id": 19559,
       "last_id": 19578,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1272\nNome: .\nVidas: 2\nCidade: \nTipo Contratação: \n\nMensagem(ns) do...",
@@ -16523,7 +16582,7 @@
       "first_message_at": "2026-03-16T00:00:00.000Z",
       "last_message_at": "2026-03-16T19:16:19.952Z",
       "last_bot_msg_at": "2026-03-16T19:16:19.952Z",
-      "tempo_sem_interacao": "20 dias",
+      "tempo_sem_interacao": "21 dias",
       "first_id": 19028,
       "last_id": 19028,
       "last_message_preview": "",
@@ -19828,177 +19887,6 @@
           "role": "system",
           "content": "Você ainda tem interesse em contratar um Plano de Saúde para sua empresa ?",
           "msg_time": "2026-03-11T15:49:03.052888"
-        }
-      ]
-    },
-    {
-      "session_id": "5521981286540@s.whatsapp.net",
-      "phone": "5521981286540",
-      "phone_display": "+55 21 98128-6540",
-      "lead": {
-        "baserow_id": 1124,
-        "nome": "🌸Bruna",
-        "email": "",
-        "qtd_vidas": 2,
-        "desinteresse": true,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "Gilbertinho",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "🌸Bruna",
-        "email": "",
-        "telefone": "+55 21 98128-6540",
-        "vidas": [
-          {
-            "idade": 1
-          },
-          {
-            "idade": 3
-          }
-        ],
-        "cidade": "Rio de Janeiro / RJ",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "MEI",
-        "profissao": "",
-        "plano_atual": "Nenhum",
-        "motivo": "Incluir novas vidas",
-        "interesse": "Amil",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "Gilbertinho",
-        "obs_crm": "",
-        "bot": "Gilbertinho Amarelo (2373)",
-        "formatted": "👤 Cliente: 🌸Bruna\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98128-6540\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\n🌸Bruna — 1 anos\nDependente 1 — 3 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n\n🎯 Interesse: Amil\n👤 Consultor: Gilbertinho\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Amarelo (2373)"
-      },
-      "status": "desinteresse",
-      "bot": "amarelo",
-      "consultor": "Gilbertinho",
-      "message_count": 23,
-      "first_message_at": "2026-03-10T00:00:00.000Z",
-      "last_message_at": "2026-03-10T23:22:33.191000Z",
-      "last_bot_msg_at": "2026-03-10T20:22:32.714832",
-      "tempo_sem_interacao": "26 dias",
-      "first_id": 18313,
-      "last_id": 18574,
-      "last_message_preview": "Esse valor com coparticipação?",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Olá Gostaria de uma cotação de um Plano de Saúde Amil",
-          "msg_time": "2026-03-10T20:15:47.808588"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Eu sou Gilberto, analista em Plano Saúde da Corretora GW9. 🚀 Trabalhamos com todos os Planos de saúde no Rio de Janeiro. Vou te ajudar a entender as melhores opções, inclusive Amil. Pode me informar seu nome para começar?",
-          "msg_time": "2026-03-10T20:15:47.810453"
-        },
-        {
-          "role": "user",
-          "content": "Bruna",
-          "msg_time": "2026-03-10T20:16:37.025616"
-        },
-        {
-          "role": "ai",
-          "content": "Perfeito, Bruna! Pra te apresentar as opções certas, preciso entender o perfil de quem vai entrar no plano. Pode me dizer: quantas pessoas são e as idades? Qual a cidade? Como será contratado: pessoa física (CPF) ou empresarial (CNPJ/MEI)? Pode enviar por áudio 🎙️ se preferir.",
-          "msg_time": "2026-03-10T20:16:37.027533"
-        },
-        {
-          "role": "user",
-          "content": "Mei , duas vidas eu 30 anos e uma bebê de 1/3 meses",
-          "msg_time": "2026-03-10T20:20:19.164588"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Bruna, você vai contratar como MEI para duas vidas: você com 30 anos e um bebê de 1-3 meses. Confirmando que é para qual cidade no RJ? Além disso, vocês já possuem plano hoje ou estão sem? Tem algum hospital ou médico que fazem questão na rede?",
-          "msg_time": "2026-03-10T20:20:19.166204"
-        },
-        {
-          "role": "user",
-          "content": "Mei , duas vidas eu 30 anos e uma bebê de 1/4 meses",
-          "msg_time": "2026-03-10T20:20:39.781273"
-        },
-        {
-          "role": "ai",
-          "content": "Ótimo, Bruna! Entendi que são duas vidas, você com 30 anos e bebê de até 4 meses, contratando como MEI. Qual a cidade onde o plano será utilizado? E vocês já possuem plano hoje ou estão sem? Tem algum hospital ou médico importante para vocês?",
-          "msg_time": "2026-03-10T20:20:39.783097"
-        },
-        {
-          "role": "user",
-          "content": "Tenho sim",
-          "msg_time": "2026-03-10T20:20:58.39265"
-        },
-        {
-          "role": "ai",
-          "content": "Obrigado, Bruna! Entendi que já possuem plano atualmente. Pode me dizer o que mais pesa para vocês quererem trocar? É o valor, a rede ou outro motivo? Também, qual a operadora atual e valor que pagam, se possível?",
-          "msg_time": "2026-03-10T20:20:58.395947"
-        },
-        {
-          "role": "user",
-          "content": "Um ano e quatro meses",
-          "msg_time": "2026-03-10T20:21:20.785195"
-        },
-        {
-          "role": "ai",
-          "content": "Bruna, só para confirmar: \"um ano e quatro meses\" se refere a quanto tempo vocês têm esse plano atual? Está correto? E qual é a operadora atual e o valor aproximado que pagam? Isso ajuda a entender melhor sua situação.",
-          "msg_time": "2026-03-10T20:21:20.788066"
-        },
-        {
-          "role": "user",
-          "content": "Só atende rede própria\n\nO que tenho atualmente",
-          "msg_time": "2026-03-10T20:21:44.445618"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Bruna, você prefere uma rede mais ampla que não seja só rede própria. Isso é importante para comparar com sua situação atual. Seu plano é MEI, duas vidas (você 30 anos, bebê 1-4 meses), e qual cidade vai usar o plano? Isso complementa para cotar melhor.",
-          "msg_time": "2026-03-10T20:21:44.448464"
-        },
-        {
-          "role": "user",
-          "content": "Quero saber o valor do que postou\n\nPra nós duas\n\nPor favor",
-          "msg_time": "2026-03-10T20:22:32.712119"
-        },
-        {
-          "role": "ai",
-          "content": "Bruna, para te passar um valor correto, preciso confirmar as informações: são duas vidas (você 30 anos e bebê 1-4 meses), plano contratado como MEI, cidade onde usará o plano, e se tem preferência por alguma rede ou hospital. Pode confirmar a cidade, por favor?",
-          "msg_time": "2026-03-10T20:22:32.714832"
-        },
-        {
-          "role": "system",
-          "content": "Rio de Janeiro . São Gonçalo\n\nSeu plano atual é da Amil ?",
-          "msg_time": "2026-03-10T20:23:54.735903"
-        },
-        {
-          "role": "user",
-          "content": "Não\n\nNotre dame",
-          "msg_time": "2026-03-10T20:24:51.778661"
-        },
-        {
-          "role": "user",
-          "content": "https://abrir.in/ak7ib\n\nAqui nesse link você consegue ver as coberturas completas.\n\nPorque esse valor ?",
-          "msg_time": "2026-03-10T20:28:47.786452"
-        },
-        {
-          "role": "user",
-          "content": "Esse valor com coparticipação?",
-          "msg_time": "2026-03-10T20:29:57.871414"
-        },
-        {
-          "role": "system",
-          "content": "Esse é o Plano mais basico da Amil\n\nPouquissimos médicos\n\nAmil somente com coparticipação",
-          "msg_time": "2026-03-10T20:30:40.187815"
-        },
-        {
-          "role": "system",
-          "content": "R$555 -  Coparticipação Total\nR$740 - Coparticipação Terapias (Fono, Nutri, Fisio...)",
-          "msg_time": "2026-03-10T20:31:24.503548"
-        },
-        {
-          "role": "system",
-          "content": "Bruna \n\nVocê ainda acha importante ter acesso a um Plano de Saúde melhor para você e sua filha?\n\nEsses valores atenderam sua expectativa ?",
-          "msg_time": "2026-03-11T15:45:15.132481"
         }
       ]
     }
