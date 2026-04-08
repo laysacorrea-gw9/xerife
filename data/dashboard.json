@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_at": "2026-04-08T17:15:49.122Z",
+    "generated_at": "2026-04-08T17:30:49.491Z",
     "total_conversations": 200,
-    "total_messages": 3292,
+    "total_messages": 3293,
     "stats": {
       "quente": 0,
       "morno": 7,
@@ -12,6 +12,185 @@
     }
   },
   "conversations": [
+    {
+      "session_id": "5521964645520@s.whatsapp.net",
+      "phone": "5521964645520",
+      "phone_display": "+55 21 96464-5520",
+      "lead": {
+        "baserow_id": 164,
+        "nome": "",
+        "email": "",
+        "qtd_vidas": 3,
+        "desinteresse": true,
+        "observacoes": "",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": "Frio"
+      },
+      "summary": {
+        "nome": "Não identificado",
+        "email": "",
+        "telefone": "+55 21 96464-5520",
+        "vidas": [
+          {
+            "idade": 20
+          },
+          {
+            "idade": 12
+          },
+          {
+            "idade": 35
+          }
+        ],
+        "cidade": "",
+        "contratacao": "CNPJ",
+        "cnpj": "37.655.043/0001-15",
+        "tipo_empresa": "LTDA",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "",
+        "bot": "Não identificado",
+        "formatted": "👤 Cliente: Não identificado\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96464-5520\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nTitular — 20 anos\nDependente 1 — 12 anos\nDependente 2 — 35 anos\n\n📋 Dados contratuais:\n\nContratação: CNPJ — 37.655.043/0001-15\nTipo: LTDA\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Não identificado"
+      },
+      "status": "desinteresse",
+      "bot": "desconhecido",
+      "consultor": "",
+      "message_count": 24,
+      "first_message_at": "2025-12-15T00:00:00.000Z",
+      "last_message_at": "2026-04-08T17:24:47.576Z",
+      "last_bot_msg_at": "2026-04-08T17:24:47.576Z",
+      "tempo_sem_interacao": "6min",
+      "first_id": 1156,
+      "last_id": 20661,
+      "last_message_preview": "Responde que amanhã seguimos emtao",
+      "messages": [
+        {
+          "role": "system",
+          "content": "Boa noite {{ $json.nome }}! Tentei falar com você algumas vezes mas acho que não consegui te pegar em um bom momento.\nSó preciso de algumas informações pra te ajudar com o plano de saúde.\nQual o melhor horário pra eu te retornar?",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "system",
+          "content": "/9j/4AAQSkZJRgABAQAAAQABAAD/4gHYSUNDX1BST0ZJTEUAAQEAAAHIAAAAAAQwAABtbnRyUkdCIFhZWiAH4AABAAEAAAAAAABhY3NwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA9tYAAQAAAADTLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlkZXNjAAAA8AAAACRyWFlaAAABFAAAABRnWFlaAAABKAAAABRiWFlaAAABPAAAABR3dHB0AAABUAAAABRyVFJDAAABZAAAAChnVFJDAAABZAAAAChiVFJDAAABZAAAAChjcHJ0AAABjAAAADxtbHVjAAAAAAAAAAEAAAAMZW5VUwAAAAgAAAAcAHMAUgBHAEJYWVogAAAAAAAAb6IAADj1AAADkFhZWiAAAAAAAABimQAAt4UAABjaWFlaIAAAAAAAACSgAAAPhAAAts9YWVogAAAAAAAA9tYAAQAAAADTLXBhcmEAAAAAAAQAAAACZmYAAPKnAAANWQAAE9AAAApbAAAAAAAAAABtbHVjAAAAAAAAAAEAAAAMZW5VUwAAACAAAAAcAEcAbwBvAGcAbABlACAASQBuAGMALgAgADIAMAAxADb/2wBDAAMCAgICAgMCAgIDAwMDBAYEBAQEBAgGBgUGCQgKCgkICQkKDA8MCgsOCwkJDRENDg8QEBEQCgwSExIQEw8QEBD/2wBDAQMDAwQDBAgEBAgQCwkLEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBD/wAARCAOBBAcDASIAAhEBAxEB/8QAHQAAAgMBAQEBAQAAAAAAAAAAAAMBAgQGBQcICf/EAFwQAAIBAwMBBQQECAwDBQUCDwECAwAEEQUGEiEHEzFBURQiYXEygZHRFSMzQlKhscEIFhdVVmJykpPS0+FTVIIk",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "user",
+          "content": "Pf segue ae",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "system",
+          "content": "nao pow",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "user",
+          "content": "Ele fala PF",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "user",
+          "content": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAYGBgYHBgcICAcKCwoLCg8ODAwODxYQERAREBYiFRkVFRkVIh4kHhweJB42KiYmKjY+NDI0PkxERExfWl98fKcBBgYGBgcGBwgIBwoLCgsKDw4MDA4PFhAREBEQFiIVGRUVGRUiHiQeHB4kHjYqJiYqNj40MjQ+TERETF9aX3x8p//CABEIAuQEnQMBIgACEQEDEQH/xAAyAAEAAwEBAQEAAAAAAAAAAAAAAgMEBQEGBwEBAQEBAQEAAAAAAAAAAAAAAAECAwQF/9oADAMBAAIQAxAAAAL6oAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFHO28bee/b8x9PAZ1ymTD1x9Rdk4uL9Lhw56+gs+S69nWczl5v0/M1fLafZOPgy+nV2ZqGHh6d/d81q1ntvmvpM305EvXfM9mza+Y6x0XCy19OyciPonzfcXR587VZ9JR8l3rOnfh5cv0XJz019Iw8jL6Vw9J03zHeNLiZa7vKu5dn0ejHgze2+Z+kJDOgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEny+mZfT4Mad4c9c7mdvH0zt+f+h+eXm9Zv1m35jodA+c6u3CbeN9DjKcO7xd3Wx7Od+J+nzc/c95H1GbUzdvjd7N0fDfc8PN7nyV3Wq75Pd09Z4H0vzO5fHc4acz6bnduXkdWno5vz1+Hqbzhh2+MfTfF9VLOyHJSjtPa5+uPSPmvt/n+adXB0M8rmfRZtS2OL6PFtHPYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHK6pYEoAAAAGZpWBKBkhuWBKAAAAAAAAAAA",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "system",
+          "content": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wgARCALkBJ0DASIAAhEBAxEB/8QAGwABAAMBAQEBAAAAAAAAAAAAAAIDBAUBBgf/xAAZAQEBAQEBAQAAAAAAAAAAAAAAAQIDBQT/2gAMAwEAAhADEAAAAvqgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZedt4+s97R8t9TCuyE1y2TF0x9Lqw8bN+n52Gg79/wAj1a7Lk82X6bl6fmbPs3Fwy/UM+jJRi4und6PzGqzuvmPo82w4sdp8v166L5bq2dRwMp9Sw8mX6R8z2zXD52uz6Kj5Tu10dfN5sfScfPVX0nvO5OX07gaV6z5ftptcLLXc5dvMr6LXgxZdx8x9CtwlAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjxJ8zeZfSYch3/AGE8Xl83s5Nzbwe9wDn9Ru1Lvmt+8+e6e3CbeP8AQYoqxbo1t7PP6HO/EfTZcG0uT9Nmszdrj93LX8N9zwZe58nd1Kv+V2dPU4X0fze0887fEOd9Jzu1HK6lPQzfn78XS1MdfZ5FfS/HdNLOyHKSjs+qw6odGPnftOBzq6uDfnj3mfQ5auji+iy0DGwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOR1xAUAAAADF7sICgYY9AgK",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "user",
+          "content": "JVBERi0xLjUKJfbk/N8KMSAwIG9iago8PAovTmFtZXMgMiAwIFIKL1R5cGUgL0NhdGFsb2cKL1BhZ2VzIDMgMCBSCi9WaWV3ZXJQcmVmZXJlbmNlcyA8PAovUHJpbnRTY2FsaW5nIC9BcHBEZWZhdWx0Cj4+Ci9NZXRhZGF0YSA0IDAgUgo+PgplbmRvYmoKNSAwIG9iago8PAo+PgplbmRvYmoKMiAwIG9iago8PAovRGVzdHMgNiAwIFIKPj4KZW5kb2JqCjMgMCBvYmoKPDwKL0tpZHMgWzcgMCBSIDggMCBSIDkgMCBSIDEwIDAgUl0KL1R5cGUgL1BhZ2VzCi9Db3VudCA0Ci9JVFhUICgyLjEuNykKPj4KZW5kb2JqCjQgMCBvYmoKPDwKL0xlbmd0aCAwCi9UeXBlIC9NZXRhZGF0YQovU3VidHlwZSAvWE1MCj4+CnN0cmVhbQ0KDQplbmRzdHJlYW0KZW5kb2JqCjYgMCBvYmoKPDwKL05hbWVzIFsoSlJfUEFHRV9BTkNIT1JfMF8xKSBbNyAwIFIgL1hZWiAwIDYwNSAwXQogKEpSX1BBR0VfQU5DSE9SXzBfMikgWzggMCBSIC9YWVogMCA2MDUgMF0KIChKUl9QQUdFX0FOQ0hPUl8wXzMpIFs5IDAgUiAvWFlaIDAgNjA1IDBdCiAoSlJfUEFHRV9BTkNIT1JfMF80KSBbMTAgMCBSIC9YWVogMCA2MDUgMF0KXQo+PgplbmRvYmoKNyAwIG9iago8PAovVGFicyAvUwovR3JvdXAgPDwKL1MgL1RyYW5zcGFyZW5jeQovVHlwZSAvR3JvdXAKL0NTIC9EZXZpY2VSR0IKPj4KL0NvbnRlbnRzIDExIDAgUgovVHlwZSAvUGFnZQovUmVzb3VyY2VzIDw8Ci9Db2xvclNwYWNlIDw8Ci9DUyAvRGV2aWNlUkdCCj4+Ci9Qcm9jU2V0IFsvUERGIC9UZXh0IC9J",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "system",
+          "content": "Oi",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "system",
+          "content": "Tive que colocar no seu celular que estava aqui no escritório",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "user",
+          "content": "Pera",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "system",
+          "content": "+55 22 99824-9088\n\nEscuta o audio desse cliente",
+          "msg_time": "2026-03-09T17:10:00.671817"
+        },
+        {
+          "role": "user",
+          "content": "Manda",
+          "msg_time": "2026-03-09T17:16:39.466446"
+        },
+        {
+          "role": "system",
+          "content": "olha ai",
+          "msg_time": "2026-03-09T17:24:54.929592"
+        },
+        {
+          "role": "user",
+          "content": "Mandei áudio lá",
+          "msg_time": "2026-03-09T17:28:45.173435"
+        },
+        {
+          "role": "user",
+          "content": "<ContextoPDF>\n  <TranscricaoPDF>\nCliente Segurado Projeto/Seguradora Recurso/Apolice Ramo Nº doc Parc Produção Perc Repasse\nSOLUCOES MEDICAS - DRA TOLEDO DE SOUZA LTDA AMIL SAUDE 96817524 Saúde coletivo 1/ 1345,20 12,35 166,13\nLEANDRO RODRIGUES 13092362756 PORTO SAUDE 502264974 Saúde coletivo 1/ 3618,30 52,63 1904,31\nTotais 4963,50 41,71 R$ 2.070,44\nTotal de descontos (%) 14,00 R$ 289,86\nTotal líquido R$ 1.780,58\nRecebido em: __/__/__. Assinatura: _________________________________________________________________________________.\nEu, ELISAMA OLIVEIRA DOS SANTOS, inscrito no CNPJ/CPF: 17380674757, recebi de GROWING CAPITAL CONSULTORIA CORRETORA DE SEGUROS E\nPREVIDENCIA LTDA Nº Fiscal/CNPJ: 37655043000115, conforme demonstrativo a cima, o valor de R$ 1.780,58.\nRelatório de Recibos Pagos\nProdutor: ELISAMA OLIVEIRA DOS SANTOS\nData de recebimento: 11/03/2026\nProtocolo: 1773242237118507\nGROWING CAPITAL CONSULTORIA CORRETORA DE SEGUROS E PREVIDENCIA LTDA \nDesenvolvido por TN (www.tn.com.br)\n  ",
+          "msg_time": "2026-03-11T15:15:31.024969"
+        },
+        {
+          "role": "system",
+          "content": "2 vidas até 18 anos \n1 vida 22 anos \n1 vida 29 anos\n1 vida 39 anos\n1 vida 54 anos\n1 vida 57 anos\n1 vida 61 anos\n\n40264467000163",
+          "msg_time": "2026-03-18T16:17:56.794576"
+        },
+        {
+          "role": "system",
+          "content": "tem sim",
+          "msg_time": "2026-03-18T17:04:26.746155"
+        },
+        {
+          "role": "user",
+          "content": "<ContextoImagem>\n\n  <DetalheImagem>\n\n  </DetalheImagem>\n\nContexto Extra: O usuário encaminhou a mensagem a seguir junto á imagem.\n  <MensagemUsuario>\n\n  </MensagemUsuario>\n\n</ContextoImagem>",
+          "msg_time": "2026-03-18T17:05:33.113399"
+        },
+        {
+          "role": "system",
+          "content": "Formato de mensagem enviada nao suportado",
+          "msg_time": "2026-03-18T17:24:26.556787"
+        },
+        {
+          "role": "system",
+          "content": "<ContextoImagem>\n\n  <DetalheImagem>\n\n  </DetalheImagem>\n\nContexto Extra: O usuário encaminhou a mensagem a seguir junto á imagem.\n  <MensagemUsuario>\n\n  </MensagemUsuario>\n\n</ContextoImagem>",
+          "msg_time": "2026-03-18T17:49:59.582702"
+        },
+        {
+          "role": "user",
+          "content": "Responde que amanhã seguimos emtao",
+          "msg_time": "2026-03-18T18:05:37.66591"
+        },
+        {
+          "role": "system",
+          "content": "Gilberto, tudo bem? Bom dia, tô precisando da sua ajuda, tomei a liberdade de mandar uma mensagem pra você aqui no privado. O que que acontece? Em breve vocês já vão estar sendo nossos corretores se Deus quiser, né? Vamos ver se agora sai, que a gente descobriu o contato lá do diretor da CDK e aí agora o negócio desmistificou. Vamos ver agora como é que vai ser. Inclusive ele diz que só tá esperando receber lá a comunicação para ele liberar. O que que acontece, Gilberto? Nós temos alguns sócios das empresas que hoje estão no plano de saúde da Bradesco, que a gente queria transferir para outras empresas do grupo, por conta do centro de custo. Então eu tenho um novo sócio numa empresa nova do grupo, que eu tô fazendo a alteração na junta comercial, colocando ele como sócio. E ele está já no plano de saúde de uma das empresas do grupo, só que eu quero tirar ele de lá e colocar nessa nova empresa. Da mesma forma, o outro sócio que tá numa outra empresa, eu quero migrar pra outra, pra que a",
+          "msg_time": "2026-04-07T13:23:51.443277"
+        },
+        {
+          "role": "system",
+          "content": "Formato de mensagem enviada nao suportado",
+          "msg_time": "2026-04-08T14:24:47.576965"
+        }
+      ]
+    },
     {
       "session_id": "5521996016904@s.whatsapp.net",
       "phone": "5521996016904",
@@ -54,7 +233,7 @@
       "first_message_at": "2026-04-08T00:00:00.000Z",
       "last_message_at": "2026-04-08T14:59:31.295000Z",
       "last_bot_msg_at": "2026-04-08T11:59:30.799476",
-      "tempo_sem_interacao": "5h 16min",
+      "tempo_sem_interacao": "5h 31min",
       "first_id": 20655,
       "last_id": 20660,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1473\nNome: Luis Muñoz\n\nMensagem(ns) do cliente:\nAgradeco beleza na...",
@@ -140,7 +319,7 @@
       "first_message_at": "2026-04-08T00:00:00.000Z",
       "last_message_at": "2026-04-08T11:52:10.687000Z",
       "last_bot_msg_at": "2026-04-08T08:52:10.128453",
-      "tempo_sem_interacao": "8h 23min",
+      "tempo_sem_interacao": "8h 38min",
       "first_id": 20640,
       "last_id": 20654,
       "last_message_preview": "Formato de mensagem enviada nao suportado",
@@ -743,180 +922,6 @@
           "role": "ai",
           "content": "Assis, obrigada por todas as informações! Vou encaminhar seu contato para a Elisa, nossa especialista, que vai te apresentar as melhores opções de plano para vocês com 2 vidas em Duque de Caxias. Ela vai te chamar aqui no WhatsApp em breve.",
           "msg_time": "2026-04-07T14:09:59.148217"
-        }
-      ]
-    },
-    {
-      "session_id": "5521964645520@s.whatsapp.net",
-      "phone": "5521964645520",
-      "phone_display": "+55 21 96464-5520",
-      "lead": {
-        "baserow_id": 164,
-        "nome": "",
-        "email": "",
-        "qtd_vidas": 3,
-        "desinteresse": true,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": "Frio"
-      },
-      "summary": {
-        "nome": "Não identificado",
-        "email": "",
-        "telefone": "+55 21 96464-5520",
-        "vidas": [
-          {
-            "idade": 20
-          },
-          {
-            "idade": 12
-          },
-          {
-            "idade": 35
-          }
-        ],
-        "cidade": "",
-        "contratacao": "CNPJ",
-        "cnpj": "37.655.043/0001-15",
-        "tipo_empresa": "LTDA",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "",
-        "bot": "Não identificado",
-        "formatted": "👤 Cliente: Não identificado\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96464-5520\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nTitular — 20 anos\nDependente 1 — 12 anos\nDependente 2 — 35 anos\n\n📋 Dados contratuais:\n\nContratação: CNPJ — 37.655.043/0001-15\nTipo: LTDA\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Não identificado"
-      },
-      "status": "desinteresse",
-      "bot": "desconhecido",
-      "consultor": "",
-      "message_count": 23,
-      "first_message_at": "2025-12-15T00:00:00.000Z",
-      "last_message_at": "2026-04-07T16:23:51.443Z",
-      "last_bot_msg_at": "2026-04-07T16:23:51.443Z",
-      "tempo_sem_interacao": "1 dia",
-      "first_id": 1156,
-      "last_id": 20626,
-      "last_message_preview": "Responde que amanhã seguimos emtao",
-      "messages": [
-        {
-          "role": "system",
-          "content": "Boa noite {{ $json.nome }}! Tentei falar com você algumas vezes mas acho que não consegui te pegar em um bom momento.\nSó preciso de algumas informações pra te ajudar com o plano de saúde.\nQual o melhor horário pra eu te retornar?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "/9j/4AAQSkZJRgABAQAAAQABAAD/4gHYSUNDX1BST0ZJTEUAAQEAAAHIAAAAAAQwAABtbnRyUkdCIFhZWiAH4AABAAEAAAAAAABhY3NwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA9tYAAQAAAADTLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlkZXNjAAAA8AAAACRyWFlaAAABFAAAABRnWFlaAAABKAAAABRiWFlaAAABPAAAABR3dHB0AAABUAAAABRyVFJDAAABZAAAAChnVFJDAAABZAAAAChiVFJDAAABZAAAAChjcHJ0AAABjAAAADxtbHVjAAAAAAAAAAEAAAAMZW5VUwAAAAgAAAAcAHMAUgBHAEJYWVogAAAAAAAAb6IAADj1AAADkFhZWiAAAAAAAABimQAAt4UAABjaWFlaIAAAAAAAACSgAAAPhAAAts9YWVogAAAAAAAA9tYAAQAAAADTLXBhcmEAAAAAAAQAAAACZmYAAPKnAAANWQAAE9AAAApbAAAAAAAAAABtbHVjAAAAAAAAAAEAAAAMZW5VUwAAACAAAAAcAEcAbwBvAGcAbABlACAASQBuAGMALgAgADIAMAAxADb/2wBDAAMCAgICAgMCAgIDAwMDBAYEBAQEBAgGBgUGCQgKCgkICQkKDA8MCgsOCwkJDRENDg8QEBEQCgwSExIQEw8QEBD/2wBDAQMDAwQDBAgEBAgQCwkLEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBD/wAARCAOBBAcDASIAAhEBAxEB/8QAHQAAAgMBAQEBAQAAAAAAAAAAAAMBAgQGBQcICf/EAFwQAAIBAwMBBQQECAwDBQUCDwECAwAEEQUGEiEHEzFBURQiYXEygZHRFSMzQlKhscEIFhdVVmJykpPS0+FTVIIk",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Pf segue ae",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "nao pow",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Ele fala PF",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAYGBgYHBgcICAcKCwoLCg8ODAwODxYQERAREBYiFRkVFRkVIh4kHhweJB42KiYmKjY+NDI0PkxERExfWl98fKcBBgYGBgcGBwgIBwoLCgsKDw4MDA4PFhAREBEQFiIVGRUVGRUiHiQeHB4kHjYqJiYqNj40MjQ+TERETF9aX3x8p//CABEIAuQEnQMBIgACEQEDEQH/xAAyAAEAAwEBAQEAAAAAAAAAAAAAAgMEBQEGBwEBAQEBAQEAAAAAAAAAAAAAAAECAwQF/9oADAMBAAIQAxAAAAL6oAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFHO28bee/b8x9PAZ1ymTD1x9Rdk4uL9Lhw56+gs+S69nWczl5v0/M1fLafZOPgy+nV2ZqGHh6d/d81q1ntvmvpM305EvXfM9mza+Y6x0XCy19OyciPonzfcXR587VZ9JR8l3rOnfh5cv0XJz019Iw8jL6Vw9J03zHeNLiZa7vKu5dn0ejHgze2+Z+kJDOgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEny+mZfT4Mad4c9c7mdvH0zt+f+h+eXm9Zv1m35jodA+c6u3CbeN9DjKcO7xd3Wx7Od+J+nzc/c95H1GbUzdvjd7N0fDfc8PN7nyV3Wq75Pd09Z4H0vzO5fHc4acz6bnduXkdWno5vz1+Hqbzhh2+MfTfF9VLOyHJSjtPa5+uPSPmvt/n+adXB0M8rmfRZtS2OL6PFtHPYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHK6pYEoAAAAGZpWBKBkhuWBKAAAAAAAAAAA",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wgARCALkBJ0DASIAAhEBAxEB/8QAGwABAAMBAQEBAAAAAAAAAAAAAAIDBAUBBgf/xAAZAQEBAQEBAQAAAAAAAAAAAAAAAQIDBQT/2gAMAwEAAhADEAAAAvqgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZedt4+s97R8t9TCuyE1y2TF0x9Lqw8bN+n52Gg79/wAj1a7Lk82X6bl6fmbPs3Fwy/UM+jJRi4und6PzGqzuvmPo82w4sdp8v166L5bq2dRwMp9Sw8mX6R8z2zXD52uz6Kj5Tu10dfN5sfScfPVX0nvO5OX07gaV6z5ftptcLLXc5dvMr6LXgxZdx8x9CtwlAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAjxJ8zeZfSYch3/AGE8Xl83s5Nzbwe9wDn9Ru1Lvmt+8+e6e3CbeP8AQYoqxbo1t7PP6HO/EfTZcG0uT9Nmszdrj93LX8N9zwZe58nd1Kv+V2dPU4X0fze0887fEOd9Jzu1HK6lPQzfn78XS1MdfZ5FfS/HdNLOyHKSjs+qw6odGPnftOBzq6uDfnj3mfQ5auji+iy0DGwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOR1xAUAAAADF7sICgYY9AgK",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "JVBERi0xLjUKJfbk/N8KMSAwIG9iago8PAovTmFtZXMgMiAwIFIKL1R5cGUgL0NhdGFsb2cKL1BhZ2VzIDMgMCBSCi9WaWV3ZXJQcmVmZXJlbmNlcyA8PAovUHJpbnRTY2FsaW5nIC9BcHBEZWZhdWx0Cj4+Ci9NZXRhZGF0YSA0IDAgUgo+PgplbmRvYmoKNSAwIG9iago8PAo+PgplbmRvYmoKMiAwIG9iago8PAovRGVzdHMgNiAwIFIKPj4KZW5kb2JqCjMgMCBvYmoKPDwKL0tpZHMgWzcgMCBSIDggMCBSIDkgMCBSIDEwIDAgUl0KL1R5cGUgL1BhZ2VzCi9Db3VudCA0Ci9JVFhUICgyLjEuNykKPj4KZW5kb2JqCjQgMCBvYmoKPDwKL0xlbmd0aCAwCi9UeXBlIC9NZXRhZGF0YQovU3VidHlwZSAvWE1MCj4+CnN0cmVhbQ0KDQplbmRzdHJlYW0KZW5kb2JqCjYgMCBvYmoKPDwKL05hbWVzIFsoSlJfUEFHRV9BTkNIT1JfMF8xKSBbNyAwIFIgL1hZWiAwIDYwNSAwXQogKEpSX1BBR0VfQU5DSE9SXzBfMikgWzggMCBSIC9YWVogMCA2MDUgMF0KIChKUl9QQUdFX0FOQ0hPUl8wXzMpIFs5IDAgUiAvWFlaIDAgNjA1IDBdCiAoSlJfUEFHRV9BTkNIT1JfMF80KSBbMTAgMCBSIC9YWVogMCA2MDUgMF0KXQo+PgplbmRvYmoKNyAwIG9iago8PAovVGFicyAvUwovR3JvdXAgPDwKL1MgL1RyYW5zcGFyZW5jeQovVHlwZSAvR3JvdXAKL0NTIC9EZXZpY2VSR0IKPj4KL0NvbnRlbnRzIDExIDAgUgovVHlwZSAvUGFnZQovUmVzb3VyY2VzIDw8Ci9Db2xvclNwYWNlIDw8Ci9DUyAvRGV2aWNlUkdCCj4+Ci9Qcm9jU2V0IFsvUERGIC9UZXh0IC9J",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "Oi",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "Tive que colocar no seu celular que estava aqui no escritório",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Pera",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "+55 22 99824-9088\n\nEscuta o audio desse cliente",
-          "msg_time": "2026-03-09T17:10:00.671817"
-        },
-        {
-          "role": "user",
-          "content": "Manda",
-          "msg_time": "2026-03-09T17:16:39.466446"
-        },
-        {
-          "role": "system",
-          "content": "olha ai",
-          "msg_time": "2026-03-09T17:24:54.929592"
-        },
-        {
-          "role": "user",
-          "content": "Mandei áudio lá",
-          "msg_time": "2026-03-09T17:28:45.173435"
-        },
-        {
-          "role": "user",
-          "content": "<ContextoPDF>\n  <TranscricaoPDF>\nCliente Segurado Projeto/Seguradora Recurso/Apolice Ramo Nº doc Parc Produção Perc Repasse\nSOLUCOES MEDICAS - DRA TOLEDO DE SOUZA LTDA AMIL SAUDE 96817524 Saúde coletivo 1/ 1345,20 12,35 166,13\nLEANDRO RODRIGUES 13092362756 PORTO SAUDE 502264974 Saúde coletivo 1/ 3618,30 52,63 1904,31\nTotais 4963,50 41,71 R$ 2.070,44\nTotal de descontos (%) 14,00 R$ 289,86\nTotal líquido R$ 1.780,58\nRecebido em: __/__/__. Assinatura: _________________________________________________________________________________.\nEu, ELISAMA OLIVEIRA DOS SANTOS, inscrito no CNPJ/CPF: 17380674757, recebi de GROWING CAPITAL CONSULTORIA CORRETORA DE SEGUROS E\nPREVIDENCIA LTDA Nº Fiscal/CNPJ: 37655043000115, conforme demonstrativo a cima, o valor de R$ 1.780,58.\nRelatório de Recibos Pagos\nProdutor: ELISAMA OLIVEIRA DOS SANTOS\nData de recebimento: 11/03/2026\nProtocolo: 1773242237118507\nGROWING CAPITAL CONSULTORIA CORRETORA DE SEGUROS E PREVIDENCIA LTDA \nDesenvolvido por TN (www.tn.com.br)\n  ",
-          "msg_time": "2026-03-11T15:15:31.024969"
-        },
-        {
-          "role": "system",
-          "content": "2 vidas até 18 anos \n1 vida 22 anos \n1 vida 29 anos\n1 vida 39 anos\n1 vida 54 anos\n1 vida 57 anos\n1 vida 61 anos\n\n40264467000163",
-          "msg_time": "2026-03-18T16:17:56.794576"
-        },
-        {
-          "role": "system",
-          "content": "tem sim",
-          "msg_time": "2026-03-18T17:04:26.746155"
-        },
-        {
-          "role": "user",
-          "content": "<ContextoImagem>\n\n  <DetalheImagem>\n\n  </DetalheImagem>\n\nContexto Extra: O usuário encaminhou a mensagem a seguir junto á imagem.\n  <MensagemUsuario>\n\n  </MensagemUsuario>\n\n</ContextoImagem>",
-          "msg_time": "2026-03-18T17:05:33.113399"
-        },
-        {
-          "role": "system",
-          "content": "Formato de mensagem enviada nao suportado",
-          "msg_time": "2026-03-18T17:24:26.556787"
-        },
-        {
-          "role": "system",
-          "content": "<ContextoImagem>\n\n  <DetalheImagem>\n\n  </DetalheImagem>\n\nContexto Extra: O usuário encaminhou a mensagem a seguir junto á imagem.\n  <MensagemUsuario>\n\n  </MensagemUsuario>\n\n</ContextoImagem>",
-          "msg_time": "2026-03-18T17:49:59.582702"
-        },
-        {
-          "role": "user",
-          "content": "Responde que amanhã seguimos emtao",
-          "msg_time": "2026-03-18T18:05:37.66591"
-        },
-        {
-          "role": "system",
-          "content": "Gilberto, tudo bem? Bom dia, tô precisando da sua ajuda, tomei a liberdade de mandar uma mensagem pra você aqui no privado. O que que acontece? Em breve vocês já vão estar sendo nossos corretores se Deus quiser, né? Vamos ver se agora sai, que a gente descobriu o contato lá do diretor da CDK e aí agora o negócio desmistificou. Vamos ver agora como é que vai ser. Inclusive ele diz que só tá esperando receber lá a comunicação para ele liberar. O que que acontece, Gilberto? Nós temos alguns sócios das empresas que hoje estão no plano de saúde da Bradesco, que a gente queria transferir para outras empresas do grupo, por conta do centro de custo. Então eu tenho um novo sócio numa empresa nova do grupo, que eu tô fazendo a alteração na junta comercial, colocando ele como sócio. E ele está já no plano de saúde de uma das empresas do grupo, só que eu quero tirar ele de lá e colocar nessa nova empresa. Da mesma forma, o outro sócio que tá numa outra empresa, eu quero migrar pra outra, pra que a",
-          "msg_time": "2026-04-07T13:23:51.443277"
         }
       ]
     },
@@ -4553,7 +4558,7 @@
       "first_message_at": "2026-03-25T00:00:00.000Z",
       "last_message_at": "2026-03-25T20:29:15.242000Z",
       "last_bot_msg_at": "2026-03-25T17:29:14.143396",
-      "tempo_sem_interacao": "13 dias",
+      "tempo_sem_interacao": "14 dias",
       "first_id": 20395,
       "last_id": 20396,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1404\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -4622,7 +4627,7 @@
       "first_message_at": "2026-03-25T00:00:00.000Z",
       "last_message_at": "2026-03-25T20:23:47.453000Z",
       "last_bot_msg_at": "2026-03-25T17:23:46.238527",
-      "tempo_sem_interacao": "13 dias",
+      "tempo_sem_interacao": "14 dias",
       "first_id": 20381,
       "last_id": 20394,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1402\nNome: Amanda\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns...",
@@ -10821,7 +10826,7 @@
       "first_message_at": "2026-03-22T00:00:00.000Z",
       "last_message_at": "2026-03-22T20:17:35.553000Z",
       "last_bot_msg_at": "2026-03-22T17:17:34.609389",
-      "tempo_sem_interacao": "16 dias",
+      "tempo_sem_interacao": "17 dias",
       "first_id": 19846,
       "last_id": 19862,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1318\nNome: Thais Melo\n\nMensagem(ns) do cliente:\nNão tenho",
@@ -10927,7 +10932,7 @@
       "first_message_at": "2026-03-22T00:00:00.000Z",
       "last_message_at": "2026-03-22T20:16:02.831000Z",
       "last_bot_msg_at": "2026-03-22T17:16:01.015059",
-      "tempo_sem_interacao": "16 dias",
+      "tempo_sem_interacao": "17 dias",
       "first_id": 19836,
       "last_id": 19860,
       "last_message_preview": "Ok! Obrigada pela assistência!",
@@ -12727,7 +12732,7 @@
       "first_message_at": "2026-03-18T00:00:00.000Z",
       "last_message_at": "2026-03-18T20:29:59.925000Z",
       "last_bot_msg_at": "2026-03-18T17:29:58.712472",
-      "tempo_sem_interacao": "20 dias",
+      "tempo_sem_interacao": "21 dias",
       "first_id": 19280,
       "last_id": 19613,
       "last_message_preview": "Dados do lead no sistema:\nNome: Alexandre\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do clien...",
