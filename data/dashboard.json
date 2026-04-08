@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_at": "2026-04-08T23:00:50.123Z",
+    "generated_at": "2026-04-08T23:15:48.574Z",
     "total_conversations": 200,
-    "total_messages": 3270,
+    "total_messages": 3268,
     "stats": {
       "quente": 0,
       "morno": 7,
@@ -12,6 +12,127 @@
     }
   },
   "conversations": [
+    {
+      "session_id": "5517997155288@s.whatsapp.net",
+      "phone": "5517997155288",
+      "phone_display": "+55 17 99715-5288",
+      "lead": {
+        "baserow_id": 1475,
+        "nome": "Stephanie Silva de Oliveira",
+        "email": "",
+        "qtd_vidas": 2,
+        "desinteresse": true,
+        "observacoes": "Stephanie Silva de Oliveira",
+        "reagendamento": null,
+        "corretor": "João",
+        "temperatura": "Quente"
+      },
+      "summary": {
+        "nome": "Stephanie Silva de Oliveira",
+        "email": "",
+        "telefone": "+55 17 99715-5288",
+        "vidas": [
+          {
+            "idade": 30
+          },
+          {
+            "idade": 36
+          }
+        ],
+        "cidade": "Niterói / RJ",
+        "contratacao": "CNPJ",
+        "cnpj": "65.602.832/0001-23",
+        "tipo_empresa": "MEI",
+        "profissao": "PCD de audivo\nDados do lead no sistema",
+        "plano_atual": "",
+        "motivo": "Encerramento do plano atual",
+        "interesse": "",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "João",
+        "obs_crm": "Stephanie Silva de Oliveira",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Stephanie Silva de Oliveira\n📱 Contato: WhatsApp\n📞 Telefone: +55 17 99715-5288\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nStephanie Silva de Oliveira — 30 anos\nDependente 1 — 36 anos\n\n📋 Dados contratuais:\n\nCidade: Niterói / RJ\nContratação: CNPJ — 65.602.832/0001-23\nTipo: MEI\nProfissão: PCD de audivo\nDados do lead no sistema\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\n\n⚠️ Observação: Stephanie Silva de Oliveira\n👤 Consultor: João\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "desinteresse",
+      "bot": "preto",
+      "consultor": "João",
+      "message_count": 13,
+      "first_message_at": "2026-04-08T00:00:00.000Z",
+      "last_message_at": "2026-04-08T23:08:14.814000Z",
+      "last_bot_msg_at": "2026-04-08T20:08:14.403266",
+      "tempo_sem_interacao": "3h 7min",
+      "first_id": 20664,
+      "last_id": 20676,
+      "last_message_preview": "Ok obgda",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1475\nNome: \n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação de um plano de saúde Empresarial",
+          "msg_time": "2026-04-08T20:03:08.334612"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-04-08T20:03:08.342224"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1475\nNome: Stephanie Silva de Oliveira\n\nMensagem(ns) do cliente:\nStephanie Silva de Oliveira \n2 eu e meu esposo Vanderley Rodrigues de Oliveira 30 e 36 anos\n\nSou PCD de audivo",
+          "msg_time": "2026-04-08T20:04:20.451595"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Stephanie! Então, são duas pessoas: você e seu esposo Vanderley, com idades de 30 e 36 anos. \n\nAgora, para buscar o plano ideal, qual é a cidade onde vocês desejam ter atendimento? Se tiver algum hospital de sua preferência, isso também ajuda a encontrar a melhor opção para vocês.",
+          "msg_time": "2026-04-08T20:04:20.454054"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1475\nNome: Stephanie Silva de Oliveira\n\nMensagem(ns) do cliente:\nSim",
+          "msg_time": "2026-04-08T20:04:47.182627"
+        },
+        {
+          "role": "ai",
+          "content": "Ótimo, Stephanie! Qual é a cidade onde vocês desejam ter atendimento? Se tiver algum hospital de sua preferência, isso também ajuda a encontrar o melhor plano para vocês.",
+          "msg_time": "2026-04-08T20:04:47.185461"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1475\nNome: Stephanie Silva de Oliveira\n\nMensagem(ns) do cliente:\nNiterói RJ \nEstr. Francisco da Cruz Nunes, 5599 - Itaipu, Niterói - RJ, 24310-340",
+          "msg_time": "2026-04-08T20:05:39.869366"
+        },
+        {
+          "role": "ai",
+          "content": "Obrigada, Stephanie! A cidade é Niterói, RJ. \n\nAgora, como o plano será contratado: empresarial por CNPJ MEI ou LTDA? Se tiver o número do CNPJ, pode me informar? Se não tiver, só preciso saber se é MEI ou LTDA.",
+          "msg_time": "2026-04-08T20:05:39.873269"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1475\nNome: Stephanie Silva de Oliveira\n\nMensagem(ns) do cliente:\nCNPJ sim vou passar 65602832000123\n\nCNPJ mei sim vou passar 65602832000123",
+          "msg_time": "2026-04-08T20:07:20.832417"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Stephanie! O plano será contratado como CNPJ MEI, e o número é 65602832000123.\n\nPara finalizar, você já possui um plano de saúde atualmente? Se sim, qual e quanto paga hoje? Isso nos ajudará a encontrar a melhor opção para vocês.",
+          "msg_time": "2026-04-08T20:07:20.834856"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1475\nNome: Stephanie Silva de Oliveira\n\nMensagem(ns) do cliente:\nSim\n\nNão",
+          "msg_time": "2026-04-08T20:08:14.400117"
+        },
+        {
+          "role": "ai",
+          "content": "Stephanie, obrigada por todas as informações! Vou encaminhar seu contato para o João, nosso especialista, que vai te apresentar as melhores opções de plano para vocês em Niterói. Ele vai te chamar aqui no WhatsApp em breve.",
+          "msg_time": "2026-04-08T20:08:14.403266"
+        },
+        {
+          "role": "user",
+          "content": "Ok obgda",
+          "msg_time": "2026-04-08T20:08:56.028694"
+        }
+      ]
+    },
     {
       "session_id": "5521991511593@s.whatsapp.net",
       "phone": "5521991511593",
@@ -54,7 +175,7 @@
       "first_message_at": "2026-04-08T00:00:00.000Z",
       "last_message_at": "2026-04-08T22:31:29.095000Z",
       "last_bot_msg_at": "2026-04-08T19:31:28.695583",
-      "tempo_sem_interacao": "3h 29min",
+      "tempo_sem_interacao": "3h 44min",
       "first_id": 20662,
       "last_id": 20663,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1474\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -123,7 +244,7 @@
       "first_message_at": "2025-12-15T00:00:00.000Z",
       "last_message_at": "2026-04-08T17:24:47.576Z",
       "last_bot_msg_at": "2026-04-08T17:24:47.576Z",
-      "tempo_sem_interacao": "5h 36min",
+      "tempo_sem_interacao": "5h 51min",
       "first_id": 1156,
       "last_id": 20661,
       "last_message_preview": "Responde que amanhã seguimos emtao",
@@ -292,7 +413,7 @@
       "first_message_at": "2026-04-08T00:00:00.000Z",
       "last_message_at": "2026-04-08T14:59:31.295000Z",
       "last_bot_msg_at": "2026-04-08T11:59:30.799476",
-      "tempo_sem_interacao": "11h 1min",
+      "tempo_sem_interacao": "11h 16min",
       "first_id": 20655,
       "last_id": 20660,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1473\nNome: Luis Muñoz\n\nMensagem(ns) do cliente:\nAgradeco beleza na...",
@@ -378,7 +499,7 @@
       "first_message_at": "2026-04-08T00:00:00.000Z",
       "last_message_at": "2026-04-08T11:52:10.687000Z",
       "last_bot_msg_at": "2026-04-08T08:52:10.128453",
-      "tempo_sem_interacao": "14h 8min",
+      "tempo_sem_interacao": "14h 23min",
       "first_id": 20640,
       "last_id": 20654,
       "last_message_preview": "Formato de mensagem enviada nao suportado",
@@ -12475,7 +12596,7 @@
       "first_message_at": "2026-03-19T00:00:00.000Z",
       "last_message_at": "2026-03-20T02:02:53.244000Z",
       "last_bot_msg_at": "2026-03-19T23:02:51.675967",
-      "tempo_sem_interacao": "19 dias",
+      "tempo_sem_interacao": "20 dias",
       "first_id": 19585,
       "last_id": 19624,
       "last_message_preview": "SulAmérica\n\nComo no anúncio de vcs",
@@ -14747,7 +14868,7 @@
       "first_message_at": "2026-03-17T00:00:00.000Z",
       "last_message_at": "2026-03-18T02:03:09.813000Z",
       "last_bot_msg_at": "2026-03-17T23:03:04.276521",
-      "tempo_sem_interacao": "21 dias",
+      "tempo_sem_interacao": "22 dias",
       "first_id": 19144,
       "last_id": 19482,
       "last_message_preview": "Dados Fornecidos\nNome: Afonso\nContem CNPJ: sim\nNumero de Vidas: 2_vidas\nOperadora de Interesse: não ...",
@@ -19206,130 +19327,6 @@
           "role": "system",
           "content": "Sim\n\nNão\n\nPode escrever\n\nSem problemas\n\nFilipi\n\nO João vai te contatar agora para te passar algumas opções.",
           "msg_time": "2026-03-16T15:02:59.843135"
-        }
-      ]
-    },
-    {
-      "session_id": "5521964935955@s.whatsapp.net",
-      "phone": "5521964935955",
-      "phone_display": "+55 21 96493-5955",
-      "lead": {
-        "baserow_id": 1162,
-        "nome": "MONALISA",
-        "email": "monalisafotografia91@gmail.com",
-        "qtd_vidas": "",
-        "desinteresse": true,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "João",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "MONALISA",
-        "email": "monalisafotografia91@gmail.com",
-        "telefone": "+55 21 96493-5955",
-        "vidas": [],
-        "cidade": "Rio de Janeiro / RJ",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "MEI",
-        "profissao": "funcionária pública e tbem trabalho com fotografia",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "João",
-        "obs_crm": "",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: MONALISA\n📧 E-mail: monalisafotografia91@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96493-5955\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: funcionária pública e tbem trabalho com fotografia\n👤 Consultor: João\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "desinteresse",
-      "bot": "preto",
-      "consultor": "João",
-      "message_count": 15,
-      "first_message_at": "2026-03-14T00:00:00.000Z",
-      "last_message_at": "2026-03-14T21:16:23.186000Z",
-      "last_bot_msg_at": "2026-03-14T18:16:22.761566",
-      "tempo_sem_interacao": "25 dias",
-      "first_id": 18700,
-      "last_id": 18982,
-      "last_message_preview": "Ok",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados Fornecidos\nNome: MONALISA\nContem CNPJ: Sim\nNumero de Vidas: 1 a 2 Vidas\nOperadora de Interesse: Receber todos os valores\nRegião: Não Informado\nPropaganda:\n",
-          "msg_time": "2026-03-14T18:04:25.724211"
-        },
-        {
-          "role": "ai",
-          "content": "Oi MONALISA, eu sou o Gilberto da GW9 Saúde. Você pediu o nosso contato para saber mais sobre o plano da operadora \"Receber todos os valores\" para 1 a 2 vidas e já possui um CNPJ. Pra te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo certo?",
-          "msg_time": "2026-03-14T18:04:25.726778"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: MONALISA\n\nMensagem(ns) do cliente:\nOlá, Gilberto! \nPra iniciar, gostaria de falar que não tenho MEI ainda, sou funcionária pública e tbem trabalho com fotografia, onde farei o MEI, porém, gostaria de saber se valerá a pena.",
-          "msg_time": "2026-03-14T18:10:47.439034"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, MONALISA! Você é funcionária pública e está pensando em abrir um MEI para fotografia, certo? Isso importa pois o plano empresarial pode ser vantajoso dependendo do CNPJ. A contratação será para você e mais alguém? Qual a cidade para o atendimento?",
-          "msg_time": "2026-03-14T18:10:47.441989"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: MONALISA\n\nMensagem(ns) do cliente:\n53 anos as duas vidas",
-          "msg_time": "2026-03-14T18:11:38.771729"
-        },
-        {
-          "role": "ai",
-          "content": "Legal, Monalisa! São 2 vidas com 53 anos cada. Qual a cidade para usar o plano? Isso ajuda a achar as melhores opções. E confirma: a contratação será por pessoa física (CPF) ou pela empresa (CNPJ/MEI)?",
-          "msg_time": "2026-03-14T18:11:38.773893"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: MONALISA\n\nMensagem(ns) do cliente:\nPara Itaguai e Rio de Janeiro Queria a cotação pelo MEI .",
-          "msg_time": "2026-03-14T18:13:13.230365"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Monalisa. Você busca cotação para 2 vidas, com contratação pelo MEI, para Itaguaí e Rio de Janeiro. Confere? Assim que confirmar, vou encaminhar para um consultor especialista que vai te ajudar com os detalhes.",
-          "msg_time": "2026-03-14T18:13:13.23209"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: MONALISA\n\nMensagem(ns) do cliente:\nOk",
-          "msg_time": "2026-03-14T18:14:39.928554"
-        },
-        {
-          "role": "ai",
-          "content": "Monalisa, pelo que entendi: são 2 vidas com 53 anos, para Itaguaí e Rio de Janeiro, contratação via MEI. Correto? Confirmando esses dados, vou encaminhar para o consultor especialista ajudar você. Pode confirmar?",
-          "msg_time": "2026-03-14T18:14:39.930453"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: MONALISA\n\nMensagem(ns) do cliente:\nOk",
-          "msg_time": "2026-03-14T18:16:22.75828"
-        },
-        {
-          "role": "ai",
-          "content": "Monalisa, obrigado por confirmar! O consultor especializado já recebeu suas informações para o plano de 2 vidas com contratação pelo MEI em Itaguaí e Rio de Janeiro. Ele vai te chamar aqui no WhatsApp para ajudar com a cotação e detalhes. Obrigado!",
-          "msg_time": "2026-03-14T18:16:22.761566"
-        },
-        {
-          "role": "system",
-          "content": "Monalisa, ainda está por aí? Estou aguardando sua resposta para dar sequência.",
-          "msg_time": "2026-03-14T19:01:16.09021"
-        },
-        {
-          "role": "system",
-          "content": "Monalisa\n\nO João vai entrar em contato para te ajudar com algumas opções.\nDesculpe pela demora.",
-          "msg_time": "2026-03-16T15:00:38.249758"
-        },
-        {
-          "role": "user",
-          "content": "Ok",
-          "msg_time": "2026-03-16T15:02:03.765075"
         }
       ]
     }
