@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-04-08T11:45:48.597Z",
+    "generated_at": "2026-04-08T12:00:48.512Z",
     "total_conversations": 200,
     "total_messages": 3308,
     "stats": {
@@ -12,6 +12,137 @@
     }
   },
   "conversations": [
+    {
+      "session_id": "5522999262085@s.whatsapp.net",
+      "phone": "5522999262085",
+      "phone_display": "+55 22 99926-2085",
+      "lead": {
+        "baserow_id": 1472,
+        "nome": "Fernanda 🥰@Ara'bellara",
+        "email": "",
+        "qtd_vidas": 2,
+        "desinteresse": true,
+        "observacoes": "Fernanda 🥰@Ara'bellara",
+        "reagendamento": null,
+        "corretor": "Isis",
+        "temperatura": "Quente"
+      },
+      "summary": {
+        "nome": "Fernanda 🥰@Ara'bellara",
+        "email": "",
+        "telefone": "+55 22 99926-2085",
+        "vidas": [
+          {
+            "idade": 1
+          },
+          {
+            "idade": 39
+          }
+        ],
+        "cidade": "Rio de Janeiro / RJ",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "MEI",
+        "profissao": "",
+        "plano_atual": "Nenhum",
+        "motivo": "Encerramento do plano atual",
+        "interesse": "rede D'or",
+        "rede_preferencial": "Barra D'Or, Rede D'Or",
+        "contato": "WhatsApp",
+        "consultor": "Isis",
+        "obs_crm": "Fernanda 🥰@Ara'bellara",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Fernanda 🥰@Ara'bellara\n📱 Contato: WhatsApp\n📞 Telefone: +55 22 99926-2085\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nFernanda 🥰@Ara'bellara — 1 anos\nDependente 1 — 39 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n🎯 Rede preferencial: Barra D'Or, Rede D'Or\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\n\n🎯 Interesse: rede D'or\n\n⚠️ Observação: Fernanda 🥰@Ara'bellara\n👤 Consultor: Isis\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "desinteresse",
+      "bot": "preto",
+      "consultor": "Isis",
+      "message_count": 15,
+      "first_message_at": "2026-04-08T00:00:00.000Z",
+      "last_message_at": "2026-04-08T11:52:10.687000Z",
+      "last_bot_msg_at": "2026-04-08T08:52:10.128453",
+      "tempo_sem_interacao": "3h 8min",
+      "first_id": 20640,
+      "last_id": 20654,
+      "last_message_preview": "Formato de mensagem enviada nao suportado",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1472\nNome: Fernanda 🥰@Ara'bellara\n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação de um plano de saúde Barra D'or\n\nBom Dia",
+          "msg_time": "2026-04-08T08:47:38.608252"
+        },
+        {
+          "role": "ai",
+          "content": "Olá, Fernanda! Sou o Gilberto da GW9, corretora de planos de saúde. Para apresentar as opções certas, preciso de algumas informações. Para quantas pessoas você está buscando o plano e quais as idades?",
+          "msg_time": "2026-04-08T08:47:38.612963"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1472\nNome: Fernanda 🥰@Ara'bellara\n\nMensagem(ns) do cliente:\nGostaria de saber qual o valor do plano mensal na rede D'or\n\nÉ só pra uma pessoa",
+          "msg_time": "2026-04-08T08:48:02.031105"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Fernanda! Para te ajudar melhor, qual a sua idade? Assim posso buscar informações mais específicas sobre o plano na rede D'or.",
+          "msg_time": "2026-04-08T08:48:02.039845"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1472\nNome: Fernanda 🥰@Ara'bellara\n\nMensagem(ns) do cliente:\n1\n\n39",
+          "msg_time": "2026-04-08T08:48:32.067361"
+        },
+        {
+          "role": "ai",
+          "content": "Ótimo, Fernanda! Para continuar, preciso saber em qual cidade você deseja utilizar o plano de saúde. Se tiver algum hospital da rede D'or que você prefira, também me ajuda a encontrar opções mais adequadas.",
+          "msg_time": "2026-04-08T08:48:32.071055"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1472\nNome: Fernanda 🥰@Ara'bellara\n\nMensagem(ns) do cliente:\nMacaé - Rio de Janeiro",
+          "msg_time": "2026-04-08T08:49:15.900244"
+        },
+        {
+          "role": "ai",
+          "content": "Perfeito, Fernanda! Agora, como o plano será contratado: empresarial por CNPJ (MEI ou LTDA) ou CPF? Se você tiver o CNPJ, pode me informar também.",
+          "msg_time": "2026-04-08T08:49:15.901748"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1472\nNome: Fernanda 🥰@Ara'bellara\n\nMensagem(ns) do cliente:\nCPF",
+          "msg_time": "2026-04-08T08:50:01.171345"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Fernanda! E qual é a sua profissão? Essa informação é importante para identificar a melhor administradora de plano para você.",
+          "msg_time": "2026-04-08T08:50:01.187752"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1472\nNome: Fernanda 🥰@Ara'bellara\n\nMensagem(ns) do cliente:\nAssistente de Cirurgiã Dentista",
+          "msg_time": "2026-04-08T08:50:50.149572"
+        },
+        {
+          "role": "ai",
+          "content": "Obrigada, Fernanda! Para finalizar, você já possui plano de saúde atualmente? Se sim, qual é e quanto paga por ele? Isso nos ajudar a encontrar a melhor opção para você.",
+          "msg_time": "2026-04-08T08:50:50.151341"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1472\nNome: Fernanda 🥰@Ara'bellara\n\nMensagem(ns) do cliente:\nNo momento to sem plano",
+          "msg_time": "2026-04-08T08:52:10.125727"
+        },
+        {
+          "role": "ai",
+          "content": "Fernanda, obrigada por todas as informações! Vou encaminhar seu contato para a Isis, nossa especialista, que vai te apresentar as melhores opções de plano para você em Macaé. Ela vai te chamar aqui no WhatsApp em breve. Se precisar de mais alguma coisa, estou à disposição!",
+          "msg_time": "2026-04-08T08:52:10.128453"
+        },
+        {
+          "role": "user",
+          "content": "Formato de mensagem enviada nao suportado",
+          "msg_time": "2026-04-08T08:52:47.322498"
+        }
+      ]
+    },
     {
       "session_id": "5521991689889@s.whatsapp.net",
       "phone": "5521991689889",
@@ -54,7 +185,7 @@
       "first_message_at": "2026-04-07T00:00:00.000Z",
       "last_message_at": "2026-04-07T15:08:56.279000Z",
       "last_bot_msg_at": "2026-04-07T12:08:55.536112",
-      "tempo_sem_interacao": "23h 36min",
+      "tempo_sem_interacao": "23h 51min",
       "first_id": 20612,
       "last_id": 20639,
       "last_message_preview": "Formato de mensagem enviada nao suportado",
@@ -479,7 +610,7 @@
       "first_message_at": "2026-04-07T00:00:00.000Z",
       "last_message_at": "2026-04-07T17:10:00.008000Z",
       "last_bot_msg_at": "2026-04-07T14:09:59.148217",
-      "tempo_sem_interacao": "21h 35min",
+      "tempo_sem_interacao": "21h 50min",
       "first_id": 20627,
       "last_id": 20636,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1466\nNome: Assis Contador\n\nMensagem(ns) do cliente:\nNão tenho no m...",
@@ -588,7 +719,7 @@
       "first_message_at": "2025-12-15T00:00:00.000Z",
       "last_message_at": "2026-04-07T16:23:51.443Z",
       "last_bot_msg_at": "2026-04-07T16:23:51.443Z",
-      "tempo_sem_interacao": "19h 21min",
+      "tempo_sem_interacao": "19h 36min",
       "first_id": 1156,
       "last_id": 20626,
       "last_message_preview": "Responde que amanhã seguimos emtao",
@@ -759,7 +890,7 @@
       "first_message_at": "2025-12-15T00:00:00.000Z",
       "last_message_at": "2026-04-07T16:20:26.607Z",
       "last_bot_msg_at": "2026-04-07T16:20:26.607Z",
-      "tempo_sem_interacao": "19h 25min",
+      "tempo_sem_interacao": "19h 40min",
       "first_id": 742,
       "last_id": 20623,
       "last_message_preview": "<ContextoImagem>\n\n  <DetalheImagem>\n\n  </DetalheImagem>\n\nContexto Extra: O usuário encaminhou a mens...",
@@ -5060,7 +5191,7 @@
       "first_message_at": "2026-03-24T00:00:00.000Z",
       "last_message_at": "2026-03-24T14:59:34.166000Z",
       "last_bot_msg_at": "2026-03-24T11:59:33.049963",
-      "tempo_sem_interacao": "14 dias",
+      "tempo_sem_interacao": "15 dias",
       "first_id": 20182,
       "last_id": 20347,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1348\nNome: Regina\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns...",
@@ -8651,7 +8782,7 @@
       "first_message_at": "2026-03-23T00:00:00.000Z",
       "last_message_at": "2026-03-23T14:51:05.660000Z",
       "last_bot_msg_at": "2026-03-23T11:51:03.910414",
-      "tempo_sem_interacao": "15 dias",
+      "tempo_sem_interacao": "16 dias",
       "first_id": 19947,
       "last_id": 19960,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1329\nNome: \n\nMensagem(ns) do cliente:\nNão tenho plano não",
@@ -10854,7 +10985,7 @@
       "first_message_at": "2026-03-22T00:00:00.000Z",
       "last_message_at": "2026-03-22T14:47:18.642000Z",
       "last_bot_msg_at": "2026-03-22T11:47:17.671578",
-      "tempo_sem_interacao": "16 dias",
+      "tempo_sem_interacao": "17 dias",
       "first_id": 19806,
       "last_id": 19817,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1310\nNome: \n\nMensagem(ns) do cliente:\nNão",
@@ -19412,130 +19543,6 @@
           "role": "user",
           "content": "Ok",
           "msg_time": "2026-03-16T13:13:31.082097"
-        }
-      ]
-    },
-    {
-      "session_id": "5521964112660@s.whatsapp.net",
-      "phone": "5521964112660",
-      "phone_display": "+55 21 96411-2660",
-      "lead": {
-        "baserow_id": 1173,
-        "nome": "Daniel",
-        "email": "nielalmeida050@gmail.com",
-        "qtd_vidas": "",
-        "desinteresse": true,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "João",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Daniel",
-        "email": "nielalmeida050@gmail.com",
-        "telefone": "+55 21 96411-2660",
-        "vidas": [],
-        "cidade": "Rio de Janeiro / RJ",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "MEI",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "João",
-        "obs_crm": "",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Daniel\n📧 E-mail: nielalmeida050@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96411-2660\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n👤 Consultor: João\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "desinteresse",
-      "bot": "preto",
-      "consultor": "João",
-      "message_count": 15,
-      "first_message_at": "2026-03-15T00:00:00.000Z",
-      "last_message_at": "2026-03-16T15:52:01.354000Z",
-      "last_bot_msg_at": "2026-03-16T12:52:00.731149",
-      "tempo_sem_interacao": "22 dias",
-      "first_id": 18744,
-      "last_id": 18918,
-      "last_message_preview": "Dados do lead no sistema:\nNome: Daniel\n\nMensagem(ns) do cliente:\nO áudio",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados Fornecidos\nNome: Daniel\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não informado\nRegião: Não Informado\nPropaganda:\n",
-          "msg_time": "2026-03-15T05:17:25.525221"
-        },
-        {
-          "role": "ai",
-          "content": "Oi Daniel, eu sou o Gilberto da GW9 Saúde. Você pediu o nosso contato para saber mais sobre Plano de Saúde e mencionou que tem interesse em contratar para 3 pessoas e já possui um CNPJ. Pra te ajudar e ser mais assertivo, preciso confirmar mais algumas informações. Tudo bem?",
-          "msg_time": "2026-03-15T05:17:25.529737"
-        },
-        {
-          "role": "system",
-          "content": "Daniel, ainda está por aí? Estou aguardando sua resposta para dar sequência.",
-          "msg_time": "2026-03-15T09:01:00.137664"
-        },
-        {
-          "role": "system",
-          "content": "Como comentei antes, preciso dessas informações para te enviar as melhores opções de plano de saúde. Qual operadora você tem em mente e qual é a sua região?",
-          "msg_time": "2026-03-15T12:30:53.836809"
-        },
-        {
-          "role": "system",
-          "content": "Imagino que esteja ocupado(a), sem problema. Quando tiver um tempo, estou à disposição para te ajudar.",
-          "msg_time": "2026-03-15T19:01:16.188317"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Daniel\n\nMensagem(ns) do cliente:\nTem CNPJ sim\n\nBom dia",
-          "msg_time": "2026-03-16T10:50:16.731558"
-        },
-        {
-          "role": "ai",
-          "content": "Olá, Daniel! Eu sou Gilberto, analista em Plano Saúde da Corretora GW9. Trabalhamos com todos os Planos de saúde no Rio de Janeiro. 🚀 Como os valores dos Planos de saúde são tabelados e os preços mudam de acordo com a rede credenciada. Minha missão é de te ajudar a encontrar o produto que melhor lhe atenda na relação custo x acesso.[SPLIT]Por isso vou te fazer algumas perguntas, pode me dizer: 1️⃣ Quantas pessoas são e as idades? 2️⃣ Qual a cidade que busca atendimento? Se tiver algum hospital de sua preferência, me informe, também nos ajuda. 3️⃣ Como o plano será contratado: empresarial (CNPJ/MEI)? 4️⃣ Já possui Plano atualmente? Se sim qual? Pode responder por áudio se preferir. 🎙️",
-          "msg_time": "2026-03-16T10:50:16.735091"
-        },
-        {
-          "role": "system",
-          "content": "Daniel, ainda está por aí? Estou aguardando sua resposta para dar sequência.",
-          "msg_time": "2026-03-16T12:30:26.452659"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Daniel\n\nMensagem(ns) do cliente:\nO áudio",
-          "msg_time": "2026-03-16T12:52:00.723637"
-        },
-        {
-          "role": "ai",
-          "content": "Daniel, vou aguardar você me enviar o áudio para poder transcrever e analisar as informações. Assim que receber, sigo com o atendimento. 🎙️",
-          "msg_time": "2026-03-16T12:52:00.731149"
-        },
-        {
-          "role": "system",
-          "content": "Daniel! \nBoa tarde!",
-          "msg_time": "2026-03-16T13:05:24.060801"
-        },
-        {
-          "role": "system",
-          "content": "Desculpe meu whatssap perdeu o backup só voltou agora",
-          "msg_time": "2026-03-16T13:05:42.39817"
-        },
-        {
-          "role": "system",
-          "content": "O Seu MEI tem mais de 6 meses ?",
-          "msg_time": "2026-03-16T13:06:41.480522"
-        },
-        {
-          "role": "system",
-          "content": "Entendi você busca um Plano para sua familia\nAs idades são 60,57 e 36 \n\nE você mora em São Gonçalo",
-          "msg_time": "2026-03-16T13:09:23.839845"
-        },
-        {
-          "role": "system",
-          "content": "O Consultor João vai te chamar agora para te passar algumas opções.",
-          "msg_time": "2026-03-16T13:09:47.290216"
         }
       ]
     }
