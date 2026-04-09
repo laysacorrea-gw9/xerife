@@ -1,17 +1,76 @@
 {
   "meta": {
-    "generated_at": "2026-04-09T00:00:57.821Z",
+    "generated_at": "2026-04-09T00:15:48.393Z",
     "total_conversations": 200,
-    "total_messages": 3268,
+    "total_messages": 3261,
     "stats": {
       "quente": 0,
       "morno": 7,
-      "frio": 28,
-      "desinteresse": 165,
+      "frio": 29,
+      "desinteresse": 164,
       "sem_classificacao": 0
     }
   },
   "conversations": [
+    {
+      "session_id": "5521979563508@s.whatsapp.net",
+      "phone": "5521979563508",
+      "phone_display": "+55 21 97956-3508",
+      "lead": {
+        "baserow_id": 1476,
+        "nome": "Mario Jorge",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "observacoes": "Mario Jorge",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Mario Jorge",
+        "email": "",
+        "telefone": "+55 21 97956-3508",
+        "vidas": [],
+        "cidade": "",
+        "contratacao": "",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "Amil",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "Mario Jorge",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Mario Jorge\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97956-3508\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Mario Jorge\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "frio",
+      "bot": "preto",
+      "consultor": "",
+      "message_count": 2,
+      "first_message_at": "2026-04-08T00:00:00.000Z",
+      "last_message_at": "2026-04-09T00:14:15.534000Z",
+      "last_bot_msg_at": "2026-04-08T21:14:14.996197",
+      "tempo_sem_interacao": "3h 1min",
+      "first_id": 20677,
+      "last_id": 20678,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1476\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1476\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Amil",
+          "msg_time": "2026-04-08T21:14:14.99266"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-04-08T21:14:14.996197"
+        }
+      ]
+    },
     {
       "session_id": "5517997155288@s.whatsapp.net",
       "phone": "5517997155288",
@@ -61,7 +120,7 @@
       "first_message_at": "2026-04-08T00:00:00.000Z",
       "last_message_at": "2026-04-08T23:08:14.814000Z",
       "last_bot_msg_at": "2026-04-08T20:08:14.403266",
-      "tempo_sem_interacao": "3h 52min",
+      "tempo_sem_interacao": "4h 7min",
       "first_id": 20664,
       "last_id": 20676,
       "last_message_preview": "Ok obgda",
@@ -175,7 +234,7 @@
       "first_message_at": "2026-04-08T00:00:00.000Z",
       "last_message_at": "2026-04-08T22:31:29.095000Z",
       "last_bot_msg_at": "2026-04-08T19:31:28.695583",
-      "tempo_sem_interacao": "4h 29min",
+      "tempo_sem_interacao": "4h 44min",
       "first_id": 20662,
       "last_id": 20663,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1474\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -244,7 +303,7 @@
       "first_message_at": "2025-12-15T00:00:00.000Z",
       "last_message_at": "2026-04-08T17:24:47.576Z",
       "last_bot_msg_at": "2026-04-08T17:24:47.576Z",
-      "tempo_sem_interacao": "6h 36min",
+      "tempo_sem_interacao": "6h 51min",
       "first_id": 1156,
       "last_id": 20661,
       "last_message_preview": "Responde que amanhã seguimos emtao",
@@ -413,7 +472,7 @@
       "first_message_at": "2026-04-08T00:00:00.000Z",
       "last_message_at": "2026-04-08T14:59:31.295000Z",
       "last_bot_msg_at": "2026-04-08T11:59:30.799476",
-      "tempo_sem_interacao": "12h 1min",
+      "tempo_sem_interacao": "12h 16min",
       "first_id": 20655,
       "last_id": 20660,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1473\nNome: Luis Muñoz\n\nMensagem(ns) do cliente:\nAgradeco beleza na...",
@@ -499,7 +558,7 @@
       "first_message_at": "2026-04-08T00:00:00.000Z",
       "last_message_at": "2026-04-08T11:52:10.687000Z",
       "last_bot_msg_at": "2026-04-08T08:52:10.128453",
-      "tempo_sem_interacao": "15h 8min",
+      "tempo_sem_interacao": "15h 23min",
       "first_id": 20640,
       "last_id": 20654,
       "last_message_preview": "Formato de mensagem enviada nao suportado",
@@ -1601,7 +1660,7 @@
       "first_message_at": "2026-04-06T00:00:00.000Z",
       "last_message_at": "2026-04-07T03:06:40.375000Z",
       "last_bot_msg_at": "2026-04-07T00:06:39.987022",
-      "tempo_sem_interacao": "1 dia",
+      "tempo_sem_interacao": "2 dias",
       "first_id": 20560,
       "last_id": 20603,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1452\nNome: Rosane\n\nMensagem(ns) do cliente:\nFormato de mensagem en...",
@@ -19226,107 +19285,6 @@
           "role": "system",
           "content": "Perfeito Camila\n\nA Consultora Elisa vai te contatar agora para te passar algumas opções.",
           "msg_time": "2026-03-16T15:03:32.015633"
-        }
-      ]
-    },
-    {
-      "session_id": "5521983873366@s.whatsapp.net",
-      "phone": "5521983873366",
-      "phone_display": "+55 21 98387-3366",
-      "lead": {
-        "baserow_id": 1185,
-        "nome": "Filipi",
-        "email": "filipipereirasoares@gmail.com",
-        "qtd_vidas": 2,
-        "desinteresse": true,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "João",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Filipi",
-        "email": "filipipereirasoares@gmail.com",
-        "telefone": "+55 21 98387-3366",
-        "vidas": [
-          {
-            "idade": 44
-          },
-          {
-            "idade": 1
-          }
-        ],
-        "cidade": "Maricá / RJ",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "João",
-        "obs_crm": "",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Filipi\n📧 E-mail: filipipereirasoares@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98387-3366\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nFilipi — 44 anos\nDependente 1 — 1 anos\n\n📋 Dados contratuais:\n\nCidade: Maricá / RJ\nContratação: CNPJ\n👤 Consultor: João\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "desinteresse",
-      "bot": "preto",
-      "consultor": "João",
-      "message_count": 9,
-      "first_message_at": "2026-03-16T00:00:00.000Z",
-      "last_message_at": "2026-03-16T18:02:16.159000Z",
-      "last_bot_msg_at": "2026-03-16T15:02:15.641617",
-      "tempo_sem_interacao": "23 dias",
-      "first_id": 18929,
-      "last_id": 18988,
-      "last_message_preview": "Dados do lead no sistema:\nNome: Filipi\n\nMensagem(ns) do cliente:\nNo trabalho...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados Fornecidos\nNome: Jeep\nContem CNPJ: não\nNumero de Vidas: 4_vidas\nOperadora de Interesse: não informado\nRegião: Não Informado\nPropaganda:\n",
-          "msg_time": "2026-03-16T14:51:46.795704"
-        },
-        {
-          "role": "ai",
-          "content": "Oi Jeep, eu sou o Gilberto da GW9 Saúde. Você pediu o nosso contato para saber mais sobre Plano de Saúde e ficou interessado em atender 4 pessoas. Para te ajudar e ser mais assertivo, preciso confirmar mais algumas informações. Tudo bem?",
-          "msg_time": "2026-03-16T14:51:46.79817"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Filipi\n\nMensagem(ns) do cliente:\nDesculpe meu nome e Filipi Soares\n\nTenho interesse\n\nEm plano para 4 pessoas...\n\nEstou fazendo consulta de preços",
-          "msg_time": "2026-03-16T15:01:00.414025"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Filipi! Vamos lá, para que eu possa te ajudar da melhor maneira com as informações sobre planos para 4 pessoas, por favor, me informe:\n\n1️⃣ A cidade onde você busca atendimento? Se tiver algum hospital ou médica que faça questão de ter na rede, isso também ajuda bastante.\n\n2️⃣ Como o plano será contratado? Será como pessoa física (CPF)?\n\n3️⃣ Atualmente, vocês possuem algum plano de saúde? Se sim, qual? \n\nPode responder por áudio 🎙️ se preferir.",
-          "msg_time": "2026-03-16T15:01:00.423473"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Filipi\n\nMensagem(ns) do cliente:\n2 adultos 44 anos\n1 criança de 10 e outra de 9.\n\nMaricá e Saquarema\n\nSim\n\nUnined\n\nSim pessoa física\n\nUnimed",
-          "msg_time": "2026-03-16T15:01:55.924478"
-        },
-        {
-          "role": "ai",
-          "content": "Perfeito, Filipi! Para resumir, temos:\n\n- 4 vidas: 2 adultos (44 anos), 1 criança (10 anos) e 1 criança (9 anos).\n- Região de atendimento: Maricá e Saquarema.\n- Atualmente, vocês têm plano com a Unimed e serão cadastrados como pessoa física.\n\nAgora, só para fechar, você tem algum hospital ou médico específico que gostaria de ter na rede? Depois disso, podemos seguir para o próximo passo!",
-          "msg_time": "2026-03-16T15:01:55.926733"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Filipi\n\nMensagem(ns) do cliente:\nNo trabalho...",
-          "msg_time": "2026-03-16T15:02:15.638132"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Filipi! Se você estiver ocupado, posso retornar em outro momento. Qual seria o melhor horário para eu te contactar novamente?",
-          "msg_time": "2026-03-16T15:02:15.641617"
-        },
-        {
-          "role": "system",
-          "content": "Sim\n\nNão\n\nPode escrever\n\nSem problemas\n\nFilipi\n\nO João vai te contatar agora para te passar algumas opções.",
-          "msg_time": "2026-03-16T15:02:59.843135"
         }
       ]
     }
