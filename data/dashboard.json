@@ -1,17 +1,76 @@
 {
   "meta": {
-    "generated_at": "2026-04-09T02:15:48.190Z",
+    "generated_at": "2026-04-09T02:30:48.650Z",
     "total_conversations": 200,
-    "total_messages": 3261,
+    "total_messages": 3240,
     "stats": {
       "quente": 0,
       "morno": 7,
-      "frio": 29,
-      "desinteresse": 164,
+      "frio": 30,
+      "desinteresse": 163,
       "sem_classificacao": 0
     }
   },
   "conversations": [
+    {
+      "session_id": "5521995607403@s.whatsapp.net",
+      "phone": "5521995607403",
+      "phone_display": "+55 21 99560-7403",
+      "lead": {
+        "baserow_id": 1477,
+        "nome": "Santos",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "observacoes": "Santos",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Santos",
+        "email": "",
+        "telefone": "+55 21 99560-7403",
+        "vidas": [],
+        "cidade": "",
+        "contratacao": "",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "Amil",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "Santos",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Santos\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99560-7403\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Santos\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "frio",
+      "bot": "preto",
+      "consultor": "",
+      "message_count": 2,
+      "first_message_at": "2026-04-08T00:00:00.000Z",
+      "last_message_at": "2026-04-09T02:28:50.700000Z",
+      "last_bot_msg_at": "2026-04-08T23:28:50.2742",
+      "tempo_sem_interacao": "3h 1min",
+      "first_id": 20679,
+      "last_id": 20680,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1477\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1477\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Amil",
+          "msg_time": "2026-04-08T23:28:50.268862"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-04-08T23:28:50.2742"
+        }
+      ]
+    },
     {
       "session_id": "5521979563508@s.whatsapp.net",
       "phone": "5521979563508",
@@ -54,7 +113,7 @@
       "first_message_at": "2026-04-08T00:00:00.000Z",
       "last_message_at": "2026-04-09T00:14:15.534000Z",
       "last_bot_msg_at": "2026-04-08T21:14:14.996197",
-      "tempo_sem_interacao": "5h 1min",
+      "tempo_sem_interacao": "5h 16min",
       "first_id": 20677,
       "last_id": 20678,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1476\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -120,7 +179,7 @@
       "first_message_at": "2026-04-08T00:00:00.000Z",
       "last_message_at": "2026-04-08T23:08:14.814000Z",
       "last_bot_msg_at": "2026-04-08T20:08:14.403266",
-      "tempo_sem_interacao": "6h 7min",
+      "tempo_sem_interacao": "6h 22min",
       "first_id": 20664,
       "last_id": 20676,
       "last_message_preview": "Ok obgda",
@@ -234,7 +293,7 @@
       "first_message_at": "2026-04-08T00:00:00.000Z",
       "last_message_at": "2026-04-08T22:31:29.095000Z",
       "last_bot_msg_at": "2026-04-08T19:31:28.695583",
-      "tempo_sem_interacao": "6h 44min",
+      "tempo_sem_interacao": "6h 59min",
       "first_id": 20662,
       "last_id": 20663,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1474\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -303,7 +362,7 @@
       "first_message_at": "2025-12-15T00:00:00.000Z",
       "last_message_at": "2026-04-08T17:24:47.576Z",
       "last_bot_msg_at": "2026-04-08T17:24:47.576Z",
-      "tempo_sem_interacao": "8h 51min",
+      "tempo_sem_interacao": "9h 6min",
       "first_id": 1156,
       "last_id": 20661,
       "last_message_preview": "Responde que amanhã seguimos emtao",
@@ -472,7 +531,7 @@
       "first_message_at": "2026-04-08T00:00:00.000Z",
       "last_message_at": "2026-04-08T14:59:31.295000Z",
       "last_bot_msg_at": "2026-04-08T11:59:30.799476",
-      "tempo_sem_interacao": "14h 16min",
+      "tempo_sem_interacao": "14h 31min",
       "first_id": 20655,
       "last_id": 20660,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1473\nNome: Luis Muñoz\n\nMensagem(ns) do cliente:\nAgradeco beleza na...",
@@ -558,7 +617,7 @@
       "first_message_at": "2026-04-08T00:00:00.000Z",
       "last_message_at": "2026-04-08T11:52:10.687000Z",
       "last_bot_msg_at": "2026-04-08T08:52:10.128453",
-      "tempo_sem_interacao": "17h 23min",
+      "tempo_sem_interacao": "17h 38min",
       "first_id": 20640,
       "last_id": 20654,
       "last_message_preview": "Formato de mensagem enviada nao suportado",
@@ -19121,170 +19180,6 @@
           "role": "system",
           "content": "Tanio\n\nBoa tarde!\nDesculpe a demora a consultora Isis vai lhe chamar para te passar algumas opções.",
           "msg_time": "2026-03-16T15:08:58.419368"
-        }
-      ]
-    },
-    {
-      "session_id": "5521991151574@s.whatsapp.net",
-      "phone": "5521991151574",
-      "phone_display": "+55 21 99115-1574",
-      "lead": {
-        "baserow_id": 1184,
-        "nome": "Camila",
-        "email": "cammilacarvalho@yahoo.com.br",
-        "qtd_vidas": "",
-        "desinteresse": true,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "Elisa",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Camila",
-        "email": "cammilacarvalho@yahoo.com.br",
-        "telefone": "+55 21 99115-1574",
-        "vidas": [],
-        "cidade": "São Gonçalo / RJ",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "Encerramento do plano atual\nIncluir novas vidas",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "Elisa",
-        "obs_crm": "",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Camila\n📧 E-mail: cammilacarvalho@yahoo.com.br\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99115-1574\n\n📋 Dados contratuais:\n\nCidade: São Gonçalo / RJ\nContratação: CNPJ\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\nIncluir novas vidas\n👤 Consultor: Elisa\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "desinteresse",
-      "bot": "preto",
-      "consultor": "Elisa",
-      "message_count": 23,
-      "first_message_at": "2026-03-16T00:00:00.000Z",
-      "last_message_at": "2026-03-16T18:03:06.935000Z",
-      "last_bot_msg_at": "2026-03-16T15:03:06.433499",
-      "tempo_sem_interacao": "23 dias",
-      "first_id": 18925,
-      "last_id": 18991,
-      "last_message_preview": "Dados do lead no sistema:\nNome: Camila\n\nMensagem(ns) do cliente:\nObrigada\n\nSkm\n\nSim",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados Fornecidos\nNome: Camila\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não informado\nRegião: Não Informado\nPropaganda:\n",
-          "msg_time": "2026-03-16T14:50:26.681982"
-        },
-        {
-          "role": "ai",
-          "content": "Oi Camila, eu sou o Gilberto da GW9 Saúde. Você pediu o nosso contato para saber mais sobre Plano de Saúde e mencionou que tem interesse para 3 pessoas e que já possui um CNPJ. Pra te ajudar e ser mais assertivo, preciso confirmar mais algumas informações. Tudo bem?",
-          "msg_time": "2026-03-16T14:50:26.68651"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Camila\n\nMensagem(ns) do cliente:\nOk",
-          "msg_time": "2026-03-16T14:51:07.695375"
-        },
-        {
-          "role": "ai",
-          "content": "Ótimo, Camila! 😊 \n\nPara prosseguir, preciso saber:\n\n1️⃣ Qual a cidade e estado onde o plano será utilizado? Se tiver algum hospital ou clínica de preferência, isso nos ajuda muito.\n\n2️⃣ Poderia me informar o número do seu CNPJ? Alguns planos oferecem precificação melhor ao informar essa informação.\n\nPor favor, sinta-se à vontade para responder por áudio 🎙️, se preferir!",
-          "msg_time": "2026-03-16T14:51:07.697535"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Camila\n\nMensagem(ns) do cliente:\nSão Gonçalo RJ",
-          "msg_time": "2026-03-16T14:55:05.808766"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Camila! São Gonçalo, RJ, é uma ótima região. \n\nAgora, só falta saber o número do seu CNPJ, por favor. Isso ajudará a encontrar planos que podem oferecer descontos ou melhor precificação. 😊 Aguardo sua resposta!",
-          "msg_time": "2026-03-16T14:55:05.815772"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Camila\n\nMensagem(ns) do cliente:\nN tenho agora",
-          "msg_time": "2026-03-16T14:55:32.984078"
-        },
-        {
-          "role": "ai",
-          "content": "Sem problema, Camila! Se não souber o número do CNPJ agora, posso seguir em frente.\n\nVocê mencionou que são 3 vidas. Para finalizar a qualificação, preciso dos dados de idade de todos que entrarão no plano. Poderia me informar as idades, por favor?",
-          "msg_time": "2026-03-16T14:55:32.986497"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Camila\n\nMensagem(ns) do cliente:\nEstou pesquisando para passar para meu marido\n\nO CNPJ é dele",
-          "msg_time": "2026-03-16T14:55:58.870206"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Camila! Então, o CNPJ é do seu marido, certo? Isso é importante para a contratação. \n\nAgora, só preciso das idades de vocês dois. Poderia me informar quantos anos cada um tem? Assim, poderemos avançar para as melhores opções. 😊",
-          "msg_time": "2026-03-16T14:55:58.872681"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Camila\n\nMensagem(ns) do cliente:\n51 a completar uma adolescente de 17 anos e uma jovem de 13 anos",
-          "msg_time": "2026-03-16T14:59:15.397945"
-        },
-        {
-          "role": "ai",
-          "content": "Perfeito, Camila! Então, temos:\n\n- Você: 51 anos\n- Adolescente: 17 anos\n- Jovem: 13 anos\n\nSó para confirmar, você está buscando um plano de saúde para 3 vidas em São Gonçalo, RJ, com CNPJ do seu marido, correto? \n\nSe tudo estiver certo, vou registrar as informações e encaminhar para o consultor! 😊",
-          "msg_time": "2026-03-16T14:59:15.402389"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Camila\n\nMensagem(ns) do cliente:\nNa vdd é meu marido de 51\n\nSeria só eles\n\nEu n vou fazer",
-          "msg_time": "2026-03-16T15:00:41.765058"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Camila! Então, o plano de saúde será para seu marido (51 anos) e para as duas filhas (17 e 13 anos), correto? \n\nSe você não vai fazer o plano, posso registrar isso agora e já encaminhar as informações para um consultor que poderá ajudar. Está certo?",
-          "msg_time": "2026-03-16T15:00:41.766976"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Camila\n\nMensagem(ns) do cliente:\nNa vdd é meu marido de 51\n\nSeria só eles\n\nEu n vou fazer",
-          "msg_time": "2026-03-16T15:00:41.999483"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Camila! Então, vamos considerar as idades do seu marido de 51 anos, da adolescente de 17 anos e da jovem de 13 anos. \n\nPara finalizar, só preciso confirmar que você não vai fazer o plano, correto? Assim que você confirmar, vou registrar as informações.",
-          "msg_time": "2026-03-16T15:00:42.001409"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Camila\n\nMensagem(ns) do cliente:\nOk certo",
-          "msg_time": "2026-03-16T15:01:38.890182"
-        },
-        {
-          "role": "ai",
-          "content": "Camila, obrigado por compartilhar as informações! \n\nO consultor já recebeu tudo sobre o plano para 3 vidas em São Gonçalo, RJ, e vai entrar em contato com você aqui no WhatsApp. Fico à disposição para qualquer coisa que precisar. Obrigado!",
-          "msg_time": "2026-03-16T15:01:38.893575"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Camila\n\nMensagem(ns) do cliente:\nEstou pesquisando para fazer o planos para essas 3 vidas q mensionei",
-          "msg_time": "2026-03-16T15:02:07.582358"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Camila! Então, você está pesquisando para fazer o plano de saúde para seu marido e suas duas filhas, certo?\n\nVou registrar essas informações e então encaminhar para o consultor para que ele possa ajudar vocês com as melhores opções. 😊 \n\nSó para confirmar, o plano será para 3 vidas em São Gonçalo, RJ. Tudo certo?",
-          "msg_time": "2026-03-16T15:02:07.584265"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Camila\n\nMensagem(ns) do cliente:\nObrigada\n\nSkm\n\nSim",
-          "msg_time": "2026-03-16T15:03:06.431037"
-        },
-        {
-          "role": "ai",
-          "content": "Camila, obrigado pela confirmação! \n\nVou registrar suas informações e encaminhar para o consultor agora. Um momento, por favor!  😊",
-          "msg_time": "2026-03-16T15:03:06.433499"
-        },
-        {
-          "role": "system",
-          "content": "Perfeito Camila\n\nA Consultora Elisa vai te contatar agora para te passar algumas opções.",
-          "msg_time": "2026-03-16T15:03:32.015633"
         }
       ]
     }
