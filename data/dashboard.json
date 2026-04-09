@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_at": "2026-04-09T22:00:49.930Z",
+    "generated_at": "2026-04-09T22:15:49.220Z",
     "total_conversations": 200,
-    "total_messages": 3225,
+    "total_messages": 3234,
     "stats": {
       "quente": 1,
       "morno": 7,
@@ -12,6 +12,105 @@
     }
   },
   "conversations": [
+    {
+      "session_id": "5521993177114@s.whatsapp.net",
+      "phone": "5521993177114",
+      "phone_display": "+55 21 99317-7114",
+      "lead": {
+        "baserow_id": 1482,
+        "nome": "Dany Barbosa",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": true,
+        "observacoes": "Dany Barbosa",
+        "reagendamento": null,
+        "corretor": "Elisa",
+        "temperatura": "Quente"
+      },
+      "summary": {
+        "nome": "Dany Barbosa",
+        "email": "",
+        "telefone": "+55 21 99317-7114",
+        "vidas": [],
+        "cidade": "Rio de Janeiro / RJ",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "MEI",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "Encerramento do plano atual",
+        "interesse": "Barra D'or",
+        "rede_preferencial": "Barra D'Or",
+        "contato": "WhatsApp",
+        "consultor": "Elisa",
+        "obs_crm": "Dany Barbosa",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Dany Barbosa\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99317-7114\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n🎯 Rede preferencial: Barra D'Or\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\n\n🎯 Interesse: Barra D'or\n\n⚠️ Observação: Dany Barbosa\n👤 Consultor: Elisa\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "desinteresse",
+      "bot": "preto",
+      "consultor": "Elisa",
+      "message_count": 10,
+      "first_message_at": "2026-04-09T00:00:00.000Z",
+      "last_message_at": "2026-04-09T22:12:03.489000Z",
+      "last_bot_msg_at": "2026-04-09T19:12:01.092752",
+      "tempo_sem_interacao": "3h 3min",
+      "first_id": 20722,
+      "last_id": 20731,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1482\nNome: Dany Barbosa\n\nMensagem(ns) do cliente:\nNão tenho",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1482\nNome: \n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação de um plano de saúde Barra D'or",
+          "msg_time": "2026-04-09T19:08:33.981895"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-04-09T19:08:33.98677"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1482\nNome: Dany Barbosa\n\nMensagem(ns) do cliente:\nDaniele \nSeria pra mim",
+          "msg_time": "2026-04-09T19:09:41.425163"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Daniele! Então é para você, certo? Agora, preciso saber a sua idade e qual a cidade onde você busca atendimento. Isso nos ajudará a encontrar as melhores opções para você.",
+          "msg_time": "2026-04-09T19:09:41.426991"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1482\nNome: Dany Barbosa\n\nMensagem(ns) do cliente:\n29 anos , guase 30 \nRio de Janeiro Campo Grande",
+          "msg_time": "2026-04-09T19:10:32.089498"
+        },
+        {
+          "role": "ai",
+          "content": "Ótimo, Daniele! Você tem 29 anos e busca atendimento em Campo Grande, Rio de Janeiro. Agora, como o plano será contratado: será empresarial por CNPJ (MEI ou LTDA) ou é pessoa física (CPF)?",
+          "msg_time": "2026-04-09T19:10:32.092022"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1482\nNome: Dany Barbosa\n\nMensagem(ns) do cliente:\nCPF",
+          "msg_time": "2026-04-09T19:11:07.156751"
+        },
+        {
+          "role": "ai",
+          "content": "Obrigado, Daniele! Para finalizar, você já possui plano de saúde atualmente? Se sim, qual e quanto paga hoje? Isso nos ajudará a encontrar o melhor equilíbrio entre custo e acesso para você.",
+          "msg_time": "2026-04-09T19:11:07.180973"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1482\nNome: Dany Barbosa\n\nMensagem(ns) do cliente:\nNão tenho",
+          "msg_time": "2026-04-09T19:12:01.088406"
+        },
+        {
+          "role": "ai",
+          "content": "Daniele, obrigada por todas as informações! Vou encaminhar seu contato para o Elisa, nosso especialista, que vai te apresentar as melhores opções de plano para você em Campo Grande. Ele vai te chamar aqui no WhatsApp em breve.",
+          "msg_time": "2026-04-09T19:12:01.092752"
+        }
+      ]
+    },
     {
       "session_id": "5521964945134@s.whatsapp.net",
       "phone": "5521964945134",
@@ -54,7 +153,7 @@
       "first_message_at": "2026-04-09T00:00:00.000Z",
       "last_message_at": "2026-04-09T18:24:14.572000Z",
       "last_bot_msg_at": "2026-04-09T15:24:14.017144",
-      "tempo_sem_interacao": "6h 36min",
+      "tempo_sem_interacao": "6h 51min",
       "first_id": 20705,
       "last_id": 20721,
       "last_message_preview": "Tem como fazer portabilidade de um plano para outro",
@@ -188,7 +287,7 @@
       "first_message_at": "2026-04-09T00:00:00.000Z",
       "last_message_at": "2026-04-09T16:09:52.827000Z",
       "last_bot_msg_at": "2026-04-09T13:09:52.37527",
-      "tempo_sem_interacao": "8h 50min",
+      "tempo_sem_interacao": "9h 5min",
       "first_id": 20701,
       "last_id": 20704,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1480\nNome: \n\nMensagem(ns) do cliente:\nPra uma pessoa só\n\nLetícia",
@@ -267,7 +366,7 @@
       "first_message_at": "2026-04-09T00:00:00.000Z",
       "last_message_at": "2026-04-09T10:51:45.905000Z",
       "last_bot_msg_at": "2026-04-09T07:51:44.99565",
-      "tempo_sem_interacao": "14h 9min",
+      "tempo_sem_interacao": "14h 24min",
       "first_id": 20695,
       "last_id": 20700,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1479\nNome: Maria Aparecida\n\nMensagem(ns) do cliente:\n67 11 e 7",
@@ -346,7 +445,7 @@
       "first_message_at": "2026-04-09T00:00:00.000Z",
       "last_message_at": "2026-04-09T09:08:26.697000Z",
       "last_bot_msg_at": "2026-04-09T06:08:26.35598",
-      "tempo_sem_interacao": "15h 52min",
+      "tempo_sem_interacao": "16h 7min",
       "first_id": 20681,
       "last_id": 20694,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1478\nNome: \n\nMensagem(ns) do cliente:\n65.546.345/0001-90",
@@ -465,7 +564,7 @@
       "first_message_at": "2026-04-08T00:00:00.000Z",
       "last_message_at": "2026-04-09T02:28:50.700000Z",
       "last_bot_msg_at": "2026-04-08T23:28:50.2742",
-      "tempo_sem_interacao": "22h 31min",
+      "tempo_sem_interacao": "22h 46min",
       "first_id": 20679,
       "last_id": 20680,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1477\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -9701,7 +9800,7 @@
       "first_message_at": "2026-03-21T00:00:00.000Z",
       "last_message_at": "2026-03-22T01:10:16.389000Z",
       "last_bot_msg_at": "2026-03-21T22:10:14.978449",
-      "tempo_sem_interacao": "18 dias",
+      "tempo_sem_interacao": "19 dias",
       "first_id": 19736,
       "last_id": 19946,
       "last_message_preview": "Estou fazendo uma avaliação de valores 😉",
@@ -19054,60 +19153,6 @@
           "role": "system",
           "content": "Fabio \nDesculpe somente trabalhamos com plano para empresas. \nSucesso na sua busca",
           "msg_time": "2026-03-16T16:26:41.533368"
-        }
-      ]
-    },
-    {
-      "session_id": "5521994367698@s.whatsapp.net",
-      "phone": "5521994367698",
-      "phone_display": "+55 21 99436-7698",
-      "lead": {
-        "baserow_id": 1222,
-        "nome": "Fernando",
-        "email": "",
-        "qtd_vidas": "",
-        "desinteresse": true,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Fernando",
-        "email": "",
-        "telefone": "+55 21 99436-7698",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "",
-        "bot": "Não identificado",
-        "formatted": "👤 Cliente: Fernando\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99436-7698\n\n📋 Dados contratuais:\n\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Não identificado"
-      },
-      "status": "desinteresse",
-      "bot": "desconhecido",
-      "consultor": "",
-      "message_count": 1,
-      "first_message_at": "2026-03-16T00:00:00.000Z",
-      "last_message_at": "2026-03-16T19:16:19.952Z",
-      "last_bot_msg_at": "2026-03-16T19:16:19.952Z",
-      "tempo_sem_interacao": "24 dias",
-      "first_id": 19028,
-      "last_id": 19028,
-      "last_message_preview": "",
-      "messages": [
-        {
-          "role": "system",
-          "content": "Oi nao obrigado ja resolvi ok\n\no\n\nok",
-          "msg_time": "2026-03-16T16:16:19.952547"
         }
       ]
     }
