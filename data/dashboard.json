@@ -1,12 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-09T10:30:48.949Z",
+    "generated_at": "2026-04-09T10:45:48.455Z",
     "total_conversations": 200,
-    "total_messages": 3229,
+    "total_messages": 3231,
     "stats": {
       "quente": 0,
-      "morno": 8,
-      "frio": 31,
+      "morno": 9,
+      "frio": 30,
       "desinteresse": 161,
       "sem_classificacao": 0
     }
@@ -45,19 +45,19 @@
         "consultor": "",
         "obs_crm": "Maria Aparecida",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Maria Aparecida\n📱 Contato: WhatsApp\n📞 Telefone: +55 12 99114-4656\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Maria Aparecida\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Maria Aparecida\n📱 Contato: WhatsApp\n📞 Telefone: +55 12 99114-4656\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Maria Aparecida\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
       },
-      "status": "frio",
+      "status": "morno",
       "bot": "preto",
       "consultor": "",
-      "message_count": 2,
+      "message_count": 4,
       "first_message_at": "2026-04-09T00:00:00.000Z",
-      "last_message_at": "2026-04-09T09:22:00.890000Z",
-      "last_bot_msg_at": "2026-04-09T06:22:00.325256",
-      "tempo_sem_interacao": "4h 8min",
+      "last_message_at": "2026-04-09T10:35:10.991000Z",
+      "last_bot_msg_at": "2026-04-09T07:35:05.817439",
+      "tempo_sem_interacao": "3h 10min",
       "first_id": 20695,
-      "last_id": 20696,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1479\nNome: Maria Aparecida\n\nMensagem(ns) do cliente:\nOlá Gostaria ...",
+      "last_id": 20698,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1479\nNome: Maria Aparecida\n\nMensagem(ns) do cliente:\n3\n\nPessoas",
       "messages": [
         {
           "role": "user",
@@ -68,6 +68,16 @@
           "role": "ai",
           "content": "Olá, Maria Aparecida! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Ok? Seriam para quantas pessoas e quais as idades?",
           "msg_time": "2026-04-09T06:22:00.325256"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1479\nNome: Maria Aparecida\n\nMensagem(ns) do cliente:\n3\n\nPessoas",
+          "msg_time": "2026-04-09T07:35:05.810454"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Maria Aparecida! Agora, só para eu completar, quais são as idades das 3 pessoas que precisam do plano de saúde?",
+          "msg_time": "2026-04-09T07:35:05.817439"
         }
       ]
     },
@@ -113,7 +123,7 @@
       "first_message_at": "2026-04-09T00:00:00.000Z",
       "last_message_at": "2026-04-09T09:08:26.697000Z",
       "last_bot_msg_at": "2026-04-09T06:08:26.35598",
-      "tempo_sem_interacao": "4h 22min",
+      "tempo_sem_interacao": "4h 37min",
       "first_id": 20681,
       "last_id": 20694,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1478\nNome: \n\nMensagem(ns) do cliente:\n65.546.345/0001-90",
@@ -232,7 +242,7 @@
       "first_message_at": "2026-04-08T00:00:00.000Z",
       "last_message_at": "2026-04-09T02:28:50.700000Z",
       "last_bot_msg_at": "2026-04-08T23:28:50.2742",
-      "tempo_sem_interacao": "11h 1min",
+      "tempo_sem_interacao": "11h 16min",
       "first_id": 20679,
       "last_id": 20680,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1477\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -291,7 +301,7 @@
       "first_message_at": "2026-04-08T00:00:00.000Z",
       "last_message_at": "2026-04-09T00:14:15.534000Z",
       "last_bot_msg_at": "2026-04-08T21:14:14.996197",
-      "tempo_sem_interacao": "13h 16min",
+      "tempo_sem_interacao": "13h 31min",
       "first_id": 20677,
       "last_id": 20678,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1476\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -357,7 +367,7 @@
       "first_message_at": "2026-04-08T00:00:00.000Z",
       "last_message_at": "2026-04-08T23:08:14.814000Z",
       "last_bot_msg_at": "2026-04-08T20:08:14.403266",
-      "tempo_sem_interacao": "14h 22min",
+      "tempo_sem_interacao": "14h 37min",
       "first_id": 20664,
       "last_id": 20676,
       "last_message_preview": "Ok obgda",
@@ -471,7 +481,7 @@
       "first_message_at": "2026-04-08T00:00:00.000Z",
       "last_message_at": "2026-04-08T22:31:29.095000Z",
       "last_bot_msg_at": "2026-04-08T19:31:28.695583",
-      "tempo_sem_interacao": "14h 59min",
+      "tempo_sem_interacao": "15h 14min",
       "first_id": 20662,
       "last_id": 20663,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1474\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -540,7 +550,7 @@
       "first_message_at": "2025-12-15T00:00:00.000Z",
       "last_message_at": "2026-04-08T17:24:47.576Z",
       "last_bot_msg_at": "2026-04-08T17:24:47.576Z",
-      "tempo_sem_interacao": "17h 6min",
+      "tempo_sem_interacao": "17h 21min",
       "first_id": 1156,
       "last_id": 20661,
       "last_message_preview": "Responde que amanhã seguimos emtao",
@@ -709,7 +719,7 @@
       "first_message_at": "2026-04-08T00:00:00.000Z",
       "last_message_at": "2026-04-08T14:59:31.295000Z",
       "last_bot_msg_at": "2026-04-08T11:59:30.799476",
-      "tempo_sem_interacao": "22h 31min",
+      "tempo_sem_interacao": "22h 46min",
       "first_id": 20655,
       "last_id": 20660,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1473\nNome: Luis Muñoz\n\nMensagem(ns) do cliente:\nAgradeco beleza na...",
@@ -5953,7 +5963,7 @@
       "first_message_at": "2026-03-25T00:00:00.000Z",
       "last_message_at": "2026-03-25T13:36:58Z",
       "last_bot_msg_at": "2026-03-25T10:36:53.026748",
-      "tempo_sem_interacao": "14 dias",
+      "tempo_sem_interacao": "15 dias",
       "first_id": 20340,
       "last_id": 20341,
       "last_message_preview": "Dados Fornecidos\nNome: Vanda\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o infor...",
