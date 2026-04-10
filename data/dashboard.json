@@ -1,17 +1,1046 @@
 {
   "meta": {
-    "generated_at": "2026-04-10T00:00:52.536Z",
+    "generated_at": "2026-04-10T00:15:50.607Z",
     "total_conversations": 200,
-    "total_messages": 3241,
+    "total_messages": 3258,
     "stats": {
       "quente": 1,
-      "morno": 8,
-      "frio": 12,
-      "desinteresse": 179,
+      "morno": 11,
+      "frio": 25,
+      "desinteresse": 163,
       "sem_classificacao": 0
     }
   },
   "conversations": [
+    {
+      "session_id": "5521979563508@s.whatsapp.net",
+      "phone": "5521979563508",
+      "phone_display": "+55 21 97956-3508",
+      "lead": {
+        "baserow_id": 1476,
+        "nome": "Mario Jorge",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "observacoes": "Mario Jorge",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Mario Jorge",
+        "email": "",
+        "telefone": "+55 21 97956-3508",
+        "vidas": [],
+        "cidade": "",
+        "contratacao": "",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "Amil",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "Mario Jorge",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Mario Jorge\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97956-3508\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Mario Jorge\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "morno",
+      "bot": "preto",
+      "consultor": "",
+      "message_count": 3,
+      "first_message_at": "2026-04-08T00:00:00.000Z",
+      "last_message_at": "2026-04-09T00:14:15.534000Z",
+      "last_bot_msg_at": "2026-04-09T21:06:47.473044",
+      "tempo_sem_interacao": "3h 9min",
+      "first_id": 20677,
+      "last_id": 20755,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1476\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1476\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Amil",
+          "msg_time": "2026-04-08T21:14:14.99266"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-04-08T21:14:14.996197"
+        },
+        {
+          "role": "ai",
+          "content": "{\"data\": {\"content\": \"Oi Mario Jorge!\\nSua mao nao vai cair se voce me responder rs\\n\\nVoce solicitou o nosso contato, clicou no anuncio, preencheu o formulario com seus dados... mas depois nao conseguimos falar. Queria entender: ainda faz sentido pra voce ter um plano de saude ou isso deixou de ser prioridade agora.\\n\\nPode ser so com o numero mesmo. Sera uma grande gentileza e voce me ajuda na minha empresa... ta cada vez mais dificil empreender nesse Brasil rs\\n\\n1 - Ja resolveu por outro caminho\\n2 - Nao e prioridade agora\\n3 - Teve alguma duvida ou condicao que nao fez sentido\"}, \"type\": \"ai\"}",
+          "msg_time": "2026-04-09T21:06:47.473044"
+        }
+      ]
+    },
+    {
+      "session_id": "5521991511593@s.whatsapp.net",
+      "phone": "5521991511593",
+      "phone_display": "+55 21 99151-1593",
+      "lead": {
+        "baserow_id": 1474,
+        "nome": "Celso Dalla Costa",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "observacoes": "Celso Dalla Costa",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Celso Dalla Costa",
+        "email": "",
+        "telefone": "+55 21 99151-1593",
+        "vidas": [],
+        "cidade": "",
+        "contratacao": "",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "Sulamérica",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "Celso Dalla Costa",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Celso Dalla Costa\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99151-1593\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: Sulamérica\n\n⚠️ Observação: Celso Dalla Costa\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "morno",
+      "bot": "preto",
+      "consultor": "",
+      "message_count": 3,
+      "first_message_at": "2026-04-08T00:00:00.000Z",
+      "last_message_at": "2026-04-08T22:31:29.095000Z",
+      "last_bot_msg_at": "2026-04-09T21:06:47.043341",
+      "tempo_sem_interacao": "3h 9min",
+      "first_id": 20662,
+      "last_id": 20754,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1474\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1474\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Sulamérica",
+          "msg_time": "2026-04-08T19:31:28.691982"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-04-08T19:31:28.695583"
+        },
+        {
+          "role": "ai",
+          "content": "{\"data\": {\"content\": \"Oi Celso!\\nSua mao nao vai cair se voce me responder rs\\n\\nVoce solicitou o nosso contato, clicou no anuncio, preencheu o formulario com seus dados... mas depois nao conseguimos falar. Queria entender: ainda faz sentido pra voce ter um plano de saude ou isso deixou de ser prioridade agora.\\n\\nPode ser so com o numero mesmo. Sera uma grande gentileza e voce me ajuda na minha empresa... ta cada vez mais dificil empreender nesse Brasil rs\\n\\n1 - Ja resolveu por outro caminho\\n2 - Nao e prioridade agora\\n3 - Teve alguma duvida ou condicao que nao fez sentido\"}, \"type\": \"ai\"}",
+          "msg_time": "2026-04-09T21:06:47.043341"
+        }
+      ]
+    },
+    {
+      "session_id": "5521966758316@s.whatsapp.net",
+      "phone": "5521966758316",
+      "phone_display": "+55 21 96675-8316",
+      "lead": {
+        "baserow_id": 1464,
+        "nome": "Adriana Carvalho",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "observacoes": "Adriana Carvalho",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Adriana Carvalho",
+        "email": "",
+        "telefone": "+55 21 96675-8316",
+        "vidas": [],
+        "cidade": "",
+        "contratacao": "",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "Amil",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "Adriana Carvalho",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Adriana Carvalho\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96675-8316\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Adriana Carvalho\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "morno",
+      "bot": "preto",
+      "consultor": "",
+      "message_count": 3,
+      "first_message_at": "2026-04-07T00:00:00.000Z",
+      "last_message_at": "2026-04-07T13:12:22.381000Z",
+      "last_bot_msg_at": "2026-04-09T21:06:46.598369",
+      "tempo_sem_interacao": "3h 9min",
+      "first_id": 20610,
+      "last_id": 20753,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1464\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1464\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Amil",
+          "msg_time": "2026-04-07T10:12:21.874684"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-04-07T10:12:21.87941"
+        },
+        {
+          "role": "ai",
+          "content": "{\"data\": {\"content\": \"Oi Adriana!\\nSua mao nao vai cair se voce me responder rs\\n\\nVoce solicitou o nosso contato, clicou no anuncio, preencheu o formulario com seus dados... mas depois nao conseguimos falar. Queria entender: ainda faz sentido pra voce ter um plano de saude ou isso deixou de ser prioridade agora.\\n\\nPode ser so com o numero mesmo. Sera uma grande gentileza e voce me ajuda na minha empresa... ta cada vez mais dificil empreender nesse Brasil rs\\n\\n1 - Ja resolveu por outro caminho\\n2 - Nao e prioridade agora\\n3 - Teve alguma duvida ou condicao que nao fez sentido\"}, \"type\": \"ai\"}",
+          "msg_time": "2026-04-09T21:06:46.598369"
+        }
+      ]
+    },
+    {
+      "session_id": "5521992465706@s.whatsapp.net",
+      "phone": "5521992465706",
+      "phone_display": "+55 21 99246-5706",
+      "lead": {
+        "baserow_id": 1461,
+        "nome": "Oziel",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "observacoes": "Registro interno: Encaminhado ao consultor.\nNome do lead: Oziel",
+        "reagendamento": null,
+        "corretor": "Elisa",
+        "temperatura": "Frio"
+      },
+      "summary": {
+        "nome": "Oziel",
+        "email": "",
+        "telefone": "+55 21 99246-5706",
+        "vidas": [],
+        "cidade": "",
+        "contratacao": "",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "Elisa",
+        "obs_crm": "Registro interno: Encaminhado ao consultor.\nNome do lead: Oziel",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Oziel\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99246-5706\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Oziel\n👤 Consultor: Elisa\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "frio",
+      "bot": "preto",
+      "consultor": "Elisa",
+      "message_count": 3,
+      "first_message_at": "2026-04-06T00:00:00.000Z",
+      "last_message_at": "2026-04-06T22:31:00.490000Z",
+      "last_bot_msg_at": "2026-04-09T21:06:46.180796",
+      "tempo_sem_interacao": "3h 9min",
+      "first_id": 20580,
+      "last_id": 20752,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1461\nNome: \n\nMensagem(ns) do cliente:\n.",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1461\nNome: \n\nMensagem(ns) do cliente:\n.",
+          "msg_time": "2026-04-06T19:30:59.975887"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-04-06T19:30:59.978529"
+        },
+        {
+          "role": "ai",
+          "content": "{\"data\": {\"content\": \"Oi Oziel!\\nSua mao nao vai cair se voce me responder rs\\n\\nVoce solicitou o nosso contato, clicou no anuncio, preencheu o formulario com seus dados... mas depois nao conseguimos falar. Queria entender: ainda faz sentido pra voce ter um plano de saude ou isso deixou de ser prioridade agora.\\n\\nPode ser so com o numero mesmo. Sera uma grande gentileza e voce me ajuda na minha empresa... ta cada vez mais dificil empreender nesse Brasil rs\\n\\n1 - Ja resolveu por outro caminho\\n2 - Nao e prioridade agora\\n3 - Teve alguma duvida ou condicao que nao fez sentido\"}, \"type\": \"ai\"}",
+          "msg_time": "2026-04-09T21:06:46.180796"
+        }
+      ]
+    },
+    {
+      "session_id": "5521979326265@s.whatsapp.net",
+      "phone": "5521979326265",
+      "phone_display": "+55 21 97932-6265",
+      "lead": {
+        "baserow_id": 1460,
+        "nome": "Raphael",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "observacoes": "Registro interno: Consultor iniciou contato.\nNome do lead: Raphael",
+        "reagendamento": null,
+        "corretor": "João",
+        "temperatura": "Frio"
+      },
+      "summary": {
+        "nome": "Raphael",
+        "email": "",
+        "telefone": "+55 21 97932-6265",
+        "vidas": [],
+        "cidade": "",
+        "contratacao": "",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "João",
+        "obs_crm": "Registro interno: Consultor iniciou contato.\nNome do lead: Raphael",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Raphael\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97932-6265\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Registro interno: Consultor iniciou contato.\nNome do lead: Raphael\n👤 Consultor: João\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "frio",
+      "bot": "preto",
+      "consultor": "João",
+      "message_count": 3,
+      "first_message_at": "2026-04-06T00:00:00.000Z",
+      "last_message_at": "2026-04-06T22:30:55.290000Z",
+      "last_bot_msg_at": "2026-04-09T21:06:45.745652",
+      "tempo_sem_interacao": "3h 9min",
+      "first_id": 20578,
+      "last_id": 20751,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1460\nNome: \n\nMensagem(ns) do cliente:\n.",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1460\nNome: \n\nMensagem(ns) do cliente:\n.",
+          "msg_time": "2026-04-06T19:30:54.740709"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-04-06T19:30:54.75034"
+        },
+        {
+          "role": "ai",
+          "content": "{\"data\": {\"content\": \"Oi Raphael!\\nSua mao nao vai cair se voce me responder rs\\n\\nVoce solicitou o nosso contato, clicou no anuncio, preencheu o formulario com seus dados... mas depois nao conseguimos falar. Queria entender: ainda faz sentido pra voce ter um plano de saude ou isso deixou de ser prioridade agora.\\n\\nPode ser so com o numero mesmo. Sera uma grande gentileza e voce me ajuda na minha empresa... ta cada vez mais dificil empreender nesse Brasil rs\\n\\n1 - Ja resolveu por outro caminho\\n2 - Nao e prioridade agora\\n3 - Teve alguma duvida ou condicao que nao fez sentido\"}, \"type\": \"ai\"}",
+          "msg_time": "2026-04-09T21:06:45.745652"
+        }
+      ]
+    },
+    {
+      "session_id": "5521982794672@s.whatsapp.net",
+      "phone": "5521982794672",
+      "phone_display": "+55 21 98279-4672",
+      "lead": {
+        "baserow_id": 1459,
+        "nome": "Diogo",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "observacoes": "Registro interno: Encaminhado ao consultor.\nNome do lead: Diogo",
+        "reagendamento": null,
+        "corretor": "Isis",
+        "temperatura": "Frio"
+      },
+      "summary": {
+        "nome": "Diogo",
+        "email": "",
+        "telefone": "+55 21 98279-4672",
+        "vidas": [],
+        "cidade": "",
+        "contratacao": "",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "Isis",
+        "obs_crm": "Registro interno: Encaminhado ao consultor.\nNome do lead: Diogo",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Diogo\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98279-4672\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Diogo\n👤 Consultor: Isis\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "frio",
+      "bot": "preto",
+      "consultor": "Isis",
+      "message_count": 3,
+      "first_message_at": "2026-04-06T00:00:00.000Z",
+      "last_message_at": "2026-04-06T22:30:43.283000Z",
+      "last_bot_msg_at": "2026-04-09T21:06:45.338386",
+      "tempo_sem_interacao": "3h 9min",
+      "first_id": 20576,
+      "last_id": 20750,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1459\nNome: \n\nMensagem(ns) do cliente:\n.",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1459\nNome: \n\nMensagem(ns) do cliente:\n.",
+          "msg_time": "2026-04-06T19:30:42.836499"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-04-06T19:30:42.838214"
+        },
+        {
+          "role": "ai",
+          "content": "{\"data\": {\"content\": \"Oi Diogo!\\nSua mao nao vai cair se voce me responder rs\\n\\nVoce solicitou o nosso contato, clicou no anuncio, preencheu o formulario com seus dados... mas depois nao conseguimos falar. Queria entender: ainda faz sentido pra voce ter um plano de saude ou isso deixou de ser prioridade agora.\\n\\nPode ser so com o numero mesmo. Sera uma grande gentileza e voce me ajuda na minha empresa... ta cada vez mais dificil empreender nesse Brasil rs\\n\\n1 - Ja resolveu por outro caminho\\n2 - Nao e prioridade agora\\n3 - Teve alguma duvida ou condicao que nao fez sentido\"}, \"type\": \"ai\"}",
+          "msg_time": "2026-04-09T21:06:45.338386"
+        }
+      ]
+    },
+    {
+      "session_id": "5521971084471@s.whatsapp.net",
+      "phone": "5521971084471",
+      "phone_display": "+55 21 97108-4471",
+      "lead": {
+        "baserow_id": 1458,
+        "nome": "Lucia",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "observacoes": "Registro interno: Encaminhado ao consultor.\nNome do lead: Lucia",
+        "reagendamento": null,
+        "corretor": "Elisa",
+        "temperatura": "Frio"
+      },
+      "summary": {
+        "nome": "Lucia",
+        "email": "",
+        "telefone": "+55 21 97108-4471",
+        "vidas": [],
+        "cidade": "",
+        "contratacao": "",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "Elisa",
+        "obs_crm": "Registro interno: Encaminhado ao consultor.\nNome do lead: Lucia",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Lucia\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97108-4471\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Lucia\n👤 Consultor: Elisa\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "frio",
+      "bot": "preto",
+      "consultor": "Elisa",
+      "message_count": 3,
+      "first_message_at": "2026-04-06T00:00:00.000Z",
+      "last_message_at": "2026-04-06T22:30:37.961000Z",
+      "last_bot_msg_at": "2026-04-09T21:06:44.905737",
+      "tempo_sem_interacao": "3h 9min",
+      "first_id": 20574,
+      "last_id": 20749,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1458\nNome: \n\nMensagem(ns) do cliente:\n.",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1458\nNome: \n\nMensagem(ns) do cliente:\n.",
+          "msg_time": "2026-04-06T19:30:37.444934"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-04-06T19:30:37.447155"
+        },
+        {
+          "role": "ai",
+          "content": "{\"data\": {\"content\": \"Oi Lucia!\\nSua mao nao vai cair se voce me responder rs\\n\\nVoce solicitou o nosso contato, clicou no anuncio, preencheu o formulario com seus dados... mas depois nao conseguimos falar. Queria entender: ainda faz sentido pra voce ter um plano de saude ou isso deixou de ser prioridade agora.\\n\\nPode ser so com o numero mesmo. Sera uma grande gentileza e voce me ajuda na minha empresa... ta cada vez mais dificil empreender nesse Brasil rs\\n\\n1 - Ja resolveu por outro caminho\\n2 - Nao e prioridade agora\\n3 - Teve alguma duvida ou condicao que nao fez sentido\"}, \"type\": \"ai\"}",
+          "msg_time": "2026-04-09T21:06:44.905737"
+        }
+      ]
+    },
+    {
+      "session_id": "5521968055887@s.whatsapp.net",
+      "phone": "5521968055887",
+      "phone_display": "+55 21 96805-5887",
+      "lead": {
+        "baserow_id": 1456,
+        "nome": "Edson Sá",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "observacoes": "Registro interno: Encaminhado ao consultor.\nNome do lead: Edson Sá",
+        "reagendamento": null,
+        "corretor": "Isis",
+        "temperatura": "Frio"
+      },
+      "summary": {
+        "nome": "Edson Sá",
+        "email": "",
+        "telefone": "+55 21 96805-5887",
+        "vidas": [],
+        "cidade": "",
+        "contratacao": "",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "Isis",
+        "obs_crm": "Registro interno: Encaminhado ao consultor.\nNome do lead: Edson Sá",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Edson Sá\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96805-5887\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Edson Sá\n👤 Consultor: Isis\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "frio",
+      "bot": "preto",
+      "consultor": "Isis",
+      "message_count": 3,
+      "first_message_at": "2026-04-06T00:00:00.000Z",
+      "last_message_at": "2026-04-06T22:27:55.017000Z",
+      "last_bot_msg_at": "2026-04-09T21:06:44.450791",
+      "tempo_sem_interacao": "3h 9min",
+      "first_id": 20568,
+      "last_id": 20748,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1456\nNome: \n\nMensagem(ns) do cliente:\n.",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1456\nNome: \n\nMensagem(ns) do cliente:\n.",
+          "msg_time": "2026-04-06T19:27:54.609927"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-04-06T19:27:54.611696"
+        },
+        {
+          "role": "ai",
+          "content": "{\"data\": {\"content\": \"Oi Edson!\\nSua mao nao vai cair se voce me responder rs\\n\\nVoce solicitou o nosso contato, clicou no anuncio, preencheu o formulario com seus dados... mas depois nao conseguimos falar. Queria entender: ainda faz sentido pra voce ter um plano de saude ou isso deixou de ser prioridade agora.\\n\\nPode ser so com o numero mesmo. Sera uma grande gentileza e voce me ajuda na minha empresa... ta cada vez mais dificil empreender nesse Brasil rs\\n\\n1 - Ja resolveu por outro caminho\\n2 - Nao e prioridade agora\\n3 - Teve alguma duvida ou condicao que nao fez sentido\"}, \"type\": \"ai\"}",
+          "msg_time": "2026-04-09T21:06:44.450791"
+        }
+      ]
+    },
+    {
+      "session_id": "5521964534565@s.whatsapp.net",
+      "phone": "5521964534565",
+      "phone_display": "+55 21 96453-4565",
+      "lead": {
+        "baserow_id": 1455,
+        "nome": "Douglas",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "observacoes": "Registro interno: Encaminhado ao consultor.\nNome do lead: Douglas",
+        "reagendamento": null,
+        "corretor": "Elisa",
+        "temperatura": "Frio"
+      },
+      "summary": {
+        "nome": "Douglas",
+        "email": "",
+        "telefone": "+55 21 96453-4565",
+        "vidas": [],
+        "cidade": "",
+        "contratacao": "",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "Elisa",
+        "obs_crm": "Registro interno: Encaminhado ao consultor.\nNome do lead: Douglas",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Douglas\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96453-4565\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Douglas\n👤 Consultor: Elisa\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "frio",
+      "bot": "preto",
+      "consultor": "Elisa",
+      "message_count": 3,
+      "first_message_at": "2026-04-06T00:00:00.000Z",
+      "last_message_at": "2026-04-06T22:26:33.765000Z",
+      "last_bot_msg_at": "2026-04-09T21:06:44.015836",
+      "tempo_sem_interacao": "3h 9min",
+      "first_id": 20566,
+      "last_id": 20747,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1455\nNome: \n\nMensagem(ns) do cliente:\n.",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1455\nNome: \n\nMensagem(ns) do cliente:\n.",
+          "msg_time": "2026-04-06T19:26:33.39855"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-04-06T19:26:33.400243"
+        },
+        {
+          "role": "ai",
+          "content": "{\"data\": {\"content\": \"Oi Douglas!\\nSua mao nao vai cair se voce me responder rs\\n\\nVoce solicitou o nosso contato, clicou no anuncio, preencheu o formulario com seus dados... mas depois nao conseguimos falar. Queria entender: ainda faz sentido pra voce ter um plano de saude ou isso deixou de ser prioridade agora.\\n\\nPode ser so com o numero mesmo. Sera uma grande gentileza e voce me ajuda na minha empresa... ta cada vez mais dificil empreender nesse Brasil rs\\n\\n1 - Ja resolveu por outro caminho\\n2 - Nao e prioridade agora\\n3 - Teve alguma duvida ou condicao que nao fez sentido\"}, \"type\": \"ai\"}",
+          "msg_time": "2026-04-09T21:06:44.015836"
+        }
+      ]
+    },
+    {
+      "session_id": "5521999960699@s.whatsapp.net",
+      "phone": "5521999960699",
+      "phone_display": "+55 21 99996-0699",
+      "lead": {
+        "baserow_id": 1453,
+        "nome": "Claudino",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "observacoes": "Registro interno: Encaminhado ao consultor.\nNome do lead: Claudino",
+        "reagendamento": null,
+        "corretor": "João",
+        "temperatura": "Frio"
+      },
+      "summary": {
+        "nome": "Claudino",
+        "email": "",
+        "telefone": "+55 21 99996-0699",
+        "vidas": [],
+        "cidade": "",
+        "contratacao": "",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "João",
+        "obs_crm": "Registro interno: Encaminhado ao consultor.\nNome do lead: Claudino",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Claudino\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99996-0699\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Claudino\n👤 Consultor: João\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "frio",
+      "bot": "preto",
+      "consultor": "João",
+      "message_count": 3,
+      "first_message_at": "2026-04-06T00:00:00.000Z",
+      "last_message_at": "2026-04-06T22:26:08.648000Z",
+      "last_bot_msg_at": "2026-04-09T21:06:43.564813",
+      "tempo_sem_interacao": "3h 9min",
+      "first_id": 20562,
+      "last_id": 20746,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1453\nNome: \n\nMensagem(ns) do cliente:\n.",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1453\nNome: \n\nMensagem(ns) do cliente:\n.",
+          "msg_time": "2026-04-06T19:26:08.248823"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-04-06T19:26:08.251195"
+        },
+        {
+          "role": "ai",
+          "content": "{\"data\": {\"content\": \"Oi Claudino!\\nSua mao nao vai cair se voce me responder rs\\n\\nVoce solicitou o nosso contato, clicou no anuncio, preencheu o formulario com seus dados... mas depois nao conseguimos falar. Queria entender: ainda faz sentido pra voce ter um plano de saude ou isso deixou de ser prioridade agora.\\n\\nPode ser so com o numero mesmo. Sera uma grande gentileza e voce me ajuda na minha empresa... ta cada vez mais dificil empreender nesse Brasil rs\\n\\n1 - Ja resolveu por outro caminho\\n2 - Nao e prioridade agora\\n3 - Teve alguma duvida ou condicao que nao fez sentido\"}, \"type\": \"ai\"}",
+          "msg_time": "2026-04-09T21:06:43.564813"
+        }
+      ]
+    },
+    {
+      "session_id": "5521975942819@s.whatsapp.net",
+      "phone": "5521975942819",
+      "phone_display": "+55 21 97594-2819",
+      "lead": {
+        "baserow_id": 1451,
+        "nome": "Jenni",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "observacoes": "Registro interno: Encaminhado ao consultor.\nNome do lead: Jenni",
+        "reagendamento": null,
+        "corretor": "Isis",
+        "temperatura": "Frio"
+      },
+      "summary": {
+        "nome": "Jenni",
+        "email": "",
+        "telefone": "+55 21 97594-2819",
+        "vidas": [],
+        "cidade": "",
+        "contratacao": "",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "Isis",
+        "obs_crm": "Registro interno: Encaminhado ao consultor.\nNome do lead: Jenni",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Jenni\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97594-2819\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Jenni\n👤 Consultor: Isis\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "frio",
+      "bot": "preto",
+      "consultor": "Isis",
+      "message_count": 3,
+      "first_message_at": "2026-04-06T00:00:00.000Z",
+      "last_message_at": "2026-04-06T22:24:42.540000Z",
+      "last_bot_msg_at": "2026-04-09T21:06:43.149774",
+      "tempo_sem_interacao": "3h 9min",
+      "first_id": 20558,
+      "last_id": 20745,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1451\nNome: \n\nMensagem(ns) do cliente:\n.",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1451\nNome: \n\nMensagem(ns) do cliente:\n.",
+          "msg_time": "2026-04-06T19:24:42.066767"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-04-06T19:24:42.069892"
+        },
+        {
+          "role": "ai",
+          "content": "{\"data\": {\"content\": \"Oi Jenni!\\nSua mao nao vai cair se voce me responder rs\\n\\nVoce solicitou o nosso contato, clicou no anuncio, preencheu o formulario com seus dados... mas depois nao conseguimos falar. Queria entender: ainda faz sentido pra voce ter um plano de saude ou isso deixou de ser prioridade agora.\\n\\nPode ser so com o numero mesmo. Sera uma grande gentileza e voce me ajuda na minha empresa... ta cada vez mais dificil empreender nesse Brasil rs\\n\\n1 - Ja resolveu por outro caminho\\n2 - Nao e prioridade agora\\n3 - Teve alguma duvida ou condicao que nao fez sentido\"}, \"type\": \"ai\"}",
+          "msg_time": "2026-04-09T21:06:43.149774"
+        }
+      ]
+    },
+    {
+      "session_id": "5521987915994@s.whatsapp.net",
+      "phone": "5521987915994",
+      "phone_display": "+55 21 98791-5994",
+      "lead": {
+        "baserow_id": 1449,
+        "nome": "Ronaldo",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "observacoes": "Registro interno: Encaminhado ao consultor.\nNome do lead: Ronaldo",
+        "reagendamento": null,
+        "corretor": "Elisa",
+        "temperatura": "Frio"
+      },
+      "summary": {
+        "nome": "Ronaldo",
+        "email": "",
+        "telefone": "+55 21 98791-5994",
+        "vidas": [],
+        "cidade": "",
+        "contratacao": "",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "Elisa",
+        "obs_crm": "Registro interno: Encaminhado ao consultor.\nNome do lead: Ronaldo",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Ronaldo\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98791-5994\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Ronaldo\n👤 Consultor: Elisa\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "frio",
+      "bot": "preto",
+      "consultor": "Elisa",
+      "message_count": 3,
+      "first_message_at": "2026-04-06T00:00:00.000Z",
+      "last_message_at": "2026-04-06T22:24:21.675000Z",
+      "last_bot_msg_at": "2026-04-09T21:06:42.731476",
+      "tempo_sem_interacao": "3h 9min",
+      "first_id": 20554,
+      "last_id": 20744,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1449\nNome: \n\nMensagem(ns) do cliente:\n.",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1449\nNome: \n\nMensagem(ns) do cliente:\n.",
+          "msg_time": "2026-04-06T19:24:21.297941"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-04-06T19:24:21.30006"
+        },
+        {
+          "role": "ai",
+          "content": "{\"data\": {\"content\": \"Oi Ronaldo!\\nSua mao nao vai cair se voce me responder rs\\n\\nVoce solicitou o nosso contato, clicou no anuncio, preencheu o formulario com seus dados... mas depois nao conseguimos falar. Queria entender: ainda faz sentido pra voce ter um plano de saude ou isso deixou de ser prioridade agora.\\n\\nPode ser so com o numero mesmo. Sera uma grande gentileza e voce me ajuda na minha empresa... ta cada vez mais dificil empreender nesse Brasil rs\\n\\n1 - Ja resolveu por outro caminho\\n2 - Nao e prioridade agora\\n3 - Teve alguma duvida ou condicao que nao fez sentido\"}, \"type\": \"ai\"}",
+          "msg_time": "2026-04-09T21:06:42.731476"
+        }
+      ]
+    },
+    {
+      "session_id": "5521991116155@s.whatsapp.net",
+      "phone": "5521991116155",
+      "phone_display": "+55 21 99111-6155",
+      "lead": {
+        "baserow_id": 1448,
+        "nome": "Sonia Maria",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "observacoes": "Registro interno: Encaminhado ao consultor.\nNome do lead: Sonia Maria",
+        "reagendamento": null,
+        "corretor": "João",
+        "temperatura": "Frio"
+      },
+      "summary": {
+        "nome": "Sonia Maria",
+        "email": "",
+        "telefone": "+55 21 99111-6155",
+        "vidas": [],
+        "cidade": "",
+        "contratacao": "",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "João",
+        "obs_crm": "Registro interno: Encaminhado ao consultor.\nNome do lead: Sonia Maria",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Sonia Maria\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99111-6155\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Sonia Maria\n👤 Consultor: João\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "frio",
+      "bot": "preto",
+      "consultor": "João",
+      "message_count": 3,
+      "first_message_at": "2026-04-06T00:00:00.000Z",
+      "last_message_at": "2026-04-06T22:23:18.318000Z",
+      "last_bot_msg_at": "2026-04-09T21:06:42.307839",
+      "tempo_sem_interacao": "3h 9min",
+      "first_id": 20552,
+      "last_id": 20743,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1448\nNome: \n\nMensagem(ns) do cliente:\n.",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1448\nNome: \n\nMensagem(ns) do cliente:\n.",
+          "msg_time": "2026-04-06T19:23:17.915976"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-04-06T19:23:17.917626"
+        },
+        {
+          "role": "ai",
+          "content": "{\"data\": {\"content\": \"Oi Sonia Maria!\\nSua mao nao vai cair se voce me responder rs\\n\\nVoce solicitou o nosso contato, clicou no anuncio, preencheu o formulario com seus dados... mas depois nao conseguimos falar. Queria entender: ainda faz sentido pra voce ter um plano de saude ou isso deixou de ser prioridade agora.\\n\\nPode ser so com o numero mesmo. Sera uma grande gentileza e voce me ajuda na minha empresa... ta cada vez mais dificil empreender nesse Brasil rs\\n\\n1 - Ja resolveu por outro caminho\\n2 - Nao e prioridade agora\\n3 - Teve alguma duvida ou condicao que nao fez sentido\"}, \"type\": \"ai\"}",
+          "msg_time": "2026-04-09T21:06:42.307839"
+        }
+      ]
+    },
+    {
+      "session_id": "5521994712252@s.whatsapp.net",
+      "phone": "5521994712252",
+      "phone_display": "+55 21 99471-2252",
+      "lead": {
+        "baserow_id": 1446,
+        "nome": "Rose",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "observacoes": "Registro interno: Encaminhado ao consultor.\nNome do lead: Rose",
+        "reagendamento": null,
+        "corretor": "Elisa",
+        "temperatura": "Frio"
+      },
+      "summary": {
+        "nome": "Rose",
+        "email": "",
+        "telefone": "+55 21 99471-2252",
+        "vidas": [],
+        "cidade": "",
+        "contratacao": "",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "Elisa",
+        "obs_crm": "Registro interno: Encaminhado ao consultor.\nNome do lead: Rose",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Rose\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99471-2252\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Rose\n👤 Consultor: Elisa\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "frio",
+      "bot": "preto",
+      "consultor": "Elisa",
+      "message_count": 3,
+      "first_message_at": "2026-04-06T00:00:00.000Z",
+      "last_message_at": "2026-04-06T22:23:07.845000Z",
+      "last_bot_msg_at": "2026-04-09T21:06:41.85862",
+      "tempo_sem_interacao": "3h 9min",
+      "first_id": 20548,
+      "last_id": 20742,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1446\nNome: \n\nMensagem(ns) do cliente:\n.",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1446\nNome: \n\nMensagem(ns) do cliente:\n.",
+          "msg_time": "2026-04-06T19:23:07.402422"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-04-06T19:23:07.404112"
+        },
+        {
+          "role": "ai",
+          "content": "{\"data\": {\"content\": \"Oi Rose!\\nSua mao nao vai cair se voce me responder rs\\n\\nVoce solicitou o nosso contato, clicou no anuncio, preencheu o formulario com seus dados... mas depois nao conseguimos falar. Queria entender: ainda faz sentido pra voce ter um plano de saude ou isso deixou de ser prioridade agora.\\n\\nPode ser so com o numero mesmo. Sera uma grande gentileza e voce me ajuda na minha empresa... ta cada vez mais dificil empreender nesse Brasil rs\\n\\n1 - Ja resolveu por outro caminho\\n2 - Nao e prioridade agora\\n3 - Teve alguma duvida ou condicao que nao fez sentido\"}, \"type\": \"ai\"}",
+          "msg_time": "2026-04-09T21:06:41.85862"
+        }
+      ]
+    },
+    {
+      "session_id": "5521992422609@s.whatsapp.net",
+      "phone": "5521992422609",
+      "phone_display": "+55 21 99242-2609",
+      "lead": {
+        "baserow_id": 1445,
+        "nome": "Angela",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "observacoes": "Registro interno: Encaminhado ao consultor.\nNome do lead: Angela",
+        "reagendamento": null,
+        "corretor": "João",
+        "temperatura": "Frio"
+      },
+      "summary": {
+        "nome": "Angela",
+        "email": "",
+        "telefone": "+55 21 99242-2609",
+        "vidas": [],
+        "cidade": "",
+        "contratacao": "",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "João",
+        "obs_crm": "Registro interno: Encaminhado ao consultor.\nNome do lead: Angela",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Angela\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99242-2609\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Angela\n👤 Consultor: João\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "frio",
+      "bot": "preto",
+      "consultor": "João",
+      "message_count": 3,
+      "first_message_at": "2026-04-06T00:00:00.000Z",
+      "last_message_at": "2026-04-06T22:22:00.379000Z",
+      "last_bot_msg_at": "2026-04-09T21:06:41.414506",
+      "tempo_sem_interacao": "3h 9min",
+      "first_id": 20546,
+      "last_id": 20741,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1445\nNome: \n\nMensagem(ns) do cliente:\n.",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1445\nNome: \n\nMensagem(ns) do cliente:\n.",
+          "msg_time": "2026-04-06T19:21:59.160928"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-04-06T19:21:59.163649"
+        },
+        {
+          "role": "ai",
+          "content": "{\"data\": {\"content\": \"Oi Angela!\\nSua mao nao vai cair se voce me responder rs\\n\\nVoce solicitou o nosso contato, clicou no anuncio, preencheu o formulario com seus dados... mas depois nao conseguimos falar. Queria entender: ainda faz sentido pra voce ter um plano de saude ou isso deixou de ser prioridade agora.\\n\\nPode ser so com o numero mesmo. Sera uma grande gentileza e voce me ajuda na minha empresa... ta cada vez mais dificil empreender nesse Brasil rs\\n\\n1 - Ja resolveu por outro caminho\\n2 - Nao e prioridade agora\\n3 - Teve alguma duvida ou condicao que nao fez sentido\"}, \"type\": \"ai\"}",
+          "msg_time": "2026-04-09T21:06:41.414506"
+        }
+      ]
+    },
+    {
+      "session_id": "5521964320579@s.whatsapp.net",
+      "phone": "5521964320579",
+      "phone_display": "+55 21 96432-0579",
+      "lead": {
+        "baserow_id": 1444,
+        "nome": "Claudia",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "observacoes": "Registro interno: Encaminhado ao consultor.\nNome do lead: Claudia",
+        "reagendamento": null,
+        "corretor": "Isis",
+        "temperatura": "Frio"
+      },
+      "summary": {
+        "nome": "Claudia",
+        "email": "",
+        "telefone": "+55 21 96432-0579",
+        "vidas": [],
+        "cidade": "",
+        "contratacao": "",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "Isis",
+        "obs_crm": "Registro interno: Encaminhado ao consultor.\nNome do lead: Claudia",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Claudia\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96432-0579\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Claudia\n👤 Consultor: Isis\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "frio",
+      "bot": "preto",
+      "consultor": "Isis",
+      "message_count": 4,
+      "first_message_at": "2026-04-06T00:00:00.000Z",
+      "last_message_at": "2026-04-06T22:21:54.670000Z",
+      "last_bot_msg_at": "2026-04-09T21:06:40.949514",
+      "tempo_sem_interacao": "3h 9min",
+      "first_id": 20544,
+      "last_id": 20740,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1444\nNome: \n\nMensagem(ns) do cliente:\n.",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1444\nNome: \n\nMensagem(ns) do cliente:\n.",
+          "msg_time": "2026-04-06T19:21:53.946801"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-04-06T19:21:53.94919"
+        },
+        {
+          "role": "ai",
+          "content": "{\"data\": {\"content\": \"teste\"}, \"type\": \"ai\"}",
+          "msg_time": "2026-04-09T21:05:48.178942"
+        },
+        {
+          "role": "ai",
+          "content": "{\"data\": {\"content\": \"Oi Claudia!\\nSua mao nao vai cair se voce me responder rs\\n\\nVoce solicitou o nosso contato, clicou no anuncio, preencheu o formulario com seus dados... mas depois nao conseguimos falar. Queria entender: ainda faz sentido pra voce ter um plano de saude ou isso deixou de ser prioridade agora.\\n\\nPode ser so com o numero mesmo. Sera uma grande gentileza e voce me ajuda na minha empresa... ta cada vez mais dificil empreender nesse Brasil rs\\n\\n1 - Ja resolveu por outro caminho\\n2 - Nao e prioridade agora\\n3 - Teve alguma duvida ou condicao que nao fez sentido\"}, \"type\": \"ai\"}",
+          "msg_time": "2026-04-09T21:06:40.949514"
+        }
+      ]
+    },
     {
       "session_id": "5522999314639@s.whatsapp.net",
       "phone": "5522999314639",
@@ -54,7 +1083,7 @@
       "first_message_at": "2026-04-06T00:00:00.000Z",
       "last_message_at": "2026-04-09T23:27:39.088000Z",
       "last_bot_msg_at": "2026-04-09T20:27:38.388777",
-      "tempo_sem_interacao": "3h 33min",
+      "tempo_sem_interacao": "3h 48min",
       "first_id": 20550,
       "last_id": 20738,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1447\nNome: Silvana\n\nMensagem(ns) do cliente:\nOi  Tudo bem?\n\nVocê s...",
@@ -123,7 +1152,7 @@
       "first_message_at": "2026-04-08T00:00:00.000Z",
       "last_message_at": "2026-04-09T23:27:20.497000Z",
       "last_bot_msg_at": "2026-04-09T20:27:19.543253",
-      "tempo_sem_interacao": "3h 33min",
+      "tempo_sem_interacao": "3h 48min",
       "first_id": 20679,
       "last_id": 20736,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1477\nNome: Santos\n\nMensagem(ns) do cliente:\nOi  Tudo bem?\n\nVocê so...",
@@ -202,7 +1231,7 @@
       "first_message_at": "2026-04-09T00:00:00.000Z",
       "last_message_at": "2026-04-09T23:21:58.989000Z",
       "last_bot_msg_at": "2026-04-09T20:21:58.316367",
-      "tempo_sem_interacao": "3h 38min",
+      "tempo_sem_interacao": "3h 53min",
       "first_id": 20695,
       "last_id": 20734,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1479\nNome: Maria Aparecida\n\nMensagem(ns) do cliente:\nMaria \nBoa no...",
@@ -298,7 +1327,7 @@
       "first_message_at": "2025-12-15T00:00:00.000Z",
       "last_message_at": "2026-04-09T22:42:48.226Z",
       "last_bot_msg_at": "2026-04-09T22:42:48.226Z",
-      "tempo_sem_interacao": "1h 18min",
+      "tempo_sem_interacao": "1h 33min",
       "first_id": 742,
       "last_id": 20732,
       "last_message_preview": "<ContextoImagem>\n\n  <DetalheImagem>\n\n  </DetalheImagem>\n\nContexto Extra: O usuário encaminhou a mens...",
@@ -597,7 +1626,7 @@
       "first_message_at": "2026-04-09T00:00:00.000Z",
       "last_message_at": "2026-04-09T22:12:03.489000Z",
       "last_bot_msg_at": "2026-04-09T19:12:01.092752",
-      "tempo_sem_interacao": "4h 48min",
+      "tempo_sem_interacao": "5h 3min",
       "first_id": 20722,
       "last_id": 20731,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1482\nNome: Dany Barbosa\n\nMensagem(ns) do cliente:\nNão tenho",
@@ -696,7 +1725,7 @@
       "first_message_at": "2026-04-09T00:00:00.000Z",
       "last_message_at": "2026-04-09T18:24:14.572000Z",
       "last_bot_msg_at": "2026-04-09T15:24:14.017144",
-      "tempo_sem_interacao": "8h 36min",
+      "tempo_sem_interacao": "8h 51min",
       "first_id": 20705,
       "last_id": 20721,
       "last_message_preview": "Tem como fazer portabilidade de um plano para outro",
@@ -830,7 +1859,7 @@
       "first_message_at": "2026-04-09T00:00:00.000Z",
       "last_message_at": "2026-04-09T16:09:52.827000Z",
       "last_bot_msg_at": "2026-04-09T13:09:52.37527",
-      "tempo_sem_interacao": "10h 51min",
+      "tempo_sem_interacao": "11h 5min",
       "first_id": 20701,
       "last_id": 20704,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1480\nNome: \n\nMensagem(ns) do cliente:\nPra uma pessoa só\n\nLetícia",
@@ -899,7 +1928,7 @@
       "first_message_at": "2026-04-09T00:00:00.000Z",
       "last_message_at": "2026-04-09T09:08:26.697000Z",
       "last_bot_msg_at": "2026-04-09T06:08:26.35598",
-      "tempo_sem_interacao": "17h 52min",
+      "tempo_sem_interacao": "18h 7min",
       "first_id": 20681,
       "last_id": 20694,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1478\nNome: \n\nMensagem(ns) do cliente:\n65.546.345/0001-90",
@@ -973,65 +2002,6 @@
           "role": "ai",
           "content": "Entendi, você vai contratar como CNPJ e o número é 65.546.345/0001-90. Para finalizar, você já possui um plano de saúde atualmente? Se sim, gostaria de saber qual e quanto paga. Isso nos ajudará a encontrar o melhor equilíbrio entre custo e acesso.",
           "msg_time": "2026-04-09T06:08:26.35598"
-        }
-      ]
-    },
-    {
-      "session_id": "5521979563508@s.whatsapp.net",
-      "phone": "5521979563508",
-      "phone_display": "+55 21 97956-3508",
-      "lead": {
-        "baserow_id": 1476,
-        "nome": "Mario Jorge",
-        "email": "",
-        "qtd_vidas": "",
-        "desinteresse": true,
-        "observacoes": "Mario Jorge",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Mario Jorge",
-        "email": "",
-        "telefone": "+55 21 97956-3508",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "Amil",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "Mario Jorge",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Mario Jorge\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97956-3508\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Mario Jorge\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "desinteresse",
-      "bot": "preto",
-      "consultor": "",
-      "message_count": 2,
-      "first_message_at": "2026-04-08T00:00:00.000Z",
-      "last_message_at": "2026-04-09T00:14:15.534000Z",
-      "last_bot_msg_at": "2026-04-08T21:14:14.996197",
-      "tempo_sem_interacao": "1 dia",
-      "first_id": 20677,
-      "last_id": 20678,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1476\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1476\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Amil",
-          "msg_time": "2026-04-08T21:14:14.99266"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
-          "msg_time": "2026-04-08T21:14:14.996197"
         }
       ]
     },
@@ -1153,65 +2123,6 @@
           "role": "user",
           "content": "Ok obgda",
           "msg_time": "2026-04-08T20:08:56.028694"
-        }
-      ]
-    },
-    {
-      "session_id": "5521991511593@s.whatsapp.net",
-      "phone": "5521991511593",
-      "phone_display": "+55 21 99151-1593",
-      "lead": {
-        "baserow_id": 1474,
-        "nome": "Celso Dalla Costa",
-        "email": "",
-        "qtd_vidas": "",
-        "desinteresse": true,
-        "observacoes": "Celso Dalla Costa",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Celso Dalla Costa",
-        "email": "",
-        "telefone": "+55 21 99151-1593",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "Sulamérica",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "Celso Dalla Costa",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Celso Dalla Costa\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99151-1593\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: Sulamérica\n\n⚠️ Observação: Celso Dalla Costa\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "desinteresse",
-      "bot": "preto",
-      "consultor": "",
-      "message_count": 2,
-      "first_message_at": "2026-04-08T00:00:00.000Z",
-      "last_message_at": "2026-04-08T22:31:29.095000Z",
-      "last_bot_msg_at": "2026-04-08T19:31:28.695583",
-      "tempo_sem_interacao": "1 dia",
-      "first_id": 20662,
-      "last_id": 20663,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1474\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1474\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Sulamérica",
-          "msg_time": "2026-04-08T19:31:28.691982"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
-          "msg_time": "2026-04-08T19:31:28.695583"
         }
       ]
     },
@@ -2129,65 +3040,6 @@
       ]
     },
     {
-      "session_id": "5521966758316@s.whatsapp.net",
-      "phone": "5521966758316",
-      "phone_display": "+55 21 96675-8316",
-      "lead": {
-        "baserow_id": 1464,
-        "nome": "Adriana Carvalho",
-        "email": "",
-        "qtd_vidas": "",
-        "desinteresse": true,
-        "observacoes": "Adriana Carvalho",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Adriana Carvalho",
-        "email": "",
-        "telefone": "+55 21 96675-8316",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "Amil",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "Adriana Carvalho",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Adriana Carvalho\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96675-8316\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Adriana Carvalho\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "desinteresse",
-      "bot": "preto",
-      "consultor": "",
-      "message_count": 2,
-      "first_message_at": "2026-04-07T00:00:00.000Z",
-      "last_message_at": "2026-04-07T13:12:22.381000Z",
-      "last_bot_msg_at": "2026-04-07T10:12:21.87941",
-      "tempo_sem_interacao": "2 dias",
-      "first_id": 20610,
-      "last_id": 20611,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1464\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1464\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Amil",
-          "msg_time": "2026-04-07T10:12:21.874684"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
-          "msg_time": "2026-04-07T10:12:21.87941"
-        }
-      ]
-    },
-    {
       "session_id": "5521977144668@s.whatsapp.net",
       "phone": "5521977144668",
       "phone_display": "+55 21 97714-4668",
@@ -2318,7 +3170,7 @@
       "first_message_at": "2026-04-06T00:00:00.000Z",
       "last_message_at": "2026-04-07T03:06:40.375000Z",
       "last_bot_msg_at": "2026-04-07T00:06:39.987022",
-      "tempo_sem_interacao": "2 dias",
+      "tempo_sem_interacao": "3 dias",
       "first_id": 20560,
       "last_id": 20603,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1452\nNome: Rosane\n\nMensagem(ns) do cliente:\nFormato de mensagem en...",
@@ -3037,242 +3889,6 @@
       ]
     },
     {
-      "session_id": "5521992465706@s.whatsapp.net",
-      "phone": "5521992465706",
-      "phone_display": "+55 21 99246-5706",
-      "lead": {
-        "baserow_id": 1461,
-        "nome": "Oziel",
-        "email": "",
-        "qtd_vidas": "",
-        "desinteresse": true,
-        "observacoes": "Registro interno: Encaminhado ao consultor.\nNome do lead: Oziel",
-        "reagendamento": null,
-        "corretor": "Elisa",
-        "temperatura": "Frio"
-      },
-      "summary": {
-        "nome": "Oziel",
-        "email": "",
-        "telefone": "+55 21 99246-5706",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "Elisa",
-        "obs_crm": "Registro interno: Encaminhado ao consultor.\nNome do lead: Oziel",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Oziel\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99246-5706\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Oziel\n👤 Consultor: Elisa\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "desinteresse",
-      "bot": "preto",
-      "consultor": "Elisa",
-      "message_count": 2,
-      "first_message_at": "2026-04-06T00:00:00.000Z",
-      "last_message_at": "2026-04-06T22:31:00.490000Z",
-      "last_bot_msg_at": "2026-04-06T19:30:59.978529",
-      "tempo_sem_interacao": "3 dias",
-      "first_id": 20580,
-      "last_id": 20581,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1461\nNome: \n\nMensagem(ns) do cliente:\n.",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1461\nNome: \n\nMensagem(ns) do cliente:\n.",
-          "msg_time": "2026-04-06T19:30:59.975887"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
-          "msg_time": "2026-04-06T19:30:59.978529"
-        }
-      ]
-    },
-    {
-      "session_id": "5521979326265@s.whatsapp.net",
-      "phone": "5521979326265",
-      "phone_display": "+55 21 97932-6265",
-      "lead": {
-        "baserow_id": 1460,
-        "nome": "Raphael",
-        "email": "",
-        "qtd_vidas": "",
-        "desinteresse": true,
-        "observacoes": "Registro interno: Consultor iniciou contato.\nNome do lead: Raphael",
-        "reagendamento": null,
-        "corretor": "João",
-        "temperatura": "Frio"
-      },
-      "summary": {
-        "nome": "Raphael",
-        "email": "",
-        "telefone": "+55 21 97932-6265",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "João",
-        "obs_crm": "Registro interno: Consultor iniciou contato.\nNome do lead: Raphael",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Raphael\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97932-6265\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Registro interno: Consultor iniciou contato.\nNome do lead: Raphael\n👤 Consultor: João\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "desinteresse",
-      "bot": "preto",
-      "consultor": "João",
-      "message_count": 2,
-      "first_message_at": "2026-04-06T00:00:00.000Z",
-      "last_message_at": "2026-04-06T22:30:55.290000Z",
-      "last_bot_msg_at": "2026-04-06T19:30:54.75034",
-      "tempo_sem_interacao": "3 dias",
-      "first_id": 20578,
-      "last_id": 20579,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1460\nNome: \n\nMensagem(ns) do cliente:\n.",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1460\nNome: \n\nMensagem(ns) do cliente:\n.",
-          "msg_time": "2026-04-06T19:30:54.740709"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
-          "msg_time": "2026-04-06T19:30:54.75034"
-        }
-      ]
-    },
-    {
-      "session_id": "5521982794672@s.whatsapp.net",
-      "phone": "5521982794672",
-      "phone_display": "+55 21 98279-4672",
-      "lead": {
-        "baserow_id": 1459,
-        "nome": "Diogo",
-        "email": "",
-        "qtd_vidas": "",
-        "desinteresse": true,
-        "observacoes": "Registro interno: Encaminhado ao consultor.\nNome do lead: Diogo",
-        "reagendamento": null,
-        "corretor": "Isis",
-        "temperatura": "Frio"
-      },
-      "summary": {
-        "nome": "Diogo",
-        "email": "",
-        "telefone": "+55 21 98279-4672",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "Isis",
-        "obs_crm": "Registro interno: Encaminhado ao consultor.\nNome do lead: Diogo",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Diogo\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98279-4672\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Diogo\n👤 Consultor: Isis\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "desinteresse",
-      "bot": "preto",
-      "consultor": "Isis",
-      "message_count": 2,
-      "first_message_at": "2026-04-06T00:00:00.000Z",
-      "last_message_at": "2026-04-06T22:30:43.283000Z",
-      "last_bot_msg_at": "2026-04-06T19:30:42.838214",
-      "tempo_sem_interacao": "3 dias",
-      "first_id": 20576,
-      "last_id": 20577,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1459\nNome: \n\nMensagem(ns) do cliente:\n.",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1459\nNome: \n\nMensagem(ns) do cliente:\n.",
-          "msg_time": "2026-04-06T19:30:42.836499"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
-          "msg_time": "2026-04-06T19:30:42.838214"
-        }
-      ]
-    },
-    {
-      "session_id": "5521971084471@s.whatsapp.net",
-      "phone": "5521971084471",
-      "phone_display": "+55 21 97108-4471",
-      "lead": {
-        "baserow_id": 1458,
-        "nome": "Lucia",
-        "email": "",
-        "qtd_vidas": "",
-        "desinteresse": true,
-        "observacoes": "Registro interno: Encaminhado ao consultor.\nNome do lead: Lucia",
-        "reagendamento": null,
-        "corretor": "Elisa",
-        "temperatura": "Frio"
-      },
-      "summary": {
-        "nome": "Lucia",
-        "email": "",
-        "telefone": "+55 21 97108-4471",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "Elisa",
-        "obs_crm": "Registro interno: Encaminhado ao consultor.\nNome do lead: Lucia",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Lucia\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97108-4471\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Lucia\n👤 Consultor: Elisa\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "desinteresse",
-      "bot": "preto",
-      "consultor": "Elisa",
-      "message_count": 2,
-      "first_message_at": "2026-04-06T00:00:00.000Z",
-      "last_message_at": "2026-04-06T22:30:37.961000Z",
-      "last_bot_msg_at": "2026-04-06T19:30:37.447155",
-      "tempo_sem_interacao": "3 dias",
-      "first_id": 20574,
-      "last_id": 20575,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1458\nNome: \n\nMensagem(ns) do cliente:\n.",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1458\nNome: \n\nMensagem(ns) do cliente:\n.",
-          "msg_time": "2026-04-06T19:30:37.444934"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
-          "msg_time": "2026-04-06T19:30:37.447155"
-        }
-      ]
-    },
-    {
       "session_id": "5521984848067@s.whatsapp.net",
       "phone": "5521984848067",
       "phone_display": "+55 21 98484-8067",
@@ -3338,537 +3954,6 @@
           "role": "ai",
           "content": "Entendi, você mencionou as idades das pessoas. Agora, para prosseguir, qual é a cidade e o estado onde você reside? Isso é importante porque os preços dos planos de saúde variam pela localização. E, para completar, você já possui plano de saúde atualmente? Se sim, qual e quanto paga hoje?",
           "msg_time": "2026-04-06T19:29:13.007616"
-        }
-      ]
-    },
-    {
-      "session_id": "5521968055887@s.whatsapp.net",
-      "phone": "5521968055887",
-      "phone_display": "+55 21 96805-5887",
-      "lead": {
-        "baserow_id": 1456,
-        "nome": "Edson Sá",
-        "email": "",
-        "qtd_vidas": "",
-        "desinteresse": true,
-        "observacoes": "Registro interno: Encaminhado ao consultor.\nNome do lead: Edson Sá",
-        "reagendamento": null,
-        "corretor": "Isis",
-        "temperatura": "Frio"
-      },
-      "summary": {
-        "nome": "Edson Sá",
-        "email": "",
-        "telefone": "+55 21 96805-5887",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "Isis",
-        "obs_crm": "Registro interno: Encaminhado ao consultor.\nNome do lead: Edson Sá",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Edson Sá\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96805-5887\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Edson Sá\n👤 Consultor: Isis\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "desinteresse",
-      "bot": "preto",
-      "consultor": "Isis",
-      "message_count": 2,
-      "first_message_at": "2026-04-06T00:00:00.000Z",
-      "last_message_at": "2026-04-06T22:27:55.017000Z",
-      "last_bot_msg_at": "2026-04-06T19:27:54.611696",
-      "tempo_sem_interacao": "3 dias",
-      "first_id": 20568,
-      "last_id": 20569,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1456\nNome: \n\nMensagem(ns) do cliente:\n.",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1456\nNome: \n\nMensagem(ns) do cliente:\n.",
-          "msg_time": "2026-04-06T19:27:54.609927"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
-          "msg_time": "2026-04-06T19:27:54.611696"
-        }
-      ]
-    },
-    {
-      "session_id": "5521964534565@s.whatsapp.net",
-      "phone": "5521964534565",
-      "phone_display": "+55 21 96453-4565",
-      "lead": {
-        "baserow_id": 1455,
-        "nome": "Douglas",
-        "email": "",
-        "qtd_vidas": "",
-        "desinteresse": true,
-        "observacoes": "Registro interno: Encaminhado ao consultor.\nNome do lead: Douglas",
-        "reagendamento": null,
-        "corretor": "Elisa",
-        "temperatura": "Frio"
-      },
-      "summary": {
-        "nome": "Douglas",
-        "email": "",
-        "telefone": "+55 21 96453-4565",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "Elisa",
-        "obs_crm": "Registro interno: Encaminhado ao consultor.\nNome do lead: Douglas",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Douglas\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96453-4565\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Douglas\n👤 Consultor: Elisa\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "desinteresse",
-      "bot": "preto",
-      "consultor": "Elisa",
-      "message_count": 2,
-      "first_message_at": "2026-04-06T00:00:00.000Z",
-      "last_message_at": "2026-04-06T22:26:33.765000Z",
-      "last_bot_msg_at": "2026-04-06T19:26:33.400243",
-      "tempo_sem_interacao": "3 dias",
-      "first_id": 20566,
-      "last_id": 20567,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1455\nNome: \n\nMensagem(ns) do cliente:\n.",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1455\nNome: \n\nMensagem(ns) do cliente:\n.",
-          "msg_time": "2026-04-06T19:26:33.39855"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
-          "msg_time": "2026-04-06T19:26:33.400243"
-        }
-      ]
-    },
-    {
-      "session_id": "5521999960699@s.whatsapp.net",
-      "phone": "5521999960699",
-      "phone_display": "+55 21 99996-0699",
-      "lead": {
-        "baserow_id": 1453,
-        "nome": "Claudino",
-        "email": "",
-        "qtd_vidas": "",
-        "desinteresse": true,
-        "observacoes": "Registro interno: Encaminhado ao consultor.\nNome do lead: Claudino",
-        "reagendamento": null,
-        "corretor": "João",
-        "temperatura": "Frio"
-      },
-      "summary": {
-        "nome": "Claudino",
-        "email": "",
-        "telefone": "+55 21 99996-0699",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "João",
-        "obs_crm": "Registro interno: Encaminhado ao consultor.\nNome do lead: Claudino",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Claudino\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99996-0699\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Claudino\n👤 Consultor: João\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "desinteresse",
-      "bot": "preto",
-      "consultor": "João",
-      "message_count": 2,
-      "first_message_at": "2026-04-06T00:00:00.000Z",
-      "last_message_at": "2026-04-06T22:26:08.648000Z",
-      "last_bot_msg_at": "2026-04-06T19:26:08.251195",
-      "tempo_sem_interacao": "3 dias",
-      "first_id": 20562,
-      "last_id": 20563,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1453\nNome: \n\nMensagem(ns) do cliente:\n.",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1453\nNome: \n\nMensagem(ns) do cliente:\n.",
-          "msg_time": "2026-04-06T19:26:08.248823"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
-          "msg_time": "2026-04-06T19:26:08.251195"
-        }
-      ]
-    },
-    {
-      "session_id": "5521975942819@s.whatsapp.net",
-      "phone": "5521975942819",
-      "phone_display": "+55 21 97594-2819",
-      "lead": {
-        "baserow_id": 1451,
-        "nome": "Jenni",
-        "email": "",
-        "qtd_vidas": "",
-        "desinteresse": true,
-        "observacoes": "Registro interno: Encaminhado ao consultor.\nNome do lead: Jenni",
-        "reagendamento": null,
-        "corretor": "Isis",
-        "temperatura": "Frio"
-      },
-      "summary": {
-        "nome": "Jenni",
-        "email": "",
-        "telefone": "+55 21 97594-2819",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "Isis",
-        "obs_crm": "Registro interno: Encaminhado ao consultor.\nNome do lead: Jenni",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Jenni\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97594-2819\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Jenni\n👤 Consultor: Isis\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "desinteresse",
-      "bot": "preto",
-      "consultor": "Isis",
-      "message_count": 2,
-      "first_message_at": "2026-04-06T00:00:00.000Z",
-      "last_message_at": "2026-04-06T22:24:42.540000Z",
-      "last_bot_msg_at": "2026-04-06T19:24:42.069892",
-      "tempo_sem_interacao": "3 dias",
-      "first_id": 20558,
-      "last_id": 20559,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1451\nNome: \n\nMensagem(ns) do cliente:\n.",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1451\nNome: \n\nMensagem(ns) do cliente:\n.",
-          "msg_time": "2026-04-06T19:24:42.066767"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
-          "msg_time": "2026-04-06T19:24:42.069892"
-        }
-      ]
-    },
-    {
-      "session_id": "5521987915994@s.whatsapp.net",
-      "phone": "5521987915994",
-      "phone_display": "+55 21 98791-5994",
-      "lead": {
-        "baserow_id": 1449,
-        "nome": "Ronaldo",
-        "email": "",
-        "qtd_vidas": "",
-        "desinteresse": true,
-        "observacoes": "Registro interno: Encaminhado ao consultor.\nNome do lead: Ronaldo",
-        "reagendamento": null,
-        "corretor": "Elisa",
-        "temperatura": "Frio"
-      },
-      "summary": {
-        "nome": "Ronaldo",
-        "email": "",
-        "telefone": "+55 21 98791-5994",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "Elisa",
-        "obs_crm": "Registro interno: Encaminhado ao consultor.\nNome do lead: Ronaldo",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Ronaldo\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98791-5994\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Ronaldo\n👤 Consultor: Elisa\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "desinteresse",
-      "bot": "preto",
-      "consultor": "Elisa",
-      "message_count": 2,
-      "first_message_at": "2026-04-06T00:00:00.000Z",
-      "last_message_at": "2026-04-06T22:24:21.675000Z",
-      "last_bot_msg_at": "2026-04-06T19:24:21.30006",
-      "tempo_sem_interacao": "3 dias",
-      "first_id": 20554,
-      "last_id": 20555,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1449\nNome: \n\nMensagem(ns) do cliente:\n.",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1449\nNome: \n\nMensagem(ns) do cliente:\n.",
-          "msg_time": "2026-04-06T19:24:21.297941"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
-          "msg_time": "2026-04-06T19:24:21.30006"
-        }
-      ]
-    },
-    {
-      "session_id": "5521991116155@s.whatsapp.net",
-      "phone": "5521991116155",
-      "phone_display": "+55 21 99111-6155",
-      "lead": {
-        "baserow_id": 1448,
-        "nome": "Sonia Maria",
-        "email": "",
-        "qtd_vidas": "",
-        "desinteresse": true,
-        "observacoes": "Registro interno: Encaminhado ao consultor.\nNome do lead: Sonia Maria",
-        "reagendamento": null,
-        "corretor": "João",
-        "temperatura": "Frio"
-      },
-      "summary": {
-        "nome": "Sonia Maria",
-        "email": "",
-        "telefone": "+55 21 99111-6155",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "João",
-        "obs_crm": "Registro interno: Encaminhado ao consultor.\nNome do lead: Sonia Maria",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Sonia Maria\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99111-6155\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Sonia Maria\n👤 Consultor: João\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "desinteresse",
-      "bot": "preto",
-      "consultor": "João",
-      "message_count": 2,
-      "first_message_at": "2026-04-06T00:00:00.000Z",
-      "last_message_at": "2026-04-06T22:23:18.318000Z",
-      "last_bot_msg_at": "2026-04-06T19:23:17.917626",
-      "tempo_sem_interacao": "3 dias",
-      "first_id": 20552,
-      "last_id": 20553,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1448\nNome: \n\nMensagem(ns) do cliente:\n.",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1448\nNome: \n\nMensagem(ns) do cliente:\n.",
-          "msg_time": "2026-04-06T19:23:17.915976"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
-          "msg_time": "2026-04-06T19:23:17.917626"
-        }
-      ]
-    },
-    {
-      "session_id": "5521994712252@s.whatsapp.net",
-      "phone": "5521994712252",
-      "phone_display": "+55 21 99471-2252",
-      "lead": {
-        "baserow_id": 1446,
-        "nome": "Rose",
-        "email": "",
-        "qtd_vidas": "",
-        "desinteresse": true,
-        "observacoes": "Registro interno: Encaminhado ao consultor.\nNome do lead: Rose",
-        "reagendamento": null,
-        "corretor": "Elisa",
-        "temperatura": "Frio"
-      },
-      "summary": {
-        "nome": "Rose",
-        "email": "",
-        "telefone": "+55 21 99471-2252",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "Elisa",
-        "obs_crm": "Registro interno: Encaminhado ao consultor.\nNome do lead: Rose",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Rose\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99471-2252\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Rose\n👤 Consultor: Elisa\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "desinteresse",
-      "bot": "preto",
-      "consultor": "Elisa",
-      "message_count": 2,
-      "first_message_at": "2026-04-06T00:00:00.000Z",
-      "last_message_at": "2026-04-06T22:23:07.845000Z",
-      "last_bot_msg_at": "2026-04-06T19:23:07.404112",
-      "tempo_sem_interacao": "3 dias",
-      "first_id": 20548,
-      "last_id": 20549,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1446\nNome: \n\nMensagem(ns) do cliente:\n.",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1446\nNome: \n\nMensagem(ns) do cliente:\n.",
-          "msg_time": "2026-04-06T19:23:07.402422"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
-          "msg_time": "2026-04-06T19:23:07.404112"
-        }
-      ]
-    },
-    {
-      "session_id": "5521992422609@s.whatsapp.net",
-      "phone": "5521992422609",
-      "phone_display": "+55 21 99242-2609",
-      "lead": {
-        "baserow_id": 1445,
-        "nome": "Angela",
-        "email": "",
-        "qtd_vidas": "",
-        "desinteresse": true,
-        "observacoes": "Registro interno: Encaminhado ao consultor.\nNome do lead: Angela",
-        "reagendamento": null,
-        "corretor": "João",
-        "temperatura": "Frio"
-      },
-      "summary": {
-        "nome": "Angela",
-        "email": "",
-        "telefone": "+55 21 99242-2609",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "João",
-        "obs_crm": "Registro interno: Encaminhado ao consultor.\nNome do lead: Angela",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Angela\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99242-2609\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Angela\n👤 Consultor: João\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "desinteresse",
-      "bot": "preto",
-      "consultor": "João",
-      "message_count": 2,
-      "first_message_at": "2026-04-06T00:00:00.000Z",
-      "last_message_at": "2026-04-06T22:22:00.379000Z",
-      "last_bot_msg_at": "2026-04-06T19:21:59.163649",
-      "tempo_sem_interacao": "3 dias",
-      "first_id": 20546,
-      "last_id": 20547,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1445\nNome: \n\nMensagem(ns) do cliente:\n.",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1445\nNome: \n\nMensagem(ns) do cliente:\n.",
-          "msg_time": "2026-04-06T19:21:59.160928"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
-          "msg_time": "2026-04-06T19:21:59.163649"
-        }
-      ]
-    },
-    {
-      "session_id": "5521964320579@s.whatsapp.net",
-      "phone": "5521964320579",
-      "phone_display": "+55 21 96432-0579",
-      "lead": {
-        "baserow_id": 1444,
-        "nome": "Claudia",
-        "email": "",
-        "qtd_vidas": "",
-        "desinteresse": true,
-        "observacoes": "Registro interno: Encaminhado ao consultor.\nNome do lead: Claudia",
-        "reagendamento": null,
-        "corretor": "Isis",
-        "temperatura": "Frio"
-      },
-      "summary": {
-        "nome": "Claudia",
-        "email": "",
-        "telefone": "+55 21 96432-0579",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "Isis",
-        "obs_crm": "Registro interno: Encaminhado ao consultor.\nNome do lead: Claudia",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Claudia\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96432-0579\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Claudia\n👤 Consultor: Isis\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "desinteresse",
-      "bot": "preto",
-      "consultor": "Isis",
-      "message_count": 2,
-      "first_message_at": "2026-04-06T00:00:00.000Z",
-      "last_message_at": "2026-04-06T22:21:54.670000Z",
-      "last_bot_msg_at": "2026-04-06T19:21:53.94919",
-      "tempo_sem_interacao": "3 dias",
-      "first_id": 20544,
-      "last_id": 20545,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1444\nNome: \n\nMensagem(ns) do cliente:\n.",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1444\nNome: \n\nMensagem(ns) do cliente:\n.",
-          "msg_time": "2026-04-06T19:21:53.946801"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
-          "msg_time": "2026-04-06T19:21:53.94919"
         }
       ]
     },
