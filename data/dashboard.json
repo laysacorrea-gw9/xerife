@@ -1,17 +1,116 @@
 {
   "meta": {
-    "generated_at": "2026-04-11T11:45:51.130Z",
+    "generated_at": "2026-04-11T12:00:49.316Z",
     "total_conversations": 200,
-    "total_messages": 3250,
+    "total_messages": 3254,
     "stats": {
       "quente": 1,
-      "morno": 7,
+      "morno": 6,
       "frio": 30,
-      "desinteresse": 162,
+      "desinteresse": 163,
       "sem_classificacao": 0
     }
   },
   "conversations": [
+    {
+      "session_id": "5521999966983@s.whatsapp.net",
+      "phone": "5521999966983",
+      "phone_display": "+55 21 99996-6983",
+      "lead": {
+        "baserow_id": 1490,
+        "nome": "Márcia Montenegro",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": true,
+        "observacoes": "Márcia Montenegro",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Márcia Montenegro",
+        "email": "",
+        "telefone": "+55 21 99996-6983",
+        "vidas": [],
+        "cidade": "Rio de Janeiro / RJ",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "MEI",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "Encerramento do plano atual",
+        "interesse": "Barra D'or",
+        "rede_preferencial": "Barra D'Or",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "Márcia Montenegro",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Márcia Montenegro\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99996-6983\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n🎯 Rede preferencial: Barra D'Or\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\n\n🎯 Interesse: Barra D'or\n\n⚠️ Observação: Márcia Montenegro\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "desinteresse",
+      "bot": "preto",
+      "consultor": "",
+      "message_count": 10,
+      "first_message_at": "2026-04-11T00:00:00.000Z",
+      "last_message_at": "2026-04-11T11:56:46.660000Z",
+      "last_bot_msg_at": "2026-04-11T08:56:46.219575",
+      "tempo_sem_interacao": "3h 4min",
+      "first_id": 20828,
+      "last_id": 20859,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1490\nNome: Márcia Montenegro\n\nMensagem(ns) do cliente:\nPrevent Sên...",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1490\nNome: \n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação de um plano de saúde Barra D'or",
+          "msg_time": "2026-04-11T00:16:06.457978"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Ok? Seriam para quantas pessoas e quais as idades?",
+          "msg_time": "2026-04-11T00:16:06.461912"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1490\nNome: Márcia Montenegro\n\nMensagem(ns) do cliente:\n1 pessoa \n92 anos",
+          "msg_time": "2026-04-11T00:19:01.598396"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Márcia! Para que eu consiga calcular a cotação, preciso saber em qual cidade você busca atendimento. Além disso, se você tiver algum hospital de sua preferência, isso nos ajudará a encontrar o plano ideal para você.",
+          "msg_time": "2026-04-11T00:19:01.600946"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1490\nNome: Márcia Montenegro\n\nMensagem(ns) do cliente:\nRio de Janeiro",
+          "msg_time": "2026-04-11T08:20:44.111058"
+        },
+        {
+          "role": "ai",
+          "content": "Ótimo, Márcia! Agora, como o plano será contratado: será como pessoa física (uso de CPF) ou terá alguma empresa (CNPJ MEI ou LTDA)? Se puder me informar, ficarei grato!",
+          "msg_time": "2026-04-11T08:20:44.119939"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1490\nNome: Márcia Montenegro\n\nMensagem(ns) do cliente:\nCPF",
+          "msg_time": "2026-04-11T08:55:45.339188"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Márcia! Para finalizar, você já possui plano de saúde atualmente? Se sim, qual é e quanto paga hoje? Isso me ajudará a encontrar a melhor opção que se adeque ao seu orçamento.",
+          "msg_time": "2026-04-11T08:55:45.341787"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1490\nNome: Márcia Montenegro\n\nMensagem(ns) do cliente:\nPrevent Sênior . Aproximadamente 2 mil reais .",
+          "msg_time": "2026-04-11T08:56:46.217007"
+        },
+        {
+          "role": "ai",
+          "content": "Márcia, obrigada por todas as informações! Vou encaminhar seu contato para o nosso especialista, que vai te apresentar as melhores opções de plano para você em Rio de Janeiro. Ele vai te chamar aqui no WhatsApp em breve.",
+          "msg_time": "2026-04-11T08:56:46.219575"
+        }
+      ]
+    },
     {
       "session_id": "5521991936774@s.whatsapp.net",
       "phone": "5521991936774",
@@ -70,7 +169,7 @@
       "first_message_at": "2026-04-11T00:00:00.000Z",
       "last_message_at": "2026-04-11T11:38:30.323000Z",
       "last_bot_msg_at": "2026-04-11T08:38:29.855205",
-      "tempo_sem_interacao": "3h 7min",
+      "tempo_sem_interacao": "3h 22min",
       "first_id": 20847,
       "last_id": 20855,
       "last_message_preview": "Ok",
@@ -119,85 +218,6 @@
           "role": "user",
           "content": "Ok",
           "msg_time": "2026-04-11T08:39:38.097529"
-        }
-      ]
-    },
-    {
-      "session_id": "5521999966983@s.whatsapp.net",
-      "phone": "5521999966983",
-      "phone_display": "+55 21 99996-6983",
-      "lead": {
-        "baserow_id": 1490,
-        "nome": "Márcia Montenegro",
-        "email": "",
-        "qtd_vidas": "",
-        "desinteresse": false,
-        "observacoes": "Márcia Montenegro",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Márcia Montenegro",
-        "email": "",
-        "telefone": "+55 21 99996-6983",
-        "vidas": [],
-        "cidade": "Rio de Janeiro / RJ",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "MEI",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "Barra D'or",
-        "rede_preferencial": "Barra D'Or",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "Márcia Montenegro",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Márcia Montenegro\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99996-6983\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n🎯 Rede preferencial: Barra D'Or\n\n🎯 Interesse: Barra D'or\n\n⚠️ Observação: Márcia Montenegro\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "morno",
-      "bot": "preto",
-      "consultor": "",
-      "message_count": 6,
-      "first_message_at": "2026-04-11T00:00:00.000Z",
-      "last_message_at": "2026-04-11T11:20:44.977000Z",
-      "last_bot_msg_at": "2026-04-11T08:20:44.119939",
-      "tempo_sem_interacao": "3h 25min",
-      "first_id": 20828,
-      "last_id": 20846,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1490\nNome: Márcia Montenegro\n\nMensagem(ns) do cliente:\nRio de Jane...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1490\nNome: \n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação de um plano de saúde Barra D'or",
-          "msg_time": "2026-04-11T00:16:06.457978"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Ok? Seriam para quantas pessoas e quais as idades?",
-          "msg_time": "2026-04-11T00:16:06.461912"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1490\nNome: Márcia Montenegro\n\nMensagem(ns) do cliente:\n1 pessoa \n92 anos",
-          "msg_time": "2026-04-11T00:19:01.598396"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Márcia! Para que eu consiga calcular a cotação, preciso saber em qual cidade você busca atendimento. Além disso, se você tiver algum hospital de sua preferência, isso nos ajudará a encontrar o plano ideal para você.",
-          "msg_time": "2026-04-11T00:19:01.600946"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1490\nNome: Márcia Montenegro\n\nMensagem(ns) do cliente:\nRio de Janeiro",
-          "msg_time": "2026-04-11T08:20:44.111058"
-        },
-        {
-          "role": "ai",
-          "content": "Ótimo, Márcia! Agora, como o plano será contratado: será como pessoa física (uso de CPF) ou terá alguma empresa (CNPJ MEI ou LTDA)? Se puder me informar, ficarei grato!",
-          "msg_time": "2026-04-11T08:20:44.119939"
         }
       ]
     },
@@ -253,7 +273,7 @@
       "first_message_at": "2026-04-11T00:00:00.000Z",
       "last_message_at": "2026-04-11T03:35:48.561000Z",
       "last_bot_msg_at": "2026-04-11T00:35:47.674024",
-      "tempo_sem_interacao": "11h 10min",
+      "tempo_sem_interacao": "11h 25min",
       "first_id": 20832,
       "last_id": 20844,
       "last_message_preview": "Valeu",
@@ -367,7 +387,7 @@
       "first_message_at": "2026-04-10T00:00:00.000Z",
       "last_message_at": "2026-04-11T01:44:55.051000Z",
       "last_bot_msg_at": "2026-04-10T22:44:54.60636",
-      "tempo_sem_interacao": "13h",
+      "tempo_sem_interacao": "13h 15min",
       "first_id": 20826,
       "last_id": 20827,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1489\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -426,7 +446,7 @@
       "first_message_at": "2026-04-06T00:00:00.000Z",
       "last_message_at": "2026-04-10T19:18:27.626000Z",
       "last_bot_msg_at": "2026-04-10T16:18:26.781933",
-      "tempo_sem_interacao": "19h 27min",
+      "tempo_sem_interacao": "19h 42min",
       "first_id": 20544,
       "last_id": 20825,
       "last_message_preview": "Desculpe nao responder\n\nabs",
@@ -517,7 +537,7 @@
       "first_message_at": "2026-04-10T00:00:00.000Z",
       "last_message_at": "2026-04-10T18:07:07.857000Z",
       "last_bot_msg_at": "2026-04-10T15:07:07.111208",
-      "tempo_sem_interacao": "20h 38min",
+      "tempo_sem_interacao": "20h 53min",
       "first_id": 20811,
       "last_id": 20822,
       "last_message_preview": "D'or",
@@ -626,7 +646,7 @@
       "first_message_at": "2026-04-10T00:00:00.000Z",
       "last_message_at": "2026-04-10T16:45:25.577000Z",
       "last_bot_msg_at": "2026-04-10T13:45:25.136033",
-      "tempo_sem_interacao": "22h",
+      "tempo_sem_interacao": "22h 15min",
       "first_id": 20799,
       "last_id": 20810,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1487\nNome: Joel Quintino De Oliveira\n\nMensagem(ns) do cliente:\n305...",
@@ -748,7 +768,7 @@
       "first_message_at": "2026-04-10T00:00:00.000Z",
       "last_message_at": "2026-04-10T16:04:27.161000Z",
       "last_bot_msg_at": "2026-04-10T13:04:26.671314",
-      "tempo_sem_interacao": "22h 41min",
+      "tempo_sem_interacao": "22h 56min",
       "first_id": 20783,
       "last_id": 20798,
       "last_message_preview": "Ok",
@@ -3838,7 +3858,7 @@
       "first_message_at": "2026-04-08T00:00:00.000Z",
       "last_message_at": "2026-04-08T14:59:31.295000Z",
       "last_bot_msg_at": "2026-04-08T11:59:30.799476",
-      "tempo_sem_interacao": "2 dias",
+      "tempo_sem_interacao": "3 dias",
       "first_id": 20655,
       "last_id": 20660,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1473\nNome: Luis Muñoz\n\nMensagem(ns) do cliente:\nAgradeco beleza na...",
@@ -7383,7 +7403,7 @@
       "first_message_at": "2026-03-24T00:00:00.000Z",
       "last_message_at": "2026-03-24T14:59:34.166000Z",
       "last_bot_msg_at": "2026-03-24T11:59:33.049963",
-      "tempo_sem_interacao": "17 dias",
+      "tempo_sem_interacao": "18 dias",
       "first_id": 20182,
       "last_id": 20347,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1348\nNome: Regina\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns...",
@@ -10974,7 +10994,7 @@
       "first_message_at": "2026-03-23T00:00:00.000Z",
       "last_message_at": "2026-03-23T14:51:05.660000Z",
       "last_bot_msg_at": "2026-03-23T11:51:03.910414",
-      "tempo_sem_interacao": "18 dias",
+      "tempo_sem_interacao": "19 dias",
       "first_id": 19947,
       "last_id": 19960,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1329\nNome: \n\nMensagem(ns) do cliente:\nNão tenho plano não",
@@ -13177,7 +13197,7 @@
       "first_message_at": "2026-03-22T00:00:00.000Z",
       "last_message_at": "2026-03-22T14:47:18.642000Z",
       "last_bot_msg_at": "2026-03-22T11:47:17.671578",
-      "tempo_sem_interacao": "19 dias",
+      "tempo_sem_interacao": "20 dias",
       "first_id": 19806,
       "last_id": 19817,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1310\nNome: \n\nMensagem(ns) do cliente:\nNão",
