@@ -1,17 +1,116 @@
 {
   "meta": {
-    "generated_at": "2026-04-11T22:15:49.525Z",
+    "generated_at": "2026-04-11T22:30:50.085Z",
     "total_conversations": 200,
-    "total_messages": 3264,
+    "total_messages": 3266,
     "stats": {
       "quente": 1,
-      "morno": 6,
+      "morno": 5,
       "frio": 30,
-      "desinteresse": 163,
+      "desinteresse": 164,
       "sem_classificacao": 0
     }
   },
   "conversations": [
+    {
+      "session_id": "5522974055323@s.whatsapp.net",
+      "phone": "5522974055323",
+      "phone_display": "+55 22 97405-5323",
+      "lead": {
+        "baserow_id": 1495,
+        "nome": "Moacir",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": true,
+        "observacoes": "Moacir",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Moacir",
+        "email": "",
+        "telefone": "+55 22 97405-5323",
+        "vidas": [],
+        "cidade": "",
+        "contratacao": "CNPJ",
+        "cnpj": "58.344.388/0001-28",
+        "tipo_empresa": "MEI",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "Encerramento do plano atual",
+        "interesse": "Sulamérica",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "Moacir",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Moacir\n📱 Contato: WhatsApp\n📞 Telefone: +55 22 97405-5323\n\n📋 Dados contratuais:\n\nContratação: CNPJ — 58.344.388/0001-28\nTipo: MEI\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\n\n🎯 Interesse: Sulamérica\n\n⚠️ Observação: Moacir\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "desinteresse",
+      "bot": "preto",
+      "consultor": "",
+      "message_count": 10,
+      "first_message_at": "2026-04-11T00:00:00.000Z",
+      "last_message_at": "2026-04-11T22:18:32.438000Z",
+      "last_bot_msg_at": "2026-04-11T19:18:31.919203",
+      "tempo_sem_interacao": "3h 12min",
+      "first_id": 20877,
+      "last_id": 20889,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1495\nNome: Moacir\n\nMensagem(ns) do cliente:\nNão tenho não",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1495\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Sulamérica",
+          "msg_time": "2026-04-11T17:18:01.381193"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Você pode me informar seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-04-11T17:18:01.393946"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1495\nNome: Moacir\n\nMensagem(ns) do cliente:\nmoacir do nascimento lima minha idade é 70 anos da minha esposa 62 anos",
+          "msg_time": "2026-04-11T17:56:25.30101"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Moacir! Para suas necessidades, temos 2 vidas: você com 70 anos e sua esposa com 62 anos. Agora, preciso saber em qual cidade você está buscando atendimento com o plano de saúde. Algum hospital de sua preferência? Isso nos ajuda a encontrar o plano ideal para vocês!",
+          "msg_time": "2026-04-11T17:56:25.303858"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1495\nNome: Moacir\n\nMensagem(ns) do cliente:\nCidade de Iguaba grande região do lago",
+          "msg_time": "2026-04-11T18:44:16.153259"
+        },
+        {
+          "role": "ai",
+          "content": "Ótimo, Moacir! Iguaba Grande é uma boa escolha. Agora, como o plano será contratado: empresarial por CNPJ (MEI ou LTDA) ou é uma contratação como pessoa física com CPF? Se tiver o número do CNPJ, pode me informar? Se não, só preciso saber se é MEI ou LTDA.",
+          "msg_time": "2026-04-11T18:44:16.157399"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1495\nNome: Moacir\n\nMensagem(ns) do cliente:\nCNPJ.58344388000128",
+          "msg_time": "2026-04-11T18:46:14.517674"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Moacir! Agora, só para finalizar, você já possui plano de saúde atualmente? Se sim, qual é e quanto paga hoje? Isso nos ajuda a encontrar a melhor opção para vocês.",
+          "msg_time": "2026-04-11T18:46:14.519709"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1495\nNome: Moacir\n\nMensagem(ns) do cliente:\nNão tenho não",
+          "msg_time": "2026-04-11T19:18:31.916204"
+        },
+        {
+          "role": "ai",
+          "content": "Moacir, obrigada por todas as informações! Vou encaminhar seu contato para o nosso especialista, que vai te apresentar as melhores opções de plano para vocês, com 2 vidas em Iguaba Grande. Ele vai te chamar aqui no WhatsApp em breve.",
+          "msg_time": "2026-04-11T19:18:31.919203"
+        }
+      ]
+    },
     {
       "session_id": "5521991511593@s.whatsapp.net",
       "phone": "5521991511593",
@@ -54,7 +153,7 @@
       "first_message_at": "2026-04-08T00:00:00.000Z",
       "last_message_at": "2026-04-11T21:49:06.613000Z",
       "last_bot_msg_at": "2026-04-11T18:49:05.93334",
-      "tempo_sem_interacao": "3h 26min",
+      "tempo_sem_interacao": "3h 41min",
       "first_id": 20662,
       "last_id": 20887,
       "last_message_preview": "Tenho interesse ainda sim",
@@ -88,95 +187,6 @@
           "role": "user",
           "content": "Tenho interesse ainda sim",
           "msg_time": "2026-04-11T18:50:47.637091"
-        }
-      ]
-    },
-    {
-      "session_id": "5522974055323@s.whatsapp.net",
-      "phone": "5522974055323",
-      "phone_display": "+55 22 97405-5323",
-      "lead": {
-        "baserow_id": 1495,
-        "nome": "Moacir",
-        "email": "",
-        "qtd_vidas": "",
-        "desinteresse": false,
-        "observacoes": "Moacir",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Moacir",
-        "email": "",
-        "telefone": "+55 22 97405-5323",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "CNPJ",
-        "cnpj": "58.344.388/0001-28",
-        "tipo_empresa": "MEI",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "Encerramento do plano atual",
-        "interesse": "Sulamérica",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "Moacir",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Moacir\n📱 Contato: WhatsApp\n📞 Telefone: +55 22 97405-5323\n\n📋 Dados contratuais:\n\nContratação: CNPJ — 58.344.388/0001-28\nTipo: MEI\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\n\n🎯 Interesse: Sulamérica\n\n⚠️ Observação: Moacir\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "morno",
-      "bot": "preto",
-      "consultor": "",
-      "message_count": 8,
-      "first_message_at": "2026-04-11T00:00:00.000Z",
-      "last_message_at": "2026-04-11T21:46:15.053000Z",
-      "last_bot_msg_at": "2026-04-11T18:46:14.519709",
-      "tempo_sem_interacao": "3h 29min",
-      "first_id": 20877,
-      "last_id": 20884,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1495\nNome: Moacir\n\nMensagem(ns) do cliente:\nCNPJ.58344388000128",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1495\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Sulamérica",
-          "msg_time": "2026-04-11T17:18:01.381193"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Você pode me informar seu nome? E o plano seria para quantas pessoas e quais as idades?",
-          "msg_time": "2026-04-11T17:18:01.393946"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1495\nNome: Moacir\n\nMensagem(ns) do cliente:\nmoacir do nascimento lima minha idade é 70 anos da minha esposa 62 anos",
-          "msg_time": "2026-04-11T17:56:25.30101"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Moacir! Para suas necessidades, temos 2 vidas: você com 70 anos e sua esposa com 62 anos. Agora, preciso saber em qual cidade você está buscando atendimento com o plano de saúde. Algum hospital de sua preferência? Isso nos ajuda a encontrar o plano ideal para vocês!",
-          "msg_time": "2026-04-11T17:56:25.303858"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1495\nNome: Moacir\n\nMensagem(ns) do cliente:\nCidade de Iguaba grande região do lago",
-          "msg_time": "2026-04-11T18:44:16.153259"
-        },
-        {
-          "role": "ai",
-          "content": "Ótimo, Moacir! Iguaba Grande é uma boa escolha. Agora, como o plano será contratado: empresarial por CNPJ (MEI ou LTDA) ou é uma contratação como pessoa física com CPF? Se tiver o número do CNPJ, pode me informar? Se não, só preciso saber se é MEI ou LTDA.",
-          "msg_time": "2026-04-11T18:44:16.157399"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1495\nNome: Moacir\n\nMensagem(ns) do cliente:\nCNPJ.58344388000128",
-          "msg_time": "2026-04-11T18:46:14.517674"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Moacir! Agora, só para finalizar, você já possui plano de saúde atualmente? Se sim, qual é e quanto paga hoje? Isso nos ajuda a encontrar a melhor opção para vocês.",
-          "msg_time": "2026-04-11T18:46:14.519709"
         }
       ]
     },
@@ -222,7 +232,7 @@
       "first_message_at": "2026-04-11T00:00:00.000Z",
       "last_message_at": "2026-04-11T16:57:57.517000Z",
       "last_bot_msg_at": "2026-04-11T13:57:57.111369",
-      "tempo_sem_interacao": "8h 17min",
+      "tempo_sem_interacao": "8h 32min",
       "first_id": 20875,
       "last_id": 20876,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1494\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -294,7 +304,7 @@
       "first_message_at": "2026-04-11T00:00:00.000Z",
       "last_message_at": "2026-04-11T16:11:23.850000Z",
       "last_bot_msg_at": "2026-04-11T13:11:23.463823",
-      "tempo_sem_interacao": "9h 4min",
+      "tempo_sem_interacao": "9h 19min",
       "first_id": 20860,
       "last_id": 20874,
       "last_message_preview": "👍",
@@ -418,7 +428,7 @@
       "first_message_at": "2026-04-11T00:00:00.000Z",
       "last_message_at": "2026-04-11T11:56:46.660000Z",
       "last_bot_msg_at": "2026-04-11T08:56:46.219575",
-      "tempo_sem_interacao": "13h 19min",
+      "tempo_sem_interacao": "13h 34min",
       "first_id": 20828,
       "last_id": 20859,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1490\nNome: Márcia Montenegro\n\nMensagem(ns) do cliente:\nPrevent Sên...",
@@ -533,7 +543,7 @@
       "first_message_at": "2026-04-11T00:00:00.000Z",
       "last_message_at": "2026-04-11T11:38:30.323000Z",
       "last_bot_msg_at": "2026-04-11T08:38:29.855205",
-      "tempo_sem_interacao": "13h 37min",
+      "tempo_sem_interacao": "13h 52min",
       "first_id": 20847,
       "last_id": 20855,
       "last_message_preview": "Ok",
@@ -637,7 +647,7 @@
       "first_message_at": "2026-04-11T00:00:00.000Z",
       "last_message_at": "2026-04-11T03:35:48.561000Z",
       "last_bot_msg_at": "2026-04-11T00:35:47.674024",
-      "tempo_sem_interacao": "21h 40min",
+      "tempo_sem_interacao": "21h 55min",
       "first_id": 20832,
       "last_id": 20844,
       "last_message_preview": "Valeu",
@@ -751,7 +761,7 @@
       "first_message_at": "2026-04-10T00:00:00.000Z",
       "last_message_at": "2026-04-11T01:44:55.051000Z",
       "last_bot_msg_at": "2026-04-10T22:44:54.60636",
-      "tempo_sem_interacao": "23h 30min",
+      "tempo_sem_interacao": "23h 45min",
       "first_id": 20826,
       "last_id": 20827,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1489\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -1958,7 +1968,7 @@
       "first_message_at": "2026-04-09T00:00:00.000Z",
       "last_message_at": "2026-04-10T01:30:12.654000Z",
       "last_bot_msg_at": "2026-04-09T22:30:12.093923",
-      "tempo_sem_interacao": "1 dia",
+      "tempo_sem_interacao": "2 dias",
       "first_id": 20765,
       "last_id": 20766,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1483\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
