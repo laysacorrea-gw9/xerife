@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-04-11T11:30:49.689Z",
+    "generated_at": "2026-04-11T11:45:51.130Z",
     "total_conversations": 200,
-    "total_messages": 3243,
+    "total_messages": 3250,
     "stats": {
       "quente": 1,
       "morno": 7,
-      "frio": 31,
-      "desinteresse": 161,
+      "frio": 30,
+      "desinteresse": 162,
       "sem_classificacao": 0
     }
   },
@@ -20,8 +20,8 @@
         "baserow_id": 1492,
         "nome": "Janaina Verneck",
         "email": "",
-        "qtd_vidas": "",
-        "desinteresse": false,
+        "qtd_vidas": 5,
+        "desinteresse": true,
         "observacoes": "Janaina Verneck",
         "reagendamento": null,
         "corretor": "",
@@ -31,13 +31,29 @@
         "nome": "Janaina Verneck",
         "email": "",
         "telefone": "+55 21 99193-6774",
-        "vidas": [],
-        "cidade": "",
+        "vidas": [
+          {
+            "idade": 9
+          },
+          {
+            "idade": 31
+          },
+          {
+            "idade": 59
+          },
+          {
+            "idade": 53
+          },
+          {
+            "idade": 57
+          }
+        ],
+        "cidade": "Rio de Janeiro / RJ",
         "contratacao": "",
         "cnpj": "",
         "tipo_empresa": "",
         "profissao": "",
-        "plano_atual": "",
+        "plano_atual": "Nenhum",
         "motivo": "",
         "interesse": "",
         "rede_preferencial": "",
@@ -45,19 +61,19 @@
         "consultor": "",
         "obs_crm": "Janaina Verneck",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Janaina Verneck\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99193-6774\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Janaina Verneck\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Janaina Verneck\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99193-6774\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nJanaina Verneck — 9 anos\nDependente 1 — 31 anos\nDependente 2 — 59 anos\nDependente 3 — 53 anos\nDependente 4 — 57 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\n\n🏥 Plano atual: Nenhum\n\n⚠️ Observação: Janaina Verneck\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
       },
-      "status": "frio",
+      "status": "desinteresse",
       "bot": "preto",
       "consultor": "",
-      "message_count": 2,
+      "message_count": 9,
       "first_message_at": "2026-04-11T00:00:00.000Z",
-      "last_message_at": "2026-04-11T11:23:10.055000Z",
-      "last_bot_msg_at": "2026-04-11T08:23:09.511797",
+      "last_message_at": "2026-04-11T11:38:30.323000Z",
+      "last_bot_msg_at": "2026-04-11T08:38:29.855205",
       "tempo_sem_interacao": "3h 7min",
       "first_id": 20847,
-      "last_id": 20848,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1492\nNome: \n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação...",
+      "last_id": 20855,
+      "last_message_preview": "Ok",
       "messages": [
         {
           "role": "user",
@@ -68,6 +84,41 @@
           "role": "ai",
           "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Você pode me dizer qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
           "msg_time": "2026-04-11T08:23:09.511797"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1492\nNome: Janaina Verneck\n\nMensagem(ns) do cliente:\nBom dia\nGostaria de saber orçamento sem compromisso\n5 pessoas\n\nJanaina meu nome",
+          "msg_time": "2026-04-11T08:33:15.791398"
+        },
+        {
+          "role": "ai",
+          "content": "Bom dia, Janaina! 😊 Para te ajudar com o orçamento, poderia me informar as idades das 5 pessoas? Isso é importante para que eu consiga encontrar as melhores opções para vocês.",
+          "msg_time": "2026-04-11T08:33:15.793917"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1492\nNome: Janaina Verneck\n\nMensagem(ns) do cliente:\n9\n31\n59\n53\n57\n\nEmpresarial",
+          "msg_time": "2026-04-11T08:34:54.555694"
+        },
+        {
+          "role": "ai",
+          "content": "Perfeito, Janaina! Agora preciso saber em qual cidade e estado o plano será utilizado. Além disso, você já possui um plano de saúde atualmente? Se sim, qual e quanto paga hoje? Isso ajuda a encontrar a melhor opção para vocês.",
+          "msg_time": "2026-04-11T08:34:54.559162"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1492\nNome: Janaina Verneck\n\nMensagem(ns) do cliente:\nRio de Janeiro, Rj\n\nEstou sem plano",
+          "msg_time": "2026-04-11T08:38:29.851933"
+        },
+        {
+          "role": "ai",
+          "content": "Janaina, obrigada por todas as informações! Vou encaminhar seu contato para o especialista, que vai te apresentar as melhores opções de plano para vocês em Rio de Janeiro. Ele vai te chamar aqui no WhatsApp em breve.",
+          "msg_time": "2026-04-11T08:38:29.855205"
+        },
+        {
+          "role": "user",
+          "content": "Ok",
+          "msg_time": "2026-04-11T08:39:38.097529"
         }
       ]
     },
@@ -113,7 +164,7 @@
       "first_message_at": "2026-04-11T00:00:00.000Z",
       "last_message_at": "2026-04-11T11:20:44.977000Z",
       "last_bot_msg_at": "2026-04-11T08:20:44.119939",
-      "tempo_sem_interacao": "3h 10min",
+      "tempo_sem_interacao": "3h 25min",
       "first_id": 20828,
       "last_id": 20846,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1490\nNome: Márcia Montenegro\n\nMensagem(ns) do cliente:\nRio de Jane...",
@@ -202,7 +253,7 @@
       "first_message_at": "2026-04-11T00:00:00.000Z",
       "last_message_at": "2026-04-11T03:35:48.561000Z",
       "last_bot_msg_at": "2026-04-11T00:35:47.674024",
-      "tempo_sem_interacao": "10h 55min",
+      "tempo_sem_interacao": "11h 10min",
       "first_id": 20832,
       "last_id": 20844,
       "last_message_preview": "Valeu",
@@ -316,7 +367,7 @@
       "first_message_at": "2026-04-10T00:00:00.000Z",
       "last_message_at": "2026-04-11T01:44:55.051000Z",
       "last_bot_msg_at": "2026-04-10T22:44:54.60636",
-      "tempo_sem_interacao": "12h 45min",
+      "tempo_sem_interacao": "13h",
       "first_id": 20826,
       "last_id": 20827,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1489\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -375,7 +426,7 @@
       "first_message_at": "2026-04-06T00:00:00.000Z",
       "last_message_at": "2026-04-10T19:18:27.626000Z",
       "last_bot_msg_at": "2026-04-10T16:18:26.781933",
-      "tempo_sem_interacao": "19h 12min",
+      "tempo_sem_interacao": "19h 27min",
       "first_id": 20544,
       "last_id": 20825,
       "last_message_preview": "Desculpe nao responder\n\nabs",
@@ -466,7 +517,7 @@
       "first_message_at": "2026-04-10T00:00:00.000Z",
       "last_message_at": "2026-04-10T18:07:07.857000Z",
       "last_bot_msg_at": "2026-04-10T15:07:07.111208",
-      "tempo_sem_interacao": "20h 23min",
+      "tempo_sem_interacao": "20h 38min",
       "first_id": 20811,
       "last_id": 20822,
       "last_message_preview": "D'or",
@@ -575,7 +626,7 @@
       "first_message_at": "2026-04-10T00:00:00.000Z",
       "last_message_at": "2026-04-10T16:45:25.577000Z",
       "last_bot_msg_at": "2026-04-10T13:45:25.136033",
-      "tempo_sem_interacao": "21h 45min",
+      "tempo_sem_interacao": "22h",
       "first_id": 20799,
       "last_id": 20810,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1487\nNome: Joel Quintino De Oliveira\n\nMensagem(ns) do cliente:\n305...",
@@ -697,7 +748,7 @@
       "first_message_at": "2026-04-10T00:00:00.000Z",
       "last_message_at": "2026-04-10T16:04:27.161000Z",
       "last_bot_msg_at": "2026-04-10T13:04:26.671314",
-      "tempo_sem_interacao": "22h 26min",
+      "tempo_sem_interacao": "22h 41min",
       "first_id": 20783,
       "last_id": 20798,
       "last_message_preview": "Ok",
@@ -8552,7 +8603,7 @@
       "first_message_at": "2026-03-24T00:00:00.000Z",
       "last_message_at": "2026-03-24T14:40:51.384000Z",
       "last_bot_msg_at": "2026-03-24T11:40:50.130059",
-      "tempo_sem_interacao": "17 dias",
+      "tempo_sem_interacao": "18 dias",
       "first_id": 20170,
       "last_id": 20181,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1346\nNome: Luiz Berriel\n\nMensagem(ns) do cliente:\nTenho o Saúde Br...",
