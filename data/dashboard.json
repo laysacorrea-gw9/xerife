@@ -1,17 +1,293 @@
 {
   "meta": {
-    "generated_at": "2026-04-13T23:15:48.290Z",
+    "generated_at": "2026-04-13T23:30:48.846Z",
     "total_conversations": 200,
     "total_messages": 3293,
     "stats": {
       "quente": 0,
-      "morno": 3,
+      "morno": 2,
       "frio": 38,
-      "desinteresse": 159,
+      "desinteresse": 160,
       "sem_classificacao": 0
     }
   },
   "conversations": [
+    {
+      "session_id": "5521998765827@s.whatsapp.net",
+      "phone": "5521998765827",
+      "phone_display": "+55 21 99876-5827",
+      "lead": {
+        "baserow_id": 1506,
+        "nome": "",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": true,
+        "observacoes": "",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Não identificado",
+        "email": "",
+        "telefone": "+55 21 99876-5827",
+        "vidas": [],
+        "cidade": "",
+        "contratacao": "",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "o Gilberto da GW",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "",
+        "bot": "Não identificado",
+        "formatted": "👤 Cliente: Não identificado\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99876-5827\n\n📋 Dados contratuais:\n\nProfissão: o Gilberto da GW\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Não identificado"
+      },
+      "status": "desinteresse",
+      "bot": "desconhecido",
+      "consultor": "",
+      "message_count": 3,
+      "first_message_at": "2026-04-13T00:00:00.000Z",
+      "last_message_at": "2026-04-13T23:24:39.174000Z",
+      "last_bot_msg_at": "2026-04-13T20:24:37.178181",
+      "tempo_sem_interacao": "3h 6min",
+      "first_id": 20960,
+      "last_id": 20962,
+      "last_message_preview": "Isto não e hora. Boa noite",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1506\nNome: \n\nMensagem(ns) do cliente:\nOlá! Waldenir\n\nSou o Gilberto da GW9, corretora de planos de saúde. \nRecebi seu contato para receber algumas cotações para um plano Amil.\nCom 6 pessoas a gente consegue condições bem especiais.\nPorém preciso de algumas informações essenciais qual melhor horário para nos falarmos ?",
+          "msg_time": "2026-04-13T20:24:37.173849"
+        },
+        {
+          "role": "ai",
+          "content": "Olá, Waldenir! Que bom receber seu contato. Para te ajudar da melhor forma, preciso de algumas informações antes de agendarmos uma conversa. \n\nEsse plano de saúde seria para quantas pessoas e quais as idades? Isso nos ajudará a encontrar opções ideais para você.",
+          "msg_time": "2026-04-13T20:24:37.178181"
+        },
+        {
+          "role": "user",
+          "content": "Isto não e hora. Boa noite",
+          "msg_time": "2026-04-13T20:25:41.175333"
+        }
+      ]
+    },
+    {
+      "session_id": "5521993257007@s.whatsapp.net",
+      "phone": "5521993257007",
+      "phone_display": "+55 21 99325-7007",
+      "lead": {
+        "baserow_id": 1505,
+        "nome": "",
+        "email": "",
+        "qtd_vidas": 4,
+        "desinteresse": true,
+        "observacoes": "",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Não identificado",
+        "email": "",
+        "telefone": "+55 21 99325-7007",
+        "vidas": [
+          {
+            "idade": 5
+          },
+          {
+            "idade": 13
+          },
+          {
+            "idade": 17
+          },
+          {
+            "idade": 59
+          }
+        ],
+        "cidade": "Niteroi / RJ",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "LTDA",
+        "profissao": "",
+        "plano_atual": "sulamerica  plano pago 2000",
+        "motivo": "Encerramento do plano atual\nIncluir novas vidas",
+        "interesse": "sulamerica",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "Laysa",
+        "obs_crm": "",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Não identificado\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99325-7007\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nTitular — 5 anos\nDependente 1 — 13 anos\nDependente 2 — 17 anos\nDependente 3 — 59 anos\n\n📋 Dados contratuais:\n\nCidade: Niteroi / RJ\nContratação: CNPJ\nTipo: LTDA\n\n🏥 Plano atual: sulamerica  plano pago 2000\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\nIncluir novas vidas\n\n🎯 Interesse: sulamerica\n👤 Consultor: Laysa\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "desinteresse",
+      "bot": "preto",
+      "consultor": "Laysa",
+      "message_count": 30,
+      "first_message_at": "2026-04-13T00:00:00.000Z",
+      "last_message_at": "2026-04-13T23:22:56.112000Z",
+      "last_bot_msg_at": "2026-04-13T20:22:55.622984",
+      "tempo_sem_interacao": "3h 7min",
+      "first_id": 19447,
+      "last_id": 20959,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1505\nNome: \n\nMensagem(ns) do cliente:\n+55 21 99876-5827",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1260\nNome: Laysa Corrêa\n\nMensagem(ns) do cliente:\nNão tenho",
+          "msg_time": "2026-03-18T20:43:17.891176"
+        },
+        {
+          "role": "ai",
+          "content": "Olá, Laysa! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Ok? Seriam para quantas pessoas e quais as idades?",
+          "msg_time": "2026-03-18T20:43:17.893835"
+        },
+        {
+          "role": "user",
+          "content": "oi quero um plano de saude para 4 pessoas , 5, 13,17,59\n\nmoro em niteroi\nnao tenho plano \nQuero pela minha empresa LTDA\nnao tenho plano pago 2000",
+          "msg_time": "2026-03-18T20:44:49.987687"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1260\nNome: Laysa Corrêa\n\nMensagem(ns) do cliente:\noi quero um plano de saude para 4 pessoas , 5, 13,17,59\n\nmoro em niteroi\nnao tenho plano \nQuero pela minha empresa LTDA\nnao tenho plano pago 2000",
+          "msg_time": "2026-03-18T20:46:44.4439"
+        },
+        {
+          "role": "ai",
+          "content": "Obrigada pelas informações, Laysa! 🌟 Você mencionou que são 4 pessoas com idades de 5, 13, 17 e 59 anos, que mora em Niterói, que não tem plano atualmente e que deseja contratar pela empresa LTDA. \n\nAgora, só para confirmar: você paga atualmente R$ 2000 por algum plano anterior que não tem mais, certo?",
+          "msg_time": "2026-03-18T20:46:44.445579"
+        },
+        {
+          "role": "user",
+          "content": "tenho plano e pago 2000 desculpa",
+          "msg_time": "2026-03-18T20:47:29.376403"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1260\nNome: \n\nMensagem(ns) do cliente:\ntenho plano e pago 2000 desculpa",
+          "msg_time": "2026-03-18T20:48:57.691805"
+        },
+        {
+          "role": "ai",
+          "content": "Sem problemas, Laysa! Então você possui um plano e paga R$ 2000. \n\nEstou quase finalizando o registro das suas informações. Para confirmar, qual é o nome do seu plano atual?",
+          "msg_time": "2026-03-18T20:48:57.693869"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1260\nNome: \n\nMensagem(ns) do cliente:\nsulamerica",
+          "msg_time": "2026-03-18T20:49:57.670016"
+        },
+        {
+          "role": "ai",
+          "content": "Laysa, obrigada por todas as informações! Vou encaminhar seu contato para o João, nosso especialista, que vai te apresentar as melhores opções de plano para vocês, 4 vidas em Niterói. Ele vai te chamar aqui no WhatsApp em breve.",
+          "msg_time": "2026-03-18T20:49:57.673017"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1260\nNome: \n\nMensagem(ns) do cliente:\nok",
+          "msg_time": "2026-03-18T20:53:44.694416"
+        },
+        {
+          "role": "ai",
+          "content": "Laysa, tudo certo! Seu contato foi encaminhado para o João, nosso especialista, que vai te ajudar a encontrar o melhor plano. Ele entrará em contato contigo pelo WhatsApp em breve.\n\nSe precisar de algo mais, estou por aqui. 😊",
+          "msg_time": "2026-03-18T20:53:44.697504"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1263\nNome: \n\nMensagem(ns) do cliente:\n.",
+          "msg_time": "2026-03-18T20:56:55.187159"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para te ajudar, poderia me dizer seu nome? E quais informações você gostaria sobre planos de saúde?",
+          "msg_time": "2026-03-18T20:56:55.190322"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1263\nNome: Laysa Corrêa\n\nMensagem(ns) do cliente:\noi quero um plano de saude para 4 pessoas , 5, 13,17,59\n\nmoro em niteroi\nnao tenho plano \nQuero pela minha empresa LTDA\ntenho sulamerica  plano pago 2000",
+          "msg_time": "2026-03-18T20:57:34.24653"
+        },
+        {
+          "role": "ai",
+          "content": "Obrigada pelas informações, Laysa! Você mencionou que são 4 pessoas com idades de 5, 13, 17 e 59 anos, mora em Niterói, tem o plano SulAmérica e paga R$ 2000.\n\nPara finalizar, preciso apenas confirmar se deseja registrar o plano pela sua empresa LTDA. Você pode me confirmar?",
+          "msg_time": "2026-03-18T20:57:34.25123"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1263\nNome: Laysa Corrêa\n\nMensagem(ns) do cliente:\nso corrigindo tenho plano\n\nLTDA",
+          "msg_time": "2026-03-18T20:58:28.891281"
+        },
+        {
+          "role": "ai",
+          "content": "Laysa, obrigada por todas as informações! Vou encaminhar seu contato para a Isis, nossa especialista, que vai te apresentar as melhores opções de plano para vocês, 4 vidas em Niterói. Ela vai te chamar aqui no WhatsApp em breve.\n\nSe precisar de algo mais, estou à disposição! 😊",
+          "msg_time": "2026-03-18T20:58:28.893574"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1336\nNome: \n\nMensagem(ns) do cliente:\n?",
+          "msg_time": "2026-03-23T16:22:27.942389"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Como posso te ajudar hoje? Se estiver buscando informações sobre planos de saúde, estou aqui para ajudar!",
+          "msg_time": "2026-03-23T16:22:27.946594"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1336\nNome: Laysa Corrêa\n\nMensagem(ns) do cliente:\nainda não obrigada",
+          "msg_time": "2026-03-23T16:30:36.881391"
+        },
+        {
+          "role": "ai",
+          "content": "Laysa, entendi! Se precisar de informações sobre planos futuramente, estarei à disposição. É só me chamar! Tenha uma ótima noite! 😊",
+          "msg_time": "2026-03-23T16:30:36.889538"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1399\nNome: \n\nMensagem(ns) do cliente:\nOi",
+          "msg_time": "2026-03-25T15:17:40.551441"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Como posso te ajudar hoje? Se estiver interessado em planos de saúde, estou aqui para esclarecer suas dúvidas!",
+          "msg_time": "2026-03-25T15:17:40.564425"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1443\nNome: \n\nMensagem(ns) do cliente:\nOi",
+          "msg_time": "2026-04-06T19:21:12.593209"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Como posso te ajudar hoje? Se estiver interessado em planos de saúde, estou aqui para ajudar!",
+          "msg_time": "2026-04-06T19:21:12.598895"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1463\nNome: \n\nMensagem(ns) do cliente:\nOi",
+          "msg_time": "2026-04-06T19:38:24.80293"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Como posso te ajudar hoje? Se você está em busca de informações sobre planos de saúde, estou à disposição!",
+          "msg_time": "2026-04-06T19:38:24.806355"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1505\nNome: \n\nMensagem(ns) do cliente:\n+55 21 99876-5827",
+          "msg_time": "2026-04-13T20:22:55.618911"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para te ajudar melhor, poderia me informar seu nome e o que você está buscando em relação a planos de saúde?",
+          "msg_time": "2026-04-13T20:22:55.622984"
+        }
+      ]
+    },
     {
       "session_id": "5521978944636@s.whatsapp.net",
       "phone": "5521978944636",
@@ -5994,198 +6270,6 @@
           "role": "ai",
           "content": "Tatiana, obrigada por todas as informações! Vou encaminhar seu contato para o João, nosso especialista, que vai te apresentar as melhores opções de plano para vocês duas. Ele vai te chamar aqui no WhatsApp em breve. Se precisar de algo mais, estou à disposição!",
           "msg_time": "2026-04-06T19:54:36.501178"
-        }
-      ]
-    },
-    {
-      "session_id": "5521993257007@s.whatsapp.net",
-      "phone": "5521993257007",
-      "phone_display": "+55 21 99325-7007",
-      "lead": null,
-      "summary": {
-        "nome": "Não identificado",
-        "email": "",
-        "telefone": "+55 21 99325-7007",
-        "vidas": [
-          {
-            "idade": 5
-          },
-          {
-            "idade": 13
-          },
-          {
-            "idade": 17
-          },
-          {
-            "idade": 59
-          }
-        ],
-        "cidade": "Niteroi / RJ",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "LTDA",
-        "profissao": "",
-        "plano_atual": "sulamerica  plano pago 2000",
-        "motivo": "Encerramento do plano atual\nIncluir novas vidas",
-        "interesse": "sulamerica",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "Laysa",
-        "obs_crm": "",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Não identificado\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99325-7007\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nTitular — 5 anos\nDependente 1 — 13 anos\nDependente 2 — 17 anos\nDependente 3 — 59 anos\n\n📋 Dados contratuais:\n\nCidade: Niteroi / RJ\nContratação: CNPJ\nTipo: LTDA\n\n🏥 Plano atual: sulamerica  plano pago 2000\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\nIncluir novas vidas\n\n🎯 Interesse: sulamerica\n👤 Consultor: Laysa\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "morno",
-      "bot": "preto",
-      "consultor": "Laysa",
-      "message_count": 28,
-      "first_message_at": "2026-03-18T23:43:17.891Z",
-      "last_message_at": "2026-04-06T22:38:24.806Z",
-      "last_bot_msg_at": "2026-04-06T19:38:24.806355",
-      "tempo_sem_interacao": "7 dias",
-      "first_id": 19447,
-      "last_id": 20594,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1463\nNome: \n\nMensagem(ns) do cliente:\nOi",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1260\nNome: Laysa Corrêa\n\nMensagem(ns) do cliente:\nNão tenho",
-          "msg_time": "2026-03-18T20:43:17.891176"
-        },
-        {
-          "role": "ai",
-          "content": "Olá, Laysa! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Ok? Seriam para quantas pessoas e quais as idades?",
-          "msg_time": "2026-03-18T20:43:17.893835"
-        },
-        {
-          "role": "user",
-          "content": "oi quero um plano de saude para 4 pessoas , 5, 13,17,59\n\nmoro em niteroi\nnao tenho plano \nQuero pela minha empresa LTDA\nnao tenho plano pago 2000",
-          "msg_time": "2026-03-18T20:44:49.987687"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1260\nNome: Laysa Corrêa\n\nMensagem(ns) do cliente:\noi quero um plano de saude para 4 pessoas , 5, 13,17,59\n\nmoro em niteroi\nnao tenho plano \nQuero pela minha empresa LTDA\nnao tenho plano pago 2000",
-          "msg_time": "2026-03-18T20:46:44.4439"
-        },
-        {
-          "role": "ai",
-          "content": "Obrigada pelas informações, Laysa! 🌟 Você mencionou que são 4 pessoas com idades de 5, 13, 17 e 59 anos, que mora em Niterói, que não tem plano atualmente e que deseja contratar pela empresa LTDA. \n\nAgora, só para confirmar: você paga atualmente R$ 2000 por algum plano anterior que não tem mais, certo?",
-          "msg_time": "2026-03-18T20:46:44.445579"
-        },
-        {
-          "role": "user",
-          "content": "tenho plano e pago 2000 desculpa",
-          "msg_time": "2026-03-18T20:47:29.376403"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1260\nNome: \n\nMensagem(ns) do cliente:\ntenho plano e pago 2000 desculpa",
-          "msg_time": "2026-03-18T20:48:57.691805"
-        },
-        {
-          "role": "ai",
-          "content": "Sem problemas, Laysa! Então você possui um plano e paga R$ 2000. \n\nEstou quase finalizando o registro das suas informações. Para confirmar, qual é o nome do seu plano atual?",
-          "msg_time": "2026-03-18T20:48:57.693869"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1260\nNome: \n\nMensagem(ns) do cliente:\nsulamerica",
-          "msg_time": "2026-03-18T20:49:57.670016"
-        },
-        {
-          "role": "ai",
-          "content": "Laysa, obrigada por todas as informações! Vou encaminhar seu contato para o João, nosso especialista, que vai te apresentar as melhores opções de plano para vocês, 4 vidas em Niterói. Ele vai te chamar aqui no WhatsApp em breve.",
-          "msg_time": "2026-03-18T20:49:57.673017"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1260\nNome: \n\nMensagem(ns) do cliente:\nok",
-          "msg_time": "2026-03-18T20:53:44.694416"
-        },
-        {
-          "role": "ai",
-          "content": "Laysa, tudo certo! Seu contato foi encaminhado para o João, nosso especialista, que vai te ajudar a encontrar o melhor plano. Ele entrará em contato contigo pelo WhatsApp em breve.\n\nSe precisar de algo mais, estou por aqui. 😊",
-          "msg_time": "2026-03-18T20:53:44.697504"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1263\nNome: \n\nMensagem(ns) do cliente:\n.",
-          "msg_time": "2026-03-18T20:56:55.187159"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para te ajudar, poderia me dizer seu nome? E quais informações você gostaria sobre planos de saúde?",
-          "msg_time": "2026-03-18T20:56:55.190322"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1263\nNome: Laysa Corrêa\n\nMensagem(ns) do cliente:\noi quero um plano de saude para 4 pessoas , 5, 13,17,59\n\nmoro em niteroi\nnao tenho plano \nQuero pela minha empresa LTDA\ntenho sulamerica  plano pago 2000",
-          "msg_time": "2026-03-18T20:57:34.24653"
-        },
-        {
-          "role": "ai",
-          "content": "Obrigada pelas informações, Laysa! Você mencionou que são 4 pessoas com idades de 5, 13, 17 e 59 anos, mora em Niterói, tem o plano SulAmérica e paga R$ 2000.\n\nPara finalizar, preciso apenas confirmar se deseja registrar o plano pela sua empresa LTDA. Você pode me confirmar?",
-          "msg_time": "2026-03-18T20:57:34.25123"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1263\nNome: Laysa Corrêa\n\nMensagem(ns) do cliente:\nso corrigindo tenho plano\n\nLTDA",
-          "msg_time": "2026-03-18T20:58:28.891281"
-        },
-        {
-          "role": "ai",
-          "content": "Laysa, obrigada por todas as informações! Vou encaminhar seu contato para a Isis, nossa especialista, que vai te apresentar as melhores opções de plano para vocês, 4 vidas em Niterói. Ela vai te chamar aqui no WhatsApp em breve.\n\nSe precisar de algo mais, estou à disposição! 😊",
-          "msg_time": "2026-03-18T20:58:28.893574"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1336\nNome: \n\nMensagem(ns) do cliente:\n?",
-          "msg_time": "2026-03-23T16:22:27.942389"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Como posso te ajudar hoje? Se estiver buscando informações sobre planos de saúde, estou aqui para ajudar!",
-          "msg_time": "2026-03-23T16:22:27.946594"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1336\nNome: Laysa Corrêa\n\nMensagem(ns) do cliente:\nainda não obrigada",
-          "msg_time": "2026-03-23T16:30:36.881391"
-        },
-        {
-          "role": "ai",
-          "content": "Laysa, entendi! Se precisar de informações sobre planos futuramente, estarei à disposição. É só me chamar! Tenha uma ótima noite! 😊",
-          "msg_time": "2026-03-23T16:30:36.889538"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1399\nNome: \n\nMensagem(ns) do cliente:\nOi",
-          "msg_time": "2026-03-25T15:17:40.551441"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Como posso te ajudar hoje? Se estiver interessado em planos de saúde, estou aqui para esclarecer suas dúvidas!",
-          "msg_time": "2026-03-25T15:17:40.564425"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1443\nNome: \n\nMensagem(ns) do cliente:\nOi",
-          "msg_time": "2026-04-06T19:21:12.593209"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Como posso te ajudar hoje? Se estiver interessado em planos de saúde, estou aqui para ajudar!",
-          "msg_time": "2026-04-06T19:21:12.598895"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1463\nNome: \n\nMensagem(ns) do cliente:\nOi",
-          "msg_time": "2026-04-06T19:38:24.80293"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Como posso te ajudar hoje? Se você está em busca de informações sobre planos de saúde, estou à disposição!",
-          "msg_time": "2026-04-06T19:38:24.806355"
         }
       ]
     },
@@ -19434,80 +19518,6 @@
           "role": "ai",
           "content": "Ótimo, Zaudereide! \n\nEntão temos as idades: 7, 18, 47 e 57 anos, correto? \n\nPara finalizar, só preciso saber se vocês já possuem algum plano atualmente ou se estão sem. Isso vai ajudar a entender melhor o que vocês estão procurando.",
           "msg_time": "2026-03-18T10:12:11.314891"
-        }
-      ]
-    },
-    {
-      "session_id": "5521991943832@s.whatsapp.net",
-      "phone": "5521991943832",
-      "phone_display": "+55 21 99194-3832",
-      "lead": {
-        "baserow_id": 1156,
-        "nome": "Renata",
-        "email": "",
-        "qtd_vidas": "",
-        "desinteresse": true,
-        "observacoes": "Renata",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Renata",
-        "email": "",
-        "telefone": "+55 21 99194-3832",
-        "vidas": [],
-        "cidade": "Rio de Janeiro / RJ",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "MEI",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "Sulamérica",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "Renata",
-        "bot": "Gilbertinho Amarelo (2373)",
-        "formatted": "👤 Cliente: Renata\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99194-3832\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n🎯 Interesse: Sulamérica\n\n⚠️ Observação: Renata\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Amarelo (2373)"
-      },
-      "status": "desinteresse",
-      "bot": "amarelo",
-      "consultor": "",
-      "message_count": 5,
-      "first_message_at": "2026-03-13T00:00:00.000Z",
-      "last_message_at": "2026-03-18T12:56:32.486000Z",
-      "last_bot_msg_at": "2026-03-18T09:56:32.041936",
-      "tempo_sem_interacao": "26 dias",
-      "first_id": 18664,
-      "last_id": 19171,
-      "last_message_preview": "Formato de mensagem enviada nao suportado",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: \n\nMensagem(ns) do cliente:\nOlá gostaria de mais informações dos Planos de Saúde  Sulamérica",
-          "msg_time": "2026-03-13T22:58:39.647862"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! \nEu sou Gilberto, analista em Plano Saúde da Corretora GW9.\nTrabalhamos com todos os Planos de saúde no Rio de Janeiro. 🚀\nComo os valores dos Planos de saúde são tabelados e os preços mudam de acordo com a rede credenciada. Minha missão é de te ajudar a encontrar o produto que melhor lhe atenda na relação custo x acesso.\n[SPLIT]\nPor isso vou te fazer algumas perguntas, pode me dizer:\n1️⃣ Qual o seu nome e como gostaria de ser chamado?\n2️⃣ Quantas pessoas são e as idades?\n3️⃣ Qual a cidade que busca atendimento? Se tiver algum hospital de sua preferência, me informe, também nos ajuda.\n4️⃣ Como o plano será contratado: empresarial (CNPJ/MEI)?\n5️⃣ Já possui Plano atualmente? Se sim qual?\n\nPode responder por áudio se preferir. 🎙️",
-          "msg_time": "2026-03-13T22:58:39.651232"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Renata\n\nMensagem(ns) do cliente:\nBom dia, não mais.\nObrigada pelo retorno!",
-          "msg_time": "2026-03-18T09:56:32.038878"
-        },
-        {
-          "role": "ai",
-          "content": "Renata, entendo que você não deseja prosseguir neste momento. Se mudar de ideia ou precisar de informações futuras, estaremos sempre à disposição. \n\nObrigado pelo seu contato! 😊",
-          "msg_time": "2026-03-18T09:56:32.041936"
-        },
-        {
-          "role": "user",
-          "content": "Formato de mensagem enviada nao suportado",
-          "msg_time": "2026-03-18T09:56:58.474693"
         }
       ]
     }
