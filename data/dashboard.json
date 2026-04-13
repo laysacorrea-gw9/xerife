@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-04-13T00:30:54.578Z",
+    "generated_at": "2026-04-13T00:45:49.374Z",
     "total_conversations": 200,
-    "total_messages": 3271,
+    "total_messages": 3280,
     "stats": {
       "quente": 0,
       "morno": 4,
-      "frio": 38,
-      "desinteresse": 158,
+      "frio": 37,
+      "desinteresse": 159,
       "sem_classificacao": 0
     }
   },
@@ -21,7 +21,7 @@
         "nome": "Andressa Simões",
         "email": "",
         "qtd_vidas": "",
-        "desinteresse": false,
+        "desinteresse": true,
         "observacoes": "Andressa Simões",
         "reagendamento": null,
         "corretor": "",
@@ -33,9 +33,9 @@
         "telefone": "+55 21 99875-0017",
         "vidas": [],
         "cidade": "",
-        "contratacao": "",
+        "contratacao": "CNPJ",
         "cnpj": "",
-        "tipo_empresa": "",
+        "tipo_empresa": "MEI",
         "profissao": "",
         "plano_atual": "",
         "motivo": "",
@@ -45,19 +45,19 @@
         "consultor": "",
         "obs_crm": "Andressa Simões",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Andressa Simões\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99875-0017\n\n📋 Dados contratuais:\n\n🎯 Rede preferencial: Barra D'Or\n\n🎯 Interesse: Barra D'or\n\n⚠️ Observação: Andressa Simões\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Andressa Simões\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99875-0017\n\n📋 Dados contratuais:\n\nContratação: CNPJ\nTipo: MEI\n🎯 Rede preferencial: Barra D'Or\n\n🎯 Interesse: Barra D'or\n\n⚠️ Observação: Andressa Simões\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
       },
-      "status": "frio",
+      "status": "desinteresse",
       "bot": "preto",
       "consultor": "",
-      "message_count": 2,
+      "message_count": 11,
       "first_message_at": "2026-04-12T00:00:00.000Z",
-      "last_message_at": "2026-04-13T00:29:58.146000Z",
-      "last_bot_msg_at": "2026-04-12T21:29:57.671325",
-      "tempo_sem_interacao": "3h",
+      "last_message_at": "2026-04-13T00:33:49.652000Z",
+      "last_bot_msg_at": "2026-04-12T21:33:49.164965",
+      "tempo_sem_interacao": "3h 12min",
       "first_id": 20930,
-      "last_id": 20931,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1503\nNome: \n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação...",
+      "last_id": 20940,
+      "last_message_preview": "Ok obrigada",
       "messages": [
         {
           "role": "user",
@@ -68,6 +68,51 @@
           "role": "ai",
           "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
           "msg_time": "2026-04-12T21:29:57.671325"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1503\nNome: Andressa Simões\n\nMensagem(ns) do cliente:\nBoa noite \nMe chamo Andressa\nO plano seria pro meu filho de 8 anos",
+          "msg_time": "2026-04-12T21:31:16.969211"
+        },
+        {
+          "role": "ai",
+          "content": "Boa noite, Andressa! Obrigada por compartilhar. Entendi que o plano seria para o seu filho de 8 anos. Agora, qual é a cidade onde você busca atendimento? Se tiver algum hospital de preferência, isso nos ajuda a encontrar um plano que atenda suas necessidades.",
+          "msg_time": "2026-04-12T21:31:16.973708"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1503\nNome: Andressa Simões\n\nMensagem(ns) do cliente:\nDe preferência no de Caxias",
+          "msg_time": "2026-04-12T21:32:05.557223"
+        },
+        {
+          "role": "ai",
+          "content": "Perfeito, Andressa! Caxias é uma ótima escolha. Agora, como o plano será contratado: empresarial por CNPJ MEI ou LTDA? Se não tiver, só preciso saber se é MEI ou LTDA.",
+          "msg_time": "2026-04-12T21:32:05.560915"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1503\nNome: Andressa Simões\n\nMensagem(ns) do cliente:\nMEI",
+          "msg_time": "2026-04-12T21:33:03.881744"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Andressa! O plano será contratado como MEI. Por último, você já possui um plano de saúde atualmente? Se sim, qual e quanto paga hoje? Isso nos ajudará a encontrar a melhor opção de custo e acesso para você. ",
+          "msg_time": "2026-04-12T21:33:03.888822"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1503\nNome: Andressa Simões\n\nMensagem(ns) do cliente:\nNão possuo nenhum plano atualmente",
+          "msg_time": "2026-04-12T21:33:49.162202"
+        },
+        {
+          "role": "ai",
+          "content": "Andressa, obrigada por todas as informações! Vou encaminhar seu contato para o especialista, que vai te apresentar as melhores opções de plano para o seu filho em Caxias. Ele vai te chamar aqui no WhatsApp em breve.",
+          "msg_time": "2026-04-12T21:33:49.164965"
+        },
+        {
+          "role": "user",
+          "content": "Ok obrigada",
+          "msg_time": "2026-04-12T21:34:21.03125"
         }
       ]
     },
@@ -113,7 +158,7 @@
       "first_message_at": "2026-04-12T00:00:00.000Z",
       "last_message_at": "2026-04-12T23:32:38.607000Z",
       "last_bot_msg_at": "2026-04-12T20:32:38.056529",
-      "tempo_sem_interacao": "3h 58min",
+      "tempo_sem_interacao": "4h 13min",
       "first_id": 20926,
       "last_id": 20929,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1502\nNome: Aristóteles Valeriano\n\nMensagem(ns) do cliente:\nEu tenh...",
@@ -182,7 +227,7 @@
       "first_message_at": "2026-04-12T00:00:00.000Z",
       "last_message_at": "2026-04-12T22:28:40.376000Z",
       "last_bot_msg_at": "2026-04-12T19:28:39.901661",
-      "tempo_sem_interacao": "5h 2min",
+      "tempo_sem_interacao": "5h 17min",
       "first_id": 20924,
       "last_id": 20925,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1501\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -241,7 +286,7 @@
       "first_message_at": "2026-04-12T00:00:00.000Z",
       "last_message_at": "2026-04-12T20:20:05.379000Z",
       "last_bot_msg_at": "2026-04-12T17:20:04.309019",
-      "tempo_sem_interacao": "7h 10min",
+      "tempo_sem_interacao": "7h 25min",
       "first_id": 20909,
       "last_id": 20923,
       "last_message_preview": "Ok",
@@ -365,7 +410,7 @@
       "first_message_at": "2026-04-12T00:00:00.000Z",
       "last_message_at": "2026-04-12T12:58:58.685000Z",
       "last_bot_msg_at": "2026-04-12T09:58:58.287629",
-      "tempo_sem_interacao": "14h 31min",
+      "tempo_sem_interacao": "14h 46min",
       "first_id": 20907,
       "last_id": 20908,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1499\nNome: \n\nMensagem(ns) do cliente:\n<ContextoImagem>\n\n  <Detalhe...",
@@ -424,7 +469,7 @@
       "first_message_at": "2026-04-12T00:00:00.000Z",
       "last_message_at": "2026-04-12T10:22:15.810000Z",
       "last_bot_msg_at": "2026-04-12T07:22:15.279738",
-      "tempo_sem_interacao": "17h 8min",
+      "tempo_sem_interacao": "17h 23min",
       "first_id": 20905,
       "last_id": 20906,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1498\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -1249,7 +1294,7 @@
       "first_message_at": "2026-04-11T00:00:00.000Z",
       "last_message_at": "2026-04-11T03:35:48.561000Z",
       "last_bot_msg_at": "2026-04-11T00:35:47.674024",
-      "tempo_sem_interacao": "1 dia",
+      "tempo_sem_interacao": "2 dias",
       "first_id": 20832,
       "last_id": 20844,
       "last_message_preview": "Valeu",
