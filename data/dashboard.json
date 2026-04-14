@@ -1,17 +1,76 @@
 {
   "meta": {
-    "generated_at": "2026-04-14T04:30:50.281Z",
+    "generated_at": "2026-04-14T04:45:48.085Z",
     "total_conversations": 200,
-    "total_messages": 3281,
+    "total_messages": 3279,
     "stats": {
       "quente": 0,
       "morno": 2,
-      "frio": 40,
-      "desinteresse": 158,
+      "frio": 41,
+      "desinteresse": 157,
       "sem_classificacao": 0
     }
   },
   "conversations": [
+    {
+      "session_id": "556183502112@s.whatsapp.net",
+      "phone": "556183502112",
+      "phone_display": "+55 61 8350-2112",
+      "lead": {
+        "baserow_id": 1509,
+        "nome": "Renata Vieitas",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "observacoes": "Renata Vieitas",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Renata Vieitas",
+        "email": "",
+        "telefone": "+55 61 8350-2112",
+        "vidas": [],
+        "cidade": "",
+        "contratacao": "",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "Sulamérica",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "Renata Vieitas",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Renata Vieitas\n📱 Contato: WhatsApp\n📞 Telefone: +55 61 8350-2112\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: Sulamérica\n\n⚠️ Observação: Renata Vieitas\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "frio",
+      "bot": "preto",
+      "consultor": "",
+      "message_count": 2,
+      "first_message_at": "2026-04-14T00:00:00.000Z",
+      "last_message_at": "2026-04-14T04:38:05.193000Z",
+      "last_bot_msg_at": "2026-04-14T01:38:04.838268",
+      "tempo_sem_interacao": "3h 7min",
+      "first_id": 20967,
+      "last_id": 20968,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1509\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1509\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Sulamérica",
+          "msg_time": "2026-04-14T01:38:04.834311"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Você poderia me dizer qual é o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-04-14T01:38:04.838268"
+        }
+      ]
+    },
     {
       "session_id": "5521995262165@s.whatsapp.net",
       "phone": "5521995262165",
@@ -54,7 +113,7 @@
       "first_message_at": "2026-04-13T00:00:00.000Z",
       "last_message_at": "2026-04-14T01:55:55.882000Z",
       "last_bot_msg_at": "2026-04-13T22:55:55.215011",
-      "tempo_sem_interacao": "5h 34min",
+      "tempo_sem_interacao": "5h 49min",
       "first_id": 20965,
       "last_id": 20966,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1508\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -113,7 +172,7 @@
       "first_message_at": "2026-04-13T00:00:00.000Z",
       "last_message_at": "2026-04-14T00:47:43.860000Z",
       "last_bot_msg_at": "2026-04-13T21:47:43.492587",
-      "tempo_sem_interacao": "6h 43min",
+      "tempo_sem_interacao": "6h 58min",
       "first_id": 20963,
       "last_id": 20964,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1507\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -172,7 +231,7 @@
       "first_message_at": "2026-04-13T00:00:00.000Z",
       "last_message_at": "2026-04-13T23:24:39.174000Z",
       "last_bot_msg_at": "2026-04-13T20:24:37.178181",
-      "tempo_sem_interacao": "8h 6min",
+      "tempo_sem_interacao": "8h 21min",
       "first_id": 20960,
       "last_id": 20962,
       "last_message_preview": "Isto não e hora. Boa noite",
@@ -249,7 +308,7 @@
       "first_message_at": "2026-04-13T00:00:00.000Z",
       "last_message_at": "2026-04-13T23:22:56.112000Z",
       "last_bot_msg_at": "2026-04-13T20:22:55.622984",
-      "tempo_sem_interacao": "8h 7min",
+      "tempo_sem_interacao": "8h 22min",
       "first_id": 19447,
       "last_id": 20959,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1505\nNome: \n\nMensagem(ns) do cliente:\n+55 21 99876-5827",
@@ -19379,75 +19438,6 @@
           "role": "system",
           "content": "\n",
           "msg_time": "2026-03-18T11:00:37.441746"
-        }
-      ]
-    },
-    {
-      "session_id": "5521971962253@s.whatsapp.net",
-      "phone": "5521971962253",
-      "phone_display": "+55 21 97196-2253",
-      "lead": {
-        "baserow_id": 1228,
-        "nome": "Anderson",
-        "email": "andersonchamberlain@yahoo.com.br",
-        "qtd_vidas": "",
-        "desinteresse": true,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Anderson",
-        "email": "andersonchamberlain@yahoo.com.br",
-        "telefone": "+55 21 97196-2253",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "Anderson",
-        "obs_crm": "",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Anderson\n📧 E-mail: andersonchamberlain@yahoo.com.br\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97196-2253\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n👤 Consultor: Anderson\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "desinteresse",
-      "bot": "preto",
-      "consultor": "Anderson",
-      "message_count": 4,
-      "first_message_at": "2026-03-16T00:00:00.000Z",
-      "last_message_at": "2026-03-17T01:41:35.278000Z",
-      "last_bot_msg_at": "2026-03-18T09:47:06.42175",
-      "tempo_sem_interacao": "26 dias",
-      "first_id": 19072,
-      "last_id": 19205,
-      "last_message_preview": "Dados Fornecidos\nNome: Anderson\nContem CNPJ: sim\nNumero de Vidas: 4_vidas\nOperadora de Interesse: nã...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados Fornecidos\nNome: Anderson\nContem CNPJ: sim\nNumero de Vidas: 4_vidas\nOperadora de Interesse: não informado\nRegião: Não Informado\nPropaganda:\n",
-          "msg_time": "2026-03-16T22:41:27.628205"
-        },
-        {
-          "role": "ai",
-          "content": "Oi Anderson, eu sou o Gilberto da GW9 Saúde. Você pediu o nosso contato para saber mais sobre plano de saúde e vi que tem interesse em algo para 4 pessoas e já possui um CNPJ. Para te ajudar e ser mais assertivo, preciso confirmar algumas informações rápidas. Tudo bem?",
-          "msg_time": "2026-03-16T22:41:27.632304"
-        },
-        {
-          "role": "ai",
-          "content": "Oi Anderson! Aqui e o Gilberto da GW9 Saude. Ha alguns dias voce demonstrou interesse em plano de saude, mas nao conseguimos conversar. Ainda tem interesse? Se sim, posso te ajudar rapidinho!",
-          "msg_time": "2026-03-18T09:47:06.42175"
-        },
-        {
-          "role": "system",
-          "content": "\n",
-          "msg_time": "2026-03-18T11:00:32.703668"
         }
       ]
     }
