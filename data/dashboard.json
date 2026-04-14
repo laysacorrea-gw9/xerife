@@ -1,12 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-14T14:15:49.363Z",
+    "generated_at": "2026-04-14T14:30:50.409Z",
     "total_conversations": 200,
-    "total_messages": 3271,
+    "total_messages": 3273,
     "stats": {
       "quente": 0,
-      "morno": 2,
-      "frio": 42,
+      "morno": 3,
+      "frio": 41,
       "desinteresse": 156,
       "sem_classificacao": 0
     }
@@ -20,7 +20,7 @@
         "baserow_id": 1511,
         "nome": "Eloisa Salles",
         "email": "",
-        "qtd_vidas": "",
+        "qtd_vidas": 3,
         "desinteresse": false,
         "observacoes": "Eloisa Salles",
         "reagendamento": null,
@@ -31,9 +31,19 @@
         "nome": "Eloisa Salles",
         "email": "",
         "telefone": "+55 21 99985-9739",
-        "vidas": [],
+        "vidas": [
+          {
+            "idade": 22
+          },
+          {
+            "idade": 48
+          },
+          {
+            "idade": 76
+          }
+        ],
         "cidade": "",
-        "contratacao": "",
+        "contratacao": "CNPJ",
         "cnpj": "",
         "tipo_empresa": "",
         "profissao": "",
@@ -45,19 +55,19 @@
         "consultor": "",
         "obs_crm": "Eloisa Salles",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Eloisa Salles\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99985-9739\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Eloisa Salles\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Eloisa Salles\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99985-9739\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nEloisa Salles — 22 anos\nDependente 1 — 48 anos\nDependente 2 — 76 anos\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n\n⚠️ Observação: Eloisa Salles\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
       },
-      "status": "frio",
+      "status": "morno",
       "bot": "preto",
       "consultor": "",
-      "message_count": 2,
+      "message_count": 4,
       "first_message_at": "2026-04-14T00:00:00.000Z",
-      "last_message_at": "2026-04-14T14:15:06.108000Z",
-      "last_bot_msg_at": "2026-04-14T11:15:05.028658",
-      "tempo_sem_interacao": "3h",
+      "last_message_at": "2026-04-14T14:18:46.468000Z",
+      "last_bot_msg_at": "2026-04-14T11:18:45.948028",
+      "tempo_sem_interacao": "3h 12min",
       "first_id": 20982,
-      "last_id": 20983,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1511\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
+      "last_id": 20985,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1511\nNome: Eloisa Salles\n\nMensagem(ns) do cliente:\nTenho um plano ...",
       "messages": [
         {
           "role": "user",
@@ -68,6 +78,16 @@
           "role": "ai",
           "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
           "msg_time": "2026-04-14T11:15:05.028658"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1511\nNome: Eloisa Salles\n\nMensagem(ns) do cliente:\nTenho um plano empresa Bradesco com 5 funcionários. E tenho outro na sul america 3 pessoas idades 22, 48 e 76 estou querendo  migrar pra Bradesco  é possível",
+          "msg_time": "2026-04-14T11:18:45.943124"
+        },
+        {
+          "role": "ai",
+          "content": "Eloisa, entendi! Você possui planos com 5 funcionários e outro com 3 pessoas, com idades 22, 48 e 76. Em relação à migração para o Bradesco, isso pode ser possível, mas preciso confirmar algumas informações.\n\nQual é a cidade onde vocês buscam atendimento? E você mencionou que tinha um plano empresa, isso é feito através de CNPJ, correto? Se tiver o número do CNPJ, pode me informar?",
+          "msg_time": "2026-04-14T11:18:45.948028"
         }
       ]
     },
@@ -129,7 +149,7 @@
       "first_message_at": "2026-04-14T00:00:00.000Z",
       "last_message_at": "2026-04-14T13:00:06.278000Z",
       "last_bot_msg_at": "2026-04-14T10:00:04.776692",
-      "tempo_sem_interacao": "4h 15min",
+      "tempo_sem_interacao": "4h 30min",
       "first_id": 20969,
       "last_id": 20981,
       "last_message_preview": "Ok",
@@ -243,7 +263,7 @@
       "first_message_at": "2026-04-14T00:00:00.000Z",
       "last_message_at": "2026-04-14T04:38:05.193000Z",
       "last_bot_msg_at": "2026-04-14T01:38:04.838268",
-      "tempo_sem_interacao": "12h 37min",
+      "tempo_sem_interacao": "12h 52min",
       "first_id": 20967,
       "last_id": 20968,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1509\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -302,7 +322,7 @@
       "first_message_at": "2026-04-13T00:00:00.000Z",
       "last_message_at": "2026-04-14T01:55:55.882000Z",
       "last_bot_msg_at": "2026-04-13T22:55:55.215011",
-      "tempo_sem_interacao": "15h 19min",
+      "tempo_sem_interacao": "15h 34min",
       "first_id": 20965,
       "last_id": 20966,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1508\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -361,7 +381,7 @@
       "first_message_at": "2026-04-13T00:00:00.000Z",
       "last_message_at": "2026-04-14T00:47:43.860000Z",
       "last_bot_msg_at": "2026-04-13T21:47:43.492587",
-      "tempo_sem_interacao": "16h 28min",
+      "tempo_sem_interacao": "16h 43min",
       "first_id": 20963,
       "last_id": 20964,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1507\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -420,7 +440,7 @@
       "first_message_at": "2026-04-13T00:00:00.000Z",
       "last_message_at": "2026-04-13T23:24:39.174000Z",
       "last_bot_msg_at": "2026-04-13T20:24:37.178181",
-      "tempo_sem_interacao": "17h 51min",
+      "tempo_sem_interacao": "18h 6min",
       "first_id": 20960,
       "last_id": 20962,
       "last_message_preview": "Isto não e hora. Boa noite",
@@ -497,7 +517,7 @@
       "first_message_at": "2026-04-13T00:00:00.000Z",
       "last_message_at": "2026-04-13T23:22:56.112000Z",
       "last_bot_msg_at": "2026-04-13T20:22:55.622984",
-      "tempo_sem_interacao": "17h 52min",
+      "tempo_sem_interacao": "18h 7min",
       "first_id": 19447,
       "last_id": 20959,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1505\nNome: \n\nMensagem(ns) do cliente:\n+55 21 99876-5827",
