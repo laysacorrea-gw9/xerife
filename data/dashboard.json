@@ -1,17 +1,76 @@
 {
   "meta": {
-    "generated_at": "2026-04-14T00:45:48.520Z",
+    "generated_at": "2026-04-14T01:00:56.009Z",
     "total_conversations": 200,
-    "total_messages": 3293,
+    "total_messages": 3281,
     "stats": {
       "quente": 0,
       "morno": 2,
-      "frio": 38,
-      "desinteresse": 160,
+      "frio": 39,
+      "desinteresse": 159,
       "sem_classificacao": 0
     }
   },
   "conversations": [
+    {
+      "session_id": "5521996481651@s.whatsapp.net",
+      "phone": "5521996481651",
+      "phone_display": "+55 21 99648-1651",
+      "lead": {
+        "baserow_id": 1507,
+        "nome": "Alfredo Pereira",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "observacoes": "Alfredo Pereira",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Alfredo Pereira",
+        "email": "",
+        "telefone": "+55 21 99648-1651",
+        "vidas": [],
+        "cidade": "",
+        "contratacao": "",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "Amil",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "Alfredo Pereira",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Alfredo Pereira\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99648-1651\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Alfredo Pereira\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "frio",
+      "bot": "preto",
+      "consultor": "",
+      "message_count": 2,
+      "first_message_at": "2026-04-13T00:00:00.000Z",
+      "last_message_at": "2026-04-14T00:47:43.860000Z",
+      "last_bot_msg_at": "2026-04-13T21:47:43.492587",
+      "tempo_sem_interacao": "3h 13min",
+      "first_id": 20963,
+      "last_id": 20964,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1507\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1507\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Amil",
+          "msg_time": "2026-04-13T21:47:43.489613"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-04-13T21:47:43.492587"
+        }
+      ]
+    },
     {
       "session_id": "5521998765827@s.whatsapp.net",
       "phone": "5521998765827",
@@ -54,7 +113,7 @@
       "first_message_at": "2026-04-13T00:00:00.000Z",
       "last_message_at": "2026-04-13T23:24:39.174000Z",
       "last_bot_msg_at": "2026-04-13T20:24:37.178181",
-      "tempo_sem_interacao": "4h 21min",
+      "tempo_sem_interacao": "4h 36min",
       "first_id": 20960,
       "last_id": 20962,
       "last_message_preview": "Isto não e hora. Boa noite",
@@ -131,7 +190,7 @@
       "first_message_at": "2026-04-13T00:00:00.000Z",
       "last_message_at": "2026-04-13T23:22:56.112000Z",
       "last_bot_msg_at": "2026-04-13T20:22:55.622984",
-      "tempo_sem_interacao": "4h 22min",
+      "tempo_sem_interacao": "4h 38min",
       "first_id": 19447,
       "last_id": 20959,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1505\nNome: \n\nMensagem(ns) do cliente:\n+55 21 99876-5827",
@@ -15226,7 +15285,7 @@
       "first_message_at": "2026-03-21T00:00:00.000Z",
       "last_message_at": "2026-03-21T03:54:58.647000Z",
       "last_bot_msg_at": "2026-03-21T00:54:53.274512",
-      "tempo_sem_interacao": "23 dias",
+      "tempo_sem_interacao": "24 dias",
       "first_id": 19674,
       "last_id": 19675,
       "last_message_preview": "Dados Fornecidos\nNome: Denise\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o info...",
@@ -19389,135 +19448,6 @@
           "role": "ai",
           "content": "Olá!\n\nEu sou Gilberto, analista em Plano Saúde da Corretora GW9.  \nTrabalhamos com todos os Planos de saúde no Rio de Janeiro.🚀  \nVou te ajudar a entender as melhores opções de plano e, se fizer sentido, já deixo tudo organizado para o especialista te atender de forma objetiva. Pode ser?\n\nPara eu te apresentar as opções certas, preciso entender o perfil de quem vai entrar no plano. Pode me dizer:\n\n1️⃣ Quantas pessoas são e as idades?  \n2️⃣ Qual a cidade que busca atendimento? Se tiver algum hospital de sua preferência, também nos ajuda.  \n3️⃣ Como o plano será contratado: empresarial (CNPJ/MEI)?  \n4️⃣ Já possui plano atualmente? Se sim, qual?  \n\nPode responder por áudio 🎙️ se preferir.",
           "msg_time": "2026-03-18T10:46:21.888154"
-        }
-      ]
-    },
-    {
-      "session_id": "5522999747632@s.whatsapp.net",
-      "phone": "5522999747632",
-      "phone_display": "+55 22 99974-7632",
-      "lead": {
-        "baserow_id": 1241,
-        "nome": "Zaudereide",
-        "email": "zaude_biel@hotmail.com",
-        "qtd_vidas": 3,
-        "desinteresse": true,
-        "observacoes": "Registro interno: Consultor acionado.\nNome do lead: Zaudereide\nTipo de plano: Saúde\nTipo de contratação: CNPJ\nQuantidade de vidas: 3\nIdades dos beneficiários: 7, 18, 47, 57\nPossui plano atualmente: Não informado\nTipo de empresa (se CNPJ): MEI\nCidade/UF: Macaé/RJ",
-        "reagendamento": null,
-        "corretor": "Elisa",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Zaudereide",
-        "email": "zaude_biel@hotmail.com",
-        "telefone": "+55 22 99974-7632",
-        "vidas": [
-          {
-            "idade": 18
-          },
-          {
-            "idade": 47
-          },
-          {
-            "idade": 57
-          }
-        ],
-        "cidade": "",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "MEI",
-        "profissao": "",
-        "plano_atual": "Nenhum",
-        "motivo": "Redução de custo\nEncerramento do plano atual\nIncluir novas vidas",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "Elisa",
-        "obs_crm": "Registro interno: Consultor acionado.\nNome do lead: Zaudereide\nTipo de plano: Saúde\nTipo de contratação: CNPJ\nQuantidade de vidas: 3\nIdades dos beneficiários: 7, 18, 47, 57\nPossui plano atualmente: Não informado\nTipo de empresa (se CNPJ): MEI\nCidade/UF: Macaé/RJ",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Zaudereide\n📧 E-mail: zaude_biel@hotmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 22 99974-7632\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nZaudereide — 18 anos\nDependente 1 — 47 anos\nDependente 2 — 57 anos\n\n📋 Dados contratuais:\n\nContratação: CNPJ\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n😤 Motivo da troca:\n\nRedução de custo\nEncerramento do plano atual\nIncluir novas vidas\n\n⚠️ Observação: Registro interno: Consultor acionado.\nNome do lead: Zaudereide\nTipo de plano: Saúde\nTipo de contratação: CNPJ\nQuantidade de vidas: 3\nIdades dos beneficiários: 7, 18, 47, 57\nPossui plano atualmente: Não informado\nTipo de empresa (se CNPJ): MEI\nCidade/UF: Macaé/RJ\n👤 Consultor: Elisa\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "desinteresse",
-      "bot": "preto",
-      "consultor": "Elisa",
-      "message_count": 14,
-      "first_message_at": "2026-03-18T00:00:00.000Z",
-      "last_message_at": "2026-03-18T13:12:11.745000Z",
-      "last_bot_msg_at": "2026-03-18T10:12:11.314891",
-      "tempo_sem_interacao": "26 dias",
-      "first_id": 19172,
-      "last_id": 19185,
-      "last_message_preview": "Dados do lead no sistema:\nNome: Zaudereide\n\nMensagem(ns) do cliente:\n18, 47 e 57",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados Fornecidos\nNome: Zaudereide\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não informado\nRegião: Não Informado\nPropaganda:\n",
-          "msg_time": "2026-03-18T09:57:04.74213"
-        },
-        {
-          "role": "ai",
-          "content": "Oi Zaudereide, eu sou o Gilberto da GW9 Saúde. Você pediu o nosso contato para saber mais sobre o Plano de Saúde e vi que tem interesse para 3 pessoas e já possui um CNPJ. Pra te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo bem?",
-          "msg_time": "2026-03-18T09:57:04.744057"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Zaudereide\n\nMensagem(ns) do cliente:\nOk",
-          "msg_time": "2026-03-18T10:05:46.896156"
-        },
-        {
-          "role": "ai",
-          "content": "Ótimo, Zaudereide! \n\nPra que eu possa te ajudar da melhor forma, você pode me informar a cidade e o estado onde o plano será utilizado? Além disso, poderia me confirmar o número do CNPJ? Isso vai me ajudar a encontrar as melhores opções para vocês.",
-          "msg_time": "2026-03-18T10:05:46.900568"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Zaudereide\n\nMensagem(ns) do cliente:\nMacae , RJ",
-          "msg_time": "2026-03-18T10:07:00.283307"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Zaudereide! Macaé, RJ é uma ótima escolha.\n\nAgora, você poderia me informar o número do CNPJ? Isso nos ajudará a verificar as operadoras disponíveis e alguma possível redução de custo.",
-          "msg_time": "2026-03-18T10:07:00.29038"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Zaudereide\n\nMensagem(ns) do cliente:\nNúmero de CNPJ nao esta comigo agora",
-          "msg_time": "2026-03-18T10:07:29.539502"
-        },
-        {
-          "role": "ai",
-          "content": "Sem problemas, Zaudereide! Podemos seguir assim mesmo. \n\nSó pra eu entender melhor, esse CNPJ é de uma empresa MEI ou LTDA? E se for MEI, quanto tempo já está aberto? Essa informação pode ser muito útil.",
-          "msg_time": "2026-03-18T10:07:29.541295"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Zaudereide\n\nMensagem(ns) do cliente:\nMei",
-          "msg_time": "2026-03-18T10:11:20.59912"
-        },
-        {
-          "role": "ai",
-          "content": "Perfeito, Zaudereide! \n\nAgora, só para completar, quais são as idades das pessoas que vão entrar no plano? Essa informação é fundamental para conseguirmos a melhor cotação.",
-          "msg_time": "2026-03-18T10:11:20.604605"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Zaudereide\n\nMensagem(ns) do cliente:\n7 anos",
-          "msg_time": "2026-03-18T10:11:44.975191"
-        },
-        {
-          "role": "ai",
-          "content": "Obrigado pela informação, Zaudereide! Agora, só para completar, poderia me informar as idades das outras duas pessoas que vão entrar no plano? Isso é importante, especialmente porque temos 3 vidas no total.",
-          "msg_time": "2026-03-18T10:11:44.97732"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Zaudereide\n\nMensagem(ns) do cliente:\n18, 47 e 57",
-          "msg_time": "2026-03-18T10:12:11.312412"
-        },
-        {
-          "role": "ai",
-          "content": "Ótimo, Zaudereide! \n\nEntão temos as idades: 7, 18, 47 e 57 anos, correto? \n\nPara finalizar, só preciso saber se vocês já possuem algum plano atualmente ou se estão sem. Isso vai ajudar a entender melhor o que vocês estão procurando.",
-          "msg_time": "2026-03-18T10:12:11.314891"
         }
       ]
     }
