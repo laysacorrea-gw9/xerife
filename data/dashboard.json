@@ -1,17 +1,139 @@
 {
   "meta": {
-    "generated_at": "2026-04-14T19:15:49.961Z",
+    "generated_at": "2026-04-14T19:30:48.985Z",
     "total_conversations": 200,
-    "total_messages": 3261,
+    "total_messages": 3271,
     "stats": {
       "quente": 0,
       "morno": 2,
-      "frio": 35,
-      "desinteresse": 163,
+      "frio": 14,
+      "desinteresse": 184,
       "sem_classificacao": 0
     }
   },
   "conversations": [
+    {
+      "session_id": "5521995262165@s.whatsapp.net",
+      "phone": "5521995262165",
+      "phone_display": "+55 21 99526-2165",
+      "lead": {
+        "baserow_id": 1508,
+        "nome": "luciana",
+        "email": "",
+        "qtd_vidas": 4,
+        "desinteresse": true,
+        "observacoes": "luciana",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "luciana",
+        "email": "",
+        "telefone": "+55 21 99526-2165",
+        "vidas": [
+          {
+            "idade": 18
+          },
+          {
+            "idade": 23
+          },
+          {
+            "idade": 25
+          },
+          {
+            "idade": 49
+          }
+        ],
+        "cidade": "",
+        "contratacao": "",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "Amil",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "luciana",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: luciana\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99526-2165\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nluciana — 18 anos\nDependente 1 — 23 anos\nDependente 2 — 25 anos\nDependente 3 — 49 anos\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: Amil\n\n⚠️ Observação: luciana\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "desinteresse",
+      "bot": "preto",
+      "consultor": "",
+      "message_count": 12,
+      "first_message_at": "2026-04-13T00:00:00.000Z",
+      "last_message_at": "2026-04-14T19:21:07.202000Z",
+      "last_bot_msg_at": "2026-04-14T16:21:06.580015",
+      "tempo_sem_interacao": "3h 9min",
+      "first_id": 20965,
+      "last_id": 21006,
+      "last_message_preview": "Não",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1508\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Amil",
+          "msg_time": "2026-04-13T22:55:55.210813"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-04-13T22:55:55.215011"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1508\nNome: luciana\n\nMensagem(ns) do cliente:\n4",
+          "msg_time": "2026-04-14T16:20:37.232744"
+        },
+        {
+          "role": "ai",
+          "content": "Luciana, entendi que o plano será para 4 pessoas. Quais são as idades de cada uma delas? Isso é importante para que eu possa te ajudar da melhor forma!",
+          "msg_time": "2026-04-14T16:20:37.24189"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1508\nNome: luciana\n\nMensagem(ns) do cliente:\n18,23,25\n\n49",
+          "msg_time": "2026-04-14T16:21:06.574058"
+        },
+        {
+          "role": "ai",
+          "content": "Ótimo, Luciana! Temos as seguintes idades: 18, 23, 25 e 49 anos. Agora, qual é a cidade onde você busca atendimento? Se tiver algum hospital de sua preferência, também nos ajuda a encontrar o plano que atenda a todos.",
+          "msg_time": "2026-04-14T16:21:06.580015"
+        },
+        {
+          "role": "system",
+          "content": "Obrigado pelas informações Luciana",
+          "msg_time": "2026-04-14T16:22:31.905366"
+        },
+        {
+          "role": "system",
+          "content": "vocês já possuem plano atualmente?",
+          "msg_time": "2026-04-14T16:22:50.45226"
+        },
+        {
+          "role": "system",
+          "content": "preciso de algumas informações para analisar o cenário completo e melhor atende-la",
+          "msg_time": "2026-04-14T16:23:15.43923"
+        },
+        {
+          "role": "user",
+          "content": "Não",
+          "msg_time": "2026-04-14T16:29:22.311462"
+        },
+        {
+          "role": "system",
+          "content": "perfeito, vou ajuda-la nesse processo",
+          "msg_time": "2026-04-14T16:29:45.001086"
+        },
+        {
+          "role": "system",
+          "content": "algo específico motivou vocês a buscarem por um plano no momento?\n\nou apenas segurança, prevenção?",
+          "msg_time": "2026-04-14T16:30:14.614635"
+        }
+      ]
+    },
     {
       "session_id": "5521970233168@s.whatsapp.net",
       "phone": "5521970233168",
@@ -54,7 +176,7 @@
       "first_message_at": "2026-04-14T00:00:00.000Z",
       "last_message_at": "2026-04-14T17:13:28.753000Z",
       "last_bot_msg_at": "2026-04-14T14:13:28.014825",
-      "tempo_sem_interacao": "5h 2min",
+      "tempo_sem_interacao": "5h 17min",
       "first_id": 20990,
       "last_id": 20996,
       "last_message_preview": "Ok obrigada",
@@ -138,7 +260,7 @@
       "first_message_at": "2026-04-14T00:00:00.000Z",
       "last_message_at": "2026-04-14T16:58:57.417000Z",
       "last_bot_msg_at": "2026-04-14T13:58:56.890942",
-      "tempo_sem_interacao": "5h 16min",
+      "tempo_sem_interacao": "5h 31min",
       "first_id": 20988,
       "last_id": 20989,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1512\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -207,7 +329,7 @@
       "first_message_at": "2026-04-14T00:00:00.000Z",
       "last_message_at": "2026-04-14T15:00:21.687000Z",
       "last_bot_msg_at": "2026-04-14T12:00:20.886795",
-      "tempo_sem_interacao": "7h 15min",
+      "tempo_sem_interacao": "7h 30min",
       "first_id": 20982,
       "last_id": 20987,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1511\nNome: Eloisa Salles\n\nMensagem(ns) do cliente:\nSalvei aqui Elo...",
@@ -302,7 +424,7 @@
       "first_message_at": "2026-04-14T00:00:00.000Z",
       "last_message_at": "2026-04-14T13:00:06.278000Z",
       "last_bot_msg_at": "2026-04-14T10:00:04.776692",
-      "tempo_sem_interacao": "9h 15min",
+      "tempo_sem_interacao": "9h 30min",
       "first_id": 20969,
       "last_id": 20981,
       "last_message_preview": "Ok",
@@ -416,7 +538,7 @@
       "first_message_at": "2026-04-14T00:00:00.000Z",
       "last_message_at": "2026-04-14T04:38:05.193000Z",
       "last_bot_msg_at": "2026-04-14T01:38:04.838268",
-      "tempo_sem_interacao": "17h 37min",
+      "tempo_sem_interacao": "17h 52min",
       "first_id": 20967,
       "last_id": 20968,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1509\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -430,65 +552,6 @@
           "role": "ai",
           "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Você poderia me dizer qual é o seu nome? E o plano seria para quantas pessoas e quais as idades?",
           "msg_time": "2026-04-14T01:38:04.838268"
-        }
-      ]
-    },
-    {
-      "session_id": "5521995262165@s.whatsapp.net",
-      "phone": "5521995262165",
-      "phone_display": "+55 21 99526-2165",
-      "lead": {
-        "baserow_id": 1508,
-        "nome": "luciana",
-        "email": "",
-        "qtd_vidas": "",
-        "desinteresse": false,
-        "observacoes": "luciana",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "luciana",
-        "email": "",
-        "telefone": "+55 21 99526-2165",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "Amil",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "luciana",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: luciana\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99526-2165\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: Amil\n\n⚠️ Observação: luciana\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "frio",
-      "bot": "preto",
-      "consultor": "",
-      "message_count": 2,
-      "first_message_at": "2026-04-13T00:00:00.000Z",
-      "last_message_at": "2026-04-14T01:55:55.882000Z",
-      "last_bot_msg_at": "2026-04-13T22:55:55.215011",
-      "tempo_sem_interacao": "20h 19min",
-      "first_id": 20965,
-      "last_id": 20966,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1508\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1508\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Amil",
-          "msg_time": "2026-04-13T22:55:55.210813"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
-          "msg_time": "2026-04-13T22:55:55.215011"
         }
       ]
     },
@@ -534,7 +597,7 @@
       "first_message_at": "2026-04-13T00:00:00.000Z",
       "last_message_at": "2026-04-14T00:47:43.860000Z",
       "last_bot_msg_at": "2026-04-13T21:47:43.492587",
-      "tempo_sem_interacao": "21h 28min",
+      "tempo_sem_interacao": "21h 43min",
       "first_id": 20963,
       "last_id": 20964,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1507\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -557,17 +620,17 @@
       "phone_display": "+55 21 99876-5827",
       "lead": {
         "baserow_id": 1506,
-        "nome": "",
+        "nome": "Waldenir",
         "email": "",
         "qtd_vidas": "",
         "desinteresse": true,
         "observacoes": "",
         "reagendamento": null,
-        "corretor": "",
+        "corretor": "João",
         "temperatura": ""
       },
       "summary": {
-        "nome": "Não identificado",
+        "nome": "Waldenir",
         "email": "",
         "telefone": "+55 21 99876-5827",
         "vidas": [],
@@ -581,19 +644,19 @@
         "interesse": "",
         "rede_preferencial": "",
         "contato": "WhatsApp",
-        "consultor": "",
+        "consultor": "João",
         "obs_crm": "",
         "bot": "Não identificado",
-        "formatted": "👤 Cliente: Não identificado\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99876-5827\n\n📋 Dados contratuais:\n\nProfissão: o Gilberto da GW\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Não identificado"
+        "formatted": "👤 Cliente: Waldenir\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99876-5827\n\n📋 Dados contratuais:\n\nProfissão: o Gilberto da GW\n👤 Consultor: João\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Não identificado"
       },
       "status": "desinteresse",
       "bot": "desconhecido",
-      "consultor": "",
+      "consultor": "João",
       "message_count": 3,
       "first_message_at": "2026-04-13T00:00:00.000Z",
       "last_message_at": "2026-04-13T23:24:39.174000Z",
       "last_bot_msg_at": "2026-04-13T20:24:37.178181",
-      "tempo_sem_interacao": "22h 51min",
+      "tempo_sem_interacao": "23h 6min",
       "first_id": 20960,
       "last_id": 20962,
       "last_message_preview": "Isto não e hora. Boa noite",
@@ -670,7 +733,7 @@
       "first_message_at": "2026-04-13T00:00:00.000Z",
       "last_message_at": "2026-04-13T23:22:56.112000Z",
       "last_bot_msg_at": "2026-04-13T20:22:55.622984",
-      "tempo_sem_interacao": "22h 52min",
+      "tempo_sem_interacao": "23h 7min",
       "first_id": 19447,
       "last_id": 20959,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1505\nNome: \n\nMensagem(ns) do cliente:\n+55 21 99876-5827",
@@ -1487,7 +1550,7 @@
       "first_message_at": "2026-04-12T00:00:00.000Z",
       "last_message_at": "2026-04-12T22:28:40.376000Z",
       "last_bot_msg_at": "2026-04-12T19:28:39.901661",
-      "tempo_sem_interacao": "1 dia",
+      "tempo_sem_interacao": "2 dias",
       "first_id": 20924,
       "last_id": 20925,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1501\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -1961,7 +2024,7 @@
       "first_message_at": "2026-04-11T00:00:00.000Z",
       "last_message_at": "2026-04-11T22:18:32.438000Z",
       "last_bot_msg_at": "2026-04-11T19:18:31.919203",
-      "tempo_sem_interacao": "2 dias",
+      "tempo_sem_interacao": "3 dias",
       "first_id": 20877,
       "last_id": 20889,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1495\nNome: Moacir\n\nMensagem(ns) do cliente:\nNão tenho não",
@@ -3842,7 +3905,7 @@
         "nome": "Dayana Bonfim",
         "email": "",
         "qtd_vidas": "",
-        "desinteresse": false,
+        "desinteresse": true,
         "observacoes": "Registro interno: Encaminhado ao consultor.\nNome do lead: Dayana Bonfim\nProduto ou operadora de interesse: Amil",
         "reagendamento": null,
         "corretor": "Isis",
@@ -3866,9 +3929,9 @@
         "consultor": "Isis",
         "obs_crm": "Registro interno: Encaminhado ao consultor.\nNome do lead: Dayana Bonfim\nProduto ou operadora de interesse: Amil",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Dayana Bonfim\n📱 Contato: WhatsApp\n📞 Telefone: +55 71 8337-8132\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Dayana Bonfim\nProduto ou operadora de interesse: Amil\n👤 Consultor: Isis\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Dayana Bonfim\n📱 Contato: WhatsApp\n📞 Telefone: +55 71 8337-8132\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Dayana Bonfim\nProduto ou operadora de interesse: Amil\n👤 Consultor: Isis\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
       },
-      "status": "frio",
+      "status": "desinteresse",
       "bot": "preto",
       "consultor": "Isis",
       "message_count": 2,
@@ -3975,7 +4038,7 @@
         "nome": "Jennifer",
         "email": "",
         "qtd_vidas": "",
-        "desinteresse": false,
+        "desinteresse": true,
         "observacoes": "Registro interno: Encaminhado ao consultor.\nNome do lead: Jennifer\nQuantidade de vidas: 3\nIdades dos beneficiários: 25, 20, 6",
         "reagendamento": null,
         "corretor": "Elisa",
@@ -3999,9 +4062,9 @@
         "consultor": "Elisa",
         "obs_crm": "Registro interno: Encaminhado ao consultor.\nNome do lead: Jennifer\nQuantidade de vidas: 3\nIdades dos beneficiários: 25, 20, 6",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Jennifer\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97594-2819\n\n📋 Dados contratuais:\n\nContratação: CNPJ\nTipo: MEI\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Jennifer\nQuantidade de vidas: 3\nIdades dos beneficiários: 25, 20, 6\n👤 Consultor: Elisa\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Jennifer\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97594-2819\n\n📋 Dados contratuais:\n\nContratação: CNPJ\nTipo: MEI\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Jennifer\nQuantidade de vidas: 3\nIdades dos beneficiários: 25, 20, 6\n👤 Consultor: Elisa\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
       },
-      "status": "frio",
+      "status": "desinteresse",
       "bot": "preto",
       "consultor": "Elisa",
       "message_count": 10,
@@ -4074,7 +4137,7 @@
         "nome": "Adriana Carvalho",
         "email": "",
         "qtd_vidas": "",
-        "desinteresse": false,
+        "desinteresse": true,
         "observacoes": "Registro interno: Consultor acionado.\nProduto ou operadora de interesse: Amil.",
         "reagendamento": null,
         "corretor": "Isis",
@@ -4098,9 +4161,9 @@
         "consultor": "Isis",
         "obs_crm": "Registro interno: Consultor acionado.\nProduto ou operadora de interesse: Amil.",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Adriana Carvalho\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96675-8316\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Registro interno: Consultor acionado.\nProduto ou operadora de interesse: Amil.\n👤 Consultor: Isis\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Adriana Carvalho\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96675-8316\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Registro interno: Consultor acionado.\nProduto ou operadora de interesse: Amil.\n👤 Consultor: Isis\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
       },
-      "status": "frio",
+      "status": "desinteresse",
       "bot": "preto",
       "consultor": "Isis",
       "message_count": 3,
@@ -4138,7 +4201,7 @@
         "nome": "Oziel",
         "email": "",
         "qtd_vidas": "",
-        "desinteresse": false,
+        "desinteresse": true,
         "observacoes": "Registro interno: Encaminhado ao consultor.\nNome do lead: Oziel",
         "reagendamento": null,
         "corretor": "Elisa",
@@ -4162,9 +4225,9 @@
         "consultor": "Elisa",
         "obs_crm": "Registro interno: Encaminhado ao consultor.\nNome do lead: Oziel",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Oziel\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99246-5706\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Oziel\n👤 Consultor: Elisa\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Oziel\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99246-5706\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Oziel\n👤 Consultor: Elisa\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
       },
-      "status": "frio",
+      "status": "desinteresse",
       "bot": "preto",
       "consultor": "Elisa",
       "message_count": 3,
@@ -4202,7 +4265,7 @@
         "nome": "Raphael",
         "email": "",
         "qtd_vidas": "",
-        "desinteresse": false,
+        "desinteresse": true,
         "observacoes": "Registro interno: Consultor iniciou contato.\nNome do lead: Raphael",
         "reagendamento": null,
         "corretor": "João",
@@ -4226,9 +4289,9 @@
         "consultor": "João",
         "obs_crm": "Registro interno: Consultor iniciou contato.\nNome do lead: Raphael",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Raphael\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97932-6265\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Registro interno: Consultor iniciou contato.\nNome do lead: Raphael\n👤 Consultor: João\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Raphael\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97932-6265\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Registro interno: Consultor iniciou contato.\nNome do lead: Raphael\n👤 Consultor: João\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
       },
-      "status": "frio",
+      "status": "desinteresse",
       "bot": "preto",
       "consultor": "João",
       "message_count": 3,
@@ -4266,7 +4329,7 @@
         "nome": "Diogo",
         "email": "",
         "qtd_vidas": "",
-        "desinteresse": false,
+        "desinteresse": true,
         "observacoes": "Registro interno: Encaminhado ao consultor.\nNome do lead: Diogo",
         "reagendamento": null,
         "corretor": "Isis",
@@ -4290,9 +4353,9 @@
         "consultor": "Isis",
         "obs_crm": "Registro interno: Encaminhado ao consultor.\nNome do lead: Diogo",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Diogo\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98279-4672\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Diogo\n👤 Consultor: Isis\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Diogo\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98279-4672\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Diogo\n👤 Consultor: Isis\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
       },
-      "status": "frio",
+      "status": "desinteresse",
       "bot": "preto",
       "consultor": "Isis",
       "message_count": 3,
@@ -4330,7 +4393,7 @@
         "nome": "Lucia",
         "email": "",
         "qtd_vidas": "",
-        "desinteresse": false,
+        "desinteresse": true,
         "observacoes": "Registro interno: Encaminhado ao consultor.\nNome do lead: Lucia",
         "reagendamento": null,
         "corretor": "Elisa",
@@ -4354,9 +4417,9 @@
         "consultor": "Elisa",
         "obs_crm": "Registro interno: Encaminhado ao consultor.\nNome do lead: Lucia",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Lucia\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97108-4471\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Lucia\n👤 Consultor: Elisa\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Lucia\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97108-4471\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Lucia\n👤 Consultor: Elisa\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
       },
-      "status": "frio",
+      "status": "desinteresse",
       "bot": "preto",
       "consultor": "Elisa",
       "message_count": 3,
@@ -4394,7 +4457,7 @@
         "nome": "Edson Sá",
         "email": "",
         "qtd_vidas": "",
-        "desinteresse": false,
+        "desinteresse": true,
         "observacoes": "Registro interno: Encaminhado ao consultor.\nNome do lead: Edson Sá",
         "reagendamento": null,
         "corretor": "Isis",
@@ -4418,9 +4481,9 @@
         "consultor": "Isis",
         "obs_crm": "Registro interno: Encaminhado ao consultor.\nNome do lead: Edson Sá",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Edson Sá\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96805-5887\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Edson Sá\n👤 Consultor: Isis\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Edson Sá\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96805-5887\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Edson Sá\n👤 Consultor: Isis\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
       },
-      "status": "frio",
+      "status": "desinteresse",
       "bot": "preto",
       "consultor": "Isis",
       "message_count": 3,
@@ -4458,7 +4521,7 @@
         "nome": "Douglas",
         "email": "",
         "qtd_vidas": "",
-        "desinteresse": false,
+        "desinteresse": true,
         "observacoes": "Registro interno: Encaminhado ao consultor.\nNome do lead: Douglas",
         "reagendamento": null,
         "corretor": "Elisa",
@@ -4482,9 +4545,9 @@
         "consultor": "Elisa",
         "obs_crm": "Registro interno: Encaminhado ao consultor.\nNome do lead: Douglas",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Douglas\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96453-4565\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Douglas\n👤 Consultor: Elisa\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Douglas\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96453-4565\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Douglas\n👤 Consultor: Elisa\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
       },
-      "status": "frio",
+      "status": "desinteresse",
       "bot": "preto",
       "consultor": "Elisa",
       "message_count": 3,
@@ -4522,7 +4585,7 @@
         "nome": "Claudino",
         "email": "",
         "qtd_vidas": "",
-        "desinteresse": false,
+        "desinteresse": true,
         "observacoes": "Registro interno: Encaminhado ao consultor.\nNome do lead: Claudino",
         "reagendamento": null,
         "corretor": "João",
@@ -4546,9 +4609,9 @@
         "consultor": "João",
         "obs_crm": "Registro interno: Encaminhado ao consultor.\nNome do lead: Claudino",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Claudino\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99996-0699\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Claudino\n👤 Consultor: João\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Claudino\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99996-0699\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Claudino\n👤 Consultor: João\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
       },
-      "status": "frio",
+      "status": "desinteresse",
       "bot": "preto",
       "consultor": "João",
       "message_count": 3,
@@ -4586,7 +4649,7 @@
         "nome": "Ronaldo",
         "email": "",
         "qtd_vidas": "",
-        "desinteresse": false,
+        "desinteresse": true,
         "observacoes": "Registro interno: Encaminhado ao consultor.\nNome do lead: Ronaldo",
         "reagendamento": null,
         "corretor": "Elisa",
@@ -4610,9 +4673,9 @@
         "consultor": "Elisa",
         "obs_crm": "Registro interno: Encaminhado ao consultor.\nNome do lead: Ronaldo",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Ronaldo\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98791-5994\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Ronaldo\n👤 Consultor: Elisa\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Ronaldo\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98791-5994\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Ronaldo\n👤 Consultor: Elisa\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
       },
-      "status": "frio",
+      "status": "desinteresse",
       "bot": "preto",
       "consultor": "Elisa",
       "message_count": 3,
@@ -4650,7 +4713,7 @@
         "nome": "Sonia Maria",
         "email": "",
         "qtd_vidas": "",
-        "desinteresse": false,
+        "desinteresse": true,
         "observacoes": "Registro interno: Encaminhado ao consultor.\nNome do lead: Sonia Maria",
         "reagendamento": null,
         "corretor": "João",
@@ -4674,9 +4737,9 @@
         "consultor": "João",
         "obs_crm": "Registro interno: Encaminhado ao consultor.\nNome do lead: Sonia Maria",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Sonia Maria\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99111-6155\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Sonia Maria\n👤 Consultor: João\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Sonia Maria\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99111-6155\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Sonia Maria\n👤 Consultor: João\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
       },
-      "status": "frio",
+      "status": "desinteresse",
       "bot": "preto",
       "consultor": "João",
       "message_count": 3,
@@ -4714,7 +4777,7 @@
         "nome": "Rose",
         "email": "",
         "qtd_vidas": "",
-        "desinteresse": false,
+        "desinteresse": true,
         "observacoes": "Registro interno: Encaminhado ao consultor.\nNome do lead: Rose",
         "reagendamento": null,
         "corretor": "Elisa",
@@ -4738,9 +4801,9 @@
         "consultor": "Elisa",
         "obs_crm": "Registro interno: Encaminhado ao consultor.\nNome do lead: Rose",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Rose\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99471-2252\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Rose\n👤 Consultor: Elisa\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Rose\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99471-2252\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Rose\n👤 Consultor: Elisa\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
       },
-      "status": "frio",
+      "status": "desinteresse",
       "bot": "preto",
       "consultor": "Elisa",
       "message_count": 3,
@@ -4847,7 +4910,7 @@
         "nome": "Santos",
         "email": "",
         "qtd_vidas": "",
-        "desinteresse": false,
+        "desinteresse": true,
         "observacoes": "Registro interno: Encaminhado ao consultor.\nNome do lead: Santos\nProduto ou operadora de interesse: Amil",
         "reagendamento": null,
         "corretor": "Elisa",
@@ -4871,9 +4934,9 @@
         "consultor": "Elisa",
         "obs_crm": "Registro interno: Encaminhado ao consultor.\nNome do lead: Santos\nProduto ou operadora de interesse: Amil",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Santos\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99560-7403\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Santos\nProduto ou operadora de interesse: Amil\n👤 Consultor: Elisa\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Santos\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99560-7403\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Santos\nProduto ou operadora de interesse: Amil\n👤 Consultor: Elisa\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
       },
-      "status": "frio",
+      "status": "desinteresse",
       "bot": "preto",
       "consultor": "Elisa",
       "message_count": 4,
@@ -4916,7 +4979,7 @@
         "nome": "Maria Aparecida",
         "email": "",
         "qtd_vidas": 3,
-        "desinteresse": false,
+        "desinteresse": true,
         "observacoes": "Registro interno: Encaminhado ao consultor.\nNome do lead: Maria Aparecida\nTipo de plano: Saúde\nProduto ou operadora de interesse: Amil\nCidade/UF: Taubaté\nQuantidade de vidas: 3\nIdades dos beneficiários: 67, 11, 7\nTipo de contratação: Pessoa física",
         "reagendamento": null,
         "corretor": "Isis",
@@ -4950,9 +5013,9 @@
         "consultor": "Isis",
         "obs_crm": "Registro interno: Encaminhado ao consultor.\nNome do lead: Maria Aparecida\nTipo de plano: Saúde\nProduto ou operadora de interesse: Amil\nCidade/UF: Taubaté\nQuantidade de vidas: 3\nIdades dos beneficiários: 67, 11, 7\nTipo de contratação: Pessoa física",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Maria Aparecida\n📱 Contato: WhatsApp\n📞 Telefone: +55 12 99114-4656\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nMaria Aparecida — 67 anos\nDependente 1 — 11 anos\nDependente 2 — 7 anos\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Maria Aparecida\nTipo de plano: Saúde\nProduto ou operadora de interesse: Amil\nCidade/UF: Taubaté\nQuantidade de vidas: 3\nIdades dos beneficiários: 67, 11, 7\nTipo de contratação: Pessoa física\n👤 Consultor: Isis\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Maria Aparecida\n📱 Contato: WhatsApp\n📞 Telefone: +55 12 99114-4656\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nMaria Aparecida — 67 anos\nDependente 1 — 11 anos\nDependente 2 — 7 anos\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Maria Aparecida\nTipo de plano: Saúde\nProduto ou operadora de interesse: Amil\nCidade/UF: Taubaté\nQuantidade de vidas: 3\nIdades dos beneficiários: 67, 11, 7\nTipo de contratação: Pessoa física\n👤 Consultor: Isis\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
       },
-      "status": "frio",
+      "status": "desinteresse",
       "bot": "preto",
       "consultor": "Isis",
       "message_count": 8,
@@ -5554,7 +5617,7 @@
         "nome": "Leticia",
         "email": "",
         "qtd_vidas": "",
-        "desinteresse": false,
+        "desinteresse": true,
         "observacoes": "Registro interno: Encaminhado ao consultor.\nNome do lead: Letícia\nQuantidade de vidas: 1\nProduto ou operadora de interesse: Barra D'or",
         "reagendamento": null,
         "corretor": "João",
@@ -5578,9 +5641,9 @@
         "consultor": "João",
         "obs_crm": "Registro interno: Encaminhado ao consultor.\nNome do lead: Letícia\nQuantidade de vidas: 1\nProduto ou operadora de interesse: Barra D'or",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Leticia\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97643-4125\n\n📋 Dados contratuais:\n\n🎯 Rede preferencial: Barra D'Or\n\n🎯 Interesse: Barra D'or\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Letícia\nQuantidade de vidas: 1\nProduto ou operadora de interesse: Barra D'or\n👤 Consultor: João\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Leticia\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97643-4125\n\n📋 Dados contratuais:\n\n🎯 Rede preferencial: Barra D'Or\n\n🎯 Interesse: Barra D'or\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Letícia\nQuantidade de vidas: 1\nProduto ou operadora de interesse: Barra D'or\n👤 Consultor: João\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
       },
-      "status": "frio",
+      "status": "desinteresse",
       "bot": "preto",
       "consultor": "João",
       "message_count": 4,
@@ -6470,7 +6533,7 @@
         "nome": "Bruna",
         "email": "",
         "qtd_vidas": "",
-        "desinteresse": false,
+        "desinteresse": true,
         "observacoes": "Registro interno: Encaminhado ao consultor.\nNome do lead: Bruna\nQuantidade de vidas: 2\nIdades dos beneficiários: 39, 14\nCidade/UF: São Gonçalo, Niterói",
         "reagendamento": null,
         "corretor": "Elisa",
@@ -6494,9 +6557,9 @@
         "consultor": "Elisa",
         "obs_crm": "Registro interno: Encaminhado ao consultor.\nNome do lead: Bruna\nQuantidade de vidas: 2\nIdades dos beneficiários: 39, 14\nCidade/UF: São Gonçalo, Niterói",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Bruna\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97714-4668\n\n📋 Dados contratuais:\n\nCidade: Niterói / RJ\nContratação: CNPJ\nTipo: MEI\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Bruna\nQuantidade de vidas: 2\nIdades dos beneficiários: 39, 14\nCidade/UF: São Gonçalo, Niterói\n👤 Consultor: Elisa\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Bruna\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97714-4668\n\n📋 Dados contratuais:\n\nCidade: Niterói / RJ\nContratação: CNPJ\nTipo: MEI\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Bruna\nQuantidade de vidas: 2\nIdades dos beneficiários: 39, 14\nCidade/UF: São Gonçalo, Niterói\n👤 Consultor: Elisa\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
       },
-      "status": "frio",
+      "status": "desinteresse",
       "bot": "preto",
       "consultor": "Elisa",
       "message_count": 8,
@@ -6559,7 +6622,7 @@
         "nome": "Rosane",
         "email": "",
         "qtd_vidas": "",
-        "desinteresse": false,
+        "desinteresse": true,
         "observacoes": "Registro interno: Encaminhado ao consultor.\nNome do lead: Rosane",
         "reagendamento": null,
         "corretor": "João",
@@ -6583,9 +6646,9 @@
         "consultor": "João",
         "obs_crm": "Registro interno: Encaminhado ao consultor.\nNome do lead: Rosane",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Rosane\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98878-6485\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Rosane\n👤 Consultor: João\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Rosane\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98878-6485\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Rosane\n👤 Consultor: João\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
       },
-      "status": "frio",
+      "status": "desinteresse",
       "bot": "preto",
       "consultor": "João",
       "message_count": 6,
@@ -6638,7 +6701,7 @@
         "nome": "Ana",
         "email": "",
         "qtd_vidas": "",
-        "desinteresse": false,
+        "desinteresse": true,
         "observacoes": "Registro interno: Contato iniciado com o lead Ana.\nNome do lead: Ana",
         "reagendamento": null,
         "corretor": "Isis",
@@ -6662,9 +6725,9 @@
         "consultor": "Isis",
         "obs_crm": "Registro interno: Contato iniciado com o lead Ana.\nNome do lead: Ana",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Ana\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97225-2412\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Registro interno: Contato iniciado com o lead Ana.\nNome do lead: Ana\n👤 Consultor: Isis\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Ana\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97225-2412\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Registro interno: Contato iniciado com o lead Ana.\nNome do lead: Ana\n👤 Consultor: Isis\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
       },
-      "status": "frio",
+      "status": "desinteresse",
       "bot": "preto",
       "consultor": "Isis",
       "message_count": 4,
@@ -6821,7 +6884,7 @@
         "nome": "MF",
         "email": "",
         "qtd_vidas": "",
-        "desinteresse": false,
+        "desinteresse": true,
         "observacoes": "Registro interno: Encaminhado ao consultor.\nNome do lead: MF\nIdades dos beneficiários: 46, 22, 2, 41",
         "reagendamento": null,
         "corretor": "João",
@@ -6845,16 +6908,16 @@
         "consultor": "João",
         "obs_crm": "Registro interno: Encaminhado ao consultor.\nNome do lead: MF\nIdades dos beneficiários: 46, 22, 2, 41",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: MF\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98484-8067\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: MF\nIdades dos beneficiários: 46, 22, 2, 41\n👤 Consultor: João\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: MF\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98484-8067\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: MF\nIdades dos beneficiários: 46, 22, 2, 41\n👤 Consultor: João\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
       },
-      "status": "frio",
+      "status": "desinteresse",
       "bot": "preto",
       "consultor": "João",
       "message_count": 4,
       "first_message_at": "2026-04-06T00:00:00.000Z",
       "last_message_at": "2026-04-06T22:29:13.383000Z",
       "last_bot_msg_at": "2026-04-06T19:29:13.007616",
-      "tempo_sem_interacao": "7 dias",
+      "tempo_sem_interacao": "8 dias",
       "first_id": 20570,
       "last_id": 20573,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1457\nNome: \n\nMensagem(ns) do cliente:\nVocê mencionou acima Homem 4...",
@@ -17152,7 +17215,7 @@
       "first_message_at": "2026-03-19T00:00:00.000Z",
       "last_message_at": "2026-03-19T22:29:52.104000Z",
       "last_bot_msg_at": "2026-03-19T19:29:51.057006",
-      "tempo_sem_interacao": "25 dias",
+      "tempo_sem_interacao": "26 dias",
       "first_id": 19559,
       "last_id": 19578,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1272\nNome: .\nVidas: 2\nCidade: \nTipo Contratação: \n\nMensagem(ns) do...",
