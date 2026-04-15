@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_at": "2026-04-15T13:00:49.886Z",
+    "generated_at": "2026-04-15T13:15:48.677Z",
     "total_conversations": 200,
-    "total_messages": 3267,
+    "total_messages": 3269,
     "stats": {
       "quente": 1,
       "morno": 2,
@@ -12,92 +12,6 @@
     }
   },
   "conversations": [
-    {
-      "session_id": "5521982079677@s.whatsapp.net",
-      "phone": "5521982079677",
-      "phone_display": "+55 21 98207-9677",
-      "lead": {
-        "baserow_id": 1514,
-        "nome": "Alberto",
-        "email": "",
-        "qtd_vidas": 2,
-        "desinteresse": false,
-        "observacoes": "Alberto",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Alberto",
-        "email": "",
-        "telefone": "+55 21 98207-9677",
-        "vidas": [
-          {
-            "idade": 1
-          },
-          {
-            "idade": 5
-          }
-        ],
-        "cidade": "",
-        "contratacao": "",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "Encerramento do plano atual",
-        "interesse": "Sulamérica",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "Alberto",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Alberto\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98207-9677\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nAlberto — 1 anos\nDependente 1 — 5 anos\n\n📋 Dados contratuais:\n\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\n\n🎯 Interesse: Sulamérica\n\n⚠️ Observação: Alberto\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "quente",
-      "bot": "preto",
-      "consultor": "",
-      "message_count": 6,
-      "first_message_at": "2026-04-15T00:00:00.000Z",
-      "last_message_at": "2026-04-15T09:36:52.395000Z",
-      "last_bot_msg_at": "2026-04-15T06:36:52.04025",
-      "tempo_sem_interacao": "6h 23min",
-      "first_id": 21011,
-      "last_id": 21016,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1514\nNome: Alberto\n\nMensagem(ns) do cliente:\nCriança 1,5 meses mul...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1514\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Sulamérica",
-          "msg_time": "2026-04-15T06:29:35.68257"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
-          "msg_time": "2026-04-15T06:29:35.687172"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1514\nNome: Alberto\n\nMensagem(ns) do cliente:\nAlberto",
-          "msg_time": "2026-04-15T06:36:03.755829"
-        },
-        {
-          "role": "ai",
-          "content": "Ótimo, Alberto! Para seguirmos, quantas pessoas precisarão do plano e quais são as idades? Isso vai me ajudar a encontrar as melhores opções para você.",
-          "msg_time": "2026-04-15T06:36:03.761585"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1514\nNome: Alberto\n\nMensagem(ns) do cliente:\nCriança 1,5 meses mulher 43 homem 51\n\nOs dois tem Amil hoje em dia",
-          "msg_time": "2026-04-15T06:36:52.037902"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Alberto! Para finalizar a coleta das informações, em qual cidade e estado vocês estão? Isso é importante para que eu encontre os planos disponíveis na sua região.",
-          "msg_time": "2026-04-15T06:36:52.04025"
-        }
-      ]
-    },
     {
       "session_id": "5521995262165@s.whatsapp.net",
       "phone": "5521995262165",
@@ -149,13 +63,13 @@
       "status": "desinteresse",
       "bot": "preto",
       "consultor": "",
-      "message_count": 16,
+      "message_count": 18,
       "first_message_at": "2026-04-13T00:00:00.000Z",
       "last_message_at": "2026-04-14T19:21:07.202000Z",
       "last_bot_msg_at": "2026-04-14T16:21:06.580015",
-      "tempo_sem_interacao": "20h 39min",
+      "tempo_sem_interacao": "20h 54min",
       "first_id": 20965,
-      "last_id": 21010,
+      "last_id": 21018,
       "last_message_preview": "Eu não tenho ,não trabalho de carteira assinada",
       "messages": [
         {
@@ -237,6 +151,102 @@
           "role": "user",
           "content": "Eu não tenho ,não trabalho de carteira assinada",
           "msg_time": "2026-04-14T19:57:11.000549"
+        },
+        {
+          "role": "system",
+          "content": "Bom dia Luciana, perfeito. Com MEI o valor dos planos ficam até 40% mais baratos",
+          "msg_time": "2026-04-15T10:03:42.421492"
+        },
+        {
+          "role": "system",
+          "content": "qual é o quadro familiar dessas idades? é você e seus filhos?",
+          "msg_time": "2026-04-15T10:04:33.04918"
+        }
+      ]
+    },
+    {
+      "session_id": "5521982079677@s.whatsapp.net",
+      "phone": "5521982079677",
+      "phone_display": "+55 21 98207-9677",
+      "lead": {
+        "baserow_id": 1514,
+        "nome": "Alberto",
+        "email": "",
+        "qtd_vidas": 2,
+        "desinteresse": false,
+        "observacoes": "Alberto",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Alberto",
+        "email": "",
+        "telefone": "+55 21 98207-9677",
+        "vidas": [
+          {
+            "idade": 1
+          },
+          {
+            "idade": 5
+          }
+        ],
+        "cidade": "",
+        "contratacao": "",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "Encerramento do plano atual",
+        "interesse": "Sulamérica",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "Alberto",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Alberto\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98207-9677\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nAlberto — 1 anos\nDependente 1 — 5 anos\n\n📋 Dados contratuais:\n\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\n\n🎯 Interesse: Sulamérica\n\n⚠️ Observação: Alberto\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "quente",
+      "bot": "preto",
+      "consultor": "",
+      "message_count": 6,
+      "first_message_at": "2026-04-15T00:00:00.000Z",
+      "last_message_at": "2026-04-15T09:36:52.395000Z",
+      "last_bot_msg_at": "2026-04-15T06:36:52.04025",
+      "tempo_sem_interacao": "6h 38min",
+      "first_id": 21011,
+      "last_id": 21016,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1514\nNome: Alberto\n\nMensagem(ns) do cliente:\nCriança 1,5 meses mul...",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1514\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Sulamérica",
+          "msg_time": "2026-04-15T06:29:35.68257"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-04-15T06:29:35.687172"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1514\nNome: Alberto\n\nMensagem(ns) do cliente:\nAlberto",
+          "msg_time": "2026-04-15T06:36:03.755829"
+        },
+        {
+          "role": "ai",
+          "content": "Ótimo, Alberto! Para seguirmos, quantas pessoas precisarão do plano e quais são as idades? Isso vai me ajudar a encontrar as melhores opções para você.",
+          "msg_time": "2026-04-15T06:36:03.761585"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1514\nNome: Alberto\n\nMensagem(ns) do cliente:\nCriança 1,5 meses mulher 43 homem 51\n\nOs dois tem Amil hoje em dia",
+          "msg_time": "2026-04-15T06:36:52.037902"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Alberto! Para finalizar a coleta das informações, em qual cidade e estado vocês estão? Isso é importante para que eu encontre os planos disponíveis na sua região.",
+          "msg_time": "2026-04-15T06:36:52.04025"
         }
       ]
     },
@@ -282,7 +292,7 @@
       "first_message_at": "2026-04-14T00:00:00.000Z",
       "last_message_at": "2026-04-14T17:13:28.753000Z",
       "last_bot_msg_at": "2026-04-14T14:13:28.014825",
-      "tempo_sem_interacao": "22h 47min",
+      "tempo_sem_interacao": "23h 2min",
       "first_id": 20990,
       "last_id": 20996,
       "last_message_preview": "Ok obrigada",
@@ -366,7 +376,7 @@
       "first_message_at": "2026-04-14T00:00:00.000Z",
       "last_message_at": "2026-04-14T16:58:57.417000Z",
       "last_bot_msg_at": "2026-04-14T13:58:56.890942",
-      "tempo_sem_interacao": "23h 1min",
+      "tempo_sem_interacao": "23h 16min",
       "first_id": 20988,
       "last_id": 20989,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1512\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -1866,10 +1876,10 @@
         "email": "",
         "qtd_vidas": "",
         "desinteresse": false,
-        "observacoes": "Luis Herman",
+        "observacoes": "Registro interno: Encaminhado ao consultor.\nNome do lead: Luis Herman\nProduto ou operadora de interesse: Amil",
         "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
+        "corretor": "Elisa",
+        "temperatura": "Frio"
       },
       "summary": {
         "nome": "Luis Herman",
@@ -1886,14 +1896,14 @@
         "interesse": "Amil",
         "rede_preferencial": "",
         "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "Luis Herman",
+        "consultor": "Elisa",
+        "obs_crm": "Registro interno: Encaminhado ao consultor.\nNome do lead: Luis Herman\nProduto ou operadora de interesse: Amil",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Luis Herman\n📱 Contato: WhatsApp\n📞 Telefone: +55 79 9905-1335\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Luis Herman\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Luis Herman\n📱 Contato: WhatsApp\n📞 Telefone: +55 79 9905-1335\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Luis Herman\nProduto ou operadora de interesse: Amil\n👤 Consultor: Elisa\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
       },
       "status": "frio",
       "bot": "preto",
-      "consultor": "",
+      "consultor": "Elisa",
       "message_count": 2,
       "first_message_at": "2026-04-12T00:00:00.000Z",
       "last_message_at": "2026-04-12T10:22:15.810000Z",
@@ -2380,7 +2390,7 @@
       "first_message_at": "2026-04-11T00:00:00.000Z",
       "last_message_at": "2026-04-11T16:11:23.850000Z",
       "last_bot_msg_at": "2026-04-11T13:11:23.463823",
-      "tempo_sem_interacao": "3 dias",
+      "tempo_sem_interacao": "4 dias",
       "first_id": 20860,
       "last_id": 20874,
       "last_message_preview": "👍",
@@ -3218,7 +3228,7 @@
       "first_message_at": "2026-04-10T00:00:00.000Z",
       "last_message_at": "2026-04-10T16:04:27.161000Z",
       "last_bot_msg_at": "2026-04-10T13:04:26.671314",
-      "tempo_sem_interacao": "4 dias",
+      "tempo_sem_interacao": "5 dias",
       "first_id": 20783,
       "last_id": 20798,
       "last_message_preview": "Ok",
@@ -5756,7 +5766,7 @@
       "first_message_at": "2026-04-09T00:00:00.000Z",
       "last_message_at": "2026-04-09T16:09:52.827000Z",
       "last_bot_msg_at": "2026-04-09T13:09:52.37527",
-      "tempo_sem_interacao": "5 dias",
+      "tempo_sem_interacao": "6 dias",
       "first_id": 20701,
       "last_id": 20704,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1480\nNome: \n\nMensagem(ns) do cliente:\nPra uma pessoa só\n\nLetícia",
@@ -12291,7 +12301,7 @@
       "first_message_at": "2026-03-23T00:00:00.000Z",
       "last_message_at": "2026-03-23T16:04:18.685000Z",
       "last_bot_msg_at": "2026-03-23T13:04:17.385286",
-      "tempo_sem_interacao": "22 dias",
+      "tempo_sem_interacao": "23 dias",
       "first_id": 19987,
       "last_id": 20023,
       "last_message_preview": "Desculpe errei  o numer\n\nDesculpe errei  o numero\n\nA tá\n\nDuas vidas!\n\nDesculpe\n\nPor nada",
@@ -12531,7 +12541,7 @@
       "first_message_at": "2026-03-23T00:00:00.000Z",
       "last_message_at": "2026-03-23T16:02:33.384000Z",
       "last_bot_msg_at": "2026-03-23T13:02:31.986588",
-      "tempo_sem_interacao": "22 dias",
+      "tempo_sem_interacao": "23 dias",
       "first_id": 19883,
       "last_id": 19996,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1324\nNome: Tatiane\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(n...",
@@ -12630,7 +12640,7 @@
       "first_message_at": "2026-03-23T16:00:51.856Z",
       "last_message_at": "2026-03-23T16:00:51.859Z",
       "last_bot_msg_at": "2026-03-23T13:00:51.859159",
-      "tempo_sem_interacao": "22 dias",
+      "tempo_sem_interacao": "23 dias",
       "first_id": 19985,
       "last_id": 19986,
       "last_message_preview": "Dados Fornecidos\nNome: Vania\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o infor...",
@@ -13955,7 +13965,7 @@
       "first_message_at": "2026-03-22T00:00:00.000Z",
       "last_message_at": "2026-03-22T16:11:56.808000Z",
       "last_bot_msg_at": "2026-03-22T13:11:51.267518",
-      "tempo_sem_interacao": "23 dias",
+      "tempo_sem_interacao": "24 dias",
       "first_id": 19820,
       "last_id": 19919,
       "last_message_preview": "Dados Fornecidos\nNome: Maria\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o infor...",
