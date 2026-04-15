@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_at": "2026-04-15T22:45:53.655Z",
+    "generated_at": "2026-04-15T23:00:49.215Z",
     "total_conversations": 200,
-    "total_messages": 3258,
+    "total_messages": 3259,
     "stats": {
       "quente": 0,
       "morno": 1,
@@ -12,6 +12,120 @@
     }
   },
   "conversations": [
+    {
+      "session_id": "5521979531599@s.whatsapp.net",
+      "phone": "5521979531599",
+      "phone_display": "+55 21 97953-1599",
+      "lead": {
+        "baserow_id": 1518,
+        "nome": "Rosi🍀🧿🪬🧿🪬🧿🪬🧿🪬🍀",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": true,
+        "observacoes": "Rosi🍀🧿🪬🧿🪬🧿🪬🧿🪬🍀",
+        "reagendamento": null,
+        "corretor": "João",
+        "temperatura": "Quente"
+      },
+      "summary": {
+        "nome": "Rosi🍀🧿🪬🧿🪬🧿🪬🧿🪬🍀",
+        "email": "",
+        "telefone": "+55 21 97953-1599",
+        "vidas": [],
+        "cidade": "Rio de Janeiro / RJ",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "MEI",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "Encerramento do plano atual",
+        "interesse": "",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "João",
+        "obs_crm": "Rosi🍀🧿🪬🧿🪬🧿🪬🧿🪬🍀",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Rosi🍀🧿🪬🧿🪬🧿🪬🧿🪬🍀\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97953-1599\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\n\n⚠️ Observação: Rosi🍀🧿🪬🧿🪬🧿🪬🧿🪬🍀\n👤 Consultor: João\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "desinteresse",
+      "bot": "preto",
+      "consultor": "João",
+      "message_count": 13,
+      "first_message_at": "2026-04-15T00:00:00.000Z",
+      "last_message_at": "2026-04-15T22:57:21.125000Z",
+      "last_bot_msg_at": "2026-04-15T19:57:20.697013",
+      "tempo_sem_interacao": "3h 3min",
+      "first_id": 21092,
+      "last_id": 21104,
+      "last_message_preview": "Ok",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1518\nNome: \n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação de um plano de saúde Empresarial",
+          "msg_time": "2026-04-15T19:54:19.678994"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-04-15T19:54:19.684511"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1518\nNome: Rosi🍀🧿🪬🧿🪬🧿🪬🧿🪬🍀\n\nMensagem(ns) do cliente:\nRosilene\n\nA princípio só eu",
+          "msg_time": "2026-04-15T19:55:05.605375"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Rosi! Você está buscando um plano de saúde empresarial para você. Agora, preciso saber qual a cidade onde você pretende utilizar o plano. Se tiver algum hospital de sua preferência, isso também nos ajuda a encontrar o plano ideal.",
+          "msg_time": "2026-04-15T19:55:05.611678"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1518\nNome: Rosi🍀🧿🪬🧿🪬🧿🪬🧿🪬🍀\n\nMensagem(ns) do cliente:\nSão João de Meriti \nRio de janeiro",
+          "msg_time": "2026-04-15T19:55:42.971254"
+        },
+        {
+          "role": "ai",
+          "content": "Ótimo, Rosi! Agora preciso saber como o plano será contratado: empresarial por CNPJ MEI ou LTDA? Se tiver o número do CNPJ, pode me informar? Algumas operadoras têm valores diferentes. Se não tiver, sem problema, só preciso saber se é MEI ou LTDA.",
+          "msg_time": "2026-04-15T19:55:42.976637"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1518\nNome: Rosi🍀🧿🪬🧿🪬🧿🪬🧿🪬🍀\n\nMensagem(ns) do cliente:\nHospitais em duque de caxias e são João de Meriti",
+          "msg_time": "2026-04-15T19:56:04.656931"
+        },
+        {
+          "role": "ai",
+          "content": "Para confirmar, Rosi, você ainda não me informou sobre o tipo de contratação do plano: será empresarial por CNPJ MEI ou LTDA? Se você não tiver o número do CNPJ, por favor, me diga se é MEI ou LTDA.",
+          "msg_time": "2026-04-15T19:56:04.664265"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1518\nNome: Rosi🍀🧿🪬🧿🪬🧿🪬🧿🪬🍀\n\nMensagem(ns) do cliente:\nCNPJ",
+          "msg_time": "2026-04-15T19:56:36.105442"
+        },
+        {
+          "role": "ai",
+          "content": "Perfeito, Rosi! Agora, para finalizar, você já possui um plano de saúde atualmente? Se sim, qual e quanto paga hoje? Isso vai me ajudar a encontrar a melhor opção para você.",
+          "msg_time": "2026-04-15T19:56:36.107523"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1518\nNome: Rosi🍀🧿🪬🧿🪬🧿🪬🧿🪬🍀\n\nMensagem(ns) do cliente:\nNão possuo",
+          "msg_time": "2026-04-15T19:57:20.694714"
+        },
+        {
+          "role": "ai",
+          "content": "Rosi, obrigada por todas as informações! Vou encaminhar seu contato para o João, nosso especialista, que vai te apresentar as melhores opções de plano para você em São João de Meriti. Ele vai te chamar aqui no WhatsApp em breve.",
+          "msg_time": "2026-04-15T19:57:20.697013"
+        },
+        {
+          "role": "user",
+          "content": "Ok",
+          "msg_time": "2026-04-15T19:57:49.216811"
+        }
+      ]
+    },
     {
       "session_id": "5521978786996@s.whatsapp.net",
       "phone": "5521978786996",
@@ -61,7 +175,7 @@
       "first_message_at": "2025-12-15T00:00:00.000Z",
       "last_message_at": "2026-04-15T20:02:29.447Z",
       "last_bot_msg_at": "2026-04-15T20:02:29.447Z",
-      "tempo_sem_interacao": "2h 43min",
+      "tempo_sem_interacao": "2h 58min",
       "first_id": 742,
       "last_id": 21091,
       "last_message_preview": "<ContextoImagem>\n\n  <DetalheImagem>\n\n  </DetalheImagem>\n\nContexto Extra: O usuário encaminhou a mens...",
@@ -367,7 +481,7 @@
       "first_message_at": "2026-04-15T00:00:00.000Z",
       "last_message_at": "2026-04-15T20:01:00.337000Z",
       "last_bot_msg_at": "2026-04-15T17:00:59.512098",
-      "tempo_sem_interacao": "5h 44min",
+      "tempo_sem_interacao": "5h 59min",
       "first_id": 21080,
       "last_id": 21090,
       "last_message_preview": "Ok",
@@ -1255,7 +1369,7 @@
       "first_message_at": "2026-04-14T00:00:00.000Z",
       "last_message_at": "2026-04-15T17:54:03.809000Z",
       "last_bot_msg_at": "2026-04-15T14:53:56.040229",
-      "tempo_sem_interacao": "7h 51min",
+      "tempo_sem_interacao": "8h 6min",
       "first_id": 20982,
       "last_id": 21076,
       "last_message_preview": "Se aceitar ótimo",
@@ -1426,7 +1540,7 @@
       "first_message_at": "2026-04-15T00:00:00.000Z",
       "last_message_at": "2026-04-15T14:57:56.545000Z",
       "last_bot_msg_at": "2026-04-15T11:57:56.116624",
-      "tempo_sem_interacao": "10h 47min",
+      "tempo_sem_interacao": "11h 2min",
       "first_id": 21011,
       "last_id": 21058,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1514\nNome: Alberto\n\nMensagem(ns) do cliente:\nNão, não. Física não....",
@@ -1545,7 +1659,7 @@
       "first_message_at": "2026-04-15T00:00:00.000Z",
       "last_message_at": "2026-04-15T14:47:29.006000Z",
       "last_bot_msg_at": "2026-04-15T11:47:28.496564",
-      "tempo_sem_interacao": "10h 58min",
+      "tempo_sem_interacao": "11h 13min",
       "first_id": 21025,
       "last_id": 21054,
       "last_message_preview": "Ok",
@@ -1691,7 +1805,7 @@
       "first_message_at": "2026-04-15T00:00:00.000Z",
       "last_message_at": "2026-04-15T14:36:30.591000Z",
       "last_bot_msg_at": "2026-04-15T11:36:30.091976",
-      "tempo_sem_interacao": "11h 9min",
+      "tempo_sem_interacao": "11h 24min",
       "first_id": 21035,
       "last_id": 21046,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1516\nNome: Ariana\n\nMensagem(ns) do cliente:\nNão tenho plano atualm...",
@@ -1800,7 +1914,7 @@
       "first_message_at": "2026-04-14T00:00:00.000Z",
       "last_message_at": "2026-04-15T14:17:43.004000Z",
       "last_bot_msg_at": "2026-04-15T11:17:42.550692",
-      "tempo_sem_interacao": "11h 28min",
+      "tempo_sem_interacao": "11h 43min",
       "first_id": 20988,
       "last_id": 21024,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1512\nNome: Gilberto Soares\n\nMensagem(ns) do cliente:\n.",
@@ -17658,7 +17772,7 @@
       "first_message_at": "2026-03-20T00:00:00.000Z",
       "last_message_at": "2026-03-20T01:58:10.419Z",
       "last_bot_msg_at": "2026-03-19T22:58:10.419641",
-      "tempo_sem_interacao": "26 dias",
+      "tempo_sem_interacao": "27 dias",
       "first_id": 19583,
       "last_id": 19584,
       "last_message_preview": "Dados Fornecidos\nNome: Ana\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o informa...",
@@ -19289,7 +19403,7 @@
       "first_message_at": "2026-03-17T00:00:00.000Z",
       "last_message_at": "2026-03-18T01:53:09.040000Z",
       "last_bot_msg_at": "2026-03-17T22:53:03.748068",
-      "tempo_sem_interacao": "28 dias",
+      "tempo_sem_interacao": "29 dias",
       "first_id": 19142,
       "last_id": 19481,
       "last_message_preview": "Dados Fornecidos\nNome: Marcos\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não ...",
@@ -19308,125 +19422,6 @@
           "role": "system",
           "content": "\n",
           "msg_time": "2026-03-19T11:00:31.253013"
-        }
-      ]
-    },
-    {
-      "session_id": "5521974185584@s.whatsapp.net",
-      "phone": "5521974185584",
-      "phone_display": "+55 21 97418-5584",
-      "lead": {
-        "baserow_id": 1264,
-        "nome": "Jurema",
-        "email": "",
-        "qtd_vidas": 3,
-        "desinteresse": true,
-        "observacoes": "Clean",
-        "reagendamento": null,
-        "corretor": "Elisa",
-        "temperatura": "Quente"
-      },
-      "summary": {
-        "nome": "Jurema",
-        "email": "",
-        "telefone": "+55 21 97418-5584",
-        "vidas": [
-          {
-            "idade": 47
-          },
-          {
-            "idade": 29
-          },
-          {
-            "idade": 6
-          }
-        ],
-        "cidade": "Rio de Janeiro / RJ",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "MEI",
-        "profissao": "clínica",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "Sulamérica",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "Elisa",
-        "obs_crm": "Clean",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Jurema\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97418-5584\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nJurema — 47 anos\nDependente 1 — 29 anos\nDependente 2 — 6 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: clínica\n\n🎯 Interesse: Sulamérica\n\n⚠️ Observação: Clean\n👤 Consultor: Elisa\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "desinteresse",
-      "bot": "preto",
-      "consultor": "Elisa",
-      "message_count": 12,
-      "first_message_at": "2026-03-18T00:00:00.000Z",
-      "last_message_at": "2026-03-19T12:12:48.156000Z",
-      "last_bot_msg_at": "2026-03-19T09:12:46.724212",
-      "tempo_sem_interacao": "27 dias",
-      "first_id": 19465,
-      "last_id": 19478,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1264\nNome: Clean\n\nMensagem(ns) do cliente:\nEntão, eu tinha um plan...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1264\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Sulamérica",
-          "msg_time": "2026-03-18T22:11:14.747927"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
-          "msg_time": "2026-03-18T22:11:14.752642"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1264\nNome: Clean\n\nMensagem(ns) do cliente:\nBom dia\n\nJurema\n\n3 pessoas",
-          "msg_time": "2026-03-19T09:08:37.684836"
-        },
-        {
-          "role": "ai",
-          "content": "Clean, bom dia! 😊 Entendi que você está buscando planos para 3 pessoas. Agora, para facilitar, poderia me informar as idades de cada um? Isso é importante para que eu encontre as melhores opções para vocês.",
-          "msg_time": "2026-03-19T09:08:37.691628"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1264\nNome: Clean\n\nMensagem(ns) do cliente:\n47/29/6",
-          "msg_time": "2026-03-19T09:09:36.413257"
-        },
-        {
-          "role": "ai",
-          "content": "Ótimo, Clean! Agora, preciso saber em qual cidade o plano de saúde será utilizado. Se tiver algum hospital de sua preferência, isso também pode nos ajudar a encontrar um plano que atenda melhor vocês.",
-          "msg_time": "2026-03-19T09:09:36.416657"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1264\nNome: Clean\n\nMensagem(ns) do cliente:\nEu moro em Jacarepaguá Rio de Janeiro pra mim pode ser mais perto pra mim hospital de clínica de Jacarepaguá",
-          "msg_time": "2026-03-19T09:10:28.183938"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Clean! Jacarepaguá no Rio de Janeiro é a localização. Agora, como o plano será contratado: empresarial por CNPJ (MEI ou LTDA) ou será como pessoa física (CPF)? Se você tiver o número do CNPJ, pode me informar?",
-          "msg_time": "2026-03-19T09:10:28.187627"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1264\nNome: Clean\n\nMensagem(ns) do cliente:\nCNPJ",
-          "msg_time": "2026-03-19T09:11:32.315965"
-        },
-        {
-          "role": "ai",
-          "content": "Clean, entendido! Por último, você já possui um plano de saúde atualmente? Se sim, qual é o nome e quanto paga hoje? Essa informação me ajuda a encontrar a melhor relação custo-benefício para vocês.",
-          "msg_time": "2026-03-19T09:11:32.321107"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1264\nNome: Clean\n\nMensagem(ns) do cliente:\nEntão, eu tinha um plano, só que a menina me mandou o boleto errado, aí suspendeu meu plano. Meu plano era o porto seguro.",
-          "msg_time": "2026-03-19T09:12:46.720777"
-        },
-        {
-          "role": "ai",
-          "content": "Clean, obrigada por todas as informações! Vou encaminhar seu contato para o João, nosso especialista, que vai te apresentar as melhores opções de plano para 3 pessoas em Jacarepaguá. Ele vai te chamar aqui no WhatsApp em breve. ",
-          "msg_time": "2026-03-19T09:12:46.724212"
         }
       ]
     }
