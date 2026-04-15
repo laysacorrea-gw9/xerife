@@ -1,17 +1,76 @@
 {
   "meta": {
-    "generated_at": "2026-04-15T09:15:48.173Z",
+    "generated_at": "2026-04-15T09:30:48.253Z",
     "total_conversations": 200,
-    "total_messages": 3275,
+    "total_messages": 3263,
     "stats": {
       "quente": 0,
       "morno": 2,
-      "frio": 14,
-      "desinteresse": 184,
+      "frio": 15,
+      "desinteresse": 183,
       "sem_classificacao": 0
     }
   },
   "conversations": [
+    {
+      "session_id": "5521982079677@s.whatsapp.net",
+      "phone": "5521982079677",
+      "phone_display": "+55 21 98207-9677",
+      "lead": {
+        "baserow_id": 1514,
+        "nome": "Alberto",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "observacoes": "Alberto",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Alberto",
+        "email": "",
+        "telefone": "+55 21 98207-9677",
+        "vidas": [],
+        "cidade": "",
+        "contratacao": "",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "Sulamérica",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "Alberto",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Alberto\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98207-9677\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: Sulamérica\n\n⚠️ Observação: Alberto\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "frio",
+      "bot": "preto",
+      "consultor": "",
+      "message_count": 2,
+      "first_message_at": "2026-04-15T00:00:00.000Z",
+      "last_message_at": "2026-04-15T09:29:36.097000Z",
+      "last_bot_msg_at": "2026-04-15T06:29:35.687172",
+      "tempo_sem_interacao": "3h 1min",
+      "first_id": 21011,
+      "last_id": 21012,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1514\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1514\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Sulamérica",
+          "msg_time": "2026-04-15T06:29:35.68257"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-04-15T06:29:35.687172"
+        }
+      ]
+    },
     {
       "session_id": "5521995262165@s.whatsapp.net",
       "phone": "5521995262165",
@@ -67,7 +126,7 @@
       "first_message_at": "2026-04-13T00:00:00.000Z",
       "last_message_at": "2026-04-14T19:21:07.202000Z",
       "last_bot_msg_at": "2026-04-14T16:21:06.580015",
-      "tempo_sem_interacao": "16h 54min",
+      "tempo_sem_interacao": "17h 9min",
       "first_id": 20965,
       "last_id": 21010,
       "last_message_preview": "Eu não tenho ,não trabalho de carteira assinada",
@@ -196,7 +255,7 @@
       "first_message_at": "2026-04-14T00:00:00.000Z",
       "last_message_at": "2026-04-14T17:13:28.753000Z",
       "last_bot_msg_at": "2026-04-14T14:13:28.014825",
-      "tempo_sem_interacao": "19h 2min",
+      "tempo_sem_interacao": "19h 17min",
       "first_id": 20990,
       "last_id": 20996,
       "last_message_preview": "Ok obrigada",
@@ -280,7 +339,7 @@
       "first_message_at": "2026-04-14T00:00:00.000Z",
       "last_message_at": "2026-04-14T16:58:57.417000Z",
       "last_bot_msg_at": "2026-04-14T13:58:56.890942",
-      "tempo_sem_interacao": "19h 16min",
+      "tempo_sem_interacao": "19h 31min",
       "first_id": 20988,
       "last_id": 20989,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1512\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -349,7 +408,7 @@
       "first_message_at": "2026-04-14T00:00:00.000Z",
       "last_message_at": "2026-04-14T15:00:21.687000Z",
       "last_bot_msg_at": "2026-04-14T12:00:20.886795",
-      "tempo_sem_interacao": "21h 15min",
+      "tempo_sem_interacao": "21h 30min",
       "first_id": 20982,
       "last_id": 20987,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1511\nNome: Eloisa Salles\n\nMensagem(ns) do cliente:\nSalvei aqui Elo...",
@@ -444,7 +503,7 @@
       "first_message_at": "2026-04-14T00:00:00.000Z",
       "last_message_at": "2026-04-14T13:00:06.278000Z",
       "last_bot_msg_at": "2026-04-14T10:00:04.776692",
-      "tempo_sem_interacao": "23h 15min",
+      "tempo_sem_interacao": "23h 30min",
       "first_id": 20969,
       "last_id": 20981,
       "last_message_preview": "Ok",
@@ -7650,7 +7709,7 @@
       "first_message_at": "2026-03-24T00:00:00.000Z",
       "last_message_at": "2026-03-24T12:18:57.510000Z",
       "last_bot_msg_at": "2026-03-24T09:18:52.691469",
-      "tempo_sem_interacao": "21 dias",
+      "tempo_sem_interacao": "22 dias",
       "first_id": 20135,
       "last_id": 20507,
       "last_message_preview": "Dados Fornecidos\nNome: Andrezito\nContem CNPJ: não\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o i...",
@@ -13076,7 +13135,7 @@
       "first_message_at": "2026-03-22T00:00:00.000Z",
       "last_message_at": "2026-03-22T12:18:21.884000Z",
       "last_bot_msg_at": "2026-03-22T09:18:20.868065",
-      "tempo_sem_interacao": "23 dias",
+      "tempo_sem_interacao": "24 dias",
       "first_id": 19758,
       "last_id": 19945,
       "last_message_preview": "Não amigo.",
@@ -14426,7 +14485,7 @@
       "first_message_at": "2026-03-23T00:00:00.000Z",
       "last_message_at": "2026-03-23T12:19:16.156000Z",
       "last_bot_msg_at": "2026-03-23T09:19:14.982717",
-      "tempo_sem_interacao": "22 dias",
+      "tempo_sem_interacao": "23 dias",
       "first_id": 19881,
       "last_id": 19902,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1323\nNome: \nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do c...",
@@ -15670,7 +15729,7 @@
       "first_message_at": "2026-03-21T00:00:00.000Z",
       "last_message_at": "2026-03-21T12:22:09.059000Z",
       "last_bot_msg_at": "2026-03-21T09:22:07.721863",
-      "tempo_sem_interacao": "24 dias",
+      "tempo_sem_interacao": "25 dias",
       "first_id": 19680,
       "last_id": 19695,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1298\nNome: Marcelo\nVidas: 3\nCidade: \nTipo Contratação: \n\nMensagem(...",
@@ -19322,125 +19381,6 @@
           "role": "user",
           "content": "Não tenho",
           "msg_time": "2026-03-18T19:57:38.731854"
-        }
-      ]
-    },
-    {
-      "session_id": "5521996383687@s.whatsapp.net",
-      "phone": "5521996383687",
-      "phone_display": "+55 21 99638-3687",
-      "lead": {
-        "baserow_id": 1183,
-        "nome": "Reinaldo",
-        "email": "pr.reinaldogomes@yahoo.com.br",
-        "qtd_vidas": "",
-        "desinteresse": true,
-        "observacoes": "Reinaldo",
-        "reagendamento": null,
-        "corretor": "Elisa",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Reinaldo",
-        "email": "pr.reinaldogomes@yahoo.com.br",
-        "telefone": "+55 21 99638-3687",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "o pastor Reinaldo e eu tô ainda em busca realmente de um plano de saúde que seja",
-        "plano_atual": "",
-        "motivo": "Dificuldade de agendamento\nIncluir novas vidas",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "Elisa",
-        "obs_crm": "Reinaldo",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Reinaldo\n📧 E-mail: pr.reinaldogomes@yahoo.com.br\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99638-3687\n\n📋 Dados contratuais:\n\nContratação: CNPJ\nProfissão: o pastor Reinaldo e eu tô ainda em busca realmente de um plano de saúde que seja\n\n😤 Motivo da troca:\n\nDificuldade de agendamento\nIncluir novas vidas\n\n⚠️ Observação: Reinaldo\n👤 Consultor: Elisa\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "desinteresse",
-      "bot": "preto",
-      "consultor": "Elisa",
-      "message_count": 14,
-      "first_message_at": "2026-03-16T00:00:00.000Z",
-      "last_message_at": "2026-03-18T19:44:08.280000Z",
-      "last_bot_msg_at": "2026-03-18T16:44:07.127291",
-      "tempo_sem_interacao": "27 dias",
-      "first_id": 18912,
-      "last_id": 19278,
-      "last_message_preview": "Gilberto querido, boa tarde, tudo bem? Eu sou o pastor Reinaldo e eu tô ainda em busca realmente de ...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados Fornecidos\nNome: Reinaldo\nContem CNPJ: sim\nNumero de Vidas: 2_vidas\nOperadora de Interesse: não informado\nRegião: Não Informado\nPropaganda:\n",
-          "msg_time": "2026-03-16T13:02:25.966222"
-        },
-        {
-          "role": "ai",
-          "content": "Oi Reinaldo, eu sou o Gilberto da GW9 Saúde. Você pediu o nosso contato para saber mais sobre Plano de Saúde. Para te ajudar melhor, preciso confirmar algumas informações rápidas, tudo bem?",
-          "msg_time": "2026-03-16T13:02:25.969269"
-        },
-        {
-          "role": "system",
-          "content": "Reinaldo, ainda está por aí? Estou aguardando sua resposta para dar sequência.",
-          "msg_time": "2026-03-16T19:00:32.536135"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Reinaldo\n\nMensagem(ns) do cliente:\nDesculpe a demora em responder. Estou negociando com uma empresa de planos de saúde e assim que terminar as negociações retorno o contato. Estou fazendo cotações e buscando as melhores condições. Assim que possível entrarei em contato. Desde já agradeço pela atenção.",
-          "msg_time": "2026-03-17T00:38:56.734738"
-        },
-        {
-          "role": "ai",
-          "content": "Reinaldo, entendo que você está ocupado com as negociações e fico feliz em saber que está buscando as melhores condições. \n\nSe precisar de alguma informação ou ajuda, estou aqui para ajudar. \n\nVou registrar que você se interessou mas ainda não está pronto para prosseguir. Assim que você estiver pronto, pode me chamar! 😊\n\nVou anotar a data e horário para recontato. Por favor, qual é o melhor dia e horário para eu retornar o contato?",
-          "msg_time": "2026-03-17T00:38:56.738697"
-        },
-        {
-          "role": "system",
-          "content": "Reinaldo, ainda está por aí? Estou aguardando sua resposta para dar sequência.",
-          "msg_time": "2026-03-17T09:00:47.12275"
-        },
-        {
-          "role": "system",
-          "content": "Como comentei antes, preciso dessas informações para te enviar as melhores opções de plano de saúde. Qual é o melhor dia e horário para eu retornar o contato?",
-          "msg_time": "2026-03-17T12:30:43.396834"
-        },
-        {
-          "role": "ai",
-          "content": "Oi Reinaldo! Aqui e o Gilberto da GW9 Saude. Ha alguns dias voce demonstrou interesse em plano de saude, mas nao conseguimos conversar. Ainda tem interesse? Se sim, posso te ajudar rapidinho!",
-          "msg_time": "2026-03-18T09:45:57.894681"
-        },
-        {
-          "role": "system",
-          "content": "\n",
-          "msg_time": "2026-03-18T11:00:27.72802"
-        },
-        {
-          "role": "user",
-          "content": "Gilberto querido, boa tarde, tudo bem? Eu sou o pastor Reinaldo e eu tô ainda em busca realmente de um plano de saúde que seja, não vou dizer que seja barato, mas que caiba no meu bolso, é um plano de saúde pra mim e pra minha esposa. Eu tenho 56 anos, minha esposa tem 40 anos, nós estamos em busca de um plano que não seja somente laboratorial, seja um plano de saúde com direito a internação, com direito a consultas, cirurgia, um plano que tenha emergência. Então hoje nós estamos em busca de um plano que atenda a emergência, que não seja laboratorial, ambulatorial, melhor dizendo, um plano de saúde que tenha cirurgias e não precisa ser quarto particular, pode ser quarto coletivo. E é isso, nós estamos em busca de um plano de saúde nessa categoria, que não seja muito caro, porque a gente sabe que os planos de saúde hoje estão tudo muito caro e a gente tá tentando aí ter um plano de saúde que não seja muito caro, tá bom? Tem a possibilidade desse plano de saúde também ser feito no CNPJ, ",
-          "msg_time": "2026-03-18T16:35:47.589681"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Reinaldo\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nGilberto querido, boa tarde, tudo bem? Eu sou o pastor Reinaldo e eu tô ainda em busca realmente de um plano de saúde que seja, não vou dizer que seja barato, mas que caiba no meu bolso, é um plano de saúde pra mim e pra minha esposa. Eu tenho 56 anos, minha esposa tem 40 anos, nós estamos em busca de um plano que não seja somente laboratorial, seja um plano de saúde com direito a internação, com direito a consultas, cirurgia, um plano que tenha emergência. Então hoje nós estamos em busca de um plano que atenda a emergência, que não seja laboratorial, ambulatorial, melhor dizendo, um plano de saúde que tenha cirurgias e não precisa ser quarto particular, pode ser quarto coletivo. E é isso, nós estamos em busca de um plano de saúde nessa categoria, que não seja muito caro, porque a gente sabe que os planos de saúde hoje estão tudo muito caro e a gente tá tentando aí ter um plano de saú",
-          "msg_time": "2026-03-18T16:44:07.125269"
-        },
-        {
-          "role": "ai",
-          "content": "Reinaldo, boa tarde! 😃 Fico feliz em saber que você está em busca de um plano de saúde que atenda a vocês e estou aqui para ajudar.\n\nPara poder te ajudar melhor, só preciso confirmar algumas informações: você mencionou que tem 56 anos e sua esposa tem 40. Qual é a cidade onde vocês vão utilizar o plano? Dessa forma, posso buscar opções adequadas à sua região.",
-          "msg_time": "2026-03-18T16:44:07.127291"
-        },
-        {
-          "role": "system",
-          "content": "Reinaldo \n\nDesculpe a demora! A Consultora Elisa vai te chamar para te passar algumas opções.",
-          "msg_time": "2026-03-18T16:47:44.105862"
-        },
-        {
-          "role": "user",
-          "content": "Gilberto querido, boa tarde, tudo bem? Eu sou o pastor Reinaldo e eu tô ainda em busca realmente de um plano de saúde que seja, não vou dizer que seja barato, mas que caiba no meu bolso, é um plano de saúde pra mim e pra minha esposa. Eu tenho 56 anos, minha esposa tem 40 anos, nós estamos em busca de um plano que não seja somente laboratorial, seja um plano de saúde com direito a internação, com direito a consultas, cirurgia, um plano que tenha emergência. Então hoje nós estamos em busca de um plano que atenda a emergência, que não seja laboratorial, ambulatorial, melhor dizendo, um plano de saúde que tenha cirurgias e não precisa ser quarto particular, pode ser quarto coletivo. E é isso, nós estamos em busca de um plano de saúde nessa categoria, que não seja muito caro, porque a gente sabe que os planos de saúde hoje estão tudo muito caro e a gente tá tentando aí ter um plano de saúde que não seja muito caro, tá bom? Tem a possibilidade desse plano de saúde também ser feito no CNPJ, ",
-          "msg_time": "2026-03-18T16:49:59.494082"
         }
       ]
     }
