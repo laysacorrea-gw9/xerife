@@ -1,17 +1,133 @@
 {
   "meta": {
-    "generated_at": "2026-04-15T14:30:48.995Z",
+    "generated_at": "2026-04-15T14:45:49.413Z",
     "total_conversations": 200,
-    "total_messages": 3264,
+    "total_messages": 3274,
     "stats": {
       "quente": 1,
       "morno": 4,
-      "frio": 13,
-      "desinteresse": 182,
+      "frio": 12,
+      "desinteresse": 183,
       "sem_classificacao": 0
     }
   },
   "conversations": [
+    {
+      "session_id": "5521990741900@s.whatsapp.net",
+      "phone": "5521990741900",
+      "phone_display": "+55 21 99074-1900",
+      "lead": {
+        "baserow_id": 1516,
+        "nome": "Ariana",
+        "email": "",
+        "qtd_vidas": 2,
+        "desinteresse": true,
+        "observacoes": "Ariana",
+        "reagendamento": null,
+        "corretor": "João",
+        "temperatura": "Quente"
+      },
+      "summary": {
+        "nome": "Ariana",
+        "email": "",
+        "telefone": "+55 21 99074-1900",
+        "vidas": [
+          {
+            "idade": 14
+          },
+          {
+            "idade": 41
+          }
+        ],
+        "cidade": "Rio de Janeiro / RJ",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "MEI",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "Encerramento do plano atual",
+        "interesse": "Barra D'or",
+        "rede_preferencial": "Barra D'Or",
+        "contato": "WhatsApp",
+        "consultor": "João",
+        "obs_crm": "Ariana",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Ariana\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99074-1900\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nAriana — 14 anos\nDependente 1 — 41 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n🎯 Rede preferencial: Barra D'Or\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\n\n🎯 Interesse: Barra D'or\n\n⚠️ Observação: Ariana\n👤 Consultor: João\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "desinteresse",
+      "bot": "preto",
+      "consultor": "João",
+      "message_count": 12,
+      "first_message_at": "2026-04-15T00:00:00.000Z",
+      "last_message_at": "2026-04-15T14:36:30.591000Z",
+      "last_bot_msg_at": "2026-04-15T11:36:30.091976",
+      "tempo_sem_interacao": "3h 9min",
+      "first_id": 21035,
+      "last_id": 21046,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1516\nNome: Ariana\n\nMensagem(ns) do cliente:\nNão tenho plano atualm...",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1516\nNome: \n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação de um plano de saúde Barra D'or",
+          "msg_time": "2026-04-15T11:30:53.48238"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. \n\nQual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-04-15T11:30:53.48697"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1516\nNome: Ariana\n\nMensagem(ns) do cliente:\nMeu nome é Ariana.",
+          "msg_time": "2026-04-15T11:32:11.538859"
+        },
+        {
+          "role": "ai",
+          "content": "Obrigada, Ariana! Para eu te apresentar as opções certas, preciso saber: o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-04-15T11:32:11.543086"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1516\nNome: Ariana\n\nMensagem(ns) do cliente:\nPlano para 2 pessoas.\n14 anos e 41 anos.",
+          "msg_time": "2026-04-15T11:32:47.15525"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Ariana! Agora, por favor, qual é a cidade onde você busca atendimento? Se tiver algum hospital de sua preferência, também nos ajuda a encontrar o plano que melhor atenda vocês.",
+          "msg_time": "2026-04-15T11:32:47.157544"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1516\nNome: Ariana\n\nMensagem(ns) do cliente:\nRio de Janeiro\n\nMoro no recreio dos bandeirantes.",
+          "msg_time": "2026-04-15T11:34:04.792708"
+        },
+        {
+          "role": "ai",
+          "content": "Ótimo, Ariana! Agora, como o plano será contratado: empresarial por CNPJ MEI ou LTDA? Se tiver o número do CNPJ, pode me informar. Caso não tenha, só preciso saber se é MEI ou LTDA.",
+          "msg_time": "2026-04-15T11:34:04.799718"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1516\nNome: Ariana\n\nMensagem(ns) do cliente:\nCNPJ 31.900.182.0001-80",
+          "msg_time": "2026-04-15T11:35:16.373959"
+        },
+        {
+          "role": "ai",
+          "content": "Perfeito, Ariana! Para finalizar, você já possui plano de saúde atualmente? Se sim, qual é e quanto paga hoje? Isso me ajudará a encontrar as melhores opções para vocês.",
+          "msg_time": "2026-04-15T11:35:16.387165"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1516\nNome: Ariana\n\nMensagem(ns) do cliente:\nNão tenho plano atualmente.",
+          "msg_time": "2026-04-15T11:36:30.089015"
+        },
+        {
+          "role": "ai",
+          "content": "Ariana, obrigada por todas as informações! Vou encaminhar seu contato para o João, nosso especialista, que vai te apresentar as melhores opções de plano para vocês. Ele vai te chamar aqui no WhatsApp em breve.",
+          "msg_time": "2026-04-15T11:36:30.091976"
+        }
+      ]
+    },
     {
       "session_id": "5521964421526@s.whatsapp.net",
       "phone": "5521964421526",
@@ -54,7 +170,7 @@
       "first_message_at": "2026-04-15T00:00:00.000Z",
       "last_message_at": "2026-04-15T14:24:07.151000Z",
       "last_bot_msg_at": "2026-04-15T11:24:05.92705",
-      "tempo_sem_interacao": "3h 6min",
+      "tempo_sem_interacao": "3h 21min",
       "first_id": 21025,
       "last_id": 21034,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1515\nNome: Milton Filho\n\nMensagem(ns) do cliente:\nSó eu\n\nRio de ja...",
@@ -153,7 +269,7 @@
       "first_message_at": "2026-04-14T00:00:00.000Z",
       "last_message_at": "2026-04-15T14:17:43.004000Z",
       "last_bot_msg_at": "2026-04-15T11:17:42.550692",
-      "tempo_sem_interacao": "3h 13min",
+      "tempo_sem_interacao": "3h 28min",
       "first_id": 20988,
       "last_id": 21024,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1512\nNome: Gilberto Soares\n\nMensagem(ns) do cliente:\n.",
@@ -229,7 +345,7 @@
       "first_message_at": "2026-04-15T00:00:00.000Z",
       "last_message_at": "2026-04-15T14:15:30.564000Z",
       "last_bot_msg_at": "2026-04-15T11:15:25.419996",
-      "tempo_sem_interacao": "3h 15min",
+      "tempo_sem_interacao": "3h 30min",
       "first_id": 21011,
       "last_id": 21022,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1514\nNome: Alberto\n\nMensagem(ns) do cliente:\nRio de Janeiro Barra ...",
@@ -341,7 +457,7 @@
       "first_message_at": "2026-04-13T00:00:00.000Z",
       "last_message_at": "2026-04-14T19:21:07.202000Z",
       "last_bot_msg_at": "2026-04-14T16:21:06.580015",
-      "tempo_sem_interacao": "22h 9min",
+      "tempo_sem_interacao": "22h 24min",
       "first_id": 20965,
       "last_id": 21018,
       "last_message_preview": "Eu não tenho ,não trabalho de carteira assinada",
@@ -18292,7 +18408,7 @@
       "first_message_at": "2026-03-19T17:32:16.506Z",
       "last_message_at": "2026-03-19T17:32:16.509Z",
       "last_bot_msg_at": "2026-03-19T14:32:16.509024",
-      "tempo_sem_interacao": "26 dias",
+      "tempo_sem_interacao": "27 dias",
       "first_id": 19509,
       "last_id": 19510,
       "last_message_preview": "Dados Fornecidos\nNome: Cassia\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não ...",
@@ -19344,55 +19460,6 @@
           "role": "ai",
           "content": "Obrigada pelas informações, Laysa! Vou encaminhar seu contato para a Isis, nossa especialista, que entrará em contato com você através do WhatsApp em breve. \n\nEla vai apresentar as melhores opções de plano de saúde para as 4 pessoas em Niterói. Se precisar de mais alguma coisa, estou à disposição!",
           "msg_time": "2026-03-18T20:38:05.477199"
-        }
-      ]
-    },
-    {
-      "session_id": "55981961100@s.whatsapp.net",
-      "phone": "55981961100",
-      "phone_display": "55981961100",
-      "lead": null,
-      "summary": {
-        "nome": "Não identificado",
-        "email": "",
-        "telefone": "55981961100",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "",
-        "bot": "Não identificado",
-        "formatted": "👤 Cliente: Não identificado\n📱 Contato: WhatsApp\n📞 Telefone: 55981961100\n\n📋 Dados contratuais:\n\n✅ Status: Lead frio\n🤖 Bot: Não identificado"
-      },
-      "status": "frio",
-      "bot": "desconhecido",
-      "consultor": "",
-      "message_count": 2,
-      "first_message_at": "2026-03-18T23:13:43.950Z",
-      "last_message_at": "2026-03-18T23:13:43.952Z",
-      "last_bot_msg_at": "2026-03-18T20:13:43.952376",
-      "tempo_sem_interacao": "27 dias",
-      "first_id": 19423,
-      "last_id": 19424,
-      "last_message_preview": "Dados do lead no sistema:\nNome: \nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nNão t...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: \nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nNão tenho",
-          "msg_time": "2026-03-18T20:13:43.950527"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Pode me ajudar com algumas informações rápidas para que eu possa encontrar o plano de saúde ideal para você? Como você gostaria de ser chamado? 😊",
-          "msg_time": "2026-03-18T20:13:43.952376"
         }
       ]
     }
