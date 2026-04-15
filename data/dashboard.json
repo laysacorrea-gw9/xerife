@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_at": "2026-04-15T15:15:48.370Z",
+    "generated_at": "2026-04-15T15:30:49.665Z",
     "total_conversations": 200,
-    "total_messages": 3288,
+    "total_messages": 3289,
     "stats": {
       "quente": 0,
       "morno": 3,
@@ -12,6 +12,163 @@
     }
   },
   "conversations": [
+    {
+      "session_id": "5521995262165@s.whatsapp.net",
+      "phone": "5521995262165",
+      "phone_display": "+55 21 99526-2165",
+      "lead": {
+        "baserow_id": 1508,
+        "nome": "luciana",
+        "email": "",
+        "qtd_vidas": 4,
+        "desinteresse": true,
+        "observacoes": "luciana",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "luciana",
+        "email": "",
+        "telefone": "+55 21 99526-2165",
+        "vidas": [
+          {
+            "idade": 18
+          },
+          {
+            "idade": 23
+          },
+          {
+            "idade": 25
+          },
+          {
+            "idade": 49
+          }
+        ],
+        "cidade": "",
+        "contratacao": "",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "Amil",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "luciana",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: luciana\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99526-2165\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nluciana — 18 anos\nDependente 1 — 23 anos\nDependente 2 — 25 anos\nDependente 3 — 49 anos\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: Amil\n\n⚠️ Observação: luciana\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "desinteresse",
+      "bot": "preto",
+      "consultor": "",
+      "message_count": 19,
+      "first_message_at": "2026-04-13T00:00:00.000Z",
+      "last_message_at": "2026-04-14T19:21:07.202000Z",
+      "last_bot_msg_at": "2026-04-14T16:21:06.580015",
+      "tempo_sem_interacao": "23h 9min",
+      "first_id": 20965,
+      "last_id": 21061,
+      "last_message_preview": "Eu não tenho ,não trabalho de carteira assinada",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1508\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Amil",
+          "msg_time": "2026-04-13T22:55:55.210813"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-04-13T22:55:55.215011"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1508\nNome: luciana\n\nMensagem(ns) do cliente:\n4",
+          "msg_time": "2026-04-14T16:20:37.232744"
+        },
+        {
+          "role": "ai",
+          "content": "Luciana, entendi que o plano será para 4 pessoas. Quais são as idades de cada uma delas? Isso é importante para que eu possa te ajudar da melhor forma!",
+          "msg_time": "2026-04-14T16:20:37.24189"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1508\nNome: luciana\n\nMensagem(ns) do cliente:\n18,23,25\n\n49",
+          "msg_time": "2026-04-14T16:21:06.574058"
+        },
+        {
+          "role": "ai",
+          "content": "Ótimo, Luciana! Temos as seguintes idades: 18, 23, 25 e 49 anos. Agora, qual é a cidade onde você busca atendimento? Se tiver algum hospital de sua preferência, também nos ajuda a encontrar o plano que atenda a todos.",
+          "msg_time": "2026-04-14T16:21:06.580015"
+        },
+        {
+          "role": "system",
+          "content": "Obrigado pelas informações Luciana",
+          "msg_time": "2026-04-14T16:22:31.905366"
+        },
+        {
+          "role": "system",
+          "content": "vocês já possuem plano atualmente?",
+          "msg_time": "2026-04-14T16:22:50.45226"
+        },
+        {
+          "role": "system",
+          "content": "preciso de algumas informações para analisar o cenário completo e melhor atende-la",
+          "msg_time": "2026-04-14T16:23:15.43923"
+        },
+        {
+          "role": "user",
+          "content": "Não",
+          "msg_time": "2026-04-14T16:29:22.311462"
+        },
+        {
+          "role": "system",
+          "content": "perfeito, vou ajuda-la nesse processo",
+          "msg_time": "2026-04-14T16:29:45.001086"
+        },
+        {
+          "role": "system",
+          "content": "algo específico motivou vocês a buscarem por um plano no momento?\n\nou apenas segurança, prevenção?",
+          "msg_time": "2026-04-14T16:30:14.614635"
+        },
+        {
+          "role": "user",
+          "content": "Apenas estou pensando em fazer",
+          "msg_time": "2026-04-14T16:31:09.290734"
+        },
+        {
+          "role": "system",
+          "content": "Ótimo Luciana!\n\no seu cnpj é MEI ou LTDA?",
+          "msg_time": "2026-04-14T16:34:05.451554"
+        },
+        {
+          "role": "user",
+          "content": "O meu filho que tem meu",
+          "msg_time": "2026-04-14T19:56:49.59446"
+        },
+        {
+          "role": "user",
+          "content": "Eu não tenho ,não trabalho de carteira assinada",
+          "msg_time": "2026-04-14T19:57:11.000549"
+        },
+        {
+          "role": "system",
+          "content": "Bom dia Luciana, perfeito. Com MEI o valor dos planos ficam até 40% mais baratos",
+          "msg_time": "2026-04-15T10:03:42.421492"
+        },
+        {
+          "role": "system",
+          "content": "qual é o quadro familiar dessas idades? é você e seus filhos?",
+          "msg_time": "2026-04-15T10:04:33.04918"
+        },
+        {
+          "role": "system",
+          "content": "Luciana, boa tarde. Estamos tentando o contato, mas não tivemos sucesso no contato com você para agilizarmos o seu processo de análise em relação aos orçamentos de planos. Assim que você conseguir ver essa mensagem, consegue me sinalizar para que a gente consiga dar continuidade ao seu atendimento?",
+          "msg_time": "2026-04-15T12:16:32.613713"
+        }
+      ]
+    },
     {
       "session_id": "5521999859739@s.whatsapp.net",
       "phone": "5521999859739",
@@ -64,7 +221,7 @@
       "first_message_at": "2026-04-14T00:00:00.000Z",
       "last_message_at": "2026-04-15T15:06:48.571000Z",
       "last_bot_msg_at": "2026-04-15T12:06:47.954332",
-      "tempo_sem_interacao": "3h 9min",
+      "tempo_sem_interacao": "3h 24min",
       "first_id": 20982,
       "last_id": 21060,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1511\nNome: Eloisa Salles\n\nMensagem(ns) do cliente:\nOlá Eloísa \n\nBo...",
@@ -160,7 +317,7 @@
       "first_message_at": "2026-04-15T00:00:00.000Z",
       "last_message_at": "2026-04-15T14:57:56.545000Z",
       "last_bot_msg_at": "2026-04-15T11:57:56.116624",
-      "tempo_sem_interacao": "3h 17min",
+      "tempo_sem_interacao": "3h 32min",
       "first_id": 21011,
       "last_id": 21058,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1514\nNome: Alberto\n\nMensagem(ns) do cliente:\nNão, não. Física não....",
@@ -279,7 +436,7 @@
       "first_message_at": "2026-04-15T00:00:00.000Z",
       "last_message_at": "2026-04-15T14:47:29.006000Z",
       "last_bot_msg_at": "2026-04-15T11:47:28.496564",
-      "tempo_sem_interacao": "3h 28min",
+      "tempo_sem_interacao": "3h 43min",
       "first_id": 21025,
       "last_id": 21054,
       "last_message_preview": "Ok",
@@ -425,7 +582,7 @@
       "first_message_at": "2026-04-15T00:00:00.000Z",
       "last_message_at": "2026-04-15T14:36:30.591000Z",
       "last_bot_msg_at": "2026-04-15T11:36:30.091976",
-      "tempo_sem_interacao": "3h 39min",
+      "tempo_sem_interacao": "3h 54min",
       "first_id": 21035,
       "last_id": 21046,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1516\nNome: Ariana\n\nMensagem(ns) do cliente:\nNão tenho plano atualm...",
@@ -534,7 +691,7 @@
       "first_message_at": "2026-04-14T00:00:00.000Z",
       "last_message_at": "2026-04-15T14:17:43.004000Z",
       "last_bot_msg_at": "2026-04-15T11:17:42.550692",
-      "tempo_sem_interacao": "3h 58min",
+      "tempo_sem_interacao": "4h 13min",
       "first_id": 20988,
       "last_id": 21024,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1512\nNome: Gilberto Soares\n\nMensagem(ns) do cliente:\n.",
@@ -558,158 +715,6 @@
           "role": "ai",
           "content": "Olá, Gilberto Soares! Vou te ajudar com a cotação. Para isso, quantas pessoas serão incluídas no plano e quais as idades?",
           "msg_time": "2026-04-15T11:17:42.550692"
-        }
-      ]
-    },
-    {
-      "session_id": "5521995262165@s.whatsapp.net",
-      "phone": "5521995262165",
-      "phone_display": "+55 21 99526-2165",
-      "lead": {
-        "baserow_id": 1508,
-        "nome": "luciana",
-        "email": "",
-        "qtd_vidas": 4,
-        "desinteresse": true,
-        "observacoes": "luciana",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "luciana",
-        "email": "",
-        "telefone": "+55 21 99526-2165",
-        "vidas": [
-          {
-            "idade": 18
-          },
-          {
-            "idade": 23
-          },
-          {
-            "idade": 25
-          },
-          {
-            "idade": 49
-          }
-        ],
-        "cidade": "",
-        "contratacao": "",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "Amil",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "luciana",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: luciana\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99526-2165\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nluciana — 18 anos\nDependente 1 — 23 anos\nDependente 2 — 25 anos\nDependente 3 — 49 anos\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: Amil\n\n⚠️ Observação: luciana\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "desinteresse",
-      "bot": "preto",
-      "consultor": "",
-      "message_count": 18,
-      "first_message_at": "2026-04-13T00:00:00.000Z",
-      "last_message_at": "2026-04-14T19:21:07.202000Z",
-      "last_bot_msg_at": "2026-04-14T16:21:06.580015",
-      "tempo_sem_interacao": "22h 54min",
-      "first_id": 20965,
-      "last_id": 21018,
-      "last_message_preview": "Eu não tenho ,não trabalho de carteira assinada",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1508\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Amil",
-          "msg_time": "2026-04-13T22:55:55.210813"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
-          "msg_time": "2026-04-13T22:55:55.215011"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1508\nNome: luciana\n\nMensagem(ns) do cliente:\n4",
-          "msg_time": "2026-04-14T16:20:37.232744"
-        },
-        {
-          "role": "ai",
-          "content": "Luciana, entendi que o plano será para 4 pessoas. Quais são as idades de cada uma delas? Isso é importante para que eu possa te ajudar da melhor forma!",
-          "msg_time": "2026-04-14T16:20:37.24189"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1508\nNome: luciana\n\nMensagem(ns) do cliente:\n18,23,25\n\n49",
-          "msg_time": "2026-04-14T16:21:06.574058"
-        },
-        {
-          "role": "ai",
-          "content": "Ótimo, Luciana! Temos as seguintes idades: 18, 23, 25 e 49 anos. Agora, qual é a cidade onde você busca atendimento? Se tiver algum hospital de sua preferência, também nos ajuda a encontrar o plano que atenda a todos.",
-          "msg_time": "2026-04-14T16:21:06.580015"
-        },
-        {
-          "role": "system",
-          "content": "Obrigado pelas informações Luciana",
-          "msg_time": "2026-04-14T16:22:31.905366"
-        },
-        {
-          "role": "system",
-          "content": "vocês já possuem plano atualmente?",
-          "msg_time": "2026-04-14T16:22:50.45226"
-        },
-        {
-          "role": "system",
-          "content": "preciso de algumas informações para analisar o cenário completo e melhor atende-la",
-          "msg_time": "2026-04-14T16:23:15.43923"
-        },
-        {
-          "role": "user",
-          "content": "Não",
-          "msg_time": "2026-04-14T16:29:22.311462"
-        },
-        {
-          "role": "system",
-          "content": "perfeito, vou ajuda-la nesse processo",
-          "msg_time": "2026-04-14T16:29:45.001086"
-        },
-        {
-          "role": "system",
-          "content": "algo específico motivou vocês a buscarem por um plano no momento?\n\nou apenas segurança, prevenção?",
-          "msg_time": "2026-04-14T16:30:14.614635"
-        },
-        {
-          "role": "user",
-          "content": "Apenas estou pensando em fazer",
-          "msg_time": "2026-04-14T16:31:09.290734"
-        },
-        {
-          "role": "system",
-          "content": "Ótimo Luciana!\n\no seu cnpj é MEI ou LTDA?",
-          "msg_time": "2026-04-14T16:34:05.451554"
-        },
-        {
-          "role": "user",
-          "content": "O meu filho que tem meu",
-          "msg_time": "2026-04-14T19:56:49.59446"
-        },
-        {
-          "role": "user",
-          "content": "Eu não tenho ,não trabalho de carteira assinada",
-          "msg_time": "2026-04-14T19:57:11.000549"
-        },
-        {
-          "role": "system",
-          "content": "Bom dia Luciana, perfeito. Com MEI o valor dos planos ficam até 40% mais baratos",
-          "msg_time": "2026-04-15T10:03:42.421492"
-        },
-        {
-          "role": "system",
-          "content": "qual é o quadro familiar dessas idades? é você e seus filhos?",
-          "msg_time": "2026-04-15T10:04:33.04918"
         }
       ]
     },
@@ -5947,7 +5952,7 @@
       "first_message_at": "2026-04-09T00:00:00.000Z",
       "last_message_at": "2026-04-09T18:24:14.572000Z",
       "last_bot_msg_at": "2026-04-09T15:24:14.017144",
-      "tempo_sem_interacao": "5 dias",
+      "tempo_sem_interacao": "6 dias",
       "first_id": 20705,
       "last_id": 20721,
       "last_message_preview": "Tem como fazer portabilidade de um plano para outro",
@@ -9235,7 +9240,7 @@
       "first_message_at": "2026-03-25T00:00:00.000Z",
       "last_message_at": "2026-03-25T18:24:20.247000Z",
       "last_bot_msg_at": "2026-03-25T15:24:14.521354",
-      "tempo_sem_interacao": "20 dias",
+      "tempo_sem_interacao": "21 dias",
       "first_id": 20373,
       "last_id": 20374,
       "last_message_preview": "Dados Fornecidos\nNome: Silverio\nContem CNPJ: não\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o in...",
@@ -9284,7 +9289,7 @@
       "first_message_at": "2026-03-25T18:22:28.153Z",
       "last_message_at": "2026-03-25T18:22:28.162Z",
       "last_bot_msg_at": "2026-03-25T15:22:28.162917",
-      "tempo_sem_interacao": "20 dias",
+      "tempo_sem_interacao": "21 dias",
       "first_id": 20371,
       "last_id": 20372,
       "last_message_preview": "Dados Fornecidos\nNome: Daniele\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o inf...",
@@ -18374,7 +18379,7 @@
       "first_message_at": "2026-03-19T00:00:00.000Z",
       "last_message_at": "2026-03-19T18:26:45.431000Z",
       "last_bot_msg_at": "2026-03-19T15:26:43.988101",
-      "tempo_sem_interacao": "26 dias",
+      "tempo_sem_interacao": "27 dias",
       "first_id": 19511,
       "last_id": 19523,
       "last_message_preview": "Ok",
