@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_at": "2026-04-15T19:45:48.588Z",
+    "generated_at": "2026-04-15T20:00:48.662Z",
     "total_conversations": 200,
-    "total_messages": 3307,
+    "total_messages": 3254,
     "stats": {
       "quente": 0,
       "morno": 2,
@@ -12,6 +12,102 @@
     }
   },
   "conversations": [
+    {
+      "session_id": "5521969061442@s.whatsapp.net",
+      "phone": "5521969061442",
+      "phone_display": "+55 21 96906-1442",
+      "lead": {
+        "baserow_id": 1517,
+        "nome": "Marcio Albuquerque da Silva",
+        "email": "",
+        "qtd_vidas": 2,
+        "desinteresse": false,
+        "observacoes": "Marcio",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Marcio Albuquerque da Silva",
+        "email": "",
+        "telefone": "+55 21 96906-1442",
+        "vidas": [
+          {
+            "idade": 2
+          },
+          {
+            "idade": 10
+          }
+        ],
+        "cidade": "Rio de Janeiro / RJ",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "MEI",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "Encerramento do plano atual",
+        "interesse": "",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "Marcio",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Marcio Albuquerque da Silva\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96906-1442\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nMarcio Albuquerque da Silva — 2 anos\nDependente 1 — 10 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\n\n⚠️ Observação: Marcio\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "morno",
+      "bot": "preto",
+      "consultor": "",
+      "message_count": 8,
+      "first_message_at": "2026-04-15T00:00:00.000Z",
+      "last_message_at": "2026-04-15T20:00:05.915000Z",
+      "last_bot_msg_at": "2026-04-15T17:00:01.653677",
+      "tempo_sem_interacao": "3h",
+      "first_id": 21080,
+      "last_id": 21087,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1517\nNome: Marcio\n\nMensagem(ns) do cliente:\nEu nao tenho o número ...",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1517\nNome: \n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação de um plano de saúde Copa D'or",
+          "msg_time": "2026-04-15T16:57:17.789545"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-04-15T16:57:17.793378"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1517\nNome: Marcio\n\nMensagem(ns) do cliente:\nMarcio Albuquerque da Silva\n\n2\n\n10\n\nE 50",
+          "msg_time": "2026-04-15T16:58:10.140801"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Marcio! Para sua família então, temos duas vidas: uma de 10 anos e outra de 50 anos. Agora, qual é a cidade onde você busca atendimento? Se tiver algum hospital de sua preferência, isso também pode nos ajudar.",
+          "msg_time": "2026-04-15T16:58:10.144688"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1517\nNome: Marcio\n\nMensagem(ns) do cliente:\nRio de Janeiro\n\nQuinta dor",
+          "msg_time": "2026-04-15T16:58:54.833279"
+        },
+        {
+          "role": "ai",
+          "content": "Para confirmar, você mencionou que a cidade é Rio de Janeiro e que tem preferência pelo hospital Copa D'or. Agora, como o plano será contratado: empresarial por CNPJ MEI ou LTDA? Se precisar informar o número do CNPJ, fique à vontade. ",
+          "msg_time": "2026-04-15T16:58:54.835077"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1517\nNome: Marcio\n\nMensagem(ns) do cliente:\nEu nao tenho o número agpra\n\nJa sai da empresa\n\nMas e ltda",
+          "msg_time": "2026-04-15T17:00:01.62929"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Marcio! Então será uma contratação como LTDA. Para finalizar, você já possui plano de saúde atualmente? Se sim, qual e quanto paga hoje? Isso ajuda a encontrar o melhor equilíbrio entre custo e acesso!",
+          "msg_time": "2026-04-15T17:00:01.653677"
+        }
+      ]
+    },
     {
       "session_id": "5521995262165@s.whatsapp.net",
       "phone": "5521995262165",
@@ -838,7 +934,7 @@
       "first_message_at": "2026-04-14T00:00:00.000Z",
       "last_message_at": "2026-04-15T17:54:03.809000Z",
       "last_bot_msg_at": "2026-04-15T14:53:56.040229",
-      "tempo_sem_interacao": "4h 51min",
+      "tempo_sem_interacao": "5h 6min",
       "first_id": 20982,
       "last_id": 21076,
       "last_message_preview": "Se aceitar ótimo",
@@ -1009,7 +1105,7 @@
       "first_message_at": "2026-04-15T00:00:00.000Z",
       "last_message_at": "2026-04-15T14:57:56.545000Z",
       "last_bot_msg_at": "2026-04-15T11:57:56.116624",
-      "tempo_sem_interacao": "7h 47min",
+      "tempo_sem_interacao": "8h 2min",
       "first_id": 21011,
       "last_id": 21058,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1514\nNome: Alberto\n\nMensagem(ns) do cliente:\nNão, não. Física não....",
@@ -1128,7 +1224,7 @@
       "first_message_at": "2026-04-15T00:00:00.000Z",
       "last_message_at": "2026-04-15T14:47:29.006000Z",
       "last_bot_msg_at": "2026-04-15T11:47:28.496564",
-      "tempo_sem_interacao": "7h 58min",
+      "tempo_sem_interacao": "8h 13min",
       "first_id": 21025,
       "last_id": 21054,
       "last_message_preview": "Ok",
@@ -1274,7 +1370,7 @@
       "first_message_at": "2026-04-15T00:00:00.000Z",
       "last_message_at": "2026-04-15T14:36:30.591000Z",
       "last_bot_msg_at": "2026-04-15T11:36:30.091976",
-      "tempo_sem_interacao": "8h 9min",
+      "tempo_sem_interacao": "8h 24min",
       "first_id": 21035,
       "last_id": 21046,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1516\nNome: Ariana\n\nMensagem(ns) do cliente:\nNão tenho plano atualm...",
@@ -1383,7 +1479,7 @@
       "first_message_at": "2026-04-14T00:00:00.000Z",
       "last_message_at": "2026-04-15T14:17:43.004000Z",
       "last_bot_msg_at": "2026-04-15T11:17:42.550692",
-      "tempo_sem_interacao": "8h 28min",
+      "tempo_sem_interacao": "8h 43min",
       "first_id": 20988,
       "last_id": 21024,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1512\nNome: Gilberto Soares\n\nMensagem(ns) do cliente:\n.",
@@ -7319,7 +7415,7 @@
       "first_message_at": "2026-04-06T00:00:00.000Z",
       "last_message_at": "2026-04-06T22:54:36.956000Z",
       "last_bot_msg_at": "2026-04-06T19:54:36.501178",
-      "tempo_sem_interacao": "8 dias",
+      "tempo_sem_interacao": "9 dias",
       "first_id": 20564,
       "last_id": 20596,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1454\nNome: Tatiana\n\nMensagem(ns) do cliente:\nOk obrigado",
@@ -7870,7 +7966,7 @@
       "first_message_at": "2026-03-24T00:00:00.000Z",
       "last_message_at": "2026-03-24T22:45:56.630000Z",
       "last_bot_msg_at": "2026-03-24T19:45:51.863641",
-      "tempo_sem_interacao": "21 dias",
+      "tempo_sem_interacao": "22 dias",
       "first_id": 20297,
       "last_id": 20511,
       "last_message_preview": "Dados Fornecidos\nNome: Ponto\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o infor...",
@@ -10428,7 +10524,7 @@
       "first_message_at": "2026-03-24T00:00:00.000Z",
       "last_message_at": "2026-03-24T22:47:09.567000Z",
       "last_bot_msg_at": "2026-03-24T19:47:08.512578",
-      "tempo_sem_interacao": "21 dias",
+      "tempo_sem_interacao": "22 dias",
       "first_id": 20293,
       "last_id": 20302,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1388\nNome: christiani prado\n\nMensagem(ns) do cliente:\nRj\n\nEu tenho...",
@@ -19316,305 +19412,6 @@
           "role": "ai",
           "content": "Clean, obrigada por todas as informações! Vou encaminhar seu contato para o João, nosso especialista, que vai te apresentar as melhores opções de plano para 3 pessoas em Jacarepaguá. Ele vai te chamar aqui no WhatsApp em breve. ",
           "msg_time": "2026-03-19T09:12:46.724212"
-        }
-      ]
-    },
-    {
-      "session_id": "5521981961100@s.whatsapp.net",
-      "phone": "5521981961100",
-      "phone_display": "+55 21 98196-1100",
-      "lead": null,
-      "summary": {
-        "nome": "Laysa",
-        "email": "",
-        "telefone": "+55 21 98196-1100",
-        "vidas": [
-          {
-            "idade": 3
-          },
-          {
-            "idade": 7
-          },
-          {
-            "idade": 30
-          }
-        ],
-        "cidade": "Niterói / RJ",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "MEI",
-        "profissao": "",
-        "plano_atual": "Nenhum",
-        "motivo": "Encerramento do plano atual\nIncluir novas vidas",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "Laysa",
-        "obs_crm": "",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Laysa\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98196-1100\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nLaysa — 3 anos\nDependente 1 — 7 anos\nDependente 2 — 30 anos\n\n📋 Dados contratuais:\n\nCidade: Niterói / RJ\nContratação: CNPJ\nTipo: MEI\n\n🏥 Plano atual: Nenhum\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\nIncluir novas vidas\n👤 Consultor: Laysa\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "morno",
-      "bot": "preto",
-      "consultor": "Laysa",
-      "message_count": 61,
-      "first_message_at": "2026-03-06T01:36:17.247Z",
-      "last_message_at": "2026-03-18T23:38:05.477Z",
-      "last_bot_msg_at": "2026-03-18T20:38:05.477199",
-      "tempo_sem_interacao": "27 dias",
-      "first_id": 233,
-      "last_id": 19444,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1262\nNome: Laysa Corrêa, CFP®\nVidas: 4\nCidade: \nTipo Contratação: ...",
-      "messages": [
-        {
-          "role": "ai",
-          "content": "Laysa Corrêa, CFP®, como comentei antes, preciso dessas informações para te enviar as melhores opções de plano de saúde. Você vai contratar o plano como Pessoa Física, CNPJ ou MEI?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "system",
-          "content": "?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Testeeee",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Testeeee",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "…",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Testeeee",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Teste do 2pezinho",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Testeeee",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Testeeee",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Flamengo",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Flamengo",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Formato de mensagem enviada nao suportado",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Estou aqui para ajudar você a entender as melhores opções de plano de saúde. Pode me confirmar quantas pessoas serão incluídas no plano, as idades delas e a cidade onde usará o plano? Pode responder por áudio se preferir. 🎙️",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Eu quero um plano de saúde com cem vidas.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, você quer um plano para 100 vidas, certo? Pode me dizer em qual cidade o plano será utilizado e se será no CPF ou CNPJ? Isso ajuda a escolher a melhor opção para você.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "<ContextoImagem>\n\n  <DetalheImagem>\nO usuário enviou uma mensagem perguntando sobre o valor do IPCA (Índice de Preços ao Consumidor Amplo), o principal indicador da inflação no Brasil. Além disso, a imagem anexada contém texto que parece ser um trecho de um documento ou relatório, possivelmente relacionado a informações econômicas ou análises financeiras.\n\nO sentimento da mensagem indica uma busca por informações financeiras, sugerindo que o usuário está interessado em dados sobre a inflação atual, o que pode estar relacionado a decisões pessoais ou profissionais. É importante ressaltar que a transcrição do texto da imagem não pode ser fornecida, mas parece conter dados relevantes.\n\nEssas informações devem ser consideradas para futuras interações, especialmente em discussões sobre economia ou finanças.\n  </DetalheImagem>\n\nContexto Extra: O usuário encaminhou a mensagem a seguir junto á imagem.\n  <MensagemUsuario>\nMas antes quanto está o Ipca\n  </MensagemUsuario>\n\n</ContextoImagem>",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Olá, Laysa! Sobre o IPCA, que é o índice de inflação oficial do Brasil, os valores mais atuais você pode verificar em sites como o do IBGE, que é o responsável por divulgar esse dado mensalmente. Posso ajudar a continuar com o plano de saúde? Quantas pessoas são e em qual cidade deseja o plano?",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Formato de mensagem enviada nao suportado",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Para te ajudar com o plano de saúde, preciso saber quantas pessoas entrarão no plano, as idades e a cidade onde usará o plano. Pode responder por texto ou áudio se preferir. 🎙️",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Formato de mensagem enviada nao suportado",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Oi Laysa, ainda estou aqui para ajudar com seu plano. Pode me falar quantas pessoas serão incluídas, as idades e a cidade onde vai usar o plano? Isso vai ajudar a achar a opção certa pra você.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Formato de mensagem enviada nao suportado\n\nFormato de mensagem enviada nao suportado",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Parece que tivemos um problema com o formato da sua mensagem. Por favor, pode tentar enviar as informações sobre o número de pessoas, idades e cidade por texto simples? Assim posso ajudar melhor.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Formato de mensagem enviada nao suportado",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Parece que sua mensagem não está chegando corretamente. Se quiser, pode tentar enviar por texto simples para eu ajudar com o plano de saúde. Estou aqui para ajudar!",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Mas eu falei no áudio já\n\nMas eu falei no áudio já",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Recebi seu áudio, Laysa. Estou processando as informações para te ajudar direitinho. Só para confirmar: quantas pessoas entrarão no plano, quais as idades e em qual cidade será usado? Assim já deixo tudo prontinho para o especialista.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Resumo completo do atendimento.\n",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Cliente busca plano de saúde para 2 vidas, mas não informou a região e idade dos beneficiários. A solicitação inicial não mencionou a operadora de interesse. O cliente não possui CNPJ e está em busca de informações adicionais sobre o IPCA.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Resumo completo do atendimento.\n",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "ai",
-          "content": "Cliente busca plano de saúde para 2 vidas, não informou a região, idade dos beneficiários ou operadora de interesse. A solicitação inicial não mencionou a forma de contratação, que pode ser PF ou MEI. Cliente não possui CNPJ e está buscando informações adicionais sobre o IPCA.",
-          "msg_time": "2026-03-05T22:36:17.247927"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: \n\nMensagem(ns) do cliente:\nOi  quero um plano de saúde",
-          "msg_time": "2026-03-18T20:09:42.803197"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para te ajudar da melhor forma, preciso de algumas informações. Qual é o seu nome? E o plano será para quantas pessoas e quais as idades?",
-          "msg_time": "2026-03-18T20:09:42.80547"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Laysa Corrêa, CFP®\n\nMensagem(ns) do cliente:\nLaysa\n3 pessoas \n3, 7 e 30 anos",
-          "msg_time": "2026-03-18T20:10:50.063689"
-        },
-        {
-          "role": "ai",
-          "content": "Ótimo, Laysa! Ter essas informações é muito útil. Agora, qual é a cidade onde você busca atendimento dos planos de saúde? Se tiver algum hospital de sua preferência, isso também pode nos ajudar a encontrar a melhor opção.",
-          "msg_time": "2026-03-18T20:10:50.066013"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Laysa Corrêa, CFP®\n\nMensagem(ns) do cliente:\nNiterói quero por CNPJ",
-          "msg_time": "2026-03-18T20:11:54.352233"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Laysa! Agora, para registrar corretamente, você tem o número do CNPJ? E, por último, você já possui um plano de saúde atualmente? Se sim, qual é e quanto paga? Isso me ajuda a encontrar as melhores opções para você.",
-          "msg_time": "2026-03-18T20:11:54.354229"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Laysa Corrêa, CFP®\n\nMensagem(ns) do cliente:\nNão possuo número agora e não tenho plano",
-          "msg_time": "2026-03-18T20:12:53.549696"
-        },
-        {
-          "role": "ai",
-          "content": "Obrigada, Laysa! Então só para confirmar: suas informações são: 3 pessoas (idades 3, 7 e 30 anos) em Niterói, e a contratação será por CNPJ, correto? \n\nAgora que temos tudo, vou registrar suas informações e encaminhar seu contato para um especialista que vai te apresentar as melhores opções.",
-          "msg_time": "2026-03-18T20:12:53.551852"
-        },
-        {
-          "role": "user",
-          "content": "Sim",
-          "msg_time": "2026-03-18T20:13:19.286467"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1257\nNome: \n\nMensagem(ns) do cliente:\nNão tenho",
-          "msg_time": "2026-03-18T20:33:29.788892"
-        },
-        {
-          "role": "ai",
-          "content": "Laysa, estou enfrentando um problema técnico para registrar seus dados e encaminhar para o especialista. \n\nPor favor, me dê um momento para tentar resolver isso. Se você puder aguardar, prometo que vou ajudá-la o mais rápido possível! ",
-          "msg_time": "2026-03-18T20:33:29.790892"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1262\nNome: \nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\noi quero um plano de saude para 4 pessoas , 5, 13,17,59\n\nmoro em niteroi\nnao tenho plano \nQuero pela minha empresa",
-          "msg_time": "2026-03-18T20:35:45.958066"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Para te ajudar com o plano de saúde, só preciso confirmar alguns detalhes. Você mencionou que são 4 pessoas com as idades de 5, 13, 17 e 59 anos, e que mora em Niterói. Para registro, poderia me fornecer o nome da sua empresa ou, se preferir, o número do CNPJ?",
-          "msg_time": "2026-03-18T20:35:45.959814"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1262\nNome: Laysa Corrêa, CFP®\nVidas: 4\nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nNão tenho número",
-          "msg_time": "2026-03-18T20:37:15.610815"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Laysa. Então suas informações estão quase completas: 4 pessoas (idades 5, 13, 17 e 59 anos) em Niterói, e a contratação será feita pela sua empresa, mas você não tem o número do CNPJ no momento. \n\nPara finalizar, você poderia me confirmar se não possui nenhum plano de saúde atualmente? Assim posso preparar tudo para o especialista.",
-          "msg_time": "2026-03-18T20:37:15.61248"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1262\nNome: Laysa Corrêa, CFP®\nVidas: 4\nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nTenho pago 2000",
-          "msg_time": "2026-03-18T20:37:57.535669"
-        },
-        {
-          "role": "ai",
-          "content": "Perfeito, Laysa! Então suas informações são: 4 pessoas (idades de 5, 13, 17 e 59 anos) em Niterói, sem CNPJ no momento, e você atualmente paga R$ 2000 por um plano de saúde.\n\nAgora, só para finalizar, vou registrar tudo isso e encaminhar seu contato para um especialista que pode te ajudar. Um momento, por favor! 🎙️",
-          "msg_time": "2026-03-18T20:37:57.53741"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1262\nNome: Laysa Corrêa, CFP®\nVidas: 4\nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nEla é LTda",
-          "msg_time": "2026-03-18T20:38:05.475455"
-        },
-        {
-          "role": "ai",
-          "content": "Obrigada pelas informações, Laysa! Vou encaminhar seu contato para a Isis, nossa especialista, que entrará em contato com você através do WhatsApp em breve. \n\nEla vai apresentar as melhores opções de plano de saúde para as 4 pessoas em Niterói. Se precisar de mais alguma coisa, estou à disposição!",
-          "msg_time": "2026-03-18T20:38:05.477199"
         }
       ]
     }
