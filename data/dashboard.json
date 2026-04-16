@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_at": "2026-04-16T18:15:49.386Z",
+    "generated_at": "2026-04-16T18:30:54.278Z",
     "total_conversations": 200,
-    "total_messages": 3261,
+    "total_messages": 3270,
     "stats": {
       "quente": 0,
       "morno": 1,
@@ -12,6 +12,122 @@
     }
   },
   "conversations": [
+    {
+      "session_id": "5521996526862@s.whatsapp.net",
+      "phone": "5521996526862",
+      "phone_display": "+55 21 99652-6862",
+      "lead": {
+        "baserow_id": 1519,
+        "nome": "Selma Veiga",
+        "email": "",
+        "qtd_vidas": 2,
+        "desinteresse": true,
+        "observacoes": "Selma Veiga",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Selma Veiga",
+        "email": "",
+        "telefone": "+55 21 99652-6862",
+        "vidas": [
+          {
+            "idade": 68
+          },
+          {
+            "idade": 70
+          }
+        ],
+        "cidade": "Niterói / RJ",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "MEI",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "Selma Veiga",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Selma Veiga\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99652-6862\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nSelma Veiga — 68 anos\nDependente 1 — 70 anos\n\n📋 Dados contratuais:\n\nCidade: Niterói / RJ\nContratação: CNPJ\nTipo: MEI\n\n⚠️ Observação: Selma Veiga\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "desinteresse",
+      "bot": "preto",
+      "consultor": "",
+      "message_count": 12,
+      "first_message_at": "2026-04-16T00:00:00.000Z",
+      "last_message_at": "2026-04-16T18:25:35.779000Z",
+      "last_bot_msg_at": "2026-04-16T15:25:33.525721",
+      "tempo_sem_interacao": "3h 5min",
+      "first_id": 21107,
+      "last_id": 21118,
+      "last_message_preview": "Temos o Bradesco saúde empresarial somente até o final deste mês",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1519\nNome: \n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação de um plano de saúde Copa D'or",
+          "msg_time": "2026-04-16T15:23:31.965968"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te ajudar com a cotação, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-04-16T15:23:31.970915"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1519\nNome: Selma Veiga\n\nMensagem(ns) do cliente:\nSelma, 2 pessoas 68 e 70 anos",
+          "msg_time": "2026-04-16T15:24:31.852209"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Selma! Para buscar as melhores opções para vocês, qual é a cidade onde vocês buscam atendimento? Se tiver algum hospital de sua preferência, também nos ajuda a encontrar um plano que atenda.",
+          "msg_time": "2026-04-16T15:24:31.85385"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1519\nNome: Selma Veiga\n\nMensagem(ns) do cliente:\nEsse plano é somente o copa dor?",
+          "msg_time": "2026-04-16T15:24:51.45146"
+        },
+        {
+          "role": "ai",
+          "content": "Selma, a cotação é para o plano Copa D'or, mas posso apresentar outras opções relevantes. Para isso, só preciso saber a cidade onde buscam atendimento. Assim, consigo encontrar tudo que atenda às suas necessidades.",
+          "msg_time": "2026-04-16T15:24:51.454072"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1519\nNome: Selma Veiga\n\nMensagem(ns) do cliente:\nMoro em Niterói/RJ",
+          "msg_time": "2026-04-16T15:25:33.52231"
+        },
+        {
+          "role": "ai",
+          "content": "Ótimo, Selma! Para encaminhar para o nosso consultor, preciso saber como o plano será contratado: será por CPF ou CNPJ (MEI ou LTDA)?",
+          "msg_time": "2026-04-16T15:25:33.525721"
+        },
+        {
+          "role": "user",
+          "content": "O Niterói dor na tem plano de saúde ?",
+          "msg_time": "2026-04-16T15:25:53.286831"
+        },
+        {
+          "role": "user",
+          "content": "CNPJ MEI",
+          "msg_time": "2026-04-16T15:26:26.868099"
+        },
+        {
+          "role": "user",
+          "content": "Ou CPF, temos que ver os custo/beneficio",
+          "msg_time": "2026-04-16T15:30:09.075769"
+        },
+        {
+          "role": "user",
+          "content": "Temos o Bradesco saúde empresarial somente até o final deste mês",
+          "msg_time": "2026-04-16T15:30:30.389214"
+        }
+      ]
+    },
     {
       "session_id": "5521999859739@s.whatsapp.net",
       "phone": "5521999859739",
@@ -238,7 +354,7 @@
       "first_message_at": "2026-04-15T00:00:00.000Z",
       "last_message_at": "2026-04-15T22:57:21.125000Z",
       "last_bot_msg_at": "2026-04-15T19:57:20.697013",
-      "tempo_sem_interacao": "22h 18min",
+      "tempo_sem_interacao": "22h 33min",
       "first_id": 21092,
       "last_id": 21104,
       "last_message_preview": "Ok",
@@ -359,7 +475,7 @@
       "first_message_at": "2025-12-15T00:00:00.000Z",
       "last_message_at": "2026-04-15T20:02:29.447Z",
       "last_bot_msg_at": "2026-04-15T20:02:29.447Z",
-      "tempo_sem_interacao": "22h 13min",
+      "tempo_sem_interacao": "22h 28min",
       "first_id": 742,
       "last_id": 21091,
       "last_message_preview": "<ContextoImagem>\n\n  <DetalheImagem>\n\n  </DetalheImagem>\n\nContexto Extra: O usuário encaminhou a mens...",
@@ -18431,7 +18547,7 @@
       "first_message_at": "2026-03-19T00:00:00.000Z",
       "last_message_at": "2026-03-19T21:16:32.165000Z",
       "last_bot_msg_at": "2026-03-19T18:16:30.927441",
-      "tempo_sem_interacao": "27 dias",
+      "tempo_sem_interacao": "28 dias",
       "first_id": 19544,
       "last_id": 19556,
       "last_message_preview": "Ok então\n\nObg!!",
@@ -19368,70 +19484,6 @@
           "role": "system",
           "content": "\n",
           "msg_time": "2026-03-19T11:00:38.661537"
-        }
-      ]
-    },
-    {
-      "session_id": "5521972170741@s.whatsapp.net",
-      "phone": "5521972170741",
-      "phone_display": "+55 21 97217-0741",
-      "lead": {
-        "baserow_id": 1237,
-        "nome": "Marcos",
-        "email": "marcosbuffet3@gmail.com",
-        "qtd_vidas": "",
-        "desinteresse": true,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Marcos",
-        "email": "marcosbuffet3@gmail.com",
-        "telefone": "+55 21 97217-0741",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Marcos\n📧 E-mail: marcosbuffet3@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97217-0741\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "desinteresse",
-      "bot": "preto",
-      "consultor": "",
-      "message_count": 3,
-      "first_message_at": "2026-03-17T00:00:00.000Z",
-      "last_message_at": "2026-03-18T01:53:09.040000Z",
-      "last_bot_msg_at": "2026-03-17T22:53:03.748068",
-      "tempo_sem_interacao": "29 dias",
-      "first_id": 19142,
-      "last_id": 19481,
-      "last_message_preview": "Dados Fornecidos\nNome: Marcos\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não ...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados Fornecidos\nNome: Marcos\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não informado\nRegião: Não Informado\nPropaganda:\n",
-          "msg_time": "2026-03-17T22:53:03.741413"
-        },
-        {
-          "role": "ai",
-          "content": "Oi Marcos, eu sou o Gilberto da GW9 Saúde. Você pediu o nosso contato para saber mais sobre plano de saúde e que tem um CNPJ. Pra te ajudar e ser mais assertivo, preciso confirmar mais algumas informações. Tudo bem?",
-          "msg_time": "2026-03-17T22:53:03.748068"
-        },
-        {
-          "role": "system",
-          "content": "\n",
-          "msg_time": "2026-03-19T11:00:31.253013"
         }
       ]
     }
