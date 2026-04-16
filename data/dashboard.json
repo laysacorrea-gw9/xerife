@@ -1,17 +1,86 @@
 {
   "meta": {
-    "generated_at": "2026-04-16T22:45:49.149Z",
+    "generated_at": "2026-04-16T23:00:49.676Z",
     "total_conversations": 200,
-    "total_messages": 3279,
+    "total_messages": 3280,
     "stats": {
       "quente": 0,
-      "morno": 1,
+      "morno": 2,
       "frio": 12,
-      "desinteresse": 187,
+      "desinteresse": 186,
       "sem_classificacao": 0
     }
   },
   "conversations": [
+    {
+      "session_id": "5521998232264@s.whatsapp.net",
+      "phone": "5521998232264",
+      "phone_display": "+55 21 99823-2264",
+      "lead": {
+        "baserow_id": 1520,
+        "nome": "Rejane Costa",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "observacoes": "Rejane Costa",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Rejane Costa",
+        "email": "",
+        "telefone": "+55 21 99823-2264",
+        "vidas": [],
+        "cidade": "",
+        "contratacao": "",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "Sulamérica",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "Rejane Costa",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Rejane Costa\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99823-2264\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: Sulamérica\n\n⚠️ Observação: Rejane Costa\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "morno",
+      "bot": "preto",
+      "consultor": "",
+      "message_count": 4,
+      "first_message_at": "2026-04-16T00:00:00.000Z",
+      "last_message_at": "2026-04-16T22:50:19.753000Z",
+      "last_bot_msg_at": "2026-04-16T19:50:19.255088",
+      "tempo_sem_interacao": "3h 10min",
+      "first_id": 21128,
+      "last_id": 21131,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1520\nNome: Rejane Costa\n\nMensagem(ns) do cliente:\nGostaria de sabe...",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1520\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Sulamérica",
+          "msg_time": "2026-04-16T19:49:51.984278"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. \n\nQual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-04-16T19:49:51.988032"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1520\nNome: Rejane Costa\n\nMensagem(ns) do cliente:\nGostaria de saber sobre as três vidas por 1300,00",
+          "msg_time": "2026-04-16T19:50:19.250764"
+        },
+        {
+          "role": "ai",
+          "content": "Rejane, entendi que você está interessada em saber mais sobre planos para três vidas no valor de R$ 1.300,00. Para que eu possa te ajudar melhor, poderia me informar as idades das três pessoas? Isso é importante para calcularmos as melhores opções para vocês.",
+          "msg_time": "2026-04-16T19:50:19.255088"
+        }
+      ]
+    },
     {
       "session_id": "5521996526862@s.whatsapp.net",
       "phone": "5521996526862",
@@ -61,7 +130,7 @@
       "first_message_at": "2026-04-16T00:00:00.000Z",
       "last_message_at": "2026-04-16T18:25:35.779000Z",
       "last_bot_msg_at": "2026-04-16T15:25:33.525721",
-      "tempo_sem_interacao": "7h 20min",
+      "tempo_sem_interacao": "7h 35min",
       "first_id": 21107,
       "last_id": 21127,
       "last_message_preview": "Selma, nosso especialista João pode entrar em contato com você nesse momento para conversar sobre es...",
@@ -17943,7 +18012,7 @@
       "first_message_at": "2026-03-20T00:00:00.000Z",
       "last_message_at": "2026-03-20T01:58:10.419Z",
       "last_bot_msg_at": "2026-03-19T22:58:10.419641",
-      "tempo_sem_interacao": "27 dias",
+      "tempo_sem_interacao": "28 dias",
       "first_id": 19583,
       "last_id": 19584,
       "last_message_preview": "Dados Fornecidos\nNome: Ana\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o informa...",
@@ -19465,70 +19534,6 @@
           "role": "system",
           "content": "\n",
           "msg_time": "2026-03-19T11:00:48.381194"
-        }
-      ]
-    },
-    {
-      "session_id": "5521999470340@s.whatsapp.net",
-      "phone": "5521999470340",
-      "phone_display": "+55 21 99947-0340",
-      "lead": {
-        "baserow_id": 1238,
-        "nome": "Afonso",
-        "email": "afonsolemosmensch@gmail.com",
-        "qtd_vidas": "",
-        "desinteresse": true,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Afonso",
-        "email": "afonsolemosmensch@gmail.com",
-        "telefone": "+55 21 99947-0340",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Afonso\n📧 E-mail: afonsolemosmensch@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99947-0340\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "desinteresse",
-      "bot": "preto",
-      "consultor": "",
-      "message_count": 3,
-      "first_message_at": "2026-03-17T00:00:00.000Z",
-      "last_message_at": "2026-03-18T02:03:09.813000Z",
-      "last_bot_msg_at": "2026-03-17T23:03:04.276521",
-      "tempo_sem_interacao": "29 dias",
-      "first_id": 19144,
-      "last_id": 19482,
-      "last_message_preview": "Dados Fornecidos\nNome: Afonso\nContem CNPJ: sim\nNumero de Vidas: 2_vidas\nOperadora de Interesse: não ...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados Fornecidos\nNome: Afonso\nContem CNPJ: sim\nNumero de Vidas: 2_vidas\nOperadora de Interesse: não informado\nRegião: Não Informado\nPropaganda:\n",
-          "msg_time": "2026-03-17T23:03:04.273618"
-        },
-        {
-          "role": "ai",
-          "content": "Oi Afonso, eu sou o Gilberto da GW9 Saúde. Você pediu o nosso contato para saber mais sobre plano de saúde e vi que tem interesse para 2 pessoas e já possui um CNPJ. Pra te ajudar e ser mais assertivo, preciso confirmar mais algumas informações. Tudo bem?",
-          "msg_time": "2026-03-17T23:03:04.276521"
-        },
-        {
-          "role": "system",
-          "content": "\n",
-          "msg_time": "2026-03-19T11:00:38.661537"
         }
       ]
     }
