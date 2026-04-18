@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-04-18T22:45:49.411Z",
+    "generated_at": "2026-04-18T23:00:48.266Z",
     "total_conversations": 200,
-    "total_messages": 3239,
+    "total_messages": 3244,
     "stats": {
       "quente": 1,
-      "morno": 4,
+      "morno": 3,
       "frio": 16,
-      "desinteresse": 179,
+      "desinteresse": 180,
       "sem_classificacao": 0
     }
   },
@@ -21,11 +21,11 @@
         "nome": "Luciene",
         "email": "",
         "qtd_vidas": 2,
-        "desinteresse": false,
+        "desinteresse": true,
         "observacoes": "Luciene",
         "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
+        "corretor": "João",
+        "temperatura": "Quente"
       },
       "summary": {
         "nome": "Luciene",
@@ -41,30 +41,30 @@
         ],
         "cidade": "Rio de Janeiro / RJ",
         "contratacao": "CNPJ",
-        "cnpj": "",
+        "cnpj": "44682771/0001-99",
         "tipo_empresa": "MEI",
         "profissao": "",
         "plano_atual": "",
-        "motivo": "",
+        "motivo": "Encerramento do plano atual",
         "interesse": "",
         "rede_preferencial": "",
         "contato": "WhatsApp",
-        "consultor": "",
+        "consultor": "João",
         "obs_crm": "Luciene",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Luciene\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98758-0712\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nLuciene — 50 anos\nDependente 1 — 60 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n⚠️ Observação: Luciene\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Luciene\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98758-0712\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nLuciene — 50 anos\nDependente 1 — 60 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 44682771/0001-99\nTipo: MEI\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\n\n⚠️ Observação: Luciene\n👤 Consultor: João\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
       },
-      "status": "morno",
+      "status": "desinteresse",
       "bot": "preto",
-      "consultor": "",
-      "message_count": 8,
+      "consultor": "João",
+      "message_count": 13,
       "first_message_at": "2026-04-18T00:00:00.000Z",
-      "last_message_at": "2026-04-18T22:42:17.091000Z",
-      "last_bot_msg_at": "2026-04-18T19:42:16.013185",
-      "tempo_sem_interacao": "3h 3min",
+      "last_message_at": "2026-04-18T22:48:19.118000Z",
+      "last_bot_msg_at": "2026-04-18T19:48:18.574612",
+      "tempo_sem_interacao": "3h 12min",
       "first_id": 21240,
-      "last_id": 21247,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1534\nNome: Luciene\n\nMensagem(ns) do cliente:\nRio de Janeiro .Duque...",
+      "last_id": 21252,
+      "last_message_preview": "Ok",
       "messages": [
         {
           "role": "user",
@@ -105,6 +105,31 @@
           "role": "ai",
           "content": "Obrigado, Luciene! Agora, como o plano será contratado: empresarial por CNPJ MEI ou LTDA? Se você tiver o número do CNPJ, pode me informar? Se não tiver, só preciso saber se é MEI ou LTDA.",
           "msg_time": "2026-04-18T19:42:16.013185"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1534\nNome: Luciene\n\nMensagem(ns) do cliente:\nCNPJ 44682771/0001-99",
+          "msg_time": "2026-04-18T19:47:29.973722"
+        },
+        {
+          "role": "ai",
+          "content": "Ótimo, Luciene! Para finalizar, você já possui plano de saúde atualmente? Se sim, qual e quanto paga hoje? Isso nos ajuda a encontrar uma opção que faça sentido no seu orçamento.",
+          "msg_time": "2026-04-18T19:47:29.975297"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1534\nNome: Luciene\n\nMensagem(ns) do cliente:\nNão",
+          "msg_time": "2026-04-18T19:48:18.571399"
+        },
+        {
+          "role": "ai",
+          "content": "Luciene, obrigada por todas as informações! Vou encaminhar seu contato para o João, nosso especialista, que vai te apresentar as melhores opções de plano para vocês duas em Duque de Caxias. Ele vai te chamar aqui no WhatsApp em breve.",
+          "msg_time": "2026-04-18T19:48:18.574612"
+        },
+        {
+          "role": "user",
+          "content": "Ok",
+          "msg_time": "2026-04-18T19:49:10.89933"
         }
       ]
     },
@@ -150,7 +175,7 @@
       "first_message_at": "2026-04-18T00:00:00.000Z",
       "last_message_at": "2026-04-18T19:46:56.261000Z",
       "last_bot_msg_at": "2026-04-18T16:46:55.850782",
-      "tempo_sem_interacao": "5h 58min",
+      "tempo_sem_interacao": "6h 13min",
       "first_id": 21238,
       "last_id": 21239,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1533\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -219,7 +244,7 @@
       "first_message_at": "2026-04-18T00:00:00.000Z",
       "last_message_at": "2026-04-18T17:14:05.284000Z",
       "last_bot_msg_at": "2026-04-18T14:14:04.058661",
-      "tempo_sem_interacao": "8h 31min",
+      "tempo_sem_interacao": "8h 46min",
       "first_id": 21223,
       "last_id": 21237,
       "last_message_preview": "Ok",
@@ -359,7 +384,7 @@
       "first_message_at": "2026-04-18T00:00:00.000Z",
       "last_message_at": "2026-04-18T15:31:02.476000Z",
       "last_bot_msg_at": "2026-04-18T12:31:01.547246",
-      "tempo_sem_interacao": "10h 14min",
+      "tempo_sem_interacao": "10h 29min",
       "first_id": 21207,
       "last_id": 21222,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1531\nNome: Rosangela Vargas\n\nMensagem(ns) do cliente:\nTenho plano ...",
@@ -488,7 +513,7 @@
       "first_message_at": "2026-04-18T00:00:00.000Z",
       "last_message_at": "2026-04-18T15:00:08.692000Z",
       "last_bot_msg_at": "2026-04-18T12:00:07.085782",
-      "tempo_sem_interacao": "10h 45min",
+      "tempo_sem_interacao": "11h",
       "first_id": 21205,
       "last_id": 21206,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1530\nNome: \n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação...",
@@ -547,7 +572,7 @@
       "first_message_at": "2026-04-18T00:00:00.000Z",
       "last_message_at": "2026-04-18T13:11:06.192000Z",
       "last_bot_msg_at": "2026-04-18T10:11:05.567548",
-      "tempo_sem_interacao": "12h 34min",
+      "tempo_sem_interacao": "12h 49min",
       "first_id": 21203,
       "last_id": 21204,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1529\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -616,7 +641,7 @@
       "first_message_at": "2026-04-18T00:00:00.000Z",
       "last_message_at": "2026-04-18T12:23:53.684000Z",
       "last_bot_msg_at": "2026-04-18T09:23:53.231496",
-      "tempo_sem_interacao": "13h 21min",
+      "tempo_sem_interacao": "13h 36min",
       "first_id": 21179,
       "last_id": 21202,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1527\nNome: 🌷Rosiane 🫶\n\nMensagem(ns) do cliente:\nVi este de 1355....",
@@ -712,7 +737,7 @@
       "first_message_at": "2026-04-18T00:00:00.000Z",
       "last_message_at": "2026-04-18T11:57:04.661000Z",
       "last_bot_msg_at": "2026-04-18T08:57:03.977606",
-      "tempo_sem_interacao": "13h 48min",
+      "tempo_sem_interacao": "14h 3min",
       "first_id": 21183,
       "last_id": 21198,
       "last_message_preview": "Ok",
@@ -841,7 +866,7 @@
       "first_message_at": "2026-04-18T00:00:00.000Z",
       "last_message_at": "2026-04-18T11:31:24.706000Z",
       "last_bot_msg_at": "2026-04-18T08:31:24.13178",
-      "tempo_sem_interacao": "14h 14min",
+      "tempo_sem_interacao": "14h 29min",
       "first_id": 21177,
       "last_id": 21178,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1526\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -19353,7 +19378,7 @@
       "first_message_at": "2026-03-20T00:00:00.000Z",
       "last_message_at": "2026-03-20T01:58:10.419Z",
       "last_bot_msg_at": "2026-03-19T22:58:10.419641",
-      "tempo_sem_interacao": "29 dias",
+      "tempo_sem_interacao": "1 mês",
       "first_id": 19583,
       "last_id": 19584,
       "last_message_preview": "Dados Fornecidos\nNome: Ana\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o informa...",
