@@ -1,17 +1,152 @@
 {
   "meta": {
-    "generated_at": "2026-04-18T15:15:48.386Z",
+    "generated_at": "2026-04-18T15:30:50.682Z",
     "total_conversations": 200,
-    "total_messages": 3272,
+    "total_messages": 3236,
     "stats": {
-      "quente": 1,
+      "quente": 2,
       "morno": 3,
       "frio": 15,
-      "desinteresse": 181,
+      "desinteresse": 180,
       "sem_classificacao": 0
     }
   },
   "conversations": [
+    {
+      "session_id": "5521988647891@s.whatsapp.net",
+      "phone": "5521988647891",
+      "phone_display": "+55 21 98864-7891",
+      "lead": {
+        "baserow_id": 1531,
+        "nome": "Rosangela Vargas",
+        "email": "",
+        "qtd_vidas": 5,
+        "desinteresse": false,
+        "observacoes": "Registro interno: Encaminhado ao consultor.\nNome do lead: Rosangela Vargas\nTipo de plano: Saúde\nTipo de contratação: CNPJ\nTipo de empresa (se CNPJ): MEI\nCidade/UF: Campo Grande\nQuantidade de vidas: 3\nIdades dos beneficiários: 2, 4, 6, 20, 25, 28, 57, 59\nPossui plano atualmente: Não",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Rosangela Vargas",
+        "email": "",
+        "telefone": "+55 21 98864-7891",
+        "vidas": [
+          {
+            "idade": 2
+          },
+          {
+            "idade": 4
+          },
+          {
+            "idade": 6
+          },
+          {
+            "idade": 20
+          },
+          {
+            "idade": 25
+          }
+        ],
+        "cidade": "",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "MEI",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "Encerramento do plano atual",
+        "interesse": "Amil",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "Registro interno: Encaminhado ao consultor.\nNome do lead: Rosangela Vargas\nTipo de plano: Saúde\nTipo de contratação: CNPJ\nTipo de empresa (se CNPJ): MEI\nCidade/UF: Campo Grande\nQuantidade de vidas: 3\nIdades dos beneficiários: 2, 4, 6, 20, 25, 28, 57, 59\nPossui plano atualmente: Não",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Rosangela Vargas\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98864-7891\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nRosangela Vargas — 2 anos\nDependente 1 — 4 anos\nDependente 2 — 6 anos\nDependente 3 — 20 anos\nDependente 4 — 25 anos\n\n📋 Dados contratuais:\n\nContratação: CNPJ\nTipo: MEI\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Rosangela Vargas\nTipo de plano: Saúde\nTipo de contratação: CNPJ\nTipo de empresa (se CNPJ): MEI\nCidade/UF: Campo Grande\nQuantidade de vidas: 3\nIdades dos beneficiários: 2, 4, 6, 20, 25, 28, 57, 59\nPossui plano atualmente: Não\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "quente",
+      "bot": "preto",
+      "consultor": "",
+      "message_count": 14,
+      "first_message_at": "2026-04-18T00:00:00.000Z",
+      "last_message_at": "2026-04-18T15:29:02.056000Z",
+      "last_bot_msg_at": "2026-04-18T12:29:01.25536",
+      "tempo_sem_interacao": "3h 1min",
+      "first_id": 21207,
+      "last_id": 21220,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1531\nNome: Rosangela Vargas\n\nMensagem(ns) do cliente:\nMEI",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1531\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Amil",
+          "msg_time": "2026-04-18T12:23:20.057423"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-04-18T12:23:20.060125"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1531\nNome: Rosangela Vargas\n\nMensagem(ns) do cliente:\nRosangela",
+          "msg_time": "2026-04-18T12:24:21.816399"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Rosangela! Para que eu possa te ajudar melhor, quantas pessoas precisarão do plano e quais são as idades delas?",
+          "msg_time": "2026-04-18T12:24:21.818832"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1531\nNome: Rosangela Vargas\n\nMensagem(ns) do cliente:\n<ContextoImagem>\n\n  <DetalheImagem>\n\n  </DetalheImagem>\n\nContexto Extra: O usuário encaminhou a mensagem a seguir junto á imagem.\n  <MensagemUsuario>\n\n  </MensagemUsuario>\n\n</ContextoImagem>\n\nGilberto  gostaria de saber sobre esse plano",
+          "msg_time": "2026-04-18T12:25:31.510973"
+        },
+        {
+          "role": "ai",
+          "content": "Rosangela, eu não consigo visualizar imagens. Poderia me contar um pouco mais sobre o que você gostaria de saber sobre o plano Amil? E também, quantas pessoas precisarão do plano e quais são as idades delas? Isso me ajudará a te oferecer as melhores opções.",
+          "msg_time": "2026-04-18T12:25:31.512647"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1531\nNome: Rosangela Vargas\n\nMensagem(ns) do cliente:\n02,04,06,20,25,28,57e59",
+          "msg_time": "2026-04-18T12:27:02.919362"
+        },
+        {
+          "role": "ai",
+          "content": "Ótimo, Rosangela! Então temos as idades: 2, 4, 6, 20, 25, 28, 57 e 59 anos. Agora, para prosseguirmos, qual é a cidade onde você busca atendimento? Se tiver algum hospital de sua preferência, também me ajuda a encontrar o plano que te atenda.",
+          "msg_time": "2026-04-18T12:27:02.929893"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1531\nNome: Rosangela Vargas\n\nMensagem(ns) do cliente:\nO anúncio  no Instagram  plano pra três  vidas R$650,77",
+          "msg_time": "2026-04-18T12:27:58.676835"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Rosangela! Você mencionou que o plano é para três vidas e que o valor é R$650,77. Agora, por favor, me indique em qual cidade você busca atendimento e, se possível, algum hospital de preferência. Isso é importante para encontrar as melhores opções de planos!",
+          "msg_time": "2026-04-18T12:27:58.679017"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1531\nNome: Rosangela Vargas\n\nMensagem(ns) do cliente:\nCampo Grande",
+          "msg_time": "2026-04-18T12:28:19.481828"
+        },
+        {
+          "role": "ai",
+          "content": "Perfeito, Rosangela! Você busca atendimento em Campo Grande. Agora, precisamos saber como o plano será contratado: será empresarial por CNPJ (MEI ou LTDA) ou será pelo CPF? Se for CNPJ, você tem o número para me informar?",
+          "msg_time": "2026-04-18T12:28:19.483666"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1531\nNome: Rosangela Vargas\n\nMensagem(ns) do cliente:\nMEI",
+          "msg_time": "2026-04-18T12:29:01.250803"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Rosangela! O plano será contratado como MEI. Para finalizar, você já possui um plano de saúde atualmente? Se sim, poderia me dizer qual é e quanto paga por ele? Isso me ajudará a encontrar a melhor opção para você.",
+          "msg_time": "2026-04-18T12:29:01.25536"
+        }
+      ]
+    },
     {
       "session_id": "5521994850004@s.whatsapp.net",
       "phone": "5521994850004",
@@ -54,7 +189,7 @@
       "first_message_at": "2026-04-18T00:00:00.000Z",
       "last_message_at": "2026-04-18T15:00:08.692000Z",
       "last_bot_msg_at": "2026-04-18T12:00:07.085782",
-      "tempo_sem_interacao": "3h 15min",
+      "tempo_sem_interacao": "3h 30min",
       "first_id": 21205,
       "last_id": 21206,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1530\nNome: \n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação...",
@@ -113,7 +248,7 @@
       "first_message_at": "2026-04-18T00:00:00.000Z",
       "last_message_at": "2026-04-18T13:11:06.192000Z",
       "last_bot_msg_at": "2026-04-18T10:11:05.567548",
-      "tempo_sem_interacao": "5h 4min",
+      "tempo_sem_interacao": "5h 19min",
       "first_id": 21203,
       "last_id": 21204,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1529\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -182,7 +317,7 @@
       "first_message_at": "2026-04-18T00:00:00.000Z",
       "last_message_at": "2026-04-18T12:23:53.684000Z",
       "last_bot_msg_at": "2026-04-18T09:23:53.231496",
-      "tempo_sem_interacao": "5h 51min",
+      "tempo_sem_interacao": "6h 6min",
       "first_id": 21179,
       "last_id": 21202,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1527\nNome: 🌷Rosiane 🫶\n\nMensagem(ns) do cliente:\nVi este de 1355....",
@@ -278,7 +413,7 @@
       "first_message_at": "2026-04-18T00:00:00.000Z",
       "last_message_at": "2026-04-18T11:57:04.661000Z",
       "last_bot_msg_at": "2026-04-18T08:57:03.977606",
-      "tempo_sem_interacao": "6h 18min",
+      "tempo_sem_interacao": "6h 33min",
       "first_id": 21183,
       "last_id": 21198,
       "last_message_preview": "Ok",
@@ -407,7 +542,7 @@
       "first_message_at": "2026-04-18T00:00:00.000Z",
       "last_message_at": "2026-04-18T11:31:24.706000Z",
       "last_bot_msg_at": "2026-04-18T08:31:24.13178",
-      "tempo_sem_interacao": "6h 44min",
+      "tempo_sem_interacao": "6h 59min",
       "first_id": 21177,
       "last_id": 21178,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1526\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -466,7 +601,7 @@
       "first_message_at": "2026-04-17T00:00:00.000Z",
       "last_message_at": "2026-04-18T01:45:40.700000Z",
       "last_bot_msg_at": "2026-04-17T22:45:40.323772",
-      "tempo_sem_interacao": "16h 30min",
+      "tempo_sem_interacao": "16h 45min",
       "first_id": 21173,
       "last_id": 21176,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1525\nNome: Arthur Belmont Frazão\n\nMensagem(ns) do cliente:\nEu sou ...",
@@ -542,7 +677,7 @@
       "first_message_at": "2026-04-17T00:00:00.000Z",
       "last_message_at": "2026-04-17T22:34:59.258000Z",
       "last_bot_msg_at": "2026-04-17T19:34:58.551314",
-      "tempo_sem_interacao": "19h 40min",
+      "tempo_sem_interacao": "19h 55min",
       "first_id": 21160,
       "last_id": 21172,
       "last_message_preview": "Ok",
@@ -646,7 +781,7 @@
       "first_message_at": "2026-04-17T00:00:00.000Z",
       "last_message_at": "2026-04-17T22:33:47.957000Z",
       "last_bot_msg_at": "2026-04-17T19:33:46.783849",
-      "tempo_sem_interacao": "19h 42min",
+      "tempo_sem_interacao": "19h 57min",
       "first_id": 21168,
       "last_id": 21169,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1524\nNome: \n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação...",
@@ -1412,7 +1547,7 @@
       "first_message_at": "2026-04-16T00:00:00.000Z",
       "last_message_at": "2026-04-16T18:25:35.779000Z",
       "last_bot_msg_at": "2026-04-16T15:25:33.525721",
-      "tempo_sem_interacao": "1 dia",
+      "tempo_sem_interacao": "2 dias",
       "first_id": 21107,
       "last_id": 21127,
       "last_message_preview": "Selma, nosso especialista João pode entrar em contato com você nesse momento para conversar sobre es...",
@@ -7404,7 +7539,7 @@
       "first_message_at": "2026-04-09T00:00:00.000Z",
       "last_message_at": "2026-04-09T18:24:14.572000Z",
       "last_bot_msg_at": "2026-04-09T15:24:14.017144",
-      "tempo_sem_interacao": "8 dias",
+      "tempo_sem_interacao": "9 dias",
       "first_id": 20705,
       "last_id": 20721,
       "last_message_preview": "Tem como fazer portabilidade de um plano para outro",
@@ -10692,7 +10827,7 @@
       "first_message_at": "2026-03-25T00:00:00.000Z",
       "last_message_at": "2026-03-25T18:24:20.247000Z",
       "last_bot_msg_at": "2026-03-25T15:24:14.521354",
-      "tempo_sem_interacao": "23 dias",
+      "tempo_sem_interacao": "24 dias",
       "first_id": 20373,
       "last_id": 20374,
       "last_message_preview": "Dados Fornecidos\nNome: Silverio\nContem CNPJ: não\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o in...",
@@ -10741,7 +10876,7 @@
       "first_message_at": "2026-03-25T18:22:28.153Z",
       "last_message_at": "2026-03-25T18:22:28.162Z",
       "last_bot_msg_at": "2026-03-25T15:22:28.162917",
-      "tempo_sem_interacao": "23 dias",
+      "tempo_sem_interacao": "24 dias",
       "first_id": 20371,
       "last_id": 20372,
       "last_message_preview": "Dados Fornecidos\nNome: Daniele\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o inf...",
@@ -19207,312 +19342,6 @@
           "role": "ai",
           "content": "Raul, obrigada por todas as informações! Vou encaminhar seu contato para o João, nosso especialista, que vai te apresentar as melhores opções de plano para vocês com 2 vidas em Rio de Janeiro. Ele vai te chamar aqui no WhatsApp em breve.",
           "msg_time": "2026-03-19T19:29:51.057006"
-        }
-      ]
-    },
-    {
-      "session_id": "5521970067571@s.whatsapp.net",
-      "phone": "5521970067571",
-      "phone_display": "+55 21 97006-7571",
-      "lead": {
-        "baserow_id": 1248,
-        "nome": "Bianca",
-        "email": "marceloebia2007@hotmail.com",
-        "qtd_vidas": 2,
-        "desinteresse": true,
-        "observacoes": "Bianca",
-        "reagendamento": null,
-        "corretor": "Isis",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Bianca",
-        "email": "marceloebia2007@hotmail.com",
-        "telefone": "+55 21 97006-7571",
-        "vidas": [
-          {
-            "idade": 18
-          },
-          {
-            "idade": 1
-          }
-        ],
-        "cidade": "Rio de Janeiro / RJ",
-        "contratacao": "CNPJ",
-        "cnpj": "40.264.467/0001-63",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "Encerramento do plano atual\nIncluir novas vidas",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "Isis",
-        "obs_crm": "Bianca",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Bianca\n📧 E-mail: marceloebia2007@hotmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97006-7571\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nBianca — 18 anos\nDependente 1 — 1 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 40.264.467/0001-63\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\nIncluir novas vidas\n\n⚠️ Observação: Bianca\n👤 Consultor: Isis\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "desinteresse",
-      "bot": "preto",
-      "consultor": "Isis",
-      "message_count": 50,
-      "first_message_at": "2026-03-18T00:00:00.000Z",
-      "last_message_at": "2026-03-18T19:07:41.725000Z",
-      "last_bot_msg_at": "2026-03-18T16:07:40.48645",
-      "tempo_sem_interacao": "1 mês",
-      "first_id": 19239,
-      "last_id": 19558,
-      "last_message_preview": "Não precisa\n\nVou alinhar as coisas primeiro com meu marido e minha cunhada\n\nE retorno caso tenha dúv...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados Fornecidos\nNome: Bianca\nContem CNPJ: Sim\nNumero de Vidas: 6 a 9 Vidas\nOperadora de Interesse: Receber todos os valores\nRegião: Não Informado\nPropaganda:\n",
-          "msg_time": "2026-03-18T16:04:17.02045"
-        },
-        {
-          "role": "ai",
-          "content": "Oi Bianca! Sou o Gilberto da GW9, corretora de planos de saúde. Você pediu nosso contato para saber mais sobre plano de saúde e vi que tem interesse em um plano para 6 a 9 vidas e já possui um CNPJ. Para te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo certo?",
-          "msg_time": "2026-03-18T16:04:17.026182"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Bianca\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\n2 vidas até 18 anos \n1 vida 22 anos \n1 vida 29 anos\n1 vida 39 anos\n1 vida 54 anos\n1 vida 57 anos\n1 vida 61 anos\n\n40264467000163",
-          "msg_time": "2026-03-18T16:06:15.157852"
-        },
-        {
-          "role": "ai",
-          "content": "Obrigada, Bianca! Já registrei os dados. Agora, para saber qual plano de saúde se encaixa melhor para você, qual é a cidade onde você e sua família precisam de atendimento? Se tiver algum hospital de preferência, isso também pode nos ajudar.",
-          "msg_time": "2026-03-18T16:06:15.161654"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Bianca\nVidas: 2\nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nSão João de Meriti -Rio de Janeiro\n\nPronil",
-          "msg_time": "2026-03-18T16:07:26.891001"
-        },
-        {
-          "role": "ai",
-          "content": "Perfeito, Bianca! Já anotei que vocês estão em São João de Meriti, Rio de Janeiro. Agora, como o plano será contratado: empresarial, usando o CNPJ que você forneceu? Se sim, você pode me informar o número do CNPJ novamente? Isso nos ajuda a encontrar as melhores opções.",
-          "msg_time": "2026-03-18T16:07:26.893684"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Bianca\nVidas: 2\nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nMário Leoni",
-          "msg_time": "2026-03-18T16:07:40.48419"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Bianca! Então, para finalizar, gostaria de saber: vocês já têm um plano de saúde atualmente? Se sim, qual é e quanto paga hoje? Isso me ajuda a encontrar um plano que atenda melhor às suas necessidades.",
-          "msg_time": "2026-03-18T16:07:40.48645"
-        },
-        {
-          "role": "system",
-          "content": "Perfeito",
-          "msg_time": "2026-03-18T16:08:30.218494"
-        },
-        {
-          "role": "user",
-          "content": "Vcs tem plano atualmente ?\n\nSim\n\nAmil\n\nR$5.062,10",
-          "msg_time": "2026-03-18T16:09:34.836785"
-        },
-        {
-          "role": "user",
-          "content": "E as outras enfermaria\n\nDuas vidas são quarto particular\n\n1 vida menor de 18 ( 6 meses)\n\n1 vida 29 anos\n\nOk , Amil S450?\n\nNão",
-          "msg_time": "2026-03-18T16:10:08.225319"
-        },
-        {
-          "role": "user",
-          "content": "Plena 200 \nE fundamental 100",
-          "msg_time": "2026-03-18T16:10:29.449956"
-        },
-        {
-          "role": "user",
-          "content": "Sem coop\n\nAh sim , veio da Golden Cross\n\nE plano dental junto",
-          "msg_time": "2026-03-18T16:10:55.40197"
-        },
-        {
-          "role": "system",
-          "content": "Vamos manter ,Dental e Seguro de vidas incluído para todos na mesma apólice",
-          "msg_time": "2026-03-18T16:11:25.001132"
-        },
-        {
-          "role": "system",
-          "content": "Podemos pensar em duas ótimas possibilidades , Sulamerica e aqui incluímos o Caxias Dor além do Mário Lioni",
-          "msg_time": "2026-03-18T16:13:38.594779"
-        },
-        {
-          "role": "system",
-          "content": "E na Porto Seguro mantemos o Mário Lioni",
-          "msg_time": "2026-03-18T16:14:30.670376"
-        },
-        {
-          "role": "system",
-          "content": "Vamos analisar os valores , pois em ambos os casos vamos fazer um UP grade de acesso\n\nOk?",
-          "msg_time": "2026-03-18T16:15:22.367696"
-        },
-        {
-          "role": "user",
-          "content": "Ok\n\nBianca , eu posso apenas para efeito comparativo colocar na análise a opção com Coparticipação? Se for vantagem , podemos depois de definirr a rede , estressar esse tema , e vcs com mais luz sobre o modelo , podem tomar uma melhor decisão , posso incluir ?\n\nNão\n\nNão quero coparticipação",
-          "msg_time": "2026-03-18T16:17:40.472441"
-        },
-        {
-          "role": "system",
-          "content": "Ok\n\nEntendido",
-          "msg_time": "2026-03-18T16:18:09.972587"
-        },
-        {
-          "role": "system",
-          "content": "Vou fazer os comparativos de rede , valores e reembolsos ..  vamos encontrar uma solução que encontre mais equilíbrio entre acesso e custo",
-          "msg_time": "2026-03-18T16:21:02.905712"
-        },
-        {
-          "role": "system",
-          "content": "As crianças tem quais idades , 6 meses e ?",
-          "msg_time": "2026-03-18T16:22:00.27309"
-        },
-        {
-          "role": "user",
-          "content": "Duas vidas são quarto particular\n\n1 vida menor de 18 ( 6 meses)\n\n1 vida 29 anos\n\nE enfermaria vou te passar as idades",
-          "msg_time": "2026-03-18T16:24:05.298114"
-        },
-        {
-          "role": "system",
-          "content": "1 vida 9 anos\n1 vida 22 anos \n\n1 vida 39 anos\n1 vida 54 anos\n1 vida 57 anos\n1 vida 61 anos\n\nVamos tentar incluir todos em Quarto particular\n\nNão\n\nEu quero baratear o plano\n\nSão titulares diferentes ?\n\nSim\n\nHoje ?",
-          "msg_time": "2026-03-18T16:25:33.928493"
-        },
-        {
-          "role": "user",
-          "content": "Estão no mesmo plano atual",
-          "msg_time": "2026-03-18T16:25:53.419446"
-        },
-        {
-          "role": "system",
-          "content": "O Marcelo seu sócio tb está no plano ? Pergunto pois se todos os sócios estiverem na apólice , reduz custo",
-          "msg_time": "2026-03-18T16:26:36.835318"
-        },
-        {
-          "role": "system",
-          "content": "Quando entra apenas 1 , o custo aumenta cerca de 9%\n\nSim\n\nÓtimo",
-          "msg_time": "2026-03-18T16:27:41.647055"
-        },
-        {
-          "role": "system",
-          "content": "Vamos ajuda-los",
-          "msg_time": "2026-03-18T16:28:03.958657"
-        },
-        {
-          "role": "system",
-          "content": "Tenho boas notícias",
-          "msg_time": "2026-03-18T16:44:37.590507"
-        },
-        {
-          "role": "system",
-          "content": "Vcs já tiveram reajuste esse ano ?",
-          "msg_time": "2026-03-18T16:44:59.239991"
-        },
-        {
-          "role": "user",
-          "content": "Sim",
-          "msg_time": "2026-03-18T16:45:34.867494"
-        },
-        {
-          "role": "system",
-          "content": "Estou só fazendo um comparativo entre Sulamerica e a Porto Seguro para vc ter uma ideia de mercado",
-          "msg_time": "2026-03-18T16:47:12.059383"
-        },
-        {
-          "role": "system",
-          "content": "Já já te envio , mas vamos conseguir reduzir o custo , melhorar a rede com Dental , e Vida , além de ser uma opção de cobertura Nacional",
-          "msg_time": "2026-03-18T16:48:09.084449"
-        },
-        {
-          "role": "system",
-          "content": "<ContextoPDF>\n  <TranscricaoPDF>\nNome do Plano:\nVigência da\nTabela\nAtuação\nAcomodação\nCoparticipação\nIOF\nFaixa \nVidas\nEtária\nO a 18 \n2\n19 a 23\n29 a 33\n39 a 43\n54 a 58 \n2\n59 ou\nmais\nSomatório \n8\nTaxa\nSomatório+\nIOF\nHospitais\n- \nIsis Gonçalves\nisis.goncalves@gw9capita1.com.br\nDetalhes dos Planos\nSulAmétlca\nPME\nApôli.:o! 24 m.e!ilo!!II\n,@a■uin1tt@\nDireto Nacional QC I Compulsório I Reembolso\nMarch/2026\nNacional\nEnfermaria\nNão\nSim\n!\n�Porto\n�Saúde\nLinha Porto Saúde\nP220 QC I De 03 a 29 vidas I Reembolso I Exceto MEi\nMarch/2026\nNacional\nEnfermaria\nNão\nSim\nValores Unitários por Vida (não multiplicados pelo n\n° \nde vidas)\nDireto Nacional QC I Compulsório I Reembolso\nR$ 280,51\nR$ 350,63\nR$ 544,56\nR$ 908,28\nR$ 1.530,00\nR$ 5.158,61\nSem taxa 1 2,38% de IOF\n5,00 Por vida + 2,38% de IOF\n5.809,61\nResumo de Rede Credenciada\nRede Credenciada Verticalizada\nDireto Nacional QC I Compulsório I Reembolso\nZONA NORTE\nRio de Janeiro\nREDE CREDENCIADA\nDireto Nacional\nHOSPITAIS\n• Hospital Badim - Rede Dor São Lui",
-          "msg_time": "2026-03-18T17:03:20.816103"
-        },
-        {
-          "role": "system",
-          "content": "<ContextoImagem>\n\n  <DetalheImagem>\n\n  </DetalheImagem>\n\nContexto Extra: O usuário encaminhou a mensagem a seguir junto á imagem.\n  <MensagemUsuario>\n\n  </MensagemUsuario>\n\n</ContextoImagem>\n\nPosso enviar um áudio ?",
-          "msg_time": "2026-03-18T17:05:59.417058"
-        },
-        {
-          "role": "system",
-          "content": "Mas sulamerica ficou mais caro\n\nNossa melhor opção é a Porto Seguro\n\nE está tudo como enfermaria\n\nSim",
-          "msg_time": "2026-03-18T17:06:44.744813"
-        },
-        {
-          "role": "system",
-          "content": "Exatamente, é porque a Sul América a gente não conseguiu encontrar preço, só no modelo de coparticipação, aí eu conseguiria botar todos em quarto particular e em coparticipação, mas como você tem predileção em sem coparte, aí a gente tem que caminhar para uma solução mais acessível mesmo. Aí o Porto P220, e aí eu quis colocar o Sul América só para você entender o mercado, quanto que o produto de entrada da Sul América representa e você tem produtos de entradas hoje o produto da Porto Segura está muito mais competitivo, a gente está falando 3.700 reais, você está pagando hoje 5.000, então são 1.200 reais, a gente tem 12, a gente está falando de quase 14 mil reais no ano, sem coparticipação em quarto coletivo. Esse produto especificamente da Porto Segura, ele não tem opção de quarto particular, eu posso ver se no Porto P320 tem, mas para vocês aí de Duque de Caxias, São Jônio Meritini, Nova Iguaçu, não tem diferença de rede, então o P220 vai atender bem. E o P220 da Porto é um produto qu",
-          "msg_time": "2026-03-18T17:08:43.987135"
-        },
-        {
-          "role": "system",
-          "content": "Além disso, a questão também de enfermaria e quarto particular, mesmo tendo dois titulares, a gente teria que fazer dois produtos diferentes. E no caso do P220, a gente não tem a opção de quarto particular nessa linha de entrada. Na Sul América, a gente também não conseguiria fazer dessa forma, porque a gente teria que mudar o produto para ter uma diferença de acomodação de quarto particular para quarto coletivo. Isso se você não tem o entendimento, ainda querer manter quarto particular para o grupo. Eu posso ver no P320, porque ainda vai ficar mais barato do que vocês pagam hoje, obviamente vai subir um pouco. Deixa eu dar uma olhada aqui no sistema se tem quarto particular. Mas aí você tem que classificar ali quem são colaboradores ou a diferença por",
-          "msg_time": "2026-03-18T17:10:05.877864"
-        },
-        {
-          "role": "system",
-          "content": "A redução fica em R$ 1.300 mês",
-          "msg_time": "2026-03-18T17:14:04.772645"
-        },
-        {
-          "role": "system",
-          "content": "R$ 15.500 ano",
-          "msg_time": "2026-03-18T17:14:22.069759"
-        },
-        {
-          "role": "system",
-          "content": "Deixe eu só ver se consigo colocar os dois em quarto particular no mesmo plano do restante\n\nTenho que ver no portal da Porto",
-          "msg_time": "2026-03-18T17:14:54.900568"
-        },
-        {
-          "role": "system",
-          "content": "Mas pode contar que apenas duas vidas em QP vai aumentar uns 160,00 mês",
-          "msg_time": "2026-03-18T17:15:33.908612"
-        },
-        {
-          "role": "system",
-          "content": "Errei por pouco",
-          "msg_time": "2026-03-18T17:19:22.569477"
-        },
-        {
-          "role": "system",
-          "content": "Essas vidas em QP aumenta apenas 100,00",
-          "msg_time": "2026-03-18T17:19:38.031998"
-        },
-        {
-          "role": "system",
-          "content": "<ContextoImagem>\n\n  <DetalheImagem>\n\n  </DetalheImagem>\n\nContexto Extra: O usuário encaminhou a mensagem a seguir junto á imagem.\n  <MensagemUsuario>\n\n  </MensagemUsuario>\n\n</ContextoImagem>",
-          "msg_time": "2026-03-18T17:20:04.481146"
-        },
-        {
-          "role": "system",
-          "content": "Redução importante",
-          "msg_time": "2026-03-18T17:20:37.493026"
-        },
-        {
-          "role": "system",
-          "content": "Quase 30% aa\n\nE o que vc está buscando ?",
-          "msg_time": "2026-03-18T17:21:31.352004"
-        },
-        {
-          "role": "system",
-          "content": "Bianca ,posso te chamar do meu outro wzp , estou saindo para uma visita externa e assim podemos continuar por lá\n\nEsse número fica no computador\n\nOk ?",
-          "msg_time": "2026-03-18T17:24:10.057533"
-        },
-        {
-          "role": "user",
-          "content": "Não precisa\n\nVou alinhar as coisas primeiro com meu marido e minha cunhada\n\nE retorno caso tenha dúvidas",
-          "msg_time": "2026-03-18T17:49:11.231993"
-        },
-        {
-          "role": "system",
-          "content": "Perfeito Bianca!\n\nAmanha seguimos uma boa noite  e um bom descanso.",
-          "msg_time": "2026-03-18T18:06:21.142008"
-        },
-        {
-          "role": "system",
-          "content": "Oi Bianca \nBoa noite!\n\nConseguiu avaliar ?\nPrecisa mais alguma outra opção para apresentar a sua cunhada?",
-          "msg_time": "2026-03-19T18:49:26.965028"
         }
       ]
     }
