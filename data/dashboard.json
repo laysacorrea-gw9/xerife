@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-04-18T17:00:48.691Z",
+    "generated_at": "2026-04-18T17:15:52.942Z",
     "total_conversations": 200,
-    "total_messages": 3222,
+    "total_messages": 3233,
     "stats": {
       "quente": 1,
-      "morno": 4,
+      "morno": 3,
       "frio": 15,
-      "desinteresse": 180,
+      "desinteresse": 181,
       "sem_classificacao": 0
     }
   },
@@ -18,17 +18,17 @@
       "phone_display": "+55 21 98395-7865",
       "lead": {
         "baserow_id": 1532,
-        "nome": "Hilton BB",
+        "nome": "Hilton Maia Alves",
         "email": "",
         "qtd_vidas": 3,
-        "desinteresse": false,
-        "observacoes": "Hilton BB",
+        "desinteresse": true,
+        "observacoes": "Hilton Maia Alves",
         "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
+        "corretor": "Isis",
+        "temperatura": "Quente"
       },
       "summary": {
-        "nome": "Hilton BB",
+        "nome": "Hilton Maia Alves",
         "email": "",
         "telefone": "+55 21 98395-7865",
         "vidas": [
@@ -43,31 +43,31 @@
           }
         ],
         "cidade": "",
-        "contratacao": "",
-        "cnpj": "",
-        "tipo_empresa": "",
+        "contratacao": "CNPJ",
+        "cnpj": "14.495.070/0001-72",
+        "tipo_empresa": "MEI",
         "profissao": "",
         "plano_atual": "",
-        "motivo": "",
+        "motivo": "Encerramento do plano atual",
         "interesse": "",
         "rede_preferencial": "",
         "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "Hilton BB",
+        "consultor": "Isis",
+        "obs_crm": "Hilton Maia Alves",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Hilton BB\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98395-7865\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nHilton BB — 45 anos\nDependente 1 — 43 anos\nDependente 2 — 11 anos\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Hilton BB\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Hilton Maia Alves\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98395-7865\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nHilton Maia Alves — 45 anos\nDependente 1 — 43 anos\nDependente 2 — 11 anos\n\n📋 Dados contratuais:\n\nContratação: CNPJ — 14.495.070/0001-72\nTipo: MEI\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\n\n⚠️ Observação: Hilton Maia Alves\n👤 Consultor: Isis\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
       },
-      "status": "morno",
+      "status": "desinteresse",
       "bot": "preto",
-      "consultor": "",
-      "message_count": 4,
+      "consultor": "Isis",
+      "message_count": 15,
       "first_message_at": "2026-04-18T00:00:00.000Z",
-      "last_message_at": "2026-04-18T16:16:46.207000Z",
-      "last_bot_msg_at": "2026-04-18T13:16:45.833784",
-      "tempo_sem_interacao": "3h 44min",
+      "last_message_at": "2026-04-18T17:14:05.284000Z",
+      "last_bot_msg_at": "2026-04-18T14:14:04.058661",
+      "tempo_sem_interacao": "3h 1min",
       "first_id": 21223,
-      "last_id": 21226,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1532\nNome: Hilton BB\n\nMensagem(ns) do cliente:\nHilton maia Alves \n...",
+      "last_id": 21237,
+      "last_message_preview": "Ok",
       "messages": [
         {
           "role": "user",
@@ -88,6 +88,61 @@
           "role": "ai",
           "content": "Entendi, Hilton! Para prosseguir, preciso saber a cidade onde você busca atendimento. Se tiver algum hospital de sua preferência, também seria útil!",
           "msg_time": "2026-04-18T13:16:45.833784"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1532\nNome: Hilton BB\n\nMensagem(ns) do cliente:\nRj é baixada\n\nSeria no cnpj",
+          "msg_time": "2026-04-18T14:12:17.007084"
+        },
+        {
+          "role": "ai",
+          "content": "Perfeito, Hilton! Então, só para confirmar, você mencionou que a contratação será via CNPJ. Você poderia me informar o número do CNPJ, por favor? Se não tiver, só preciso saber se é MEI ou LTDA.",
+          "msg_time": "2026-04-18T14:12:17.009603"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1532\nNome: Hilton BB\n\nMensagem(ns) do cliente:\n14.495.070/0001-72 ME\n\nNão é mei não",
+          "msg_time": "2026-04-18T14:12:37.144992"
+        },
+        {
+          "role": "ai",
+          "content": "Ok, Hilton! Então, com o CNPJ registrado como LTDA. Para finalizar: você já possui plano de saúde atualmente? Se sim, qual e quanto paga hoje? Isso ajuda a encontrarmos a melhor opção para você.",
+          "msg_time": "2026-04-18T14:12:37.149737"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1532\nNome: Hilton BB\n\nMensagem(ns) do cliente:\nAcabei de mandar 👆🏾",
+          "msg_time": "2026-04-18T14:13:01.070786"
+        },
+        {
+          "role": "ai",
+          "content": "Desculpe, Hilton! Não vi essa informação. Se você puder me informar sobre o plano atual, ficarei grato! Quantos você paga e qual o nome do plano? ",
+          "msg_time": "2026-04-18T14:13:01.077505"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1532\nNome: Hilton BB\n\nMensagem(ns) do cliente:\nNão mais",
+          "msg_time": "2026-04-18T14:13:34.473415"
+        },
+        {
+          "role": "ai",
+          "content": "Hilton, obrigada por todas as informações! Vou encaminhar seu contato para a Elisa, nossa especialista, que vai te apresentar as melhores opções de plano para vocês 3 em RJ Baixada. Ela vai te chamar aqui no WhatsApp em breve.",
+          "msg_time": "2026-04-18T14:13:34.476035"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1532\nNome: Hilton Maia Alves\n\nMensagem(ns) do cliente:\nEstou procurando um bom pra min e família\n\nTudo\nBem",
+          "msg_time": "2026-04-18T14:14:04.054227"
+        },
+        {
+          "role": "ai",
+          "content": "Hilton, obrigada por todas as informações! Vou encaminhar seu contato para a Isis, nossa especialista, que vai te apresentar as melhores opções de plano para vocês 3 em RJ Baixada. Ela vai te chamar aqui no WhatsApp em breve.",
+          "msg_time": "2026-04-18T14:14:04.058661"
+        },
+        {
+          "role": "user",
+          "content": "Ok",
+          "msg_time": "2026-04-18T14:14:22.565965"
         }
       ]
     },
@@ -149,7 +204,7 @@
       "first_message_at": "2026-04-18T00:00:00.000Z",
       "last_message_at": "2026-04-18T15:31:02.476000Z",
       "last_bot_msg_at": "2026-04-18T12:31:01.547246",
-      "tempo_sem_interacao": "4h 29min",
+      "tempo_sem_interacao": "4h 44min",
       "first_id": 21207,
       "last_id": 21222,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1531\nNome: Rosangela Vargas\n\nMensagem(ns) do cliente:\nTenho plano ...",
@@ -278,7 +333,7 @@
       "first_message_at": "2026-04-18T00:00:00.000Z",
       "last_message_at": "2026-04-18T15:00:08.692000Z",
       "last_bot_msg_at": "2026-04-18T12:00:07.085782",
-      "tempo_sem_interacao": "5h",
+      "tempo_sem_interacao": "5h 15min",
       "first_id": 21205,
       "last_id": 21206,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1530\nNome: \n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação...",
@@ -337,7 +392,7 @@
       "first_message_at": "2026-04-18T00:00:00.000Z",
       "last_message_at": "2026-04-18T13:11:06.192000Z",
       "last_bot_msg_at": "2026-04-18T10:11:05.567548",
-      "tempo_sem_interacao": "6h 49min",
+      "tempo_sem_interacao": "7h 4min",
       "first_id": 21203,
       "last_id": 21204,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1529\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -406,7 +461,7 @@
       "first_message_at": "2026-04-18T00:00:00.000Z",
       "last_message_at": "2026-04-18T12:23:53.684000Z",
       "last_bot_msg_at": "2026-04-18T09:23:53.231496",
-      "tempo_sem_interacao": "7h 36min",
+      "tempo_sem_interacao": "7h 51min",
       "first_id": 21179,
       "last_id": 21202,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1527\nNome: 🌷Rosiane 🫶\n\nMensagem(ns) do cliente:\nVi este de 1355....",
@@ -502,7 +557,7 @@
       "first_message_at": "2026-04-18T00:00:00.000Z",
       "last_message_at": "2026-04-18T11:57:04.661000Z",
       "last_bot_msg_at": "2026-04-18T08:57:03.977606",
-      "tempo_sem_interacao": "8h 3min",
+      "tempo_sem_interacao": "8h 18min",
       "first_id": 21183,
       "last_id": 21198,
       "last_message_preview": "Ok",
@@ -631,7 +686,7 @@
       "first_message_at": "2026-04-18T00:00:00.000Z",
       "last_message_at": "2026-04-18T11:31:24.706000Z",
       "last_bot_msg_at": "2026-04-18T08:31:24.13178",
-      "tempo_sem_interacao": "8h 29min",
+      "tempo_sem_interacao": "8h 44min",
       "first_id": 21177,
       "last_id": 21178,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1526\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -690,7 +745,7 @@
       "first_message_at": "2026-04-17T00:00:00.000Z",
       "last_message_at": "2026-04-18T01:45:40.700000Z",
       "last_bot_msg_at": "2026-04-17T22:45:40.323772",
-      "tempo_sem_interacao": "18h 15min",
+      "tempo_sem_interacao": "18h 30min",
       "first_id": 21173,
       "last_id": 21176,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1525\nNome: Arthur Belmont Frazão\n\nMensagem(ns) do cliente:\nEu sou ...",
@@ -766,7 +821,7 @@
       "first_message_at": "2026-04-17T00:00:00.000Z",
       "last_message_at": "2026-04-17T22:34:59.258000Z",
       "last_bot_msg_at": "2026-04-17T19:34:58.551314",
-      "tempo_sem_interacao": "21h 25min",
+      "tempo_sem_interacao": "21h 40min",
       "first_id": 21160,
       "last_id": 21172,
       "last_message_preview": "Ok",
@@ -870,7 +925,7 @@
       "first_message_at": "2026-04-17T00:00:00.000Z",
       "last_message_at": "2026-04-17T22:33:47.957000Z",
       "last_bot_msg_at": "2026-04-17T19:33:46.783849",
-      "tempo_sem_interacao": "21h 27min",
+      "tempo_sem_interacao": "21h 42min",
       "first_id": 21168,
       "last_id": 21169,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1524\nNome: \n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação...",
@@ -2401,7 +2456,7 @@
       "first_message_at": "2026-04-15T00:00:00.000Z",
       "last_message_at": "2026-04-15T20:01:00.337000Z",
       "last_bot_msg_at": "2026-04-15T17:00:59.512098",
-      "tempo_sem_interacao": "2 dias",
+      "tempo_sem_interacao": "3 dias",
       "first_id": 21080,
       "last_id": 21090,
       "last_message_preview": "Ok",
@@ -15833,7 +15888,7 @@
       "first_message_at": "2026-03-22T00:00:00.000Z",
       "last_message_at": "2026-03-22T20:01:58.122000Z",
       "last_bot_msg_at": "2026-03-22T17:01:52.182687",
-      "tempo_sem_interacao": "26 dias",
+      "tempo_sem_interacao": "27 dias",
       "first_id": 19838,
       "last_id": 19923,
       "last_message_preview": "Dados Fornecidos\nNome: Carlos\nContem CNPJ: Sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o info...",
