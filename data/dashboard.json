@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-04-19T18:00:49.090Z",
+    "generated_at": "2026-04-19T18:15:48.550Z",
     "total_conversations": 200,
-    "total_messages": 3263,
+    "total_messages": 3266,
     "stats": {
-      "quente": 2,
+      "quente": 1,
       "morno": 2,
       "frio": 17,
-      "desinteresse": 179,
+      "desinteresse": 180,
       "sem_classificacao": 0
     }
   },
@@ -21,11 +21,11 @@
         "nome": "Eustáquio  Natividade",
         "email": "",
         "qtd_vidas": 2,
-        "desinteresse": false,
+        "desinteresse": true,
         "observacoes": "Eustáquio  Natividade",
         "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
+        "corretor": "João",
+        "temperatura": "Quente"
       },
       "summary": {
         "nome": "Eustáquio  Natividade",
@@ -49,22 +49,22 @@
         "interesse": "Barra D'or",
         "rede_preferencial": "Barra D'Or",
         "contato": "WhatsApp",
-        "consultor": "",
+        "consultor": "João",
         "obs_crm": "Eustáquio  Natividade",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Eustáquio  Natividade\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99219-0647\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nEustáquio  Natividade — 40 anos\nDependente 1 — 73 anos\n\n📋 Dados contratuais:\n\nContratação: CNPJ\nTipo: MEI\n🎯 Rede preferencial: Barra D'Or\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\n\n🎯 Interesse: Barra D'or\n\n⚠️ Observação: Eustáquio  Natividade\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Eustáquio  Natividade\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99219-0647\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nEustáquio  Natividade — 40 anos\nDependente 1 — 73 anos\n\n📋 Dados contratuais:\n\nContratação: CNPJ\nTipo: MEI\n🎯 Rede preferencial: Barra D'Or\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\n\n🎯 Interesse: Barra D'or\n\n⚠️ Observação: Eustáquio  Natividade\n👤 Consultor: João\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
       },
-      "status": "quente",
+      "status": "desinteresse",
       "bot": "preto",
-      "consultor": "",
-      "message_count": 6,
+      "consultor": "João",
+      "message_count": 9,
       "first_message_at": "2026-04-19T00:00:00.000Z",
-      "last_message_at": "2026-04-19T17:56:29.995000Z",
-      "last_bot_msg_at": "2026-04-19T14:56:29.588032",
-      "tempo_sem_interacao": "3h 4min",
+      "last_message_at": "2026-04-19T18:09:41.515000Z",
+      "last_bot_msg_at": "2026-04-19T15:09:41.178727",
+      "tempo_sem_interacao": "3h 6min",
       "first_id": 21253,
-      "last_id": 21277,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1535\nNome: Eustáquio  Natividade\n\nMensagem(ns) do cliente:\nMei",
+      "last_id": 21280,
+      "last_message_preview": "Eu tenho fuspom que é extensivo à esposa.\nÉ só pra elas, mas dê o cálculo comigo incluido",
       "messages": [
         {
           "role": "user",
@@ -95,6 +95,21 @@
           "role": "ai",
           "content": "Certo, Eustáquio, então será MEI. Para finalizar, você já possui plano de saúde atualmente? Se sim, qual e quanto paga hoje? Isso nos ajuda a encontrar a melhor opção para você.",
           "msg_time": "2026-04-19T14:56:29.588032"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1535\nNome: Eustáquio  Natividade\n\nMensagem(ns) do cliente:\nSilvestre pouco mais de 3.000mil reais",
+          "msg_time": "2026-04-19T15:09:41.176605"
+        },
+        {
+          "role": "ai",
+          "content": "Eustáquio, obrigada por todas as informações! Vou encaminhar seu contato para o João, nosso especialista, que vai te apresentar as melhores opções de plano para vocês duas pessoas em Catete, RJ. Ele vai te chamar aqui no WhatsApp em breve.",
+          "msg_time": "2026-04-19T15:09:41.178727"
+        },
+        {
+          "role": "user",
+          "content": "Eu tenho fuspom que é extensivo à esposa.\nÉ só pra elas, mas dê o cálculo comigo incluido",
+          "msg_time": "2026-04-19T15:10:32.011901"
         }
       ]
     },
@@ -147,7 +162,7 @@
       "first_message_at": "2026-04-19T00:00:00.000Z",
       "last_message_at": "2026-04-19T16:59:57.346000Z",
       "last_bot_msg_at": "2026-04-19T13:59:56.949007",
-      "tempo_sem_interacao": "4h",
+      "tempo_sem_interacao": "4h 15min",
       "first_id": 21257,
       "last_id": 21275,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1536\nNome: Mariana Martins\n\nMensagem(ns) do cliente:\nBarra dor\n\nRj",
@@ -226,7 +241,7 @@
       "first_message_at": "2026-04-19T00:00:00.000Z",
       "last_message_at": "2026-04-19T16:53:54.070000Z",
       "last_bot_msg_at": "2026-04-19T13:53:53.583912",
-      "tempo_sem_interacao": "4h 6min",
+      "tempo_sem_interacao": "4h 21min",
       "first_id": 21261,
       "last_id": 21273,
       "last_message_preview": "Obrigado",
@@ -347,7 +362,7 @@
       "first_message_at": "2026-04-18T00:00:00.000Z",
       "last_message_at": "2026-04-18T22:48:19.118000Z",
       "last_bot_msg_at": "2026-04-18T19:48:18.574612",
-      "tempo_sem_interacao": "22h 12min",
+      "tempo_sem_interacao": "22h 27min",
       "first_id": 21240,
       "last_id": 21252,
       "last_message_preview": "Ok",
@@ -10972,7 +10987,7 @@
       "first_message_at": "2026-03-25T00:00:00.000Z",
       "last_message_at": "2026-03-25T21:03:59.562000Z",
       "last_bot_msg_at": "2026-03-25T18:03:58.427547",
-      "tempo_sem_interacao": "24 dias",
+      "tempo_sem_interacao": "25 dias",
       "first_id": 20368,
       "last_id": 20439,
       "last_message_preview": "Que ótimo\nMuito obrigado",
@@ -18697,7 +18712,7 @@
       "first_message_at": "2026-03-20T00:00:00.000Z",
       "last_message_at": "2026-03-20T21:08:28.463000Z",
       "last_bot_msg_at": "2026-03-20T18:08:27.302305",
-      "tempo_sem_interacao": "29 dias",
+      "tempo_sem_interacao": "1 mês",
       "first_id": 19645,
       "last_id": 19661,
       "last_message_preview": "Para os dois",
