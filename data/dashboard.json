@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_at": "2026-04-19T17:45:48.687Z",
+    "generated_at": "2026-04-19T18:00:49.090Z",
     "total_conversations": 200,
-    "total_messages": 3261,
+    "total_messages": 3263,
     "stats": {
       "quente": 2,
       "morno": 2,
@@ -12,6 +12,92 @@
     }
   },
   "conversations": [
+    {
+      "session_id": "5521992190647@s.whatsapp.net",
+      "phone": "5521992190647",
+      "phone_display": "+55 21 99219-0647",
+      "lead": {
+        "baserow_id": 1535,
+        "nome": "Eustáquio  Natividade",
+        "email": "",
+        "qtd_vidas": 2,
+        "desinteresse": false,
+        "observacoes": "Eustáquio  Natividade",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Eustáquio  Natividade",
+        "email": "",
+        "telefone": "+55 21 99219-0647",
+        "vidas": [
+          {
+            "idade": 40
+          },
+          {
+            "idade": 73
+          }
+        ],
+        "cidade": "",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "MEI",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "Encerramento do plano atual",
+        "interesse": "Barra D'or",
+        "rede_preferencial": "Barra D'Or",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "Eustáquio  Natividade",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Eustáquio  Natividade\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99219-0647\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nEustáquio  Natividade — 40 anos\nDependente 1 — 73 anos\n\n📋 Dados contratuais:\n\nContratação: CNPJ\nTipo: MEI\n🎯 Rede preferencial: Barra D'Or\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\n\n🎯 Interesse: Barra D'or\n\n⚠️ Observação: Eustáquio  Natividade\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "quente",
+      "bot": "preto",
+      "consultor": "",
+      "message_count": 6,
+      "first_message_at": "2026-04-19T00:00:00.000Z",
+      "last_message_at": "2026-04-19T17:56:29.995000Z",
+      "last_bot_msg_at": "2026-04-19T14:56:29.588032",
+      "tempo_sem_interacao": "3h 4min",
+      "first_id": 21253,
+      "last_id": 21277,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1535\nNome: Eustáquio  Natividade\n\nMensagem(ns) do cliente:\nMei",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1535\nNome: \n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação de um plano de saúde Barra D'or.\nDuas pessoas: 40 e 73 anos, tem rede silvestre atualmente",
+          "msg_time": "2026-04-19T13:25:46.948166"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te ajudar com a cotação do plano Barra D'or, preciso de mais algumas informações. \n\nQual a cidade e estado onde vocês buscam atendimento? Se tiver algum hospital de preferência, isso também nos ajuda.",
+          "msg_time": "2026-04-19T13:25:46.951279"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1535\nNome: Eustáquio  Natividade\n\nMensagem(ns) do cliente:\nRJ bairro Catete,\nGlória D'or mais próximo",
+          "msg_time": "2026-04-19T13:31:28.833559"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Eustáquio! Você mencionou que está em Catete, RJ e que busca o hospital Glória D'or. Agora, preciso saber como o plano será contratado: você utilizará CPF ou CNPJ (MEI ou LTDA)?",
+          "msg_time": "2026-04-19T13:31:28.835891"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1535\nNome: Eustáquio  Natividade\n\nMensagem(ns) do cliente:\nMei",
+          "msg_time": "2026-04-19T14:56:29.58642"
+        },
+        {
+          "role": "ai",
+          "content": "Certo, Eustáquio, então será MEI. Para finalizar, você já possui plano de saúde atualmente? Se sim, qual e quanto paga hoje? Isso nos ajuda a encontrar a melhor opção para você.",
+          "msg_time": "2026-04-19T14:56:29.588032"
+        }
+      ]
+    },
     {
       "session_id": "5521964484339@s.whatsapp.net",
       "phone": "5521964484339",
@@ -61,7 +147,7 @@
       "first_message_at": "2026-04-19T00:00:00.000Z",
       "last_message_at": "2026-04-19T16:59:57.346000Z",
       "last_bot_msg_at": "2026-04-19T13:59:56.949007",
-      "tempo_sem_interacao": "3h 45min",
+      "tempo_sem_interacao": "4h",
       "first_id": 21257,
       "last_id": 21275,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1536\nNome: Mariana Martins\n\nMensagem(ns) do cliente:\nBarra dor\n\nRj",
@@ -140,7 +226,7 @@
       "first_message_at": "2026-04-19T00:00:00.000Z",
       "last_message_at": "2026-04-19T16:53:54.070000Z",
       "last_bot_msg_at": "2026-04-19T13:53:53.583912",
-      "tempo_sem_interacao": "3h 51min",
+      "tempo_sem_interacao": "4h 6min",
       "first_id": 21261,
       "last_id": 21273,
       "last_message_preview": "Obrigado",
@@ -213,82 +299,6 @@
       ]
     },
     {
-      "session_id": "5521992190647@s.whatsapp.net",
-      "phone": "5521992190647",
-      "phone_display": "+55 21 99219-0647",
-      "lead": {
-        "baserow_id": 1535,
-        "nome": "Eustáquio  Natividade",
-        "email": "",
-        "qtd_vidas": 2,
-        "desinteresse": false,
-        "observacoes": "Eustáquio  Natividade",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Eustáquio  Natividade",
-        "email": "",
-        "telefone": "+55 21 99219-0647",
-        "vidas": [
-          {
-            "idade": 40
-          },
-          {
-            "idade": 73
-          }
-        ],
-        "cidade": "",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "MEI",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "Barra D'or",
-        "rede_preferencial": "Barra D'Or",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "Eustáquio  Natividade",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Eustáquio  Natividade\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99219-0647\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nEustáquio  Natividade — 40 anos\nDependente 1 — 73 anos\n\n📋 Dados contratuais:\n\nContratação: CNPJ\nTipo: MEI\n🎯 Rede preferencial: Barra D'Or\n\n🎯 Interesse: Barra D'or\n\n⚠️ Observação: Eustáquio  Natividade\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "quente",
-      "bot": "preto",
-      "consultor": "",
-      "message_count": 4,
-      "first_message_at": "2026-04-19T00:00:00.000Z",
-      "last_message_at": "2026-04-19T16:31:29.333000Z",
-      "last_bot_msg_at": "2026-04-19T13:31:28.835891",
-      "tempo_sem_interacao": "4h 14min",
-      "first_id": 21253,
-      "last_id": 21256,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1535\nNome: Eustáquio  Natividade\n\nMensagem(ns) do cliente:\nRJ bair...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1535\nNome: \n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação de um plano de saúde Barra D'or.\nDuas pessoas: 40 e 73 anos, tem rede silvestre atualmente",
-          "msg_time": "2026-04-19T13:25:46.948166"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te ajudar com a cotação do plano Barra D'or, preciso de mais algumas informações. \n\nQual a cidade e estado onde vocês buscam atendimento? Se tiver algum hospital de preferência, isso também nos ajuda.",
-          "msg_time": "2026-04-19T13:25:46.951279"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1535\nNome: Eustáquio  Natividade\n\nMensagem(ns) do cliente:\nRJ bairro Catete,\nGlória D'or mais próximo",
-          "msg_time": "2026-04-19T13:31:28.833559"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Eustáquio! Você mencionou que está em Catete, RJ e que busca o hospital Glória D'or. Agora, preciso saber como o plano será contratado: você utilizará CPF ou CNPJ (MEI ou LTDA)?",
-          "msg_time": "2026-04-19T13:31:28.835891"
-        }
-      ]
-    },
-    {
       "session_id": "5521987580712@s.whatsapp.net",
       "phone": "5521987580712",
       "phone_display": "+55 21 98758-0712",
@@ -337,7 +347,7 @@
       "first_message_at": "2026-04-18T00:00:00.000Z",
       "last_message_at": "2026-04-18T22:48:19.118000Z",
       "last_bot_msg_at": "2026-04-18T19:48:18.574612",
-      "tempo_sem_interacao": "21h 57min",
+      "tempo_sem_interacao": "22h 12min",
       "first_id": 21240,
       "last_id": 21252,
       "last_message_preview": "Ok",
@@ -12624,7 +12634,7 @@
       "first_message_at": "2026-03-24T00:00:00.000Z",
       "last_message_at": "2026-03-24T20:59:10.261000Z",
       "last_bot_msg_at": "2026-03-24T17:59:07.3363",
-      "tempo_sem_interacao": "25 dias",
+      "tempo_sem_interacao": "26 dias",
       "first_id": 20277,
       "last_id": 20278,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1386\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
