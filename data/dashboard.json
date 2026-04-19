@@ -1,17 +1,83 @@
 {
   "meta": {
-    "generated_at": "2026-04-19T16:15:48.104Z",
+    "generated_at": "2026-04-19T16:30:54.328Z",
     "total_conversations": 200,
     "total_messages": 3244,
     "stats": {
-      "quente": 1,
+      "quente": 2,
       "morno": 2,
       "frio": 17,
-      "desinteresse": 180,
+      "desinteresse": 179,
       "sem_classificacao": 0
     }
   },
   "conversations": [
+    {
+      "session_id": "5521992190647@s.whatsapp.net",
+      "phone": "5521992190647",
+      "phone_display": "+55 21 99219-0647",
+      "lead": {
+        "baserow_id": 1535,
+        "nome": "Eustáquio  Natividade",
+        "email": "",
+        "qtd_vidas": 2,
+        "desinteresse": false,
+        "observacoes": "Eustáquio  Natividade",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Eustáquio  Natividade",
+        "email": "",
+        "telefone": "+55 21 99219-0647",
+        "vidas": [
+          {
+            "idade": 40
+          },
+          {
+            "idade": 73
+          }
+        ],
+        "cidade": "",
+        "contratacao": "",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "Barra D'or",
+        "rede_preferencial": "Barra D'Or",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "Eustáquio  Natividade",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Eustáquio  Natividade\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99219-0647\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nEustáquio  Natividade — 40 anos\nDependente 1 — 73 anos\n\n📋 Dados contratuais:\n\n🎯 Rede preferencial: Barra D'Or\n\n🎯 Interesse: Barra D'or\n\n⚠️ Observação: Eustáquio  Natividade\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "quente",
+      "bot": "preto",
+      "consultor": "",
+      "message_count": 2,
+      "first_message_at": "2026-04-19T00:00:00.000Z",
+      "last_message_at": "2026-04-19T16:25:47.773000Z",
+      "last_bot_msg_at": "2026-04-19T13:25:46.951279",
+      "tempo_sem_interacao": "3h 5min",
+      "first_id": 21253,
+      "last_id": 21254,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1535\nNome: \n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação...",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1535\nNome: \n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação de um plano de saúde Barra D'or.\nDuas pessoas: 40 e 73 anos, tem rede silvestre atualmente",
+          "msg_time": "2026-04-19T13:25:46.948166"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te ajudar com a cotação do plano Barra D'or, preciso de mais algumas informações. \n\nQual a cidade e estado onde vocês buscam atendimento? Se tiver algum hospital de preferência, isso também nos ajuda.",
+          "msg_time": "2026-04-19T13:25:46.951279"
+        }
+      ]
+    },
     {
       "session_id": "5521987580712@s.whatsapp.net",
       "phone": "5521987580712",
@@ -61,7 +127,7 @@
       "first_message_at": "2026-04-18T00:00:00.000Z",
       "last_message_at": "2026-04-18T22:48:19.118000Z",
       "last_bot_msg_at": "2026-04-18T19:48:18.574612",
-      "tempo_sem_interacao": "20h 27min",
+      "tempo_sem_interacao": "20h 42min",
       "first_id": 21240,
       "last_id": 21252,
       "last_message_preview": "Ok",
@@ -175,7 +241,7 @@
       "first_message_at": "2026-04-18T00:00:00.000Z",
       "last_message_at": "2026-04-18T19:46:56.261000Z",
       "last_bot_msg_at": "2026-04-18T16:46:55.850782",
-      "tempo_sem_interacao": "23h 28min",
+      "tempo_sem_interacao": "23h 43min",
       "first_id": 21238,
       "last_id": 21239,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1533\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -2753,7 +2819,7 @@
       "first_message_at": "2026-04-13T00:00:00.000Z",
       "last_message_at": "2026-04-14T19:21:07.202000Z",
       "last_bot_msg_at": "2026-04-14T16:21:06.580015",
-      "tempo_sem_interacao": "4 dias",
+      "tempo_sem_interacao": "5 dias",
       "first_id": 20965,
       "last_id": 21079,
       "last_message_preview": "Eu não tenho ,não trabalho de carteira assinada",
@@ -5749,7 +5815,7 @@
       "first_message_at": "2026-04-06T00:00:00.000Z",
       "last_message_at": "2026-04-10T19:18:27.626000Z",
       "last_bot_msg_at": "2026-04-10T16:18:26.781933",
-      "tempo_sem_interacao": "8 dias",
+      "tempo_sem_interacao": "9 dias",
       "first_id": 20544,
       "last_id": 20825,
       "last_message_preview": "Desculpe nao responder\n\nabs",
@@ -10162,7 +10228,7 @@
       "first_message_at": "2026-03-22T00:00:00.000Z",
       "last_message_at": "2026-03-22T19:27:57.827000Z",
       "last_bot_msg_at": "2026-03-22T16:27:52.357873",
-      "tempo_sem_interacao": "27 dias",
+      "tempo_sem_interacao": "28 dias",
       "first_id": 19834,
       "last_id": 20505,
       "last_message_preview": "Dados Fornecidos\nNome: Normand\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o inf...",
@@ -17923,7 +17989,7 @@
       "first_message_at": "2026-03-20T00:00:00.000Z",
       "last_message_at": "2026-03-20T19:22:57.906000Z",
       "last_bot_msg_at": "2026-03-20T16:22:52.426629",
-      "tempo_sem_interacao": "29 dias",
+      "tempo_sem_interacao": "1 mês",
       "first_id": 19641,
       "last_id": 19719,
       "last_message_preview": "Dados Fornecidos\nNome: 𝓥𝓪𝓵𝓮𝓻𝓲𝓪\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒ...",
@@ -19333,65 +19399,6 @@
           "role": "ai",
           "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
           "msg_time": "2026-03-20T07:26:32.687985"
-        }
-      ]
-    },
-    {
-      "session_id": "5521983941565@s.whatsapp.net",
-      "phone": "5521983941565",
-      "phone_display": "+55 21 98394-1565",
-      "lead": {
-        "baserow_id": 1287,
-        "nome": "Ana",
-        "email": "anacarlamaframaciel@yahoo.com.br",
-        "qtd_vidas": "",
-        "desinteresse": true,
-        "observacoes": "Registro interno: Encaminhado ao consultor.\nNome do lead: Ana\nTipo de contratação: CNPJ",
-        "reagendamento": null,
-        "corretor": "Isis",
-        "temperatura": "Frio"
-      },
-      "summary": {
-        "nome": "Ana",
-        "email": "anacarlamaframaciel@yahoo.com.br",
-        "telefone": "+55 21 98394-1565",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "Isis",
-        "obs_crm": "Registro interno: Encaminhado ao consultor.\nNome do lead: Ana\nTipo de contratação: CNPJ",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Ana\n📧 E-mail: anacarlamaframaciel@yahoo.com.br\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98394-1565\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Ana\nTipo de contratação: CNPJ\n👤 Consultor: Isis\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "desinteresse",
-      "bot": "preto",
-      "consultor": "Isis",
-      "message_count": 2,
-      "first_message_at": "2026-03-20T00:00:00.000Z",
-      "last_message_at": "2026-03-20T01:58:10.419Z",
-      "last_bot_msg_at": "2026-03-19T22:58:10.419641",
-      "tempo_sem_interacao": "1 mês",
-      "first_id": 19583,
-      "last_id": 19584,
-      "last_message_preview": "Dados Fornecidos\nNome: Ana\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o informa...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados Fornecidos\nNome: Ana\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o informado\nRegiÃƒÂ£o: NÃƒÂ£o Informado\nPropaganda:\n",
-          "msg_time": "2026-03-19T22:58:10.415569"
-        },
-        {
-          "role": "ai",
-          "content": "Oi Ana! Sou o Gilberto da GW9, corretora de planos de saúde. Você pediu nosso contato para saber mais sobre plano de saúde e vi que já possui um CNPJ. Para te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo certo?",
-          "msg_time": "2026-03-19T22:58:10.419641"
         }
       ]
     }
