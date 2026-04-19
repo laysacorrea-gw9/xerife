@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_at": "2026-04-19T16:30:54.328Z",
+    "generated_at": "2026-04-19T16:45:48.664Z",
     "total_conversations": 200,
-    "total_messages": 3244,
+    "total_messages": 3246,
     "stats": {
       "quente": 2,
       "morno": 2,
@@ -40,9 +40,9 @@
           }
         ],
         "cidade": "",
-        "contratacao": "",
+        "contratacao": "CNPJ",
         "cnpj": "",
-        "tipo_empresa": "",
+        "tipo_empresa": "MEI",
         "profissao": "",
         "plano_atual": "",
         "motivo": "",
@@ -52,19 +52,19 @@
         "consultor": "",
         "obs_crm": "Eustáquio  Natividade",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Eustáquio  Natividade\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99219-0647\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nEustáquio  Natividade — 40 anos\nDependente 1 — 73 anos\n\n📋 Dados contratuais:\n\n🎯 Rede preferencial: Barra D'Or\n\n🎯 Interesse: Barra D'or\n\n⚠️ Observação: Eustáquio  Natividade\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Eustáquio  Natividade\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99219-0647\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nEustáquio  Natividade — 40 anos\nDependente 1 — 73 anos\n\n📋 Dados contratuais:\n\nContratação: CNPJ\nTipo: MEI\n🎯 Rede preferencial: Barra D'Or\n\n🎯 Interesse: Barra D'or\n\n⚠️ Observação: Eustáquio  Natividade\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Preto (0479)"
       },
       "status": "quente",
       "bot": "preto",
       "consultor": "",
-      "message_count": 2,
+      "message_count": 4,
       "first_message_at": "2026-04-19T00:00:00.000Z",
-      "last_message_at": "2026-04-19T16:25:47.773000Z",
-      "last_bot_msg_at": "2026-04-19T13:25:46.951279",
-      "tempo_sem_interacao": "3h 5min",
+      "last_message_at": "2026-04-19T16:31:29.333000Z",
+      "last_bot_msg_at": "2026-04-19T13:31:28.835891",
+      "tempo_sem_interacao": "3h 14min",
       "first_id": 21253,
-      "last_id": 21254,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1535\nNome: \n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação...",
+      "last_id": 21256,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1535\nNome: Eustáquio  Natividade\n\nMensagem(ns) do cliente:\nRJ bair...",
       "messages": [
         {
           "role": "user",
@@ -75,6 +75,16 @@
           "role": "ai",
           "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te ajudar com a cotação do plano Barra D'or, preciso de mais algumas informações. \n\nQual a cidade e estado onde vocês buscam atendimento? Se tiver algum hospital de preferência, isso também nos ajuda.",
           "msg_time": "2026-04-19T13:25:46.951279"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1535\nNome: Eustáquio  Natividade\n\nMensagem(ns) do cliente:\nRJ bairro Catete,\nGlória D'or mais próximo",
+          "msg_time": "2026-04-19T13:31:28.833559"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Eustáquio! Você mencionou que está em Catete, RJ e que busca o hospital Glória D'or. Agora, preciso saber como o plano será contratado: você utilizará CPF ou CNPJ (MEI ou LTDA)?",
+          "msg_time": "2026-04-19T13:31:28.835891"
         }
       ]
     },
@@ -127,7 +137,7 @@
       "first_message_at": "2026-04-18T00:00:00.000Z",
       "last_message_at": "2026-04-18T22:48:19.118000Z",
       "last_bot_msg_at": "2026-04-18T19:48:18.574612",
-      "tempo_sem_interacao": "20h 42min",
+      "tempo_sem_interacao": "20h 57min",
       "first_id": 21240,
       "last_id": 21252,
       "last_message_preview": "Ok",
@@ -241,7 +251,7 @@
       "first_message_at": "2026-04-18T00:00:00.000Z",
       "last_message_at": "2026-04-18T19:46:56.261000Z",
       "last_bot_msg_at": "2026-04-18T16:46:55.850782",
-      "tempo_sem_interacao": "23h 43min",
+      "tempo_sem_interacao": "23h 58min",
       "first_id": 21238,
       "last_id": 21239,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1533\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
