@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-04-20T16:45:49.456Z",
+    "generated_at": "2026-04-20T17:00:51.425Z",
     "total_conversations": 200,
-    "total_messages": 3278,
+    "total_messages": 3285,
     "stats": {
       "quente": 1,
-      "morno": 2,
+      "morno": 1,
       "frio": 19,
-      "desinteresse": 178,
+      "desinteresse": 179,
       "sem_classificacao": 0
     }
   },
@@ -18,17 +18,17 @@
       "phone_display": "+55 21 99425-7654",
       "lead": {
         "baserow_id": 1540,
-        "nome": "Simone🕊️",
+        "nome": "Simone",
         "email": "",
         "qtd_vidas": "",
-        "desinteresse": false,
-        "observacoes": "Simone🕊️",
+        "desinteresse": true,
+        "observacoes": "",
         "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
+        "corretor": "Isis",
+        "temperatura": "Quente"
       },
       "summary": {
-        "nome": "Simone🕊️",
+        "nome": "Simone",
         "email": "",
         "telefone": "+55 21 99425-7654",
         "vidas": [],
@@ -38,26 +38,26 @@
         "tipo_empresa": "MEI",
         "profissao": "",
         "plano_atual": "",
-        "motivo": "",
+        "motivo": "Encerramento do plano atual",
         "interesse": "",
         "rede_preferencial": "",
         "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "Simone🕊️",
+        "consultor": "Isis",
+        "obs_crm": "",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Simone🕊️\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99425-7654\n\n📋 Dados contratuais:\n\nContratação: CNPJ\nTipo: MEI\n\n⚠️ Observação: Simone🕊️\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Simone\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99425-7654\n\n📋 Dados contratuais:\n\nContratação: CNPJ\nTipo: MEI\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\n👤 Consultor: Isis\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
       },
-      "status": "morno",
+      "status": "desinteresse",
       "bot": "preto",
-      "consultor": "",
-      "message_count": 10,
+      "consultor": "Isis",
+      "message_count": 17,
       "first_message_at": "2026-04-20T00:00:00.000Z",
-      "last_message_at": "2026-04-20T16:43:36.582000Z",
-      "last_bot_msg_at": "2026-04-20T13:43:30.831098",
-      "tempo_sem_interacao": "3h 2min",
+      "last_message_at": "2026-04-20T16:56:50.298000Z",
+      "last_bot_msg_at": "2026-04-20T13:56:49.737398",
+      "tempo_sem_interacao": "3h 4min",
       "first_id": 21289,
-      "last_id": 21298,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1540\nNome: Simone🕊️\n\nMensagem(ns) do cliente:\nCpf",
+      "last_id": 21305,
+      "last_message_preview": "Formato de mensagem enviada nao suportado",
       "messages": [
         {
           "role": "user",
@@ -108,6 +108,41 @@
           "role": "ai",
           "content": "Entendi, Simone! E qual é a sua profissão? Essa informação nos ajudará a identificar a melhor administradora para o seu plano.",
           "msg_time": "2026-04-20T13:43:30.831098"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1540\nNome: Simone🕊️\n\nMensagem(ns) do cliente:\nTécnica de enfermagem",
+          "msg_time": "2026-04-20T13:54:30.323175"
+        },
+        {
+          "role": "ai",
+          "content": "Ótimo, Simone! Para finalizar, você já possui um plano de saúde atualmente? Se sim, qual e quanto paga hoje? Isso nos ajudará a encontrar a melhor opção para você.",
+          "msg_time": "2026-04-20T13:54:30.325482"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1540\nNome: Simone🕊️\n\nMensagem(ns) do cliente:\nApevida\n\n650",
+          "msg_time": "2026-04-20T13:56:35.984064"
+        },
+        {
+          "role": "ai",
+          "content": "Simone, obrigada por todas as informações! Vou encaminhar seu contato para a Isis, nossa especialista, que vai te apresentar as melhores opções de plano para vocês duas. Ela vai te chamar aqui no WhatsApp em breve.",
+          "msg_time": "2026-04-20T13:56:35.98718"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1540\nNome: \n\nMensagem(ns) do cliente:\nE pra mim tá complicado esse valor",
+          "msg_time": "2026-04-20T13:56:49.727923"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Simone! Posso imaginar que o valor pode ser um fator desafiador. Se precisar de opções mais acessíveis ou detalhes adicionais sobre coberturas, a Isis, nossa especialista, poderá ajudar você a encontrar uma solução melhor. Vou encaminhar suas informações para ela agora.",
+          "msg_time": "2026-04-20T13:56:49.737398"
+        },
+        {
+          "role": "user",
+          "content": "Formato de mensagem enviada nao suportado",
+          "msg_time": "2026-04-20T13:57:41.536488"
         }
       ]
     },
@@ -153,7 +188,7 @@
       "first_message_at": "2026-04-20T00:00:00.000Z",
       "last_message_at": "2026-04-20T14:26:40.529000Z",
       "last_bot_msg_at": "2026-04-20T11:26:39.986774",
-      "tempo_sem_interacao": "5h 19min",
+      "tempo_sem_interacao": "5h 34min",
       "first_id": 21283,
       "last_id": 21288,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1539\nNome: Luiz Bastos\n\nMensagem(ns) do cliente:\nO especialista Jo...",
@@ -232,7 +267,7 @@
       "first_message_at": "2026-04-20T00:00:00.000Z",
       "last_message_at": "2026-04-20T05:16:37.196000Z",
       "last_bot_msg_at": "2026-04-20T02:16:36.745791",
-      "tempo_sem_interacao": "14h 29min",
+      "tempo_sem_interacao": "14h 44min",
       "first_id": 21281,
       "last_id": 21282,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1538\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -713,7 +748,7 @@
       "first_message_at": "2026-04-18T00:00:00.000Z",
       "last_message_at": "2026-04-18T19:46:56.261000Z",
       "last_bot_msg_at": "2026-04-18T16:46:55.850782",
-      "tempo_sem_interacao": "1 dia",
+      "tempo_sem_interacao": "2 dias",
       "first_id": 21238,
       "last_id": 21239,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1533\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -9871,7 +9906,7 @@
       "first_message_at": "2026-04-06T00:00:00.000Z",
       "last_message_at": "2026-04-06T19:47:48.887000Z",
       "last_bot_msg_at": "2026-04-06T16:47:48.066081",
-      "tempo_sem_interacao": "13 dias",
+      "tempo_sem_interacao": "14 dias",
       "first_id": 20531,
       "last_id": 20541,
       "last_message_preview": "Ok",
@@ -14511,7 +14546,7 @@
       "first_message_at": "2026-03-21T00:00:00.000Z",
       "last_message_at": "2026-03-23T19:46:46.480000Z",
       "last_bot_msg_at": "2026-03-23T16:46:45.29527",
-      "tempo_sem_interacao": "27 dias",
+      "tempo_sem_interacao": "28 dias",
       "first_id": 19734,
       "last_id": 20091,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1303\nNome: Vania\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns)...",
