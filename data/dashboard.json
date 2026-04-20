@@ -1,17 +1,76 @@
 {
   "meta": {
-    "generated_at": "2026-04-20T05:15:48.350Z",
+    "generated_at": "2026-04-20T05:30:49.825Z",
     "total_conversations": 200,
     "total_messages": 3266,
     "stats": {
       "quente": 1,
       "morno": 2,
-      "frio": 17,
-      "desinteresse": 180,
+      "frio": 18,
+      "desinteresse": 179,
       "sem_classificacao": 0
     }
   },
   "conversations": [
+    {
+      "session_id": "5527999561697@s.whatsapp.net",
+      "phone": "5527999561697",
+      "phone_display": "+55 27 99956-1697",
+      "lead": {
+        "baserow_id": 1538,
+        "nome": "Denilza",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "observacoes": "Denilza",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Denilza",
+        "email": "",
+        "telefone": "+55 27 99956-1697",
+        "vidas": [],
+        "cidade": "",
+        "contratacao": "",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "Amil",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "Denilza",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Denilza\n📱 Contato: WhatsApp\n📞 Telefone: +55 27 99956-1697\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Denilza\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "frio",
+      "bot": "preto",
+      "consultor": "",
+      "message_count": 2,
+      "first_message_at": "2026-04-20T00:00:00.000Z",
+      "last_message_at": "2026-04-20T05:16:37.196000Z",
+      "last_bot_msg_at": "2026-04-20T02:16:36.745791",
+      "tempo_sem_interacao": "3h 14min",
+      "first_id": 21281,
+      "last_id": 21282,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1538\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1538\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Amil",
+          "msg_time": "2026-04-20T02:16:36.740678"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-04-20T02:16:36.745791"
+        }
+      ]
+    },
     {
       "session_id": "5521992190647@s.whatsapp.net",
       "phone": "5521992190647",
@@ -61,7 +120,7 @@
       "first_message_at": "2026-04-19T00:00:00.000Z",
       "last_message_at": "2026-04-19T18:09:41.515000Z",
       "last_bot_msg_at": "2026-04-19T15:09:41.178727",
-      "tempo_sem_interacao": "14h 6min",
+      "tempo_sem_interacao": "14h 21min",
       "first_id": 21253,
       "last_id": 21280,
       "last_message_preview": "Eu tenho fuspom que é extensivo à esposa.\nÉ só pra elas, mas dê o cálculo comigo incluido",
@@ -162,7 +221,7 @@
       "first_message_at": "2026-04-19T00:00:00.000Z",
       "last_message_at": "2026-04-19T16:59:57.346000Z",
       "last_bot_msg_at": "2026-04-19T13:59:56.949007",
-      "tempo_sem_interacao": "15h 15min",
+      "tempo_sem_interacao": "15h 30min",
       "first_id": 21257,
       "last_id": 21275,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1536\nNome: Mariana Martins\n\nMensagem(ns) do cliente:\nBarra dor\n\nRj",
@@ -241,7 +300,7 @@
       "first_message_at": "2026-04-19T00:00:00.000Z",
       "last_message_at": "2026-04-19T16:53:54.070000Z",
       "last_bot_msg_at": "2026-04-19T13:53:53.583912",
-      "tempo_sem_interacao": "15h 21min",
+      "tempo_sem_interacao": "15h 36min",
       "first_id": 21261,
       "last_id": 21273,
       "last_message_preview": "Obrigado",
@@ -19457,65 +19516,6 @@
           "role": "ai",
           "content": "Oi Luiz! Sou o Gilberto da GW9, corretora de planos de saúde. Você pediu nosso contato para saber mais sobre plano de saúde e para te ajudar a encontrar a melhor opção, preciso de algumas informações rápidas. Tudo certo?",
           "msg_time": "2026-03-20T07:51:10.645926"
-        }
-      ]
-    },
-    {
-      "session_id": "5521972263085@s.whatsapp.net",
-      "phone": "5521972263085",
-      "phone_display": "+55 21 97226-3085",
-      "lead": {
-        "baserow_id": 1276,
-        "nome": "Luizão",
-        "email": "",
-        "qtd_vidas": "",
-        "desinteresse": true,
-        "observacoes": "Registro interno: Encaminhado ao consultor.\nNome do lead: Luizão\nProduto ou operadora de interesse: Amil",
-        "reagendamento": null,
-        "corretor": "Elisa",
-        "temperatura": "Frio"
-      },
-      "summary": {
-        "nome": "Luizão",
-        "email": "",
-        "telefone": "+55 21 97226-3085",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "Amil",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "Elisa",
-        "obs_crm": "Registro interno: Encaminhado ao consultor.\nNome do lead: Luizão\nProduto ou operadora de interesse: Amil",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Luizão\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97226-3085\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Luizão\nProduto ou operadora de interesse: Amil\n👤 Consultor: Elisa\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "desinteresse",
-      "bot": "preto",
-      "consultor": "Elisa",
-      "message_count": 2,
-      "first_message_at": "2026-03-20T00:00:00.000Z",
-      "last_message_at": "2026-03-20T10:51:10.298000Z",
-      "last_bot_msg_at": "2026-03-20T07:51:09.051633",
-      "tempo_sem_interacao": "1 mês",
-      "first_id": 19605,
-      "last_id": 19606,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1276\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1276\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Amil",
-          "msg_time": "2026-03-20T07:51:09.049066"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
-          "msg_time": "2026-03-20T07:51:09.051633"
         }
       ]
     }
