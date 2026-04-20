@@ -1,17 +1,116 @@
 {
   "meta": {
-    "generated_at": "2026-04-20T16:30:50.109Z",
+    "generated_at": "2026-04-20T16:45:49.456Z",
     "total_conversations": 200,
-    "total_messages": 3270,
+    "total_messages": 3278,
     "stats": {
       "quente": 1,
-      "morno": 1,
+      "morno": 2,
       "frio": 19,
-      "desinteresse": 179,
+      "desinteresse": 178,
       "sem_classificacao": 0
     }
   },
   "conversations": [
+    {
+      "session_id": "5521994257654@s.whatsapp.net",
+      "phone": "5521994257654",
+      "phone_display": "+55 21 99425-7654",
+      "lead": {
+        "baserow_id": 1540,
+        "nome": "Simone🕊️",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "observacoes": "Simone🕊️",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Simone🕊️",
+        "email": "",
+        "telefone": "+55 21 99425-7654",
+        "vidas": [],
+        "cidade": "",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "MEI",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "Simone🕊️",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Simone🕊️\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99425-7654\n\n📋 Dados contratuais:\n\nContratação: CNPJ\nTipo: MEI\n\n⚠️ Observação: Simone🕊️\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "morno",
+      "bot": "preto",
+      "consultor": "",
+      "message_count": 10,
+      "first_message_at": "2026-04-20T00:00:00.000Z",
+      "last_message_at": "2026-04-20T16:43:36.582000Z",
+      "last_bot_msg_at": "2026-04-20T13:43:30.831098",
+      "tempo_sem_interacao": "3h 2min",
+      "first_id": 21289,
+      "last_id": 21298,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1540\nNome: Simone🕊️\n\nMensagem(ns) do cliente:\nCpf",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1540\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação do um Plano",
+          "msg_time": "2026-04-20T13:38:09.652114"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-04-20T13:38:09.657636"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1540\nNome: Simone🕊️\n\nMensagem(ns) do cliente:\nMeu nome Simone seria pra duas pessoas, e gostaria de saber valor , quais são arende que funciona?",
+          "msg_time": "2026-04-20T13:40:08.463079"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Simone! Para eu te ajudar de forma mais assertiva, qual a idade de cada uma das pessoas que farão parte do plano? Isso é importante para que possamos calcular os valores corretamente.",
+          "msg_time": "2026-04-20T13:40:08.479908"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1540\nNome: Simone🕊️\n\nMensagem(ns) do cliente:\nUma 24 e outra 70 , e vc poderia simular o valor  só de 24 anos também",
+          "msg_time": "2026-04-20T13:42:23.478171"
+        },
+        {
+          "role": "ai",
+          "content": "Simone, para complementar, em qual cidade e estado você está buscando atendimento? Isso nos ajudará a encontrar a rede credenciada adequada.",
+          "msg_time": "2026-04-20T13:42:23.487622"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1540\nNome: Simone🕊️\n\nMensagem(ns) do cliente:\nE se tem direito internação, e sem internação?",
+          "msg_time": "2026-04-20T13:42:46.506874"
+        },
+        {
+          "role": "ai",
+          "content": "Esses detalhes são importantes! Antes disso, Simone, posso saber como o plano será contratado: será por CNPJ (MEI ou LTDA) ou por CPF? Isso me ajudará a buscar as melhores opções pra você.",
+          "msg_time": "2026-04-20T13:42:46.510068"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1540\nNome: Simone🕊️\n\nMensagem(ns) do cliente:\nCpf",
+          "msg_time": "2026-04-20T13:43:30.816752"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Simone! E qual é a sua profissão? Essa informação nos ajudará a identificar a melhor administradora para o seu plano.",
+          "msg_time": "2026-04-20T13:43:30.831098"
+        }
+      ]
+    },
     {
       "session_id": "5521964929770@s.whatsapp.net",
       "phone": "5521964929770",
@@ -54,7 +153,7 @@
       "first_message_at": "2026-04-20T00:00:00.000Z",
       "last_message_at": "2026-04-20T14:26:40.529000Z",
       "last_bot_msg_at": "2026-04-20T11:26:39.986774",
-      "tempo_sem_interacao": "5h 4min",
+      "tempo_sem_interacao": "5h 19min",
       "first_id": 21283,
       "last_id": 21288,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1539\nNome: Luiz Bastos\n\nMensagem(ns) do cliente:\nO especialista Jo...",
@@ -133,7 +232,7 @@
       "first_message_at": "2026-04-20T00:00:00.000Z",
       "last_message_at": "2026-04-20T05:16:37.196000Z",
       "last_bot_msg_at": "2026-04-20T02:16:36.745791",
-      "tempo_sem_interacao": "14h 14min",
+      "tempo_sem_interacao": "14h 29min",
       "first_id": 21281,
       "last_id": 21282,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1538\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -19477,65 +19576,6 @@
           "role": "system",
           "content": "\n",
           "msg_time": "2026-03-20T11:00:27.97423"
-        }
-      ]
-    },
-    {
-      "session_id": "5521993001864@s.whatsapp.net",
-      "phone": "5521993001864",
-      "phone_display": "+55 21 99300-1864",
-      "lead": {
-        "baserow_id": 1277,
-        "nome": "Carolina Pimentel",
-        "email": "",
-        "qtd_vidas": "",
-        "desinteresse": true,
-        "observacoes": "Registro interno: Encaminhado ao consultor.\nNome do lead: Carolina Pimentel\nProduto ou operadora de interesse: Sulamérica",
-        "reagendamento": null,
-        "corretor": "Isis",
-        "temperatura": "Frio"
-      },
-      "summary": {
-        "nome": "Carolina Pimentel",
-        "email": "",
-        "telefone": "+55 21 99300-1864",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "Sulamérica",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "Isis",
-        "obs_crm": "Registro interno: Encaminhado ao consultor.\nNome do lead: Carolina Pimentel\nProduto ou operadora de interesse: Sulamérica",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Carolina Pimentel\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99300-1864\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: Sulamérica\n\n⚠️ Observação: Registro interno: Encaminhado ao consultor.\nNome do lead: Carolina Pimentel\nProduto ou operadora de interesse: Sulamérica\n👤 Consultor: Isis\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "desinteresse",
-      "bot": "preto",
-      "consultor": "Isis",
-      "message_count": 2,
-      "first_message_at": "2026-03-20T00:00:00.000Z",
-      "last_message_at": "2026-03-20T12:04:12.653000Z",
-      "last_bot_msg_at": "2026-03-20T09:04:11.600823",
-      "tempo_sem_interacao": "1 mês",
-      "first_id": 19609,
-      "last_id": 19610,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1277\nNome: Carolina Pimentel\n\nMensagem(ns) do cliente:\nOlá gostari...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1277\nNome: Carolina Pimentel\n\nMensagem(ns) do cliente:\nOlá gostaria de mais \n\n\ninformações dos Planos de Saúde  Sulamérica\n\nThank you for watching, so far we have received roughly 1 million comments",
-          "msg_time": "2026-03-20T09:04:11.596301"
-        },
-        {
-          "role": "ai",
-          "content": "Olá, Carolina! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas da Sulamérica, preciso de algumas informações. Seriam para quantas pessoas e quais as idades?",
-          "msg_time": "2026-03-20T09:04:11.600823"
         }
       ]
     }
