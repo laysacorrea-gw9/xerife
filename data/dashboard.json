@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-04-20T14:15:48.397Z",
+    "generated_at": "2026-04-20T14:30:49.534Z",
     "total_conversations": 200,
-    "total_messages": 3266,
+    "total_messages": 3270,
     "stats": {
       "quente": 1,
       "morno": 1,
-      "frio": 20,
-      "desinteresse": 178,
+      "frio": 19,
+      "desinteresse": 179,
       "sem_classificacao": 0
     }
   },
@@ -21,11 +21,11 @@
         "nome": "Luiz Bastos",
         "email": "",
         "qtd_vidas": "",
-        "desinteresse": false,
+        "desinteresse": true,
         "observacoes": "Luiz Bastos",
         "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
+        "corretor": "Elisa",
+        "temperatura": "Quente"
       },
       "summary": {
         "nome": "Luiz Bastos",
@@ -38,26 +38,26 @@
         "tipo_empresa": "",
         "profissao": "",
         "plano_atual": "",
-        "motivo": "",
+        "motivo": "Incluir novas vidas",
         "interesse": "",
         "rede_preferencial": "",
         "contato": "WhatsApp",
-        "consultor": "",
+        "consultor": "Elisa",
         "obs_crm": "Luiz Bastos",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Luiz Bastos\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96492-9770\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Luiz Bastos\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Luiz Bastos\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96492-9770\n\n📋 Dados contratuais:\n\n\n😤 Motivo da troca:\n\nIncluir novas vidas\n\n⚠️ Observação: Luiz Bastos\n👤 Consultor: Elisa\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
       },
-      "status": "frio",
+      "status": "desinteresse",
       "bot": "preto",
-      "consultor": "",
-      "message_count": 2,
+      "consultor": "Elisa",
+      "message_count": 6,
       "first_message_at": "2026-04-20T00:00:00.000Z",
-      "last_message_at": "2026-04-20T14:06:28.650000Z",
-      "last_bot_msg_at": "2026-04-20T11:06:28.189862",
-      "tempo_sem_interacao": "3h 9min",
+      "last_message_at": "2026-04-20T14:26:40.529000Z",
+      "last_bot_msg_at": "2026-04-20T11:26:39.986774",
+      "tempo_sem_interacao": "3h 4min",
       "first_id": 21283,
-      "last_id": 21284,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1539\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
+      "last_id": 21288,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1539\nNome: Luiz Bastos\n\nMensagem(ns) do cliente:\nO especialista Jo...",
       "messages": [
         {
           "role": "user",
@@ -68,6 +68,26 @@
           "role": "ai",
           "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
           "msg_time": "2026-04-20T11:06:28.189862"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1539\nNome: Luiz Bastos\n\nMensagem(ns) do cliente:\nLiga pra mim por gentileza não gosto de escrever",
+          "msg_time": "2026-04-20T11:25:03.976074"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Luiz! Você prefere falar diretamente com um especialista humano? Posso te ajudar a agilizar muitas informações por aqui. O que acha?",
+          "msg_time": "2026-04-20T11:25:03.978768"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1539\nNome: Luiz Bastos\n\nMensagem(ns) do cliente:\nO especialista João entrará em contato com você nesse momento",
+          "msg_time": "2026-04-20T11:26:39.983961"
+        },
+        {
+          "role": "ai",
+          "content": "Luiz, obrigada por todas as informações! Vou encaminhar seu contato para o especialista Elisa, que vai te apresentar as melhores opções de plano. Ele entrará em contato com você através do WhatsApp em breve. 😊",
+          "msg_time": "2026-04-20T11:26:39.986774"
         }
       ]
     },
@@ -113,7 +133,7 @@
       "first_message_at": "2026-04-20T00:00:00.000Z",
       "last_message_at": "2026-04-20T05:16:37.196000Z",
       "last_bot_msg_at": "2026-04-20T02:16:36.745791",
-      "tempo_sem_interacao": "11h 59min",
+      "tempo_sem_interacao": "12h 14min",
       "first_id": 21281,
       "last_id": 21282,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1538\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -179,7 +199,7 @@
       "first_message_at": "2026-04-19T00:00:00.000Z",
       "last_message_at": "2026-04-19T18:09:41.515000Z",
       "last_bot_msg_at": "2026-04-19T15:09:41.178727",
-      "tempo_sem_interacao": "23h 6min",
+      "tempo_sem_interacao": "23h 21min",
       "first_id": 21253,
       "last_id": 21280,
       "last_message_preview": "Eu tenho fuspom que é extensivo à esposa.\nÉ só pra elas, mas dê o cálculo comigo incluido",
