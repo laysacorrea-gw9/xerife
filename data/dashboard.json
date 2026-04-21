@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_at": "2026-04-21T00:16:02.667Z",
+    "generated_at": "2026-04-21T00:30:49.902Z",
     "total_conversations": 200,
-    "total_messages": 3287,
+    "total_messages": 3294,
     "stats": {
       "quente": 1,
       "morno": 1,
@@ -12,6 +12,142 @@
     }
   },
   "conversations": [
+    {
+      "session_id": "5521986909035@s.whatsapp.net",
+      "phone": "5521986909035",
+      "phone_display": "+55 21 98690-9035",
+      "lead": {
+        "baserow_id": 1541,
+        "nome": "Deise",
+        "email": "",
+        "qtd_vidas": 2,
+        "desinteresse": true,
+        "observacoes": "Deise",
+        "reagendamento": null,
+        "corretor": "João",
+        "temperatura": "Quente"
+      },
+      "summary": {
+        "nome": "Deise",
+        "email": "",
+        "telefone": "+55 21 98690-9035",
+        "vidas": [
+          {
+            "idade": 1
+          },
+          {
+            "idade": 73
+          }
+        ],
+        "cidade": "",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "MEI",
+        "profissao": "do",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "Sulamérica",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "João",
+        "obs_crm": "Deise",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Deise\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98690-9035\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nDeise — 1 anos\nDependente 1 — 73 anos\n\n📋 Dados contratuais:\n\nContratação: CNPJ\nTipo: MEI\nProfissão: do\n\n🎯 Interesse: Sulamérica\n\n⚠️ Observação: Deise\n👤 Consultor: João\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "desinteresse",
+      "bot": "preto",
+      "consultor": "João",
+      "message_count": 16,
+      "first_message_at": "2026-04-20T00:00:00.000Z",
+      "last_message_at": "2026-04-21T00:27:52.895000Z",
+      "last_bot_msg_at": "2026-04-20T21:27:52.415085",
+      "tempo_sem_interacao": "3h 2min",
+      "first_id": 21308,
+      "last_id": 21323,
+      "last_message_preview": "Ok",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1541\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Sulamérica",
+          "msg_time": "2026-04-20T21:17:28.406339"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-04-20T21:17:28.415907"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1541\nNome: Deise\n\nMensagem(ns) do cliente:\n1    73 anos",
+          "msg_time": "2026-04-20T21:18:53.709752"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Deise! Para sua saúde, então... E quantas pessoas mais precisam do plano? Se houver outras idades, você pode me informar?",
+          "msg_time": "2026-04-20T21:18:53.711399"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1541\nNome: Deise\n\nMensagem(ns) do cliente:\nE só pra mim",
+          "msg_time": "2026-04-20T21:20:10.685761"
+        },
+        {
+          "role": "ai",
+          "content": "Certo, Deise! Agora, qual é a cidade onde você busca atendimento e se tem algum hospital de sua preferência? Isso me ajuda a encontrar o plano ideal para você.",
+          "msg_time": "2026-04-20T21:20:10.687666"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1541\nNome: Deise\n\nMensagem(ns) do cliente:\nSou do. RJ   ilha  do governor",
+          "msg_time": "2026-04-20T21:22:24.911218"
+        },
+        {
+          "role": "ai",
+          "content": "Obrigado, Deise! A Ilha do Governador é uma boa área. Agora, como o plano será contratado: empresarial por CNPJ (MEI ou LTDA) ou CPF?",
+          "msg_time": "2026-04-20T21:22:24.91374"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1541\nNome: Deise\n\nMensagem(ns) do cliente:\nCPF",
+          "msg_time": "2026-04-20T21:23:49.020771"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Deise! E qual é a sua profissão? Vou precisar dessa informação para encontrar a melhor administradora para o seu plano.",
+          "msg_time": "2026-04-20T21:23:49.022824"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1541\nNome: Deise\n\nMensagem(ns) do cliente:\nPensionista ,",
+          "msg_time": "2026-04-20T21:25:09.252494"
+        },
+        {
+          "role": "ai",
+          "content": "Obrigada, Deise! Por último, você já possui um plano de saúde atualmente? Se sim, qual é e quanto paga hoje? Isso nos ajudará a encontrar a melhor opção para você.",
+          "msg_time": "2026-04-20T21:25:09.255188"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1541\nNome: Deise\n\nMensagem(ns) do cliente:\nSim e MED SENIOR, VALOR 2,000,00",
+          "msg_time": "2026-04-20T21:27:52.411734"
+        },
+        {
+          "role": "ai",
+          "content": "Deise, obrigada por todas as informações! Vou encaminhar seu contato para o João, nosso especialista, que vai te apresentar as melhores opções de plano para você em Ilha do Governador. Ele vai te chamar aqui no WhatsApp em breve.",
+          "msg_time": "2026-04-20T21:27:52.415085"
+        },
+        {
+          "role": "user",
+          "content": "E n estou sattisfeita",
+          "msg_time": "2026-04-20T21:28:20.014236"
+        },
+        {
+          "role": "user",
+          "content": "Ok",
+          "msg_time": "2026-04-20T21:28:48.518108"
+        }
+      ]
+    },
     {
       "session_id": "5521964645520@s.whatsapp.net",
       "phone": "5521964645520",
@@ -64,7 +200,7 @@
       "first_message_at": "2025-12-15T00:00:00.000Z",
       "last_message_at": "2026-04-20T17:43:06.911Z",
       "last_bot_msg_at": "2026-04-20T17:43:06.911Z",
-      "tempo_sem_interacao": "6h 32min",
+      "tempo_sem_interacao": "6h 47min",
       "first_id": 1156,
       "last_id": 21307,
       "last_message_preview": "Formato de mensagem enviada nao suportado",
@@ -238,7 +374,7 @@
       "first_message_at": "2026-04-20T00:00:00.000Z",
       "last_message_at": "2026-04-20T14:26:40.529000Z",
       "last_bot_msg_at": "2026-04-20T11:26:39.986774",
-      "tempo_sem_interacao": "12h 49min",
+      "tempo_sem_interacao": "13h 4min",
       "first_id": 21283,
       "last_id": 21306,
       "last_message_preview": "Gosto de falar",
@@ -322,7 +458,7 @@
       "first_message_at": "2026-04-20T00:00:00.000Z",
       "last_message_at": "2026-04-20T16:56:50.298000Z",
       "last_bot_msg_at": "2026-04-20T13:56:49.737398",
-      "tempo_sem_interacao": "10h 19min",
+      "tempo_sem_interacao": "10h 34min",
       "first_id": 21289,
       "last_id": 21305,
       "last_message_preview": "Formato de mensagem enviada nao suportado",
@@ -456,7 +592,7 @@
       "first_message_at": "2026-04-20T00:00:00.000Z",
       "last_message_at": "2026-04-20T05:16:37.196000Z",
       "last_bot_msg_at": "2026-04-20T02:16:36.745791",
-      "tempo_sem_interacao": "21h 59min",
+      "tempo_sem_interacao": "22h 14min",
       "first_id": 21281,
       "last_id": 21282,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1538\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -19527,100 +19663,6 @@
           "role": "system",
           "content": "\n",
           "msg_time": "2026-03-20T11:00:34.529588"
-        }
-      ]
-    },
-    {
-      "session_id": "5522997634463@s.whatsapp.net",
-      "phone": "5522997634463",
-      "phone_display": "+55 22 99763-4463",
-      "lead": {
-        "baserow_id": 1250,
-        "nome": "Alexandre",
-        "email": "alex_bbarbosa@yahoo.com.br",
-        "qtd_vidas": "",
-        "desinteresse": true,
-        "observacoes": "Alexandre",
-        "reagendamento": "2026-03-19T13:00:00Z",
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Alexandre",
-        "email": "alex_bbarbosa@yahoo.com.br",
-        "telefone": "+55 22 99763-4463",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "Alexandre",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Alexandre\n📧 E-mail: alex_bbarbosa@yahoo.com.br\n📱 Contato: WhatsApp\n📞 Telefone: +55 22 99763-4463\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n\n⚠️ Observação: Alexandre\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "desinteresse",
-      "bot": "preto",
-      "consultor": "",
-      "message_count": 9,
-      "first_message_at": "2026-03-18T00:00:00.000Z",
-      "last_message_at": "2026-03-18T20:29:59.925000Z",
-      "last_bot_msg_at": "2026-03-18T17:29:58.712472",
-      "tempo_sem_interacao": "1 mês",
-      "first_id": 19280,
-      "last_id": 19613,
-      "last_message_preview": "Dados do lead no sistema:\nNome: Alexandre\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do clien...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados Fornecidos\nNome: Alexandre\nContem CNPJ: sim\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não informado\nRegião: Não Informado\nPropaganda:\n",
-          "msg_time": "2026-03-18T16:54:18.455074"
-        },
-        {
-          "role": "ai",
-          "content": "Oi Alexandre! Sou o Gilberto da GW9, corretora de planos de saúde. Você pediu nosso contato para saber mais sobre plano de saúde e vi que tem interesse para 3 vidas e já possui um CNPJ. Para te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo certo?",
-          "msg_time": "2026-03-18T16:54:18.458647"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Alexandre\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nBoa tarde!",
-          "msg_time": "2026-03-18T16:55:59.360196"
-        },
-        {
-          "role": "ai",
-          "content": "Boa tarde, Alexandre! 😊 Para te ajudar a encontrar o melhor plano, posso saber em qual cidade você precisa do atendimento? E se tiver alguma rede de hospitais de sua preferência, isso pode ajudar muito!",
-          "msg_time": "2026-03-18T16:55:59.363547"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Alexandre\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nPode fazer contato amanhã estou saindo da empresa",
-          "msg_time": "2026-03-18T16:56:41.718899"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Alexandre! Posso agendar um retorno para amanhã. Qual horário seria melhor para você: manhã (10:00), tarde (15:00) ou noite (20:00)?",
-          "msg_time": "2026-03-18T16:56:41.721058"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nNome: Alexandre\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\n10",
-          "msg_time": "2026-03-18T17:29:58.710095"
-        },
-        {
-          "role": "ai",
-          "content": "Perfeito, Alexandre! Então vou agendar para amanhã às 10h. Vou te contatar novamente nesse horário. Se precisar de mais alguma coisa antes disso, é só avisar! 😊",
-          "msg_time": "2026-03-18T17:29:58.712472"
-        },
-        {
-          "role": "system",
-          "content": "\n",
-          "msg_time": "2026-03-20T11:00:27.97423"
         }
       ]
     }
