@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_at": "2026-04-21T15:45:48.522Z",
+    "generated_at": "2026-04-21T16:00:49.064Z",
     "total_conversations": 200,
-    "total_messages": 3295,
+    "total_messages": 3297,
     "stats": {
       "quente": 1,
       "morno": 0,
@@ -42,10 +42,10 @@
             "idade": 21
           }
         ],
-        "cidade": "",
-        "contratacao": "",
+        "cidade": "Rio de Janeiro / RJ",
+        "contratacao": "CNPJ",
         "cnpj": "",
-        "tipo_empresa": "",
+        "tipo_empresa": "MEI",
         "profissao": "",
         "plano_atual": "",
         "motivo": "",
@@ -55,19 +55,19 @@
         "consultor": "",
         "obs_crm": "Edison Motta",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Edison Motta\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99540-0301\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nEdison Motta — 65 anos\nDependente 1 — 23 anos\nDependente 2 — 21 anos\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: Sulamérica\n\n⚠️ Observação: Edison Motta\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Edison Motta\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99540-0301\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nEdison Motta — 65 anos\nDependente 1 — 23 anos\nDependente 2 — 21 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n🎯 Interesse: Sulamérica\n\n⚠️ Observação: Edison Motta\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Preto (0479)"
       },
       "status": "quente",
       "bot": "preto",
       "consultor": "",
-      "message_count": 4,
+      "message_count": 6,
       "first_message_at": "2026-04-21T00:00:00.000Z",
-      "last_message_at": "2026-04-21T10:18:25.870000Z",
-      "last_bot_msg_at": "2026-04-21T07:18:25.296184",
-      "tempo_sem_interacao": "8h 27min",
+      "last_message_at": "2026-04-21T15:59:45.227000Z",
+      "last_bot_msg_at": "2026-04-21T12:59:44.552001",
+      "tempo_sem_interacao": "3h 1min",
       "first_id": 21324,
-      "last_id": 21327,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1542\nNome: Edison Motta\n\nMensagem(ns) do cliente:\nBom dia \nEdison ...",
+      "last_id": 21329,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1542\nNome: Edison Motta\n\nMensagem(ns) do cliente:\nRio de janeiro",
       "messages": [
         {
           "role": "user",
@@ -88,6 +88,16 @@
           "role": "ai",
           "content": "Entendi, Edison! Então, a cotação será para 3 pessoas: 65, 23 e 21 anos. Para prosseguir, qual é a cidade onde você deseja que o plano tenha cobertura? Se tiver algum hospital de sua preferência, isso também nos ajuda a encontrar o plano adequado.",
           "msg_time": "2026-04-21T07:18:25.296184"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1542\nNome: Edison Motta\n\nMensagem(ns) do cliente:\nRio de janeiro",
+          "msg_time": "2026-04-21T12:59:44.548646"
+        },
+        {
+          "role": "ai",
+          "content": "Ótimo, Edison! Agora, como o plano será contratado: pela empresa, utilizando CNPJ (MEI ou LTDA)? Se tiver o número do CNPJ, você pode me passar. Caso contrário, apenas me informe se é MEI ou LTDA.",
+          "msg_time": "2026-04-21T12:59:44.552001"
         }
       ]
     },
@@ -140,7 +150,7 @@
       "first_message_at": "2026-04-20T00:00:00.000Z",
       "last_message_at": "2026-04-21T00:27:52.895000Z",
       "last_bot_msg_at": "2026-04-20T21:27:52.415085",
-      "tempo_sem_interacao": "18h 17min",
+      "tempo_sem_interacao": "18h 32min",
       "first_id": 21308,
       "last_id": 21323,
       "last_message_preview": "Ok",
@@ -279,7 +289,7 @@
       "first_message_at": "2025-12-15T00:00:00.000Z",
       "last_message_at": "2026-04-20T17:43:06.911Z",
       "last_bot_msg_at": "2026-04-20T17:43:06.911Z",
-      "tempo_sem_interacao": "22h 2min",
+      "tempo_sem_interacao": "22h 17min",
       "first_id": 1156,
       "last_id": 21307,
       "last_message_preview": "Formato de mensagem enviada nao suportado",
@@ -11801,7 +11811,7 @@
       "first_message_at": "2026-03-25T00:00:00.000Z",
       "last_message_at": "2026-03-25T18:46:26.081000Z",
       "last_bot_msg_at": "2026-03-25T15:46:24.618688",
-      "tempo_sem_interacao": "26 dias",
+      "tempo_sem_interacao": "27 dias",
       "first_id": 20352,
       "last_id": 20380,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1398\nNome: Benedito\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(...",
@@ -13841,7 +13851,7 @@
       "first_message_at": "2026-03-23T00:00:00.000Z",
       "last_message_at": "2026-03-23T18:55:32.903000Z",
       "last_bot_msg_at": "2026-03-23T15:55:31.653229",
-      "tempo_sem_interacao": "28 dias",
+      "tempo_sem_interacao": "29 dias",
       "first_id": 20080,
       "last_id": 20166,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1334\nNome: José\n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cota...",
