@@ -1,17 +1,76 @@
 {
   "meta": {
-    "generated_at": "2026-04-21T22:15:49.715Z",
+    "generated_at": "2026-04-21T22:30:48.647Z",
     "total_conversations": 200,
-    "total_messages": 3305,
+    "total_messages": 3304,
     "stats": {
       "quente": 0,
       "morno": 1,
-      "frio": 21,
-      "desinteresse": 178,
+      "frio": 22,
+      "desinteresse": 177,
       "sem_classificacao": 0
     }
   },
   "conversations": [
+    {
+      "session_id": "5521964980984@s.whatsapp.net",
+      "phone": "5521964980984",
+      "phone_display": "+55 21 96498-0984",
+      "lead": {
+        "baserow_id": 1544,
+        "nome": "Gentil Barreto Da Silva F",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "observacoes": "Gentil Barreto Da Silva F",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Gentil Barreto Da Silva F",
+        "email": "",
+        "telefone": "+55 21 96498-0984",
+        "vidas": [],
+        "cidade": "",
+        "contratacao": "",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "Sulamérica",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "Gentil Barreto Da Silva F",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Gentil Barreto Da Silva F\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96498-0984\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: Sulamérica\n\n⚠️ Observação: Gentil Barreto Da Silva F\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "frio",
+      "bot": "preto",
+      "consultor": "",
+      "message_count": 2,
+      "first_message_at": "2026-04-21T00:00:00.000Z",
+      "last_message_at": "2026-04-21T22:26:10.616000Z",
+      "last_bot_msg_at": "2026-04-21T19:26:10.103531",
+      "tempo_sem_interacao": "3h 4min",
+      "first_id": 21341,
+      "last_id": 21342,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1544\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1544\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Sulamérica",
+          "msg_time": "2026-04-21T19:26:10.099484"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-04-21T19:26:10.103531"
+        }
+      ]
+    },
     {
       "session_id": "5521995400301@s.whatsapp.net",
       "phone": "5521995400301",
@@ -64,7 +123,7 @@
       "first_message_at": "2026-04-21T00:00:00.000Z",
       "last_message_at": "2026-04-21T18:14:45.186000Z",
       "last_bot_msg_at": "2026-04-21T15:14:44.774383",
-      "tempo_sem_interacao": "7h 1min",
+      "tempo_sem_interacao": "7h 16min",
       "first_id": 21324,
       "last_id": 21340,
       "last_message_preview": "Ok",
@@ -168,7 +227,7 @@
       "first_message_at": "2026-04-21T00:00:00.000Z",
       "last_message_at": "2026-04-21T20:19:13.298000Z",
       "last_bot_msg_at": "2026-04-21T17:19:12.8124",
-      "tempo_sem_interacao": "4h 56min",
+      "tempo_sem_interacao": "5h 11min",
       "first_id": 21334,
       "last_id": 21339,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1543\nNome: luto eterno 🥺💔🖤\n\nMensagem(ns) do cliente:\nOk",
@@ -5901,7 +5960,7 @@
       "first_message_at": "2026-04-11T00:00:00.000Z",
       "last_message_at": "2026-04-12T01:27:04.522000Z",
       "last_bot_msg_at": "2026-04-11T22:27:03.548296",
-      "tempo_sem_interacao": "9 dias",
+      "tempo_sem_interacao": "10 dias",
       "first_id": 20903,
       "last_id": 20904,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1497\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -7682,7 +7741,7 @@
       "first_message_at": "2026-04-09T00:00:00.000Z",
       "last_message_at": "2026-04-10T01:30:12.654000Z",
       "last_bot_msg_at": "2026-04-09T22:30:12.093923",
-      "tempo_sem_interacao": "11 dias",
+      "tempo_sem_interacao": "12 dias",
       "first_id": 20765,
       "last_id": 20766,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1483\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -19664,70 +19723,6 @@
           "role": "system",
           "content": "Perfeito Ana !\n\nA Especialista Elisa vai te chamar para te passar algumas opções.",
           "msg_time": "2026-03-20T12:16:05.337012"
-        }
-      ]
-    },
-    {
-      "session_id": "5521996635869@s.whatsapp.net",
-      "phone": "5521996635869",
-      "phone_display": "+55 21 99663-5869",
-      "lead": {
-        "baserow_id": 1267,
-        "nome": "Roberto Dias",
-        "email": "art56@hotmail.com",
-        "qtd_vidas": "",
-        "desinteresse": true,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Roberto Dias",
-        "email": "art56@hotmail.com",
-        "telefone": "+55 21 99663-5869",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "SulAmérica",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Roberto Dias\n📧 E-mail: art56@hotmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99663-5869\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n\n🎯 Interesse: SulAmérica\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "desinteresse",
-      "bot": "preto",
-      "consultor": "",
-      "message_count": 3,
-      "first_message_at": "2026-03-19T00:00:00.000Z",
-      "last_message_at": "2026-03-19T08:31:44.765000Z",
-      "last_bot_msg_at": "2026-03-19T05:32:16.800075",
-      "tempo_sem_interacao": "1 mês",
-      "first_id": 19467,
-      "last_id": 19616,
-      "last_message_preview": "Dados Fornecidos\nNome: Roberto\nContem CNPJ: Sim\nNumero de Vidas: 3 a 5 Vidas\nOperadora de Interesse:...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados Fornecidos\nNome: Roberto\nContem CNPJ: Sim\nNumero de Vidas: 3 a 5 Vidas\nOperadora de Interesse: SulAmérica\nRegião: Não Informado\nPropaganda:\n",
-          "msg_time": "2026-03-19T05:32:16.79471"
-        },
-        {
-          "role": "ai",
-          "content": "Oi Roberto! Sou o Gilberto da GW9, corretora de planos de saúde. Você pediu nosso contato para saber mais sobre plano de saúde e vi que tem interesse para 3 a 5 vidas e já possui um CNPJ. Para te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo certo?",
-          "msg_time": "2026-03-19T05:32:16.800075"
-        },
-        {
-          "role": "system",
-          "content": "\n",
-          "msg_time": "2026-03-20T11:00:49.979156"
         }
       ]
     }
