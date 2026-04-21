@@ -1,17 +1,96 @@
 {
   "meta": {
-    "generated_at": "2026-04-21T10:15:48.608Z",
+    "generated_at": "2026-04-21T10:30:50.095Z",
     "total_conversations": 200,
-    "total_messages": 3294,
+    "total_messages": 3295,
     "stats": {
-      "quente": 1,
+      "quente": 2,
       "morno": 1,
       "frio": 19,
-      "desinteresse": 179,
+      "desinteresse": 178,
       "sem_classificacao": 0
     }
   },
   "conversations": [
+    {
+      "session_id": "5521995400301@s.whatsapp.net",
+      "phone": "5521995400301",
+      "phone_display": "+55 21 99540-0301",
+      "lead": {
+        "baserow_id": 1542,
+        "nome": "Edison Motta",
+        "email": "",
+        "qtd_vidas": 3,
+        "desinteresse": false,
+        "observacoes": "Edison Motta",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Edison Motta",
+        "email": "",
+        "telefone": "+55 21 99540-0301",
+        "vidas": [
+          {
+            "idade": 65
+          },
+          {
+            "idade": 23
+          },
+          {
+            "idade": 21
+          }
+        ],
+        "cidade": "",
+        "contratacao": "",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "Sulamérica",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "Edison Motta",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Edison Motta\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99540-0301\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nEdison Motta — 65 anos\nDependente 1 — 23 anos\nDependente 2 — 21 anos\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: Sulamérica\n\n⚠️ Observação: Edison Motta\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "quente",
+      "bot": "preto",
+      "consultor": "",
+      "message_count": 4,
+      "first_message_at": "2026-04-21T00:00:00.000Z",
+      "last_message_at": "2026-04-21T10:18:25.870000Z",
+      "last_bot_msg_at": "2026-04-21T07:18:25.296184",
+      "tempo_sem_interacao": "3h 12min",
+      "first_id": 21324,
+      "last_id": 21327,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1542\nNome: Edison Motta\n\nMensagem(ns) do cliente:\nBom dia \nEdison ...",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1542\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Sulamérica",
+          "msg_time": "2026-04-21T07:16:28.121783"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-04-21T07:16:28.126421"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1542\nNome: Edison Motta\n\nMensagem(ns) do cliente:\nBom dia \nEdison Motta \n3 pessoas \nIdades 65, 23, 21",
+          "msg_time": "2026-04-21T07:18:25.292269"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Edison! Então, a cotação será para 3 pessoas: 65, 23 e 21 anos. Para prosseguir, qual é a cidade onde você deseja que o plano tenha cobertura? Se tiver algum hospital de sua preferência, isso também nos ajuda a encontrar o plano adequado.",
+          "msg_time": "2026-04-21T07:18:25.296184"
+        }
+      ]
+    },
     {
       "session_id": "5521986909035@s.whatsapp.net",
       "phone": "5521986909035",
@@ -61,7 +140,7 @@
       "first_message_at": "2026-04-20T00:00:00.000Z",
       "last_message_at": "2026-04-21T00:27:52.895000Z",
       "last_bot_msg_at": "2026-04-20T21:27:52.415085",
-      "tempo_sem_interacao": "12h 47min",
+      "tempo_sem_interacao": "13h 2min",
       "first_id": 21308,
       "last_id": 21323,
       "last_message_preview": "Ok",
@@ -200,7 +279,7 @@
       "first_message_at": "2025-12-15T00:00:00.000Z",
       "last_message_at": "2026-04-20T17:43:06.911Z",
       "last_bot_msg_at": "2026-04-20T17:43:06.911Z",
-      "tempo_sem_interacao": "16h 32min",
+      "tempo_sem_interacao": "16h 47min",
       "first_id": 1156,
       "last_id": 21307,
       "last_message_preview": "Formato de mensagem enviada nao suportado",
@@ -374,7 +453,7 @@
       "first_message_at": "2026-04-20T00:00:00.000Z",
       "last_message_at": "2026-04-20T14:26:40.529000Z",
       "last_bot_msg_at": "2026-04-20T11:26:39.986774",
-      "tempo_sem_interacao": "22h 49min",
+      "tempo_sem_interacao": "23h 4min",
       "first_id": 21283,
       "last_id": 21306,
       "last_message_preview": "Gosto de falar",
@@ -458,7 +537,7 @@
       "first_message_at": "2026-04-20T00:00:00.000Z",
       "last_message_at": "2026-04-20T16:56:50.298000Z",
       "last_bot_msg_at": "2026-04-20T13:56:49.737398",
-      "tempo_sem_interacao": "20h 18min",
+      "tempo_sem_interacao": "20h 34min",
       "first_id": 21289,
       "last_id": 21305,
       "last_message_preview": "Formato de mensagem enviada nao suportado",
@@ -19599,70 +19678,6 @@
           "role": "system",
           "content": "\n",
           "msg_time": "2026-03-20T11:00:41.851994"
-        }
-      ]
-    },
-    {
-      "session_id": "5521997661954@s.whatsapp.net",
-      "phone": "5521997661954",
-      "phone_display": "+55 21 99766-1954",
-      "lead": {
-        "baserow_id": 1265,
-        "nome": "Aline",
-        "email": "nailsaline2010@gmail.com",
-        "qtd_vidas": "",
-        "desinteresse": true,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Aline",
-        "email": "nailsaline2010@gmail.com",
-        "telefone": "+55 21 99766-1954",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Aline\n📧 E-mail: nailsaline2010@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99766-1954\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "desinteresse",
-      "bot": "preto",
-      "consultor": "",
-      "message_count": 3,
-      "first_message_at": "2026-03-19T00:00:00.000Z",
-      "last_message_at": "2026-03-19T13:27:27.170000Z",
-      "last_bot_msg_at": "2026-03-19T10:27:19.357042",
-      "tempo_sem_interacao": "1 mês",
-      "first_id": 19479,
-      "last_id": 19614,
-      "last_message_preview": "Dados Fornecidos\nNome: Aline\nContem CNPJ: não\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não i...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados Fornecidos\nNome: Aline\nContem CNPJ: não\nNumero de Vidas: 3_vidas\nOperadora de Interesse: não informado\nRegião: Não Informado\nPropaganda:\n",
-          "msg_time": "2026-03-19T10:27:19.352019"
-        },
-        {
-          "role": "ai",
-          "content": "Oi Aline! Sou o Gilberto da GW9, corretora de planos de saúde. Você pediu nosso contato para saber mais sobre plano de saúde e vi que tem interesse para 3 pessoas. Para te ajudar a encontrar a melhor opção, preciso de algumas informações rápidas. Tudo certo?",
-          "msg_time": "2026-03-19T10:27:19.357042"
-        },
-        {
-          "role": "system",
-          "content": "\n",
-          "msg_time": "2026-03-20T11:00:34.529588"
         }
       ]
     }
