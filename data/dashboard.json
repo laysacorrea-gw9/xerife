@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-04-22T11:00:49.689Z",
+    "generated_at": "2026-04-22T11:15:48.545Z",
     "total_conversations": 200,
-    "total_messages": 3289,
+    "total_messages": 3295,
     "stats": {
-      "quente": 1,
+      "quente": 0,
       "morno": 1,
       "frio": 22,
-      "desinteresse": 176,
+      "desinteresse": 177,
       "sem_classificacao": 0
     }
   },
@@ -21,11 +21,11 @@
         "nome": "Carlos Coelho",
         "email": "",
         "qtd_vidas": 2,
-        "desinteresse": false,
+        "desinteresse": true,
         "observacoes": "Carlos Coelho",
         "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
+        "corretor": "João",
+        "temperatura": "Quente"
       },
       "summary": {
         "nome": "Carlos Coelho",
@@ -39,32 +39,32 @@
             "idade": 60
           }
         ],
-        "cidade": "",
-        "contratacao": "",
+        "cidade": "Rio de Janeiro / RJ",
+        "contratacao": "CNPJ",
         "cnpj": "",
-        "tipo_empresa": "",
+        "tipo_empresa": "MEI",
         "profissao": "",
         "plano_atual": "",
-        "motivo": "",
+        "motivo": "Encerramento do plano atual",
         "interesse": "Barra D'or",
         "rede_preferencial": "Barra D'Or",
         "contato": "WhatsApp",
-        "consultor": "",
+        "consultor": "João",
         "obs_crm": "Carlos Coelho",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Carlos Coelho\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99222-8440\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nCarlos Coelho — 62 anos\nDependente 1 — 60 anos\n\n📋 Dados contratuais:\n\n🎯 Rede preferencial: Barra D'Or\n\n🎯 Interesse: Barra D'or\n\n⚠️ Observação: Carlos Coelho\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Carlos Coelho\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99222-8440\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nCarlos Coelho — 62 anos\nDependente 1 — 60 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n🎯 Rede preferencial: Barra D'Or\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\n\n🎯 Interesse: Barra D'or\n\n⚠️ Observação: Carlos Coelho\n👤 Consultor: João\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
       },
-      "status": "quente",
+      "status": "desinteresse",
       "bot": "preto",
-      "consultor": "",
-      "message_count": 6,
+      "consultor": "João",
+      "message_count": 12,
       "first_message_at": "2026-04-22T00:00:00.000Z",
-      "last_message_at": "2026-04-22T11:00:42.620000Z",
-      "last_bot_msg_at": "2026-04-22T08:00:42.077758",
-      "tempo_sem_interacao": "3h",
+      "last_message_at": "2026-04-22T11:02:45.249000Z",
+      "last_bot_msg_at": "2026-04-22T08:02:44.817841",
+      "tempo_sem_interacao": "3h 13min",
       "first_id": 21367,
-      "last_id": 21372,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1547\nNome: Carlos Coelho\n\nMensagem(ns) do cliente:\nCarlos Coelho. ...",
+      "last_id": 21378,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1547\nNome: Carlos Coelho\n\nMensagem(ns) do cliente:\nNão possuo",
       "messages": [
         {
           "role": "user",
@@ -95,6 +95,36 @@
           "role": "ai",
           "content": "Ótimo, Carlos! Agora, preciso saber em qual cidade você busca atendimento. Se tiver algum hospital de sua preferência, isso também nos ajuda a encontrar um plano que atenda suas necessidades.",
           "msg_time": "2026-04-22T08:00:42.077758"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1547\nNome: Carlos Coelho\n\nMensagem(ns) do cliente:\nRio de Janeiro",
+          "msg_time": "2026-04-22T08:01:20.416555"
+        },
+        {
+          "role": "ai",
+          "content": "Perfeito, Carlos! Como o plano será contratado: por CNPJ (MEI ou LTDA) ou CPF? Se for CNPJ, você pode me informar o número?",
+          "msg_time": "2026-04-22T08:01:20.420221"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1547\nNome: Carlos Coelho\n\nMensagem(ns) do cliente:\nBarra d'or\n\nMEI",
+          "msg_time": "2026-04-22T08:01:54.142591"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Carlos! Agora, para finalizar: você já possui um plano de saúde atualmente? Se sim, qual é e quanto paga hoje? Isso me ajuda a entender melhor o que você busca.",
+          "msg_time": "2026-04-22T08:01:54.144395"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1547\nNome: Carlos Coelho\n\nMensagem(ns) do cliente:\nNão possuo",
+          "msg_time": "2026-04-22T08:02:44.815885"
+        },
+        {
+          "role": "ai",
+          "content": "Carlos, obrigada por todas as informações! Vou encaminhar seu contato para o João, nosso especialista, que vai te apresentar as melhores opções de plano para vocês duas em Rio de Janeiro. Ele vai te chamar aqui no WhatsApp em breve.",
+          "msg_time": "2026-04-22T08:02:44.817841"
         }
       ]
     },
@@ -140,7 +170,7 @@
       "first_message_at": "2026-04-22T00:00:00.000Z",
       "last_message_at": "2026-04-22T03:49:06.983000Z",
       "last_bot_msg_at": "2026-04-22T00:49:06.447118",
-      "tempo_sem_interacao": "10h 11min",
+      "tempo_sem_interacao": "10h 26min",
       "first_id": 21365,
       "last_id": 21366,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1546\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -206,7 +236,7 @@
       "first_message_at": "2026-04-21T00:00:00.000Z",
       "last_message_at": "2026-04-22T01:15:14.854000Z",
       "last_bot_msg_at": "2026-04-21T22:15:14.454661",
-      "tempo_sem_interacao": "12h 45min",
+      "tempo_sem_interacao": "13h",
       "first_id": 21341,
       "last_id": 21364,
       "last_message_preview": "Seis anos de contrato.",
@@ -322,7 +352,7 @@
       "first_message_at": "2026-04-21T00:00:00.000Z",
       "last_message_at": "2026-04-22T00:44:25.205000Z",
       "last_bot_msg_at": "2026-04-21T21:44:24.677371",
-      "tempo_sem_interacao": "13h 16min",
+      "tempo_sem_interacao": "13h 31min",
       "first_id": 21343,
       "last_id": 21354,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1545\nNome: Ronilfa Peres\n\nMensagem(ns) do cliente:\nnão tenho",
@@ -441,7 +471,7 @@
       "first_message_at": "2026-04-21T00:00:00.000Z",
       "last_message_at": "2026-04-21T18:14:45.186000Z",
       "last_bot_msg_at": "2026-04-21T15:14:44.774383",
-      "tempo_sem_interacao": "19h 46min",
+      "tempo_sem_interacao": "20h 1min",
       "first_id": 21324,
       "last_id": 21340,
       "last_message_preview": "Ok",
@@ -545,7 +575,7 @@
       "first_message_at": "2026-04-21T00:00:00.000Z",
       "last_message_at": "2026-04-21T20:19:13.298000Z",
       "last_bot_msg_at": "2026-04-21T17:19:12.8124",
-      "tempo_sem_interacao": "17h 41min",
+      "tempo_sem_interacao": "17h 56min",
       "first_id": 21334,
       "last_id": 21339,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1543\nNome: luto eterno 🥺💔🖤\n\nMensagem(ns) do cliente:\nOk",
@@ -16985,7 +17015,7 @@
       "first_message_at": "2026-01-31T00:00:00.000Z",
       "last_message_at": "2026-03-23T14:08:03.633000Z",
       "last_bot_msg_at": "2026-03-23T11:08:01.881567",
-      "tempo_sem_interacao": "29 dias",
+      "tempo_sem_interacao": "1 mês",
       "first_id": 11940,
       "last_id": 19940,
       "last_message_preview": "Formato de mensagem enviada nao suportado",
