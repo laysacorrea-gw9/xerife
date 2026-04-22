@@ -1,17 +1,123 @@
 {
   "meta": {
-    "generated_at": "2026-04-22T01:00:49.298Z",
+    "generated_at": "2026-04-22T01:15:47.886Z",
     "total_conversations": 200,
-    "total_messages": 3301,
+    "total_messages": 3309,
     "stats": {
       "quente": 0,
       "morno": 1,
-      "frio": 22,
-      "desinteresse": 177,
+      "frio": 21,
+      "desinteresse": 178,
       "sem_classificacao": 0
     }
   },
   "conversations": [
+    {
+      "session_id": "5521964980984@s.whatsapp.net",
+      "phone": "5521964980984",
+      "phone_display": "+55 21 96498-0984",
+      "lead": {
+        "baserow_id": 1544,
+        "nome": "Gentil Barreto Da Silva F",
+        "email": "",
+        "qtd_vidas": 2,
+        "desinteresse": true,
+        "observacoes": "Gentil Barreto Da Silva F",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Gentil Barreto Da Silva F",
+        "email": "",
+        "telefone": "+55 21 96498-0984",
+        "vidas": [
+          {
+            "idade": 69
+          },
+          {
+            "idade": 65
+          }
+        ],
+        "cidade": "",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "MEI",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "Encerramento do plano atual",
+        "interesse": "Sulamérica",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "Gentil Barreto Da Silva F",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Gentil Barreto Da Silva F\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96498-0984\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nGentil Barreto Da Silva F — 69 anos\nDependente 1 — 65 anos\n\n📋 Dados contratuais:\n\nContratação: CNPJ\nTipo: MEI\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\n\n🎯 Interesse: Sulamérica\n\n⚠️ Observação: Gentil Barreto Da Silva F\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "desinteresse",
+      "bot": "preto",
+      "consultor": "",
+      "message_count": 10,
+      "first_message_at": "2026-04-21T00:00:00.000Z",
+      "last_message_at": "2026-04-22T01:15:14.854000Z",
+      "last_bot_msg_at": "2026-04-21T22:15:14.454661",
+      "tempo_sem_interacao": "3h",
+      "first_id": 21341,
+      "last_id": 21362,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1544\nNome: Gentil Barreto Da Silva F\n\nMensagem(ns) do cliente:\nEu ...",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1544\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Sulamérica",
+          "msg_time": "2026-04-21T19:26:10.099484"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-04-21T19:26:10.103531"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1544\nNome: Gentil Barreto Da Silva F\n\nMensagem(ns) do cliente:\nPara duas pessoas.  69 e 65. Gentil Barreto.",
+          "msg_time": "2026-04-21T22:10:45.589154"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Gentil! Para sua cotação, preciso saber a cidade e estado onde você deseja utilizar o plano de saúde. Se tiver algum hospital de sua preferência, isso também pode nos ajudar a encontrar o melhor plano para você.",
+          "msg_time": "2026-04-21T22:10:45.593012"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1544\nNome: Gentil Barreto Da Silva F\n\nMensagem(ns) do cliente:\nRj. Rede dor.",
+          "msg_time": "2026-04-21T22:11:41.272707"
+        },
+        {
+          "role": "ai",
+          "content": "Perfeito, Gentil! Agora, como o plano será contratado: empresarial por CNPJ (MEI ou LTDA) ou CPF? Se for CNPJ, poderia me informar o número? Se não, só preciso saber se é MEI ou LTDA.",
+          "msg_time": "2026-04-21T22:11:41.274863"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1544\nNome: Gentil Barreto Da Silva F\n\nMensagem(ns) do cliente:\nCPF",
+          "msg_time": "2026-04-21T22:12:37.658187"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Gentil. E qual é a sua profissão? Essa informação é importante para identificar a melhor administradora para o seu plano de saúde.",
+          "msg_time": "2026-04-21T22:12:37.660971"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1544\nNome: Gentil Barreto Da Silva F\n\nMensagem(ns) do cliente:\nEu parei de trabalhar agora. E tinha o plano Sulamerica e foi cancelado agora pela empresa. Gostaria de continuar.",
+          "msg_time": "2026-04-21T22:15:14.450487"
+        },
+        {
+          "role": "ai",
+          "content": "Certo, Gentil! Para finalizar, você já possui o plano de saúde atualmente, mas era o Sulamérica, correto? Então, só para confirmar, qual era o valor que você pagava mensalmente? Isso nos ajudará a encontrar opções semelhantes.",
+          "msg_time": "2026-04-21T22:15:14.454661"
+        }
+      ]
+    },
     {
       "session_id": "5522998214923@s.whatsapp.net",
       "phone": "5522998214923",
@@ -61,7 +167,7 @@
       "first_message_at": "2026-04-21T00:00:00.000Z",
       "last_message_at": "2026-04-22T00:44:25.205000Z",
       "last_bot_msg_at": "2026-04-21T21:44:24.677371",
-      "tempo_sem_interacao": "3h 16min",
+      "tempo_sem_interacao": "3h 31min",
       "first_id": 21343,
       "last_id": 21354,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1545\nNome: Ronilfa Peres\n\nMensagem(ns) do cliente:\nnão tenho",
@@ -129,65 +235,6 @@
       ]
     },
     {
-      "session_id": "5521964980984@s.whatsapp.net",
-      "phone": "5521964980984",
-      "phone_display": "+55 21 96498-0984",
-      "lead": {
-        "baserow_id": 1544,
-        "nome": "Gentil Barreto Da Silva F",
-        "email": "",
-        "qtd_vidas": "",
-        "desinteresse": false,
-        "observacoes": "Gentil Barreto Da Silva F",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Gentil Barreto Da Silva F",
-        "email": "",
-        "telefone": "+55 21 96498-0984",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "Sulamérica",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "Gentil Barreto Da Silva F",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Gentil Barreto Da Silva F\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96498-0984\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: Sulamérica\n\n⚠️ Observação: Gentil Barreto Da Silva F\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "frio",
-      "bot": "preto",
-      "consultor": "",
-      "message_count": 2,
-      "first_message_at": "2026-04-21T00:00:00.000Z",
-      "last_message_at": "2026-04-21T22:26:10.616000Z",
-      "last_bot_msg_at": "2026-04-21T19:26:10.103531",
-      "tempo_sem_interacao": "5h 34min",
-      "first_id": 21341,
-      "last_id": 21342,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1544\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1544\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Sulamérica",
-          "msg_time": "2026-04-21T19:26:10.099484"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
-          "msg_time": "2026-04-21T19:26:10.103531"
-        }
-      ]
-    },
-    {
       "session_id": "5521995400301@s.whatsapp.net",
       "phone": "5521995400301",
       "phone_display": "+55 21 99540-0301",
@@ -239,7 +286,7 @@
       "first_message_at": "2026-04-21T00:00:00.000Z",
       "last_message_at": "2026-04-21T18:14:45.186000Z",
       "last_bot_msg_at": "2026-04-21T15:14:44.774383",
-      "tempo_sem_interacao": "9h 46min",
+      "tempo_sem_interacao": "10h 1min",
       "first_id": 21324,
       "last_id": 21340,
       "last_message_preview": "Ok",
@@ -343,7 +390,7 @@
       "first_message_at": "2026-04-21T00:00:00.000Z",
       "last_message_at": "2026-04-21T20:19:13.298000Z",
       "last_bot_msg_at": "2026-04-21T17:19:12.8124",
-      "tempo_sem_interacao": "7h 41min",
+      "tempo_sem_interacao": "7h 56min",
       "first_id": 21334,
       "last_id": 21339,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1543\nNome: luto eterno 🥺💔🖤\n\nMensagem(ns) do cliente:\nOk",
@@ -7798,7 +7845,7 @@
       "first_message_at": "2026-04-10T00:00:00.000Z",
       "last_message_at": "2026-04-10T04:03:34.672000Z",
       "last_bot_msg_at": "2026-04-10T01:03:34.21387",
-      "tempo_sem_interacao": "11 dias",
+      "tempo_sem_interacao": "12 dias",
       "first_id": 20767,
       "last_id": 20768,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1484\nNome: \n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação...",
