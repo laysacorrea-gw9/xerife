@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-04-23T14:15:56.187Z",
+    "generated_at": "2026-04-23T14:30:48.868Z",
     "total_conversations": 200,
-    "total_messages": 3345,
+    "total_messages": 3351,
     "stats": {
       "quente": 0,
-      "morno": 5,
+      "morno": 4,
       "frio": 23,
-      "desinteresse": 172,
+      "desinteresse": 173,
       "sem_classificacao": 0
     }
   },
@@ -32,32 +32,32 @@
         "email": "",
         "telefone": "+55 21 99986-3720",
         "vidas": [],
-        "cidade": "",
-        "contratacao": "",
+        "cidade": "Rio de Janeiro / RJ",
+        "contratacao": "CNPJ",
         "cnpj": "",
-        "tipo_empresa": "",
+        "tipo_empresa": "MEI",
         "profissao": "",
         "plano_atual": "Unimed omega plus particular",
-        "motivo": "",
+        "motivo": "Encerramento do plano atual",
         "interesse": "",
         "rede_preferencial": "",
         "contato": "WhatsApp",
         "consultor": "",
         "obs_crm": "Alcy Jaccoud",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Alcy Jaccoud\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99986-3720\n\n📋 Dados contratuais:\n\n\n🏥 Plano atual: Unimed omega plus particular\n\n⚠️ Observação: Alcy Jaccoud\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Alcy Jaccoud\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99986-3720\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n🏥 Plano atual: Unimed omega plus particular\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\n\n⚠️ Observação: Alcy Jaccoud\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
       },
       "status": "morno",
       "bot": "preto",
       "consultor": "",
-      "message_count": 4,
+      "message_count": 8,
       "first_message_at": "2026-04-23T00:00:00.000Z",
-      "last_message_at": "2026-04-23T14:15:43.952000Z",
-      "last_bot_msg_at": "2026-04-23T11:15:43.410638",
-      "tempo_sem_interacao": "3h",
+      "last_message_at": "2026-04-23T14:23:42.734000Z",
+      "last_bot_msg_at": "2026-04-23T11:23:42.168341",
+      "tempo_sem_interacao": "3h 7min",
       "first_id": 21449,
-      "last_id": 21460,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1554\nNome: Alcy Jaccoud\n\nMensagem(ns) do cliente:\n3pessoas,59  80e...",
+      "last_id": 21466,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1554\nNome: Alcy Jaccoud\n\nMensagem(ns) do cliente:\nC N P J -LTDA",
       "messages": [
         {
           "role": "user",
@@ -78,6 +78,26 @@
           "role": "ai",
           "content": "Entendi, Alcy! Para encontrar as melhores opções para você, preciso saber a cidade onde você busca atendimento. Além disso, se tiver algum hospital de sua preferência, pode compartilhar isso também? Isso ajuda a encontrar um plano que atenda adequadamente suas necessidades.",
           "msg_time": "2026-04-23T11:15:43.410638"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1554\nNome: Alcy Jaccoud\n\nMensagem(ns) do cliente:\nRio de Janeiro,Barra e o hospital mais próximo e o da Unimed na Barra",
+          "msg_time": "2026-04-23T11:18:01.795501"
+        },
+        {
+          "role": "ai",
+          "content": "Ótimo, Alcy! Agora, preciso saber como o plano será contratado: será empresarial por CNPJ (MEI ou LTDA) ou pessoal por CPF? Se tiver o número do CNPJ, pode me informar? Se não, sem problema, só preciso saber se é MEI ou LTDA.",
+          "msg_time": "2026-04-23T11:18:01.806724"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1554\nNome: Alcy Jaccoud\n\nMensagem(ns) do cliente:\nC N P J -LTDA",
+          "msg_time": "2026-04-23T11:23:42.164964"
+        },
+        {
+          "role": "ai",
+          "content": "Perfeito, Alcy! Para finalizar, você já possui plano de saúde atualmente? Se sim, qual e quanto paga hoje? Isso nos ajuda a entender melhor o que pode funcionar para você.",
+          "msg_time": "2026-04-23T11:23:42.168341"
         }
       ]
     },
@@ -90,11 +110,11 @@
         "nome": "Henrique",
         "email": "",
         "qtd_vidas": 2,
-        "desinteresse": false,
+        "desinteresse": true,
         "observacoes": "Henrique",
         "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
+        "corretor": "Isis",
+        "temperatura": "Quente"
       },
       "summary": {
         "nome": "Henrique",
@@ -118,22 +138,22 @@
         "interesse": "",
         "rede_preferencial": "",
         "contato": "WhatsApp",
-        "consultor": "",
+        "consultor": "Isis",
         "obs_crm": "Henrique",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Henrique\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97612-6556\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nHenrique — 65 anos\nDependente 1 — 40 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 42.830.340/0001-90\nTipo: MEI\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\n\n⚠️ Observação: Henrique\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Henrique\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97612-6556\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nHenrique — 65 anos\nDependente 1 — 40 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 42.830.340/0001-90\nTipo: MEI\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\n\n⚠️ Observação: Henrique\n👤 Consultor: Isis\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
       },
-      "status": "morno",
+      "status": "desinteresse",
       "bot": "preto",
-      "consultor": "",
-      "message_count": 8,
+      "consultor": "Isis",
+      "message_count": 10,
       "first_message_at": "2026-04-23T00:00:00.000Z",
-      "last_message_at": "2026-04-23T14:15:19.157000Z",
-      "last_bot_msg_at": "2026-04-23T11:15:18.151435",
-      "tempo_sem_interacao": "3h",
+      "last_message_at": "2026-04-23T14:16:13.651000Z",
+      "last_bot_msg_at": "2026-04-23T11:16:12.79531",
+      "tempo_sem_interacao": "3h 14min",
       "first_id": 21451,
-      "last_id": 21458,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1555\nNome: Henrique\n\nMensagem(ns) do cliente:\n42.830.340 0001 90",
+      "last_id": 21462,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1555\nNome: Henrique\n\nMensagem(ns) do cliente:\nSim\n\n4100",
       "messages": [
         {
           "role": "user",
@@ -174,6 +194,16 @@
           "role": "ai",
           "content": "Entendi, Henrique, o plano será contratado por meio do CNPJ 42.830.340/0001-90. Para finalizar, você já possui um plano de saúde atualmente? Se sim, qual é e quanto paga por ele? Isso vai nos ajudar a encontrar as melhores opções para você.",
           "msg_time": "2026-04-23T11:15:18.151435"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1555\nNome: Henrique\n\nMensagem(ns) do cliente:\nSim\n\n4100",
+          "msg_time": "2026-04-23T11:16:12.789757"
+        },
+        {
+          "role": "ai",
+          "content": "Henrique, obrigada por todas as informações! Vou encaminhar seu contato para a Isis, nossa especialista, que vai te apresentar as melhores opções de plano para vocês duas em Rio de Janeiro. Ela vai te chamar aqui no WhatsApp em breve!",
+          "msg_time": "2026-04-23T11:16:12.79531"
         }
       ]
     },
@@ -219,7 +249,7 @@
       "first_message_at": "2026-04-23T00:00:00.000Z",
       "last_message_at": "2026-04-23T09:36:50.159000Z",
       "last_bot_msg_at": "2026-04-23T06:36:45.43319",
-      "tempo_sem_interacao": "7h 39min",
+      "tempo_sem_interacao": "7h 54min",
       "first_id": 21447,
       "last_id": 21448,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1553\nNome: Looh 🌷\n\nMensagem(ns) do cliente:\nBom dia!\nDesculpe o h...",
@@ -291,7 +321,7 @@
       "first_message_at": "2026-04-22T00:00:00.000Z",
       "last_message_at": "2026-04-23T01:57:19.623000Z",
       "last_bot_msg_at": "2026-04-22T22:57:19.248811",
-      "tempo_sem_interacao": "15h 18min",
+      "tempo_sem_interacao": "15h 33min",
       "first_id": 21443,
       "last_id": 21446,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1552\nNome: Jéssica Costa\n\nMensagem(ns) do cliente:\nOi, meu nome é ...",
@@ -666,7 +696,7 @@
       "first_message_at": "2026-04-22T00:00:00.000Z",
       "last_message_at": "2026-04-22T18:41:42.255000Z",
       "last_bot_msg_at": "2026-04-22T15:41:41.708246",
-      "tempo_sem_interacao": "22h 34min",
+      "tempo_sem_interacao": "22h 49min",
       "first_id": 21430,
       "last_id": 21441,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1551\nNome: Jose Luiz Arantes de Abre\n\nMensagem(ns) do cliente:\nnão...",
@@ -782,7 +812,7 @@
       "first_message_at": "2026-04-22T00:00:00.000Z",
       "last_message_at": "2026-04-22T17:57:48.929000Z",
       "last_bot_msg_at": "2026-04-22T14:57:48.47531",
-      "tempo_sem_interacao": "23h 18min",
+      "tempo_sem_interacao": "23h 33min",
       "first_id": 21408,
       "last_id": 21429,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1550\nNome: Cris Bastos 🌻\n\nMensagem(ns) do cliente:\nUnimed",
