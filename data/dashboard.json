@@ -1,17 +1,109 @@
 {
   "meta": {
-    "generated_at": "2026-04-24T12:15:49.520Z",
+    "generated_at": "2026-04-24T12:30:49.760Z",
     "total_conversations": 200,
-    "total_messages": 3356,
+    "total_messages": 3347,
     "stats": {
-      "quente": 0,
+      "quente": 1,
       "morno": 3,
       "frio": 23,
-      "desinteresse": 174,
+      "desinteresse": 173,
       "sem_classificacao": 0
     }
   },
   "conversations": [
+    {
+      "session_id": "5521964634567@s.whatsapp.net",
+      "phone": "5521964634567",
+      "phone_display": "+55 21 96463-4567",
+      "lead": {
+        "baserow_id": 1561,
+        "nome": ".",
+        "email": "",
+        "qtd_vidas": 4,
+        "desinteresse": false,
+        "observacoes": ".",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": ".",
+        "email": "",
+        "telefone": "+55 21 96463-4567",
+        "vidas": [
+          {
+            "idade": 11
+          },
+          {
+            "idade": 14
+          },
+          {
+            "idade": 34
+          },
+          {
+            "idade": 45
+          }
+        ],
+        "cidade": "",
+        "contratacao": "",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "Amil",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "Anderson",
+        "obs_crm": ".",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: .\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96463-4567\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\n. — 11 anos\nDependente 1 — 14 anos\nDependente 2 — 34 anos\nDependente 3 — 45 anos\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: Amil\n\n⚠️ Observação: .\n👤 Consultor: Anderson\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "quente",
+      "bot": "preto",
+      "consultor": "Anderson",
+      "message_count": 6,
+      "first_message_at": "2026-04-24T00:00:00.000Z",
+      "last_message_at": "2026-04-24T12:30:26.556000Z",
+      "last_bot_msg_at": "2026-04-24T09:30:25.891305",
+      "tempo_sem_interacao": "3h",
+      "first_id": 21525,
+      "last_id": 21530,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1561\nNome: .\n\nMensagem(ns) do cliente:\n11\n14\n34\n45",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1561\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Amil",
+          "msg_time": "2026-04-24T09:27:30.490765"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-04-24T09:27:30.494752"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1561\nNome: .\n\nMensagem(ns) do cliente:\nAnderson \n4 pessoas.   Idade 11 á 45",
+          "msg_time": "2026-04-24T09:29:28.684373"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Anderson! Para as quatro pessoas, você mencionou uma idade de 11 anos e outra de 45 anos. Poderia me informar as idades das outras duas pessoas? Isso é importante para calcularmos as melhores opções de plano.",
+          "msg_time": "2026-04-24T09:29:28.686575"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1561\nNome: .\n\nMensagem(ns) do cliente:\n11\n14\n34\n45",
+          "msg_time": "2026-04-24T09:30:25.885654"
+        },
+        {
+          "role": "ai",
+          "content": "Perfeito! Agora tenho as idades: 11, 14, 34 e 45 anos. \n\nQual é a cidade onde você busca atendimento? Se tiver algum hospital de sua preferência, isso também nos ajuda a encontrar o plano ideal para vocês.",
+          "msg_time": "2026-04-24T09:30:25.891305"
+        }
+      ]
+    },
     {
       "session_id": "5521970209110@s.whatsapp.net",
       "phone": "5521970209110",
@@ -61,7 +153,7 @@
       "first_message_at": "2026-04-23T00:00:00.000Z",
       "last_message_at": "2026-04-24T12:06:34.235000Z",
       "last_bot_msg_at": "2026-04-24T09:06:33.726678",
-      "tempo_sem_interacao": "3h 9min",
+      "tempo_sem_interacao": "3h 24min",
       "first_id": 21513,
       "last_id": 21524,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1560\nNome: Valesca Silva\n\nMensagem(ns) do cliente:\n2.000 e pouco",
@@ -180,7 +272,7 @@
       "first_message_at": "2026-04-23T00:00:00.000Z",
       "last_message_at": "2026-04-23T23:01:32.313000Z",
       "last_bot_msg_at": "2026-04-23T20:01:31.83561",
-      "tempo_sem_interacao": "16h 14min",
+      "tempo_sem_interacao": "16h 29min",
       "first_id": 21500,
       "last_id": 21512,
       "last_message_preview": "Ok",
@@ -294,7 +386,7 @@
       "first_message_at": "2026-04-23T00:00:00.000Z",
       "last_message_at": "2026-04-23T21:06:20.002000Z",
       "last_bot_msg_at": "2026-04-23T18:06:19.544529",
-      "tempo_sem_interacao": "18h 9min",
+      "tempo_sem_interacao": "18h 24min",
       "first_id": 21498,
       "last_id": 21499,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1558\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -353,7 +445,7 @@
       "first_message_at": "2026-04-23T00:00:00.000Z",
       "last_message_at": "2026-04-23T17:15:53.573000Z",
       "last_bot_msg_at": "2026-04-23T14:15:52.798636",
-      "tempo_sem_interacao": "21h 59min",
+      "tempo_sem_interacao": "22h 14min",
       "first_id": 21472,
       "last_id": 21497,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1557\nNome: Danieles Souza\n\nMensagem(ns) do cliente:\nNão",
@@ -479,7 +571,7 @@
       "first_message_at": "2026-04-23T00:00:00.000Z",
       "last_message_at": "2026-04-23T16:57:48.020000Z",
       "last_bot_msg_at": "2026-04-23T13:57:47.558233",
-      "tempo_sem_interacao": "22h 18min",
+      "tempo_sem_interacao": "22h 33min",
       "first_id": 21474,
       "last_id": 21485,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1556\nNome: Rangel Consultoria Jurídica\n\nMensagem(ns) do cliente:\nP...",
@@ -19881,137 +19973,6 @@
           "role": "ai",
           "content": "Thais, obrigada por todas as informações! Vou encaminhar seu contato para o Elisa, nosso especialista, que vai te apresentar as melhores opções de plano para vocês em Rio de Janeiro. Ele vai te chamar aqui no WhatsApp em breve.",
           "msg_time": "2026-03-22T17:17:34.609389"
-        }
-      ]
-    },
-    {
-      "session_id": "5521987393940@s.whatsapp.net",
-      "phone": "5521987393940",
-      "phone_display": "+55 21 98739-3940",
-      "lead": {
-        "baserow_id": 1316,
-        "nome": "Thayane",
-        "email": "",
-        "qtd_vidas": 2,
-        "desinteresse": true,
-        "observacoes": "Thaay ✌️😘",
-        "reagendamento": null,
-        "corretor": "João",
-        "temperatura": "Quente"
-      },
-      "summary": {
-        "nome": "Thayane",
-        "email": "",
-        "telefone": "+55 21 98739-3940",
-        "vidas": [
-          {
-            "idade": 27
-          },
-          {
-            "idade": 1
-          }
-        ],
-        "cidade": "",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "MEI",
-        "profissao": "do Lar",
-        "plano_atual": "",
-        "motivo": "Encerramento do plano atual",
-        "interesse": "Barra D'or",
-        "rede_preferencial": "Barra D'Or, Oeste D'Or",
-        "contato": "WhatsApp",
-        "consultor": "João",
-        "obs_crm": "Thaay ✌️😘",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Thayane\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98739-3940\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nThayane — 27 anos\nDependente 1 — 1 anos\n\n📋 Dados contratuais:\n\nContratação: CNPJ\nTipo: MEI\nProfissão: do Lar\n🎯 Rede preferencial: Barra D'Or, Oeste D'Or\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\n\n🎯 Interesse: Barra D'or\n\n⚠️ Observação: Thaay ✌️😘\n👤 Consultor: João\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "desinteresse",
-      "bot": "preto",
-      "consultor": "João",
-      "message_count": 15,
-      "first_message_at": "2026-03-22T00:00:00.000Z",
-      "last_message_at": "2026-03-22T20:16:02.831000Z",
-      "last_bot_msg_at": "2026-03-22T17:16:01.015059",
-      "tempo_sem_interacao": "1 mês",
-      "first_id": 19836,
-      "last_id": 19860,
-      "last_message_preview": "Ok! Obrigada pela assistência!",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1316\nNome: \n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação de um plano de saúde Barra D'or",
-          "msg_time": "2026-03-22T16:40:34.611733"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
-          "msg_time": "2026-03-22T16:40:34.614255"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1316\nNome: Thaay ✌️😘\n\nMensagem(ns) do cliente:\nThayane\n\n3 pessoas",
-          "msg_time": "2026-03-22T17:02:39.030713"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Thayane! Para sua família então, preciso saber as idades de cada um. Quais são as idades das 3 pessoas?",
-          "msg_time": "2026-03-22T17:02:39.032647"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1316\nNome: Thaay ✌️😘\n\nMensagem(ns) do cliente:\nEu (mãe): 27 anos\n1 menina: 8 anos\n1 bebê: 2 anos",
-          "msg_time": "2026-03-22T17:06:21.3061"
-        },
-        {
-          "role": "ai",
-          "content": "Ótimo, Thayane! E qual é a cidade onde você busca atendimento e se há algum hospital de sua preferência? Isso nos ajuda a encontrar um plano que atenda melhor vocês.",
-          "msg_time": "2026-03-22T17:06:21.308261"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1316\nNome: Thaay ✌️😘\n\nMensagem(ns) do cliente:\nOeste D'or Campo Grande\n\n<ContextoImagem>\n\n  <DetalheImagem>\n\n  </DetalheImagem>\n\nContexto Extra: O usuário encaminhou a mensagem a seguir junto á imagem.\n  <MensagemUsuario>\n\n  </MensagemUsuario>\n\n</ContextoImagem>",
-          "msg_time": "2026-03-22T17:09:57.689546"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Thayane! Agora, como o plano será contratado: empresarial por CNPJ (MEI ou LTDA) ou CPF? Если fornecer o CNPJ, isso pode ajudar a encontrar melhores opções.",
-          "msg_time": "2026-03-22T17:09:57.691011"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1316\nNome: Thaay ✌️😘\n\nMensagem(ns) do cliente:\nPor meio do CPF",
-          "msg_time": "2026-03-22T17:11:29.531579"
-        },
-        {
-          "role": "ai",
-          "content": "Certo, Thayane! E qual a sua profissão? Essa informação é importante para identificar a melhor administradora para o seu plano.",
-          "msg_time": "2026-03-22T17:11:29.535397"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1316\nNome: Thaay ✌️😘\n\nMensagem(ns) do cliente:\nEu sou do Lar, mas meu companheiro trabalha em construção civil",
-          "msg_time": "2026-03-22T17:14:42.880725"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Thayane! Para finalizar, você já possui um plano de saúde atualmente? Se sim, qual é e quanto paga? Isso vai nos ajudar a encontrar o melhor equilíbrio entre custo e acesso.",
-          "msg_time": "2026-03-22T17:14:42.882361"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1316\nNome: Thaay ✌️😘\n\nMensagem(ns) do cliente:\nNão tenho nenhum plano atualmente\n\nPrimeira vez que contrato um plano de saúde",
-          "msg_time": "2026-03-22T17:16:01.009813"
-        },
-        {
-          "role": "ai",
-          "content": "Thayane, obrigada por todas as informações! Vou encaminhar seu contato para o João, nosso especialista, que vai te apresentar as melhores opções de plano para vocês em Oeste D'or Campo Grande. Ele vai te chamar aqui no WhatsApp em breve.",
-          "msg_time": "2026-03-22T17:16:01.015059"
-        },
-        {
-          "role": "user",
-          "content": "Ok! Obrigada pela assistência!",
-          "msg_time": "2026-03-22T17:17:03.782309"
         }
       ]
     }
