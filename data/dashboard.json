@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-04-24T13:15:49.746Z",
+    "generated_at": "2026-04-24T13:30:49.788Z",
     "total_conversations": 200,
-    "total_messages": 3349,
+    "total_messages": 3351,
     "stats": {
-      "quente": 2,
+      "quente": 1,
       "morno": 2,
       "frio": 24,
-      "desinteresse": 172,
+      "desinteresse": 173,
       "sem_classificacao": 0
     }
   },
@@ -21,11 +21,11 @@
         "nome": "Martins/E/Roberta/MeuAmor",
         "email": "",
         "qtd_vidas": 2,
-        "desinteresse": false,
+        "desinteresse": true,
         "observacoes": "Martins/E/Roberta/MeuAmor",
         "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
+        "corretor": "João",
+        "temperatura": "Quente"
       },
       "summary": {
         "nome": "Martins/E/Roberta/MeuAmor",
@@ -49,22 +49,22 @@
         "interesse": "Sulamérica",
         "rede_preferencial": "",
         "contato": "WhatsApp",
-        "consultor": "",
+        "consultor": "João",
         "obs_crm": "Martins/E/Roberta/MeuAmor",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Martins/E/Roberta/MeuAmor\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97999-5200\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nMartins/E/Roberta/MeuAmor — 80 anos\nDependente 1 — 51 anos\n\n📋 Dados contratuais:\n\nContratação: CNPJ\nTipo: MEI\n\n🎯 Interesse: Sulamérica\n\n⚠️ Observação: Martins/E/Roberta/MeuAmor\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Martins/E/Roberta/MeuAmor\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97999-5200\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nMartins/E/Roberta/MeuAmor — 80 anos\nDependente 1 — 51 anos\n\n📋 Dados contratuais:\n\nContratação: CNPJ\nTipo: MEI\n\n🎯 Interesse: Sulamérica\n\n⚠️ Observação: Martins/E/Roberta/MeuAmor\n👤 Consultor: João\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
       },
-      "status": "quente",
+      "status": "desinteresse",
       "bot": "preto",
-      "consultor": "",
-      "message_count": 10,
+      "consultor": "João",
+      "message_count": 12,
       "first_message_at": "2026-04-24T00:00:00.000Z",
-      "last_message_at": "2026-04-24T13:11:45.598000Z",
-      "last_bot_msg_at": "2026-04-24T10:11:45.086617",
-      "tempo_sem_interacao": "3h 4min",
+      "last_message_at": "2026-04-24T13:17:10.868000Z",
+      "last_bot_msg_at": "2026-04-24T10:17:10.197615",
+      "tempo_sem_interacao": "3h 13min",
       "first_id": 21533,
-      "last_id": 21542,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1562\nNome: Martins/E/Roberta/MeuAmor\n\nMensagem(ns) do cliente:\nEu ...",
+      "last_id": 21544,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1562\nNome: Martins/E/Roberta/MeuAmor\n\nMensagem(ns) do cliente:\nEla...",
       "messages": [
         {
           "role": "user",
@@ -115,6 +115,16 @@
           "role": "ai",
           "content": "Entendi, Armando! Então, você e sua esposa estão aposentados e seu filho não trabalha. Isso é importante para identificarmos a melhor opção. Agora, você já possui plano de saúde atualmente? Se sim, qual é e quanto paga hoje?",
           "msg_time": "2026-04-24T10:11:45.086617"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1562\nNome: Martins/E/Roberta/MeuAmor\n\nMensagem(ns) do cliente:\nEla e ele tem plano da Geap e eu da Med senior",
+          "msg_time": "2026-04-24T10:17:10.191451"
+        },
+        {
+          "role": "ai",
+          "content": "Armando, obrigada por todas as informações! Vou encaminhar seu contato para o João, nosso especialista, que vai te apresentar as melhores opções de plano para vocês, que são 3 vidas. Ele vai te chamar aqui no WhatsApp em breve.",
+          "msg_time": "2026-04-24T10:17:10.197615"
         }
       ]
     },
@@ -173,7 +183,7 @@
       "first_message_at": "2026-04-24T00:00:00.000Z",
       "last_message_at": "2026-04-24T12:31:39.659000Z",
       "last_bot_msg_at": "2026-04-24T09:31:39.003619",
-      "tempo_sem_interacao": "3h 44min",
+      "tempo_sem_interacao": "3h 59min",
       "first_id": 21525,
       "last_id": 21532,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1561\nNome: .\n\nMensagem(ns) do cliente:\nSão Gonçalo Rio de Janeiro",
@@ -269,7 +279,7 @@
       "first_message_at": "2026-04-23T00:00:00.000Z",
       "last_message_at": "2026-04-24T12:06:34.235000Z",
       "last_bot_msg_at": "2026-04-24T09:06:33.726678",
-      "tempo_sem_interacao": "4h 9min",
+      "tempo_sem_interacao": "4h 24min",
       "first_id": 21513,
       "last_id": 21524,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1560\nNome: Valesca Silva\n\nMensagem(ns) do cliente:\n2.000 e pouco",
@@ -388,7 +398,7 @@
       "first_message_at": "2026-04-23T00:00:00.000Z",
       "last_message_at": "2026-04-23T23:01:32.313000Z",
       "last_bot_msg_at": "2026-04-23T20:01:31.83561",
-      "tempo_sem_interacao": "17h 14min",
+      "tempo_sem_interacao": "17h 29min",
       "first_id": 21500,
       "last_id": 21512,
       "last_message_preview": "Ok",
@@ -502,7 +512,7 @@
       "first_message_at": "2026-04-23T00:00:00.000Z",
       "last_message_at": "2026-04-23T21:06:20.002000Z",
       "last_bot_msg_at": "2026-04-23T18:06:19.544529",
-      "tempo_sem_interacao": "19h 9min",
+      "tempo_sem_interacao": "19h 24min",
       "first_id": 21498,
       "last_id": 21499,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1558\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -561,7 +571,7 @@
       "first_message_at": "2026-04-23T00:00:00.000Z",
       "last_message_at": "2026-04-23T17:15:53.573000Z",
       "last_bot_msg_at": "2026-04-23T14:15:52.798636",
-      "tempo_sem_interacao": "22h 59min",
+      "tempo_sem_interacao": "23h 14min",
       "first_id": 21472,
       "last_id": 21497,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1557\nNome: Danieles Souza\n\nMensagem(ns) do cliente:\nNão",
@@ -687,7 +697,7 @@
       "first_message_at": "2026-04-23T00:00:00.000Z",
       "last_message_at": "2026-04-23T16:57:48.020000Z",
       "last_bot_msg_at": "2026-04-23T13:57:47.558233",
-      "tempo_sem_interacao": "23h 18min",
+      "tempo_sem_interacao": "23h 33min",
       "first_id": 21474,
       "last_id": 21485,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1556\nNome: Rangel Consultoria Jurídica\n\nMensagem(ns) do cliente:\nP...",
@@ -1745,7 +1755,7 @@
       "first_message_at": "2026-04-22T00:00:00.000Z",
       "last_message_at": "2026-04-22T16:22:58.098000Z",
       "last_bot_msg_at": "2026-04-22T13:22:57.671094",
-      "tempo_sem_interacao": "1 dia",
+      "tempo_sem_interacao": "2 dias",
       "first_id": 21398,
       "last_id": 21407,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1549\nNome: Wilkinson Santos\n\nMensagem(ns) do cliente:\nNão",
