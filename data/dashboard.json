@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-04-24T14:45:49.769Z",
+    "generated_at": "2026-04-24T15:00:48.966Z",
     "total_conversations": 200,
-    "total_messages": 3343,
+    "total_messages": 3345,
     "stats": {
       "quente": 1,
-      "morno": 3,
+      "morno": 2,
       "frio": 24,
-      "desinteresse": 172,
+      "desinteresse": 173,
       "sem_classificacao": 0
     }
   },
@@ -20,18 +20,25 @@
         "baserow_id": 1563,
         "nome": "PEDRO VANDERLEI DA ROCHA",
         "email": "",
-        "qtd_vidas": "",
-        "desinteresse": false,
+        "qtd_vidas": 2,
+        "desinteresse": true,
         "observacoes": "PEDRO VANDERLEI DA ROCHA",
         "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
+        "corretor": "Elisa",
+        "temperatura": "Quente"
       },
       "summary": {
         "nome": "PEDRO VANDERLEI DA ROCHA",
         "email": "",
         "telefone": "+55 21 98127-7781",
-        "vidas": [],
+        "vidas": [
+          {
+            "idade": 84
+          },
+          {
+            "idade": 77
+          }
+        ],
         "cidade": "",
         "contratacao": "",
         "cnpj": "",
@@ -42,22 +49,22 @@
         "interesse": "AmilSim",
         "rede_preferencial": "",
         "contato": "WhatsApp",
-        "consultor": "",
+        "consultor": "Elisa",
         "obs_crm": "PEDRO VANDERLEI DA ROCHA",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: PEDRO VANDERLEI DA ROCHA\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98127-7781\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: AmilSim\n\n⚠️ Observação: PEDRO VANDERLEI DA ROCHA\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: PEDRO VANDERLEI DA ROCHA\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98127-7781\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nPEDRO VANDERLEI DA ROCHA — 84 anos\nDependente 1 — 77 anos\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: AmilSim\n\n⚠️ Observação: PEDRO VANDERLEI DA ROCHA\n👤 Consultor: Elisa\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
       },
-      "status": "morno",
+      "status": "desinteresse",
       "bot": "preto",
-      "consultor": "",
-      "message_count": 4,
+      "consultor": "Elisa",
+      "message_count": 6,
       "first_message_at": "2026-04-24T00:00:00.000Z",
-      "last_message_at": "2026-04-24T14:45:45.547000Z",
-      "last_bot_msg_at": "2026-04-24T11:45:44.515477",
-      "tempo_sem_interacao": "3h",
+      "last_message_at": "2026-04-24T14:48:07.700000Z",
+      "last_bot_msg_at": "2026-04-24T11:48:06.965008",
+      "tempo_sem_interacao": "3h 12min",
       "first_id": 21545,
-      "last_id": 21548,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1563\nNome: PEDRO VANDERLEI DA ROCHA\n\nMensagem(ns) do cliente:\nPara...",
+      "last_id": 21550,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1563\nNome: PEDRO VANDERLEI DA ROCHA\n\nMensagem(ns) do cliente:\n2 vi...",
       "messages": [
         {
           "role": "user",
@@ -78,6 +85,16 @@
           "role": "ai",
           "content": "Entendi, Pedro! Então, é para um plano empresarial. Quantas pessoas estão nessa contratação e quais são as idades delas? Isso é importante para buscar as melhores opções pra você.",
           "msg_time": "2026-04-24T11:45:44.515477"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1563\nNome: PEDRO VANDERLEI DA ROCHA\n\nMensagem(ns) do cliente:\n2 vidas. 84 e 77 anos.",
+          "msg_time": "2026-04-24T11:48:06.96183"
+        },
+        {
+          "role": "ai",
+          "content": "Pedro, obrigada por todas as informações! Vou encaminhar seu contato para o Elisa, nosso especialista, que vai te apresentar as melhores opções de plano para vocês, 2 vidas em plano empresarial. Ele vai te chamar aqui no WhatsApp em breve.",
+          "msg_time": "2026-04-24T11:48:06.965008"
         }
       ]
     },
@@ -130,7 +147,7 @@
       "first_message_at": "2026-04-24T00:00:00.000Z",
       "last_message_at": "2026-04-24T13:17:10.868000Z",
       "last_bot_msg_at": "2026-04-24T10:17:10.197615",
-      "tempo_sem_interacao": "4h 28min",
+      "tempo_sem_interacao": "4h 43min",
       "first_id": 21533,
       "last_id": 21544,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1562\nNome: Martins/E/Roberta/MeuAmor\n\nMensagem(ns) do cliente:\nEla...",
@@ -252,7 +269,7 @@
       "first_message_at": "2026-04-24T00:00:00.000Z",
       "last_message_at": "2026-04-24T12:31:39.659000Z",
       "last_bot_msg_at": "2026-04-24T09:31:39.003619",
-      "tempo_sem_interacao": "5h 14min",
+      "tempo_sem_interacao": "5h 29min",
       "first_id": 21525,
       "last_id": 21532,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1561\nNome: .\n\nMensagem(ns) do cliente:\nSão Gonçalo Rio de Janeiro",
@@ -348,7 +365,7 @@
       "first_message_at": "2026-04-23T00:00:00.000Z",
       "last_message_at": "2026-04-24T12:06:34.235000Z",
       "last_bot_msg_at": "2026-04-24T09:06:33.726678",
-      "tempo_sem_interacao": "5h 39min",
+      "tempo_sem_interacao": "5h 54min",
       "first_id": 21513,
       "last_id": 21524,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1560\nNome: Valesca Silva\n\nMensagem(ns) do cliente:\n2.000 e pouco",
@@ -467,7 +484,7 @@
       "first_message_at": "2026-04-23T00:00:00.000Z",
       "last_message_at": "2026-04-23T23:01:32.313000Z",
       "last_bot_msg_at": "2026-04-23T20:01:31.83561",
-      "tempo_sem_interacao": "18h 44min",
+      "tempo_sem_interacao": "18h 59min",
       "first_id": 21500,
       "last_id": 21512,
       "last_message_preview": "Ok",
@@ -581,7 +598,7 @@
       "first_message_at": "2026-04-23T00:00:00.000Z",
       "last_message_at": "2026-04-23T21:06:20.002000Z",
       "last_bot_msg_at": "2026-04-23T18:06:19.544529",
-      "tempo_sem_interacao": "20h 39min",
+      "tempo_sem_interacao": "20h 54min",
       "first_id": 21498,
       "last_id": 21499,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1558\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -1658,7 +1675,7 @@
       "first_message_at": "2026-04-22T00:00:00.000Z",
       "last_message_at": "2026-04-22T17:57:48.929000Z",
       "last_bot_msg_at": "2026-04-22T14:57:48.47531",
-      "tempo_sem_interacao": "1 dia",
+      "tempo_sem_interacao": "2 dias",
       "first_id": 21408,
       "last_id": 21429,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1550\nNome: Cris Bastos 🌻\n\nMensagem(ns) do cliente:\nUnimed",
@@ -2135,7 +2152,7 @@
       "first_message_at": "2026-04-14T00:00:00.000Z",
       "last_message_at": "2026-04-15T17:54:03.809000Z",
       "last_bot_msg_at": "2026-04-15T14:53:56.040229",
-      "tempo_sem_interacao": "8 dias",
+      "tempo_sem_interacao": "9 dias",
       "first_id": 20982,
       "last_id": 21395,
       "last_message_preview": "Se aceitar ótimo",
