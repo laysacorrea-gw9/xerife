@@ -1,17 +1,93 @@
 {
   "meta": {
-    "generated_at": "2026-04-25T13:30:48.292Z",
+    "generated_at": "2026-04-25T13:45:47.683Z",
     "total_conversations": 200,
-    "total_messages": 3368,
+    "total_messages": 3369,
     "stats": {
-      "quente": 1,
+      "quente": 2,
       "morno": 1,
       "frio": 26,
-      "desinteresse": 172,
+      "desinteresse": 171,
       "sem_classificacao": 0
     }
   },
   "conversations": [
+    {
+      "session_id": "557381327509@s.whatsapp.net",
+      "phone": "557381327509",
+      "phone_display": "+55 73 8132-7509",
+      "lead": {
+        "baserow_id": 1570,
+        "nome": "Arlene",
+        "email": "",
+        "qtd_vidas": 2,
+        "desinteresse": false,
+        "observacoes": "Arlene",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Arlene",
+        "email": "",
+        "telefone": "+55 73 8132-7509",
+        "vidas": [
+          {
+            "idade": 14
+          },
+          {
+            "idade": 13
+          }
+        ],
+        "cidade": "",
+        "contratacao": "",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "Amil",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "Arlene",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Arlene\n📱 Contato: WhatsApp\n📞 Telefone: +55 73 8132-7509\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nArlene — 14 anos\nDependente 1 — 13 anos\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Arlene\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "quente",
+      "bot": "preto",
+      "consultor": "",
+      "message_count": 4,
+      "first_message_at": "2026-04-25T00:00:00.000Z",
+      "last_message_at": "2026-04-25T13:42:47.021000Z",
+      "last_bot_msg_at": "2026-04-25T10:42:46.650828",
+      "tempo_sem_interacao": "3h 3min",
+      "first_id": 21613,
+      "last_id": 21616,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1570\nNome: Arlene\n\nMensagem(ns) do cliente:\nArlene Reis \nPra \n14\n1...",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1570\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Amil",
+          "msg_time": "2026-04-25T10:41:13.988928"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-04-25T10:41:13.993898"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1570\nNome: Arlene\n\nMensagem(ns) do cliente:\nArlene Reis \nPra \n14\n13",
+          "msg_time": "2026-04-25T10:42:46.647821"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Arlene! Para sua família, então, vocês são 14 pessoas e já mencionou duas idades: 14 e 13 anos. Poderia me informar a cidade onde buscarão atendimento? Se tiver algum hospital de sua preferência, isso também ajuda.",
+          "msg_time": "2026-04-25T10:42:46.650828"
+        }
+      ]
+    },
     {
       "session_id": "5521994114355@s.whatsapp.net",
       "phone": "5521994114355",
@@ -70,7 +146,7 @@
       "first_message_at": "2026-04-25T00:00:00.000Z",
       "last_message_at": "2026-04-25T11:55:05.307000Z",
       "last_bot_msg_at": "2026-04-25T08:55:04.597807",
-      "tempo_sem_interacao": "4h 35min",
+      "tempo_sem_interacao": "4h 50min",
       "first_id": 21602,
       "last_id": 21612,
       "last_message_preview": "Obg",
@@ -174,7 +250,7 @@
       "first_message_at": "2026-04-25T00:00:00.000Z",
       "last_message_at": "2026-04-25T09:31:44.659000Z",
       "last_bot_msg_at": "2026-04-25T06:31:44.025364",
-      "tempo_sem_interacao": "6h 59min",
+      "tempo_sem_interacao": "7h 14min",
       "first_id": 21600,
       "last_id": 21601,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1568\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -233,7 +309,7 @@
       "first_message_at": "2026-04-24T00:00:00.000Z",
       "last_message_at": "2026-04-25T03:15:56.600000Z",
       "last_bot_msg_at": "2026-04-25T00:15:56.200953",
-      "tempo_sem_interacao": "13h 14min",
+      "tempo_sem_interacao": "13h 29min",
       "first_id": 21563,
       "last_id": 21599,
       "last_message_preview": "Ok boa noite",
@@ -347,7 +423,7 @@
       "first_message_at": "2026-04-24T00:00:00.000Z",
       "last_message_at": "2026-04-25T02:19:26.064000Z",
       "last_bot_msg_at": "2026-04-24T23:19:25.52997",
-      "tempo_sem_interacao": "14h 11min",
+      "tempo_sem_interacao": "14h 26min",
       "first_id": 21567,
       "last_id": 21590,
       "last_message_preview": "Obrigado",
@@ -516,7 +592,7 @@
       "first_message_at": "2026-04-24T00:00:00.000Z",
       "last_message_at": "2026-04-25T01:35:52.197000Z",
       "last_bot_msg_at": "2026-04-24T22:35:51.498082",
-      "tempo_sem_interacao": "14h 54min",
+      "tempo_sem_interacao": "15h 9min",
       "first_id": 21561,
       "last_id": 21562,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1565\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -575,7 +651,7 @@
       "first_message_at": "2026-04-20T00:00:00.000Z",
       "last_message_at": "2026-04-24T16:43:29.146000Z",
       "last_bot_msg_at": "2026-04-24T13:43:27.996232",
-      "tempo_sem_interacao": "23h 47min",
+      "tempo_sem_interacao": "1 dia",
       "first_id": 21281,
       "last_id": 21560,
       "last_message_preview": "Ei, Gilberto, tudo bem? Boa noite. Menina, eu fiquei esperando o seu retorno. Você não me deu, não t...",
@@ -661,7 +737,7 @@
       "first_message_at": "2026-04-24T00:00:00.000Z",
       "last_message_at": "2026-04-24T21:30:09.325000Z",
       "last_bot_msg_at": "2026-04-24T18:30:08.350097",
-      "tempo_sem_interacao": "19h",
+      "tempo_sem_interacao": "19h 15min",
       "first_id": 21554,
       "last_id": 21559,
       "last_message_preview": "Esse plano e da rede dor",
@@ -9995,7 +10071,7 @@
       "first_message_at": "2026-04-10T00:00:00.000Z",
       "last_message_at": "2026-04-10T16:45:25.577000Z",
       "last_bot_msg_at": "2026-04-10T13:45:25.136033",
-      "tempo_sem_interacao": "14 dias",
+      "tempo_sem_interacao": "15 dias",
       "first_id": 20799,
       "last_id": 20810,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1487\nNome: Joel Quintino De Oliveira\n\nMensagem(ns) do cliente:\n305...",
@@ -20018,70 +20094,6 @@
           "role": "system",
           "content": "\n",
           "msg_time": "2026-03-23T11:01:10.879849"
-        }
-      ]
-    },
-    {
-      "session_id": "5521987456106@s.whatsapp.net",
-      "phone": "5521987456106",
-      "phone_display": "+55 21 98745-6106",
-      "lead": {
-        "baserow_id": 1312,
-        "nome": "Maria",
-        "email": "mariareitano1944@gmail.com",
-        "qtd_vidas": "",
-        "desinteresse": true,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Maria",
-        "email": "mariareitano1944@gmail.com",
-        "telefone": "+55 21 98745-6106",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Maria\n📧 E-mail: mariareitano1944@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98745-6106\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "desinteresse",
-      "bot": "preto",
-      "consultor": "",
-      "message_count": 3,
-      "first_message_at": "2026-03-22T00:00:00.000Z",
-      "last_message_at": "2026-03-22T16:11:56.808000Z",
-      "last_bot_msg_at": "2026-03-22T13:11:51.267518",
-      "tempo_sem_interacao": "1 mês",
-      "first_id": 19820,
-      "last_id": 19919,
-      "last_message_preview": "Dados Fornecidos\nNome: Maria\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o infor...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados Fornecidos\nNome: Maria\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o informado\nRegiÃƒÂ£o: NÃƒÂ£o Informado\nPropaganda:\n",
-          "msg_time": "2026-03-22T13:11:51.264616"
-        },
-        {
-          "role": "ai",
-          "content": "Oi Maria! Sou o Gilberto da GW9, corretora de planos de saúde. Você pediu nosso contato para saber mais sobre plano de saúde e vi que já possui um CNPJ. Para te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo certo?",
-          "msg_time": "2026-03-22T13:11:51.267518"
-        },
-        {
-          "role": "system",
-          "content": "\n",
-          "msg_time": "2026-03-23T11:00:59.994998"
         }
       ]
     }
