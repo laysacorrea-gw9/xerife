@@ -1,17 +1,96 @@
 {
   "meta": {
-    "generated_at": "2026-04-25T17:00:48.517Z",
+    "generated_at": "2026-04-25T17:15:47.872Z",
     "total_conversations": 200,
-    "total_messages": 3376,
+    "total_messages": 3380,
     "stats": {
       "quente": 1,
-      "morno": 1,
-      "frio": 26,
+      "morno": 2,
+      "frio": 25,
       "desinteresse": 172,
       "sem_classificacao": 0
     }
   },
   "conversations": [
+    {
+      "session_id": "558999792265@s.whatsapp.net",
+      "phone": "558999792265",
+      "phone_display": "+55 89 9979-2265",
+      "lead": {
+        "baserow_id": 1568,
+        "nome": "Zeze",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "observacoes": "Zeze",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Zeze",
+        "email": "",
+        "telefone": "+55 89 9979-2265",
+        "vidas": [],
+        "cidade": "",
+        "contratacao": "",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "Amil",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "Zeze",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Zeze\n📱 Contato: WhatsApp\n📞 Telefone: +55 89 9979-2265\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Zeze\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "morno",
+      "bot": "preto",
+      "consultor": "",
+      "message_count": 6,
+      "first_message_at": "2026-04-25T00:00:00.000Z",
+      "last_message_at": "2026-04-25T17:11:08.890000Z",
+      "last_bot_msg_at": "2026-04-25T14:11:08.425446",
+      "tempo_sem_interacao": "3h 4min",
+      "first_id": 21600,
+      "last_id": 21627,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1568\nNome: Zeze\n\nMensagem(ns) do cliente:\nPessoas.",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1568\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Amil",
+          "msg_time": "2026-04-25T06:31:44.015632"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-04-25T06:31:44.025364"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1568\nNome: Zeze\n\nMensagem(ns) do cliente:\nMaria José Oliveira bandeira da Silva de 4 Pessoa 2 crianças 1 adulto e 1idosa.",
+          "msg_time": "2026-04-25T14:10:50.549168"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Zeze! Para a sua família, então, você mencionou 4 pessoas: 2 crianças, 1 adulto e 1 idosa. Agora, só para eu completar, quais são as idades de cada um?",
+          "msg_time": "2026-04-25T14:10:50.552917"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1568\nNome: Zeze\n\nMensagem(ns) do cliente:\nPessoas.",
+          "msg_time": "2026-04-25T14:11:08.422614"
+        },
+        {
+          "role": "ai",
+          "content": "Parece que faltaram as idades das 4 pessoas que você mencionou. Poderia me informar as idades de cada um? Assim, consigo te ajudar melhor.",
+          "msg_time": "2026-04-25T14:11:08.425446"
+        }
+      ]
+    },
     {
       "session_id": "557381327509@s.whatsapp.net",
       "phone": "557381327509",
@@ -61,7 +140,7 @@
       "first_message_at": "2026-04-25T00:00:00.000Z",
       "last_message_at": "2026-04-25T13:49:07.279000Z",
       "last_bot_msg_at": "2026-04-25T10:49:06.77018",
-      "tempo_sem_interacao": "6h 11min",
+      "tempo_sem_interacao": "6h 26min",
       "first_id": 21613,
       "last_id": 21623,
       "last_message_preview": "Certo",
@@ -181,7 +260,7 @@
       "first_message_at": "2026-04-25T00:00:00.000Z",
       "last_message_at": "2026-04-25T11:55:05.307000Z",
       "last_bot_msg_at": "2026-04-25T08:55:04.597807",
-      "tempo_sem_interacao": "8h 5min",
+      "tempo_sem_interacao": "8h 20min",
       "first_id": 21602,
       "last_id": 21612,
       "last_message_preview": "Obg",
@@ -244,65 +323,6 @@
       ]
     },
     {
-      "session_id": "558999792265@s.whatsapp.net",
-      "phone": "558999792265",
-      "phone_display": "+55 89 9979-2265",
-      "lead": {
-        "baserow_id": 1568,
-        "nome": "Zeze",
-        "email": "",
-        "qtd_vidas": "",
-        "desinteresse": false,
-        "observacoes": "Zeze",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Zeze",
-        "email": "",
-        "telefone": "+55 89 9979-2265",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "Amil",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "Zeze",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Zeze\n📱 Contato: WhatsApp\n📞 Telefone: +55 89 9979-2265\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Zeze\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "frio",
-      "bot": "preto",
-      "consultor": "",
-      "message_count": 2,
-      "first_message_at": "2026-04-25T00:00:00.000Z",
-      "last_message_at": "2026-04-25T09:31:44.659000Z",
-      "last_bot_msg_at": "2026-04-25T06:31:44.025364",
-      "tempo_sem_interacao": "10h 29min",
-      "first_id": 21600,
-      "last_id": 21601,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1568\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1568\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Amil",
-          "msg_time": "2026-04-25T06:31:44.015632"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
-          "msg_time": "2026-04-25T06:31:44.025364"
-        }
-      ]
-    },
-    {
       "session_id": "5521970319969@s.whatsapp.net",
       "phone": "5521970319969",
       "phone_display": "+55 21 97031-9969",
@@ -344,7 +364,7 @@
       "first_message_at": "2026-04-24T00:00:00.000Z",
       "last_message_at": "2026-04-25T03:15:56.600000Z",
       "last_bot_msg_at": "2026-04-25T00:15:56.200953",
-      "tempo_sem_interacao": "16h 44min",
+      "tempo_sem_interacao": "16h 59min",
       "first_id": 21563,
       "last_id": 21599,
       "last_message_preview": "Ok boa noite",
@@ -458,7 +478,7 @@
       "first_message_at": "2026-04-24T00:00:00.000Z",
       "last_message_at": "2026-04-25T02:19:26.064000Z",
       "last_bot_msg_at": "2026-04-24T23:19:25.52997",
-      "tempo_sem_interacao": "17h 41min",
+      "tempo_sem_interacao": "17h 56min",
       "first_id": 21567,
       "last_id": 21590,
       "last_message_preview": "Obrigado",
@@ -627,7 +647,7 @@
       "first_message_at": "2026-04-24T00:00:00.000Z",
       "last_message_at": "2026-04-25T01:35:52.197000Z",
       "last_bot_msg_at": "2026-04-24T22:35:51.498082",
-      "tempo_sem_interacao": "18h 24min",
+      "tempo_sem_interacao": "18h 39min",
       "first_id": 21561,
       "last_id": 21562,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1565\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -772,7 +792,7 @@
       "first_message_at": "2026-04-24T00:00:00.000Z",
       "last_message_at": "2026-04-24T21:30:09.325000Z",
       "last_bot_msg_at": "2026-04-24T18:30:08.350097",
-      "tempo_sem_interacao": "22h 30min",
+      "tempo_sem_interacao": "22h 45min",
       "first_id": 21554,
       "last_id": 21559,
       "last_message_preview": "Esse plano e da rede dor",
@@ -7099,7 +7119,7 @@
       "first_message_at": "2026-04-15T00:00:00.000Z",
       "last_message_at": "2026-04-15T20:01:00.337000Z",
       "last_bot_msg_at": "2026-04-15T17:00:59.512098",
-      "tempo_sem_interacao": "9 dias",
+      "tempo_sem_interacao": "10 dias",
       "first_id": 21080,
       "last_id": 21090,
       "last_message_preview": "Ok",
