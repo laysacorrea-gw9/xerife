@@ -1,17 +1,96 @@
 {
   "meta": {
-    "generated_at": "2026-04-25T02:15:47.990Z",
+    "generated_at": "2026-04-25T02:30:49.888Z",
     "total_conversations": 200,
-    "total_messages": 3340,
+    "total_messages": 3354,
     "stats": {
       "quente": 1,
-      "morno": 4,
+      "morno": 3,
       "frio": 24,
-      "desinteresse": 171,
+      "desinteresse": 172,
       "sem_classificacao": 0
     }
   },
   "conversations": [
+    {
+      "session_id": "5521970319969@s.whatsapp.net",
+      "phone": "5521970319969",
+      "phone_display": "+55 21 97031-9969",
+      "lead": {
+        "baserow_id": 1566,
+        "nome": "Espaço New Fashion",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "observacoes": "Espaço New Fashion",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Espaço New Fashion",
+        "email": "",
+        "telefone": "+55 21 97031-9969",
+        "vidas": [],
+        "cidade": "",
+        "contratacao": "",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "Amil",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "Espaço New Fashion",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Espaço New Fashion\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97031-9969\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Espaço New Fashion\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "morno",
+      "bot": "preto",
+      "consultor": "",
+      "message_count": 6,
+      "first_message_at": "2026-04-24T00:00:00.000Z",
+      "last_message_at": "2026-04-25T02:24:15.686000Z",
+      "last_bot_msg_at": "2026-04-24T23:24:10.365429",
+      "tempo_sem_interacao": "3h 6min",
+      "first_id": 21563,
+      "last_id": 21592,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1566\nNome: Espaço New Fashion\n\nMensagem(ns) do cliente:\n2 pessoas ...",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1566\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Amil",
+          "msg_time": "2026-04-24T22:50:04.181427"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-04-24T22:50:04.197327"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1566\nNome: Espaço New Fashion\n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Amil",
+          "msg_time": "2026-04-24T22:50:40.442733"
+        },
+        {
+          "role": "ai",
+          "content": "Olá, Espaço New Fashion! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Seriam para quantas pessoas e quais as idades?",
+          "msg_time": "2026-04-24T22:50:40.447861"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1566\nNome: Espaço New Fashion\n\nMensagem(ns) do cliente:\n2 pessoas eu 54 anos e meu filho 10 anos",
+          "msg_time": "2026-04-24T23:24:10.360279"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, só para confirmar: as idades são 54 anos para você e 10 anos para seu filho. Agora, qual é a cidade onde você busca atendimento? Se tiver algum hospital de sua preferência, isso pode me ajudar a encontrar o plano ideal!",
+          "msg_time": "2026-04-24T23:24:10.365429"
+        }
+      ]
+    },
     {
       "session_id": "5521964405019@s.whatsapp.net",
       "phone": "5521964405019",
@@ -21,11 +100,11 @@
         "nome": "Carlos Fontes Marinha",
         "email": "",
         "qtd_vidas": "",
-        "desinteresse": false,
+        "desinteresse": true,
         "observacoes": "Carlos Fontes Marinha",
         "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
+        "corretor": "João",
+        "temperatura": "Quente"
       },
       "summary": {
         "nome": "Carlos Fontes Marinha",
@@ -36,28 +115,28 @@
         "contratacao": "CNPJ",
         "cnpj": "",
         "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "Rede dor",
+        "profissao": "loja",
+        "plano_atual": "Bradesco top e amil 400",
+        "motivo": "Aposentadoria — perderão o plano\nEncerramento do plano atual\nIncluir novas vidas",
+        "interesse": "amil 400",
         "rede_preferencial": "Barra D'Or",
         "contato": "WhatsApp",
-        "consultor": "",
+        "consultor": "João",
         "obs_crm": "Carlos Fontes Marinha",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Carlos Fontes Marinha\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96440-5019\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n🎯 Rede preferencial: Barra D'Or\n\n🎯 Interesse: Rede dor\n\n⚠️ Observação: Carlos Fontes Marinha\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Carlos Fontes Marinha\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96440-5019\n\n📋 Dados contratuais:\n\nContratação: CNPJ\nProfissão: loja\n\n🏥 Plano atual: Bradesco top e amil 400\n🎯 Rede preferencial: Barra D'Or\n\n😤 Motivo da troca:\n\nAposentadoria — perderão o plano\nEncerramento do plano atual\nIncluir novas vidas\n\n🎯 Interesse: amil 400\n\n⚠️ Observação: Carlos Fontes Marinha\n👤 Consultor: João\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
       },
-      "status": "morno",
+      "status": "desinteresse",
       "bot": "preto",
-      "consultor": "",
-      "message_count": 12,
+      "consultor": "João",
+      "message_count": 24,
       "first_message_at": "2026-04-24T00:00:00.000Z",
-      "last_message_at": "2026-04-25T02:15:27.693000Z",
-      "last_bot_msg_at": "2026-04-24T23:15:27.239275",
-      "tempo_sem_interacao": "3h",
+      "last_message_at": "2026-04-25T02:19:26.064000Z",
+      "last_bot_msg_at": "2026-04-24T23:19:25.52997",
+      "tempo_sem_interacao": "3h 11min",
       "first_id": 21567,
-      "last_id": 21578,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1567\nNome: Carlos Fontes Marinha\n\nMensagem(ns) do cliente:\nSó pra ...",
+      "last_id": 21590,
+      "last_message_preview": "Obrigado",
       "messages": [
         {
           "role": "user",
@@ -118,75 +197,66 @@
           "role": "ai",
           "content": "Entendi, Carlos! Então, você está buscando um plano apenas para sua filha. Agora, pode me informar se a contratação será pelo CPF? E qual é a sua profissão? Isso me ajudará a encontrar a melhor administradora para o plano.",
           "msg_time": "2026-04-24T23:15:27.239275"
-        }
-      ]
-    },
-    {
-      "session_id": "5521970319969@s.whatsapp.net",
-      "phone": "5521970319969",
-      "phone_display": "+55 21 97031-9969",
-      "lead": {
-        "baserow_id": 1566,
-        "nome": "Espaço New Fashion",
-        "email": "",
-        "qtd_vidas": "",
-        "desinteresse": false,
-        "observacoes": "Espaço New Fashion",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Espaço New Fashion",
-        "email": "",
-        "telefone": "+55 21 97031-9969",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "Amil",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "Espaço New Fashion",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Espaço New Fashion\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97031-9969\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Espaço New Fashion\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "morno",
-      "bot": "preto",
-      "consultor": "",
-      "message_count": 4,
-      "first_message_at": "2026-04-24T00:00:00.000Z",
-      "last_message_at": "2026-04-25T01:50:42.307000Z",
-      "last_bot_msg_at": "2026-04-24T22:50:40.447861",
-      "tempo_sem_interacao": "3h 25min",
-      "first_id": 21563,
-      "last_id": 21566,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1566\nNome: Espaço New Fashion\n\nMensagem(ns) do cliente:\nOlá Gostar...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1566\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Amil",
-          "msg_time": "2026-04-24T22:50:04.181427"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
-          "msg_time": "2026-04-24T22:50:04.197327"
         },
         {
           "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1566\nNome: Espaço New Fashion\n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Amil",
-          "msg_time": "2026-04-24T22:50:40.442733"
+          "content": "Dados do lead no sistema:\nROW_ID: 1567\nNome: Carlos Fontes Marinha\n\nMensagem(ns) do cliente:\nEu posso fazer o plano pra ela e ter o recibo de pagamento comigo?",
+          "msg_time": "2026-04-24T23:17:05.877629"
         },
         {
           "role": "ai",
-          "content": "Olá, Espaço New Fashion! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Seriam para quantas pessoas e quais as idades?",
-          "msg_time": "2026-04-24T22:50:40.447861"
+          "content": "Carlos, sim, você pode contratar o plano para sua filha e ficar com o recibo de pagamento. Agora, só preciso saber: você possui algum plano de saúde atualmente? Se sim, qual é e quanto paga? Essa informação é importante para te ajudar a encontrar a melhor opção.",
+          "msg_time": "2026-04-24T23:17:05.880811"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1567\nNome: Carlos Fontes Marinha\n\nMensagem(ns) do cliente:\nÉ obrigatório ser no CPF dela ?",
+          "msg_time": "2026-04-24T23:17:25.040622"
+        },
+        {
+          "role": "ai",
+          "content": "Não, Carlos! Não é obrigatório que o plano esteja no CPF da sua filha. Você pode contratar no seu CPF se preferir, e isso pode até facilitar o processo. Você gostaria de prosseguir dessa forma? E só para fechar: qual plano você tem atualmente e quanto paga?",
+          "msg_time": "2026-04-24T23:17:25.042493"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1567\nNome: Carlos Fontes Marinha\n\nMensagem(ns) do cliente:\nEu futuramente farei para minha esposa e pra mim,mas no momento temos planos de saude das empresas",
+          "msg_time": "2026-04-24T23:18:31.325821"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Carlos! Você está pensando em incluir sua esposa e você futuramente, mas atualmente têm planos de saúde pelas empresas. Agora, para finalizar, só me confirme: qual plano você e sua esposa têm atualmente e quanto pagam? Isso irá ajudar a encontrar as melhores opções para quando você decidir mudar.",
+          "msg_time": "2026-04-24T23:18:31.327504"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1567\nNome: Carlos Fontes Marinha\n\nMensagem(ns) do cliente:\nEu e minha esposa tá",
+          "msg_time": "2026-04-24T23:18:47.725444"
+        },
+        {
+          "role": "ai",
+          "content": "Perfeito, Carlos! Então, você e sua esposa têm planos de saúde através das empresas, correto? Agora, só preciso que você me diga qual é o plano e quanto vocês pagam atualmente. Isso me ajudará a apresentar as melhores opções para o futuro.",
+          "msg_time": "2026-04-24T23:18:47.726889"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1567\nNome: Carlos Fontes Marinha\n\nMensagem(ns) do cliente:\nEu tenho Bradesco top e amil 400",
+          "msg_time": "2026-04-24T23:19:25.526851"
+        },
+        {
+          "role": "ai",
+          "content": "Carlos, obrigada por todas as informações! Vou encaminhar seu contato para o João, nosso especialista, que vai te apresentar as melhores opções de plano para a sua filha em Rio. Ele vai te chamar aqui no WhatsApp em breve. Se precisar de algo mais, estou à disposição!",
+          "msg_time": "2026-04-24T23:19:25.52997"
+        },
+        {
+          "role": "user",
+          "content": "Gilberto, o que eu tô querendo? Eu tô querendo um plano de saúde pra ela, mas sendo que futuramente, eu tô pra me aposentar, futuramente eu devo fazer um familiar. Eu vou abrir um e-mail futuramente, que eu tenho uma loja e agora no momento não há necessidade de eu fazer isso. Eu queria um plano que cobrisse tudo, essa parte de exames, não só laboratoriais, exame de imagem, internação, essas coisas assim. Eu não tô preocupado com o valor, eu quero saber se você vai me dar um valor pra idade dela, isso que eu quero saber, qual é esse valor, tá? Pra eu poder fechar. Eu preciso de um plano que cubra a rede dó, não só o barra dó, mas a rede dó em si, porque se precisar fazer alguma outra coisa em outro hospital, na rede, eu tenho como fazer, entendeu? No caso dela, né? Então quero que você faça a cotação aí, por gentileza, pra mim, tá? Internação, exames de imagem, essas coisas todas, cobrindo tudo. Faz favor.",
+          "msg_time": "2026-04-24T23:20:54.855441"
+        },
+        {
+          "role": "user",
+          "content": "Obrigado",
+          "msg_time": "2026-04-24T23:21:12.136443"
         }
       ]
     },
@@ -232,7 +302,7 @@
       "first_message_at": "2026-04-24T00:00:00.000Z",
       "last_message_at": "2026-04-25T01:35:52.197000Z",
       "last_bot_msg_at": "2026-04-24T22:35:51.498082",
-      "tempo_sem_interacao": "3h 39min",
+      "tempo_sem_interacao": "3h 54min",
       "first_id": 21561,
       "last_id": 21562,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1565\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -291,7 +361,7 @@
       "first_message_at": "2026-04-20T00:00:00.000Z",
       "last_message_at": "2026-04-24T16:43:29.146000Z",
       "last_bot_msg_at": "2026-04-24T13:43:27.996232",
-      "tempo_sem_interacao": "12h 32min",
+      "tempo_sem_interacao": "12h 47min",
       "first_id": 21281,
       "last_id": 21560,
       "last_message_preview": "Ei, Gilberto, tudo bem? Boa noite. Menina, eu fiquei esperando o seu retorno. Você não me deu, não t...",
@@ -377,7 +447,7 @@
       "first_message_at": "2026-04-24T00:00:00.000Z",
       "last_message_at": "2026-04-24T21:30:09.325000Z",
       "last_bot_msg_at": "2026-04-24T18:30:08.350097",
-      "tempo_sem_interacao": "7h 45min",
+      "tempo_sem_interacao": "8h",
       "first_id": 21554,
       "last_id": 21559,
       "last_message_preview": "Esse plano e da rede dor",
@@ -463,7 +533,7 @@
       "first_message_at": "2026-04-24T00:00:00.000Z",
       "last_message_at": "2026-04-24T14:48:07.700000Z",
       "last_bot_msg_at": "2026-04-24T11:48:06.965008",
-      "tempo_sem_interacao": "14h 27min",
+      "tempo_sem_interacao": "14h 42min",
       "first_id": 21545,
       "last_id": 21550,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1563\nNome: PEDRO VANDERLEI DA ROCHA\n\nMensagem(ns) do cliente:\n2 vi...",
@@ -549,7 +619,7 @@
       "first_message_at": "2026-04-24T00:00:00.000Z",
       "last_message_at": "2026-04-24T13:17:10.868000Z",
       "last_bot_msg_at": "2026-04-24T10:17:10.197615",
-      "tempo_sem_interacao": "15h 58min",
+      "tempo_sem_interacao": "16h 13min",
       "first_id": 21533,
       "last_id": 21544,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1562\nNome: Martins/E/Roberta/MeuAmor\n\nMensagem(ns) do cliente:\nEla...",
@@ -671,7 +741,7 @@
       "first_message_at": "2026-04-24T00:00:00.000Z",
       "last_message_at": "2026-04-24T12:31:39.659000Z",
       "last_bot_msg_at": "2026-04-24T09:31:39.003619",
-      "tempo_sem_interacao": "16h 44min",
+      "tempo_sem_interacao": "16h 59min",
       "first_id": 21525,
       "last_id": 21532,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1561\nNome: .\n\nMensagem(ns) do cliente:\nSão Gonçalo Rio de Janeiro",
@@ -767,7 +837,7 @@
       "first_message_at": "2026-04-23T00:00:00.000Z",
       "last_message_at": "2026-04-24T12:06:34.235000Z",
       "last_bot_msg_at": "2026-04-24T09:06:33.726678",
-      "tempo_sem_interacao": "17h 9min",
+      "tempo_sem_interacao": "17h 24min",
       "first_id": 21513,
       "last_id": 21524,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1560\nNome: Valesca Silva\n\nMensagem(ns) do cliente:\n2.000 e pouco",
