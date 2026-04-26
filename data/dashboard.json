@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-04-26T14:45:48.247Z",
+    "generated_at": "2026-04-26T15:00:48.535Z",
     "total_conversations": 200,
-    "total_messages": 3365,
+    "total_messages": 3376,
     "stats": {
       "quente": 1,
       "morno": 1,
-      "frio": 28,
-      "desinteresse": 170,
+      "frio": 27,
+      "desinteresse": 171,
       "sem_classificacao": 0
     }
   },
@@ -20,8 +20,8 @@
         "baserow_id": 1576,
         "nome": "Amanda",
         "email": "",
-        "qtd_vidas": "",
-        "desinteresse": false,
+        "qtd_vidas": 2,
+        "desinteresse": true,
         "observacoes": "Amanda",
         "reagendamento": null,
         "corretor": "",
@@ -31,33 +31,40 @@
         "nome": "Amanda",
         "email": "",
         "telefone": "+55 21 99484-6185",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "",
+        "vidas": [
+          {
+            "idade": 21
+          },
+          {
+            "idade": 1
+          }
+        ],
+        "cidade": "São Gonçalo / RJ",
+        "contratacao": "CNPJ",
         "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
+        "tipo_empresa": "MEI",
+        "profissao": "mei\n\nE quem está falando é a Grayce Kelly\nDados do lead no sistema",
         "plano_atual": "",
-        "motivo": "",
+        "motivo": "Encerramento do plano atual",
         "interesse": "Amil",
         "rede_preferencial": "",
         "contato": "WhatsApp",
         "consultor": "",
         "obs_crm": "Amanda",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Amanda\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99484-6185\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Amanda\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Amanda\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99484-6185\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nAmanda — 21 anos\nDependente 1 — 1 anos\n\n📋 Dados contratuais:\n\nCidade: São Gonçalo / RJ\nContratação: CNPJ\nTipo: MEI\nProfissão: mei\n\nE quem está falando é a Grayce Kelly\nDados do lead no sistema\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Amanda\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
       },
-      "status": "frio",
+      "status": "desinteresse",
       "bot": "preto",
       "consultor": "",
-      "message_count": 2,
+      "message_count": 13,
       "first_message_at": "2026-04-26T00:00:00.000Z",
-      "last_message_at": "2026-04-26T14:44:18.300000Z",
-      "last_bot_msg_at": "2026-04-26T11:44:17.501349",
-      "tempo_sem_interacao": "3h 1min",
+      "last_message_at": "2026-04-26T14:50:24.357000Z",
+      "last_bot_msg_at": "2026-04-26T11:50:23.451343",
+      "tempo_sem_interacao": "3h 10min",
       "first_id": 21679,
-      "last_id": 21680,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1576\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
+      "last_id": 21691,
+      "last_message_preview": "Sim\n\nOk",
       "messages": [
         {
           "role": "user",
@@ -68,6 +75,61 @@
           "role": "ai",
           "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
           "msg_time": "2026-04-26T11:44:17.501349"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1576\nNome: Amanda\n\nMensagem(ns) do cliente:\nBom dia \nMe chamo Grayce Kelly \nSeria pra 2 pessoas",
+          "msg_time": "2026-04-26T11:47:06.873765"
+        },
+        {
+          "role": "ai",
+          "content": "Amanda, entendi que você está ajudando a Grayce Kelly. Para prosseguir, poderia me informar as idades das duas pessoas? Isso é importante para que eu consiga apresentar as melhores opções de plano.",
+          "msg_time": "2026-04-26T11:47:06.87526"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1576\nNome: Amanda\n\nMensagem(ns) do cliente:\n21 anos \n1 mês e 1 dia",
+          "msg_time": "2026-04-26T11:47:33.377074"
+        },
+        {
+          "role": "ai",
+          "content": "Amanda, só para confirmar, você mencionou duas pessoas: uma de 21 anos e outra com apenas 1 mês e 1 dia. Poderia me informar a cidade e estado onde o plano será utilizado? Isso nos ajuda a encontrar a rede de atendimento adequada.",
+          "msg_time": "2026-04-26T11:47:33.379158"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1576\nNome: Amanda\n\nMensagem(ns) do cliente:\nCidade São Gonçalo \nEstado Rio de Janeiro",
+          "msg_time": "2026-04-26T11:48:30.156888"
+        },
+        {
+          "role": "ai",
+          "content": "Ótimo, Amanda! Agora, como o plano será contratado: empresarial por CNPJ (MEI ou LTDA) ou como pessoa física (CPF)? Se for CNPJ, você pode me informar o número? Se não, tudo bem, só preciso saber se é MEI ou LTDA.",
+          "msg_time": "2026-04-26T11:48:30.159352"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1576\nNome: Amanda\n\nMensagem(ns) do cliente:\nEu sou mei\n\nE quem está falando é a Grayce Kelly",
+          "msg_time": "2026-04-26T11:49:30.527604"
+        },
+        {
+          "role": "ai",
+          "content": "Obrigada pela confirmação, Amanda! Vamos registrar que você e a Grayce Kelly estão como MEI. Para finalizar, você já possui plano de saúde atualmente? Se sim, pode me informar qual e quanto paga hoje? Isso nos ajuda a encontrar a melhor opção para vocês.",
+          "msg_time": "2026-04-26T11:49:30.529785"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1576\nNome: Amanda\n\nMensagem(ns) do cliente:\nSó estou utilizando o telefone da Amanda\n\nPosso te chamar pelo meu?\n\nNão\n\nPrimeira vez que faço",
+          "msg_time": "2026-04-26T11:50:23.449691"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Amanda! Você está utilizando o telefone dela, mas prefere que eu me refira a você como Grayce. \n\nPara finalizar, apenas confirmando: você não possui plano de saúde atualmente, certo? Vou registrar todas as informações e encaminhar para um especialista.",
+          "msg_time": "2026-04-26T11:50:23.451343"
+        },
+        {
+          "role": "user",
+          "content": "Sim\n\nOk",
+          "msg_time": "2026-04-26T11:51:13.268788"
         }
       ]
     },
@@ -113,7 +175,7 @@
       "first_message_at": "2026-04-26T00:00:00.000Z",
       "last_message_at": "2026-04-26T14:41:03.964000Z",
       "last_bot_msg_at": "2026-04-26T11:41:02.779172",
-      "tempo_sem_interacao": "3h 4min",
+      "tempo_sem_interacao": "3h 19min",
       "first_id": 21677,
       "last_id": 21678,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1575\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -185,7 +247,7 @@
       "first_message_at": "2026-04-26T00:00:00.000Z",
       "last_message_at": "2026-04-26T14:11:57.783000Z",
       "last_bot_msg_at": "2026-04-26T11:11:57.277448",
-      "tempo_sem_interacao": "3h 33min",
+      "tempo_sem_interacao": "3h 48min",
       "first_id": 21651,
       "last_id": 21676,
       "last_message_preview": "Eu ja estou em plano de saúde\n\nSo que ta bem caro",
@@ -296,7 +358,7 @@
       "first_message_at": "2026-04-26T00:00:00.000Z",
       "last_message_at": "2026-04-26T13:07:34.742000Z",
       "last_bot_msg_at": "2026-04-26T10:07:34.240742",
-      "tempo_sem_interacao": "4h 38min",
+      "tempo_sem_interacao": "4h 53min",
       "first_id": 21653,
       "last_id": 21667,
       "last_message_preview": "52434592/0001-53",
@@ -433,7 +495,7 @@
       "first_message_at": "2026-04-25T00:00:00.000Z",
       "last_message_at": "2026-04-26T00:22:45.120000Z",
       "last_bot_msg_at": "2026-04-25T21:22:44.684989",
-      "tempo_sem_interacao": "17h 23min",
+      "tempo_sem_interacao": "17h 38min",
       "first_id": 21641,
       "last_id": 21650,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1572\nNome: fernandoantonio rc\n\nMensagem(ns) do cliente:\nSem plano.",
@@ -532,7 +594,7 @@
       "first_message_at": "2026-04-25T00:00:00.000Z",
       "last_message_at": "2026-04-25T17:59:48.616000Z",
       "last_bot_msg_at": "2026-04-25T14:59:48.02387",
-      "tempo_sem_interacao": "23h 46min",
+      "tempo_sem_interacao": "1 dia",
       "first_id": 21628,
       "last_id": 21640,
       "last_message_preview": "certo! Eu agradeço",
@@ -3084,7 +3146,7 @@
       "first_message_at": "2026-04-22T00:00:00.000Z",
       "last_message_at": "2026-04-22T17:57:48.929000Z",
       "last_bot_msg_at": "2026-04-22T14:57:48.47531",
-      "tempo_sem_interacao": "3 dias",
+      "tempo_sem_interacao": "4 dias",
       "first_id": 21408,
       "last_id": 21429,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1550\nNome: Cris Bastos 🌻\n\nMensagem(ns) do cliente:\nUnimed",
@@ -3561,7 +3623,7 @@
       "first_message_at": "2026-04-14T00:00:00.000Z",
       "last_message_at": "2026-04-15T17:54:03.809000Z",
       "last_bot_msg_at": "2026-04-15T14:53:56.040229",
-      "tempo_sem_interacao": "10 dias",
+      "tempo_sem_interacao": "11 dias",
       "first_id": 20982,
       "last_id": 21395,
       "last_message_preview": "Se aceitar ótimo",
