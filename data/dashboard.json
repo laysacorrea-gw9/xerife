@@ -1,17 +1,134 @@
 {
   "meta": {
-    "generated_at": "2026-04-26T14:00:48.302Z",
+    "generated_at": "2026-04-26T14:15:49.285Z",
     "total_conversations": 200,
-    "total_messages": 3382,
+    "total_messages": 3391,
     "stats": {
       "quente": 1,
       "morno": 1,
-      "frio": 27,
-      "desinteresse": 171,
+      "frio": 26,
+      "desinteresse": 172,
       "sem_classificacao": 0
     }
   },
   "conversations": [
+    {
+      "session_id": "5521979498152@s.whatsapp.net",
+      "phone": "5521979498152",
+      "phone_display": "+55 21 97949-8152",
+      "lead": {
+        "baserow_id": 1573,
+        "nome": "Iris",
+        "email": "",
+        "qtd_vidas": 4,
+        "desinteresse": true,
+        "observacoes": "Iris",
+        "reagendamento": null,
+        "corretor": "Isis",
+        "temperatura": "Quente"
+      },
+      "summary": {
+        "nome": "Iris",
+        "email": "",
+        "telefone": "+55 21 97949-8152",
+        "vidas": [
+          {
+            "idade": 40
+          },
+          {
+            "idade": 27
+          },
+          {
+            "idade": 47
+          },
+          {
+            "idade": 69
+          }
+        ],
+        "cidade": "",
+        "contratacao": "",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "Sulamérica",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "Isis",
+        "obs_crm": "Iris",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Iris\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97949-8152\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nIris — 40 anos\nDependente 1 — 27 anos\nDependente 2 — 47 anos\nDependente 3 — 69 anos\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: Sulamérica\n\n⚠️ Observação: Iris\n👤 Consultor: Isis\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "desinteresse",
+      "bot": "preto",
+      "consultor": "Isis",
+      "message_count": 11,
+      "first_message_at": "2026-04-26T00:00:00.000Z",
+      "last_message_at": "2026-04-26T14:11:57.783000Z",
+      "last_bot_msg_at": "2026-04-26T11:11:57.277448",
+      "tempo_sem_interacao": "3h 3min",
+      "first_id": 21651,
+      "last_id": 21676,
+      "last_message_preview": "Eu ja estou em plano de saúde\n\nSo que ta bem caro",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1573\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Sulamérica",
+          "msg_time": "2026-04-26T00:29:50.198916"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-04-26T00:29:50.205111"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1573\nNome: Iris\n\nMensagem(ns) do cliente:\nBom dia, 4 pessoas",
+          "msg_time": "2026-04-26T11:10:01.039482"
+        },
+        {
+          "role": "ai",
+          "content": "Bom dia, Iris! Entendi, para sua família então. Agora, poderia me informar as idades de todas as 4 pessoas? Isso é importante para que eu possa encontrar as melhores opções de plano para vocês.",
+          "msg_time": "2026-04-26T11:10:01.086444"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1573\nNome: Iris\n\nMensagem(ns) do cliente:\nSo tem um problema um paciente ja trata um câncer",
+          "msg_time": "2026-04-26T11:10:40.140062"
+        },
+        {
+          "role": "ai",
+          "content": "Entendo, Iris. Isso é importante, e vou fazer o possível para te ajudar da melhor forma. Para isso, preciso das idades das 4 pessoas, incluindo a do paciente que já está em tratamento. Poderia me informar?",
+          "msg_time": "2026-04-26T11:10:40.141785"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1573\nNome: Iris\n\nMensagem(ns) do cliente:\nVcs cobram carência",
+          "msg_time": "2026-04-26T11:11:07.241648"
+        },
+        {
+          "role": "ai",
+          "content": "Iris, as carências podem variar conforme o plano escolhido, mas é um detalhe que nosso especialista pode esclarecer melhor. Para continuar, você poderia me informar as idades das 4 pessoas? Isso é fundamental para encontrar as melhores opções para vocês.",
+          "msg_time": "2026-04-26T11:11:07.245124"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1573\nNome: Iris\n\nMensagem(ns) do cliente:\n40, 27,47,69",
+          "msg_time": "2026-04-26T11:11:57.273531"
+        },
+        {
+          "role": "ai",
+          "content": "Iris, obrigada por todas as informações! Vou encaminhar seu contato para a Isis, nossa especialista, que vai te apresentar as melhores opções de plano para vocês em breve. Ela vai te chamar aqui no WhatsApp.",
+          "msg_time": "2026-04-26T11:11:57.277448"
+        },
+        {
+          "role": "user",
+          "content": "Eu ja estou em plano de saúde\n\nSo que ta bem caro",
+          "msg_time": "2026-04-26T11:13:12.856316"
+        }
+      ]
+    },
     {
       "session_id": "5521999392965@s.whatsapp.net",
       "phone": "5521999392965",
@@ -61,7 +178,7 @@
       "first_message_at": "2026-04-26T00:00:00.000Z",
       "last_message_at": "2026-04-26T13:07:34.742000Z",
       "last_bot_msg_at": "2026-04-26T10:07:34.240742",
-      "tempo_sem_interacao": "3h 53min",
+      "tempo_sem_interacao": "4h 8min",
       "first_id": 21653,
       "last_id": 21667,
       "last_message_preview": "52434592/0001-53",
@@ -144,65 +261,6 @@
       ]
     },
     {
-      "session_id": "5521979498152@s.whatsapp.net",
-      "phone": "5521979498152",
-      "phone_display": "+55 21 97949-8152",
-      "lead": {
-        "baserow_id": 1573,
-        "nome": "Iris",
-        "email": "",
-        "qtd_vidas": "",
-        "desinteresse": false,
-        "observacoes": "Iris",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Iris",
-        "email": "",
-        "telefone": "+55 21 97949-8152",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "Sulamérica",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "Iris",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Iris\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97949-8152\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: Sulamérica\n\n⚠️ Observação: Iris\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "frio",
-      "bot": "preto",
-      "consultor": "",
-      "message_count": 2,
-      "first_message_at": "2026-04-26T00:00:00.000Z",
-      "last_message_at": "2026-04-26T03:29:55.098000Z",
-      "last_bot_msg_at": "2026-04-26T00:29:50.205111",
-      "tempo_sem_interacao": "13h 30min",
-      "first_id": 21651,
-      "last_id": 21652,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1573\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1573\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Sulamérica",
-          "msg_time": "2026-04-26T00:29:50.198916"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
-          "msg_time": "2026-04-26T00:29:50.205111"
-        }
-      ]
-    },
-    {
       "session_id": "5522981630440@s.whatsapp.net",
       "phone": "5522981630440",
       "phone_display": "+55 22 98163-0440",
@@ -257,7 +315,7 @@
       "first_message_at": "2026-04-25T00:00:00.000Z",
       "last_message_at": "2026-04-26T00:22:45.120000Z",
       "last_bot_msg_at": "2026-04-25T21:22:44.684989",
-      "tempo_sem_interacao": "16h 38min",
+      "tempo_sem_interacao": "16h 53min",
       "first_id": 21641,
       "last_id": 21650,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1572\nNome: fernandoantonio rc\n\nMensagem(ns) do cliente:\nSem plano.",
@@ -356,7 +414,7 @@
       "first_message_at": "2026-04-25T00:00:00.000Z",
       "last_message_at": "2026-04-25T17:59:48.616000Z",
       "last_bot_msg_at": "2026-04-25T14:59:48.02387",
-      "tempo_sem_interacao": "23h 1min",
+      "tempo_sem_interacao": "23h 16min",
       "first_id": 21628,
       "last_id": 21640,
       "last_message_preview": "certo! Eu agradeço",
@@ -470,7 +528,7 @@
       "first_message_at": "2026-04-25T00:00:00.000Z",
       "last_message_at": "2026-04-25T17:11:08.890000Z",
       "last_bot_msg_at": "2026-04-25T14:11:08.425446",
-      "tempo_sem_interacao": "23h 49min",
+      "tempo_sem_interacao": "1 dia",
       "first_id": 21600,
       "last_id": 21627,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1568\nNome: Zeze\n\nMensagem(ns) do cliente:\nPessoas.",
@@ -5633,7 +5691,7 @@
       "first_message_at": "2026-04-18T00:00:00.000Z",
       "last_message_at": "2026-04-18T17:14:05.284000Z",
       "last_bot_msg_at": "2026-04-18T14:14:04.058661",
-      "tempo_sem_interacao": "7 dias",
+      "tempo_sem_interacao": "8 dias",
       "first_id": 21223,
       "last_id": 21237,
       "last_message_preview": "Ok",
@@ -6685,7 +6743,7 @@
       "first_message_at": "2026-04-17T00:00:00.000Z",
       "last_message_at": "2026-04-17T17:11:49.609000Z",
       "last_bot_msg_at": "2026-04-17T14:11:48.905181",
-      "tempo_sem_interacao": "8 dias",
+      "tempo_sem_interacao": "9 dias",
       "first_id": 21136,
       "last_id": 21146,
       "last_message_preview": "Ok",
@@ -8182,7 +8240,7 @@
       "first_message_at": "2026-04-14T00:00:00.000Z",
       "last_message_at": "2026-04-14T17:13:28.753000Z",
       "last_bot_msg_at": "2026-04-14T14:13:28.014825",
-      "tempo_sem_interacao": "11 dias",
+      "tempo_sem_interacao": "12 dias",
       "first_id": 20990,
       "last_id": 20996,
       "last_message_preview": "Ok obrigada",
@@ -13228,7 +13286,7 @@
       "first_message_at": "2026-04-07T00:00:00.000Z",
       "last_message_at": "2026-04-07T17:10:00.008000Z",
       "last_bot_msg_at": "2026-04-07T14:09:59.148217",
-      "tempo_sem_interacao": "18 dias",
+      "tempo_sem_interacao": "19 dias",
       "first_id": 20627,
       "last_id": 20636,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1466\nNome: Assis Contador\n\nMensagem(ns) do cliente:\nNão tenho no m...",
