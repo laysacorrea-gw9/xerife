@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_at": "2026-04-27T15:15:48.614Z",
+    "generated_at": "2026-04-27T15:30:48.963Z",
     "total_conversations": 200,
-    "total_messages": 3364,
+    "total_messages": 3362,
     "stats": {
       "quente": 0,
       "morno": 1,
@@ -12,6 +12,128 @@
     }
   },
   "conversations": [
+    {
+      "session_id": "5521983392370@s.whatsapp.net",
+      "phone": "5521983392370",
+      "phone_display": "+55 21 98339-2370",
+      "lead": {
+        "baserow_id": 1579,
+        "nome": "Cristina Psicóloga/Neuropsicóloga",
+        "email": "",
+        "qtd_vidas": 4,
+        "desinteresse": true,
+        "observacoes": "Cristina Psicóloga/Neuropsicóloga",
+        "reagendamento": null,
+        "corretor": "Elisa",
+        "temperatura": "Quente"
+      },
+      "summary": {
+        "nome": "Cristina Psicóloga/Neuropsicóloga",
+        "email": "",
+        "telefone": "+55 21 98339-2370",
+        "vidas": [
+          {
+            "idade": 24
+          },
+          {
+            "idade": 28
+          },
+          {
+            "idade": 45
+          },
+          {
+            "idade": 59
+          }
+        ],
+        "cidade": "Rio de Janeiro / RJ",
+        "contratacao": "CNPJ",
+        "cnpj": "60.132.711/0001-41",
+        "tipo_empresa": "MEI",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "Encerramento do plano atual",
+        "interesse": "",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "Elisa",
+        "obs_crm": "Cristina Psicóloga/Neuropsicóloga",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Cristina Psicóloga/Neuropsicóloga\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98339-2370\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nCristina Psicóloga/Neuropsicóloga — 24 anos\nDependente 1 — 28 anos\nDependente 2 — 45 anos\nDependente 3 — 59 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ — 60.132.711/0001-41\nTipo: MEI\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\n\n⚠️ Observação: Cristina Psicóloga/Neuropsicóloga\n👤 Consultor: Elisa\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "desinteresse",
+      "bot": "preto",
+      "consultor": "Elisa",
+      "message_count": 12,
+      "first_message_at": "2026-04-27T00:00:00.000Z",
+      "last_message_at": "2026-04-27T15:23:24.413000Z",
+      "last_bot_msg_at": "2026-04-27T12:23:23.992622",
+      "tempo_sem_interacao": "3h 7min",
+      "first_id": 21717,
+      "last_id": 21728,
+      "last_message_preview": "Obrigado Cristina! e vocês possuem plano atualmente?\n\nNão tenho plano de saude",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1579\nNome: \n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação de um plano de saúde Empresarial",
+          "msg_time": "2026-04-27T12:16:52.96271"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-04-27T12:16:52.966675"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1579\nNome: Cristina Psicóloga/Neuropsicóloga\n\nMensagem(ns) do cliente:\n4 pessoas. 24, 28 , 45 e 59",
+          "msg_time": "2026-04-27T12:18:18.909558"
+        },
+        {
+          "role": "ai",
+          "content": "Cristina, entendi! Para a cotação dos planos de saúde, preciso saber a cidade e o estado onde você busca atendimento. Se tiver algum hospital de sua preferência, isso também pode nos ajudar a encontrar o plano ideal para vocês!",
+          "msg_time": "2026-04-27T12:18:18.912322"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1579\nNome: Cristina Psicóloga/Neuropsicóloga\n\nMensagem(ns) do cliente:\n4 pessoas. 25, 28 , 45 e 59",
+          "msg_time": "2026-04-27T12:19:01.395963"
+        },
+        {
+          "role": "ai",
+          "content": "Obrigada pela confirmação das idades, Cristina! Agora, como o plano será contratado: empresarial por CNPJ MEI ou LTDA? Se você tiver o número do CNPJ, pode me informar? Isso pode ajudar a encontrar melhores valores. Se não tiver, só preciso saber se é MEI ou LTDA.",
+          "msg_time": "2026-04-27T12:19:01.402897"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1579\nNome: Cristina Psicóloga/Neuropsicóloga\n\nMensagem(ns) do cliente:\nRio de Janeiro.",
+          "msg_time": "2026-04-27T12:21:43.548052"
+        },
+        {
+          "role": "ai",
+          "content": "Ótimo, Cristina! Apenas para finalizar, você já possui plano de saúde atualmente? Se sim, qual é e quanto paga hoje? Isso me ajudará a identificar o melhor equilíbrio entre custo e acesso para o seu novo plano.",
+          "msg_time": "2026-04-27T12:21:43.550613"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1579\nNome: Cristina Psicóloga/Neuropsicóloga\n\nMensagem(ns) do cliente:\nCNPJ\n\nCNPJ 60.132.711/0001-41",
+          "msg_time": "2026-04-27T12:23:23.99052"
+        },
+        {
+          "role": "ai",
+          "content": "Cristina, obrigada por todas as informações! Vou encaminhar seu contato para a Elisa, nossa especialista, que vai te apresentar as melhores opções de plano para vocês em Rio de Janeiro. Ela vai te chamar aqui no WhatsApp em breve.",
+          "msg_time": "2026-04-27T12:23:23.992622"
+        },
+        {
+          "role": "user",
+          "content": "Obrigado Cristina! e vocês possuem plano atualmente?\n\nNão tenho plano de saude",
+          "msg_time": "2026-04-27T12:23:37.789315"
+        },
+        {
+          "role": "system",
+          "content": "Cristina, obrigada por todas as informações! Vou encaminhar seu contato para o João, nosso especialista, que vai te apresentar as melhores opções de plano para vocês em Rio de Janeiro. Ela vai te chamar aqui no WhatsApp em breve.",
+          "msg_time": "2026-04-27T12:24:31.544369"
+        }
+      ]
+    },
     {
       "session_id": "5521966422091@s.whatsapp.net",
       "phone": "5521966422091",
@@ -167,7 +289,7 @@
       "first_message_at": "2025-12-15T00:00:00.000Z",
       "last_message_at": "2026-04-27T14:12:18.681Z",
       "last_bot_msg_at": "2026-04-27T14:12:18.681Z",
-      "tempo_sem_interacao": "1h 3min",
+      "tempo_sem_interacao": "1h 18min",
       "first_id": 742,
       "last_id": 21713,
       "last_message_preview": "Estou falando ainda com todos\n\nmandei msg p esses sim",
@@ -466,7 +588,7 @@
       "first_message_at": "2026-04-27T00:00:00.000Z",
       "last_message_at": "2026-04-27T12:49:03.560000Z",
       "last_bot_msg_at": "2026-04-27T09:49:02.709185",
-      "tempo_sem_interacao": "5h 26min",
+      "tempo_sem_interacao": "5h 41min",
       "first_id": 21694,
       "last_id": 21710,
       "last_message_preview": "OK",
@@ -600,7 +722,7 @@
       "first_message_at": "2026-04-27T00:00:00.000Z",
       "last_message_at": "2026-04-27T09:08:18.215000Z",
       "last_bot_msg_at": "2026-04-27T06:08:17.849055",
-      "tempo_sem_interacao": "9h 7min",
+      "tempo_sem_interacao": "9h 22min",
       "first_id": 21692,
       "last_id": 21693,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1577\nNome: \n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação...",
@@ -7711,7 +7833,7 @@
       "first_message_at": "2026-04-16T00:00:00.000Z",
       "last_message_at": "2026-04-16T18:25:35.779000Z",
       "last_bot_msg_at": "2026-04-16T15:25:33.525721",
-      "tempo_sem_interacao": "10 dias",
+      "tempo_sem_interacao": "11 dias",
       "first_id": 21107,
       "last_id": 21127,
       "last_message_preview": "Selma, nosso especialista João pode entrar em contato com você nesse momento para conversar sobre es...",
@@ -12907,7 +13029,7 @@
       "first_message_at": "2026-04-09T00:00:00.000Z",
       "last_message_at": "2026-04-09T18:24:14.572000Z",
       "last_bot_msg_at": "2026-04-09T15:24:14.017144",
-      "tempo_sem_interacao": "17 dias",
+      "tempo_sem_interacao": "18 dias",
       "first_id": 20705,
       "last_id": 20721,
       "last_message_preview": "Tem como fazer portabilidade de um plano para outro",
@@ -19943,125 +20065,6 @@
           "role": "system",
           "content": "Não tenho como te passar valores se nao souber a idade das pessoas...",
           "msg_time": "2026-03-23T12:50:57.063835"
-        }
-      ]
-    },
-    {
-      "session_id": "5521993518888@s.whatsapp.net",
-      "phone": "5521993518888",
-      "phone_display": "+55 21 99351-8888",
-      "lead": {
-        "baserow_id": 1329,
-        "nome": "Roselange",
-        "email": "rosealfradique99@gmail.com",
-        "qtd_vidas": "",
-        "desinteresse": true,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "João",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Roselange",
-        "email": "rosealfradique99@gmail.com",
-        "telefone": "+55 21 99351-8888",
-        "vidas": [],
-        "cidade": "São Gonçalo / RJ",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "clínica",
-        "plano_atual": "Nenhum",
-        "motivo": "Encerramento do plano atual",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "João",
-        "obs_crm": "",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Roselange\n📧 E-mail: rosealfradique99@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99351-8888\n\n📋 Dados contratuais:\n\nCidade: São Gonçalo / RJ\nContratação: CNPJ\nProfissão: clínica\n\n🏥 Plano atual: Nenhum\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\n👤 Consultor: João\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "desinteresse",
-      "bot": "preto",
-      "consultor": "João",
-      "message_count": 14,
-      "first_message_at": "2026-03-23T00:00:00.000Z",
-      "last_message_at": "2026-03-23T14:51:05.660000Z",
-      "last_bot_msg_at": "2026-03-23T11:51:03.910414",
-      "tempo_sem_interacao": "1 mês",
-      "first_id": 19947,
-      "last_id": 19960,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1329\nNome: \n\nMensagem(ns) do cliente:\nNão tenho plano não",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados Fornecidos\nNome: Roselange\nContem CNPJ: não\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o informado\nRegiÃƒÂ£o: NÃƒÂ£o Informado\nPropaganda:\n",
-          "msg_time": "2026-03-23T11:45:52.367421"
-        },
-        {
-          "role": "ai",
-          "content": "Oi Roselange! Sou o Gilberto da GW9, corretora de planos de saúde. Você pediu nosso contato para saber mais sobre plano de saúde e, para te ajudar a encontrar a melhor opção, preciso de algumas informações rápidas. Tudo certo?",
-          "msg_time": "2026-03-23T11:45:52.48743"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1329\nNome: Roselange\n\nMensagem(ns) do cliente:\nBom dia viu esse anúncio de plano de saúde da clínica Icaraí .3vidas por 600 pouco.",
-          "msg_time": "2026-03-23T11:46:26.517786"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Roselange! Que bom que você viu o anúncio. Para te ajudar a apresentar as melhores opções, preciso saber: para quantas pessoas você está pensando em contratar e quais as idades delas?",
-          "msg_time": "2026-03-23T11:46:26.521427"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1329\nNome: Roselange\n\nMensagem(ns) do cliente:\nFormato de mensagem enviada nao suportado\n\n2",
-          "msg_time": "2026-03-23T11:47:08.31121"
-        },
-        {
-          "role": "ai",
-          "content": "Roselange, parece que houve um erro no envio da sua resposta. Você pode tentar me informar novamente quantas pessoas estão envolvidas e as idades delas? Isso vai me ajudar a encontrar as melhores opções para você.",
-          "msg_time": "2026-03-23T11:47:08.316746"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1329\nNome: Roselange\n\nMensagem(ns) do cliente:\nPra 2 pessoas uma de 59 ele outra de 55\n\nMoro em São Gonçalo.",
-          "msg_time": "2026-03-23T11:48:37.623169"
-        },
-        {
-          "role": "ai",
-          "content": "Ótimo, Roselange! Então temos 2 pessoas: uma de 59 anos e outra de 55 anos. Agora preciso saber como será feita a contratação do plano: será como pessoa física (CPF) ou utilizará um CNPJ?",
-          "msg_time": "2026-03-23T11:48:37.626867"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1329\nNome: \n\nMensagem(ns) do cliente:\nPessoa física com CPF",
-          "msg_time": "2026-03-23T11:49:44.753201"
-        },
-        {
-          "role": "ai",
-          "content": "Perfeito, Roselange! Sabendo que a contratação será como pessoa física, para finalizar, você já possui um plano de saúde atualmente? Se sim, qual é e quanto você paga por ele? Isso ajuda a entender melhor suas necessidades.",
-          "msg_time": "2026-03-23T11:49:44.763528"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1329\nNome: \n\nMensagem(ns) do cliente:\nPode fazer a simulação pra mim ver o valor .",
-          "msg_time": "2026-03-23T11:50:14.693586"
-        },
-        {
-          "role": "ai",
-          "content": "Roselange, entendo que você deseja saber o valor, mas preciso primeiro saber se você possui um plano atualmente e qual o valor que paga. Isso nos ajuda a encontrar as melhores opções para você.",
-          "msg_time": "2026-03-23T11:50:14.700286"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1329\nNome: \n\nMensagem(ns) do cliente:\nNão tenho plano não",
-          "msg_time": "2026-03-23T11:51:03.907383"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Roselange! Você não possui plano de saúde atualmente. Vou registrar as informações que você me passou até agora:\n\n- 2 pessoas: 59 e 55 anos\n- Morando em São Gonçalo\n- Contratação como pessoa física (CPF)\n- Sem plano atual\n\nAgora vou salvar os dados para encaminhar para um especialista. Um momento!",
-          "msg_time": "2026-03-23T11:51:03.910414"
         }
       ]
     }
