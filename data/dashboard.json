@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_at": "2026-04-27T18:30:49.613Z",
+    "generated_at": "2026-04-27T18:45:48.874Z",
     "total_conversations": 200,
-    "total_messages": 3363,
+    "total_messages": 3371,
     "stats": {
       "quente": 0,
       "morno": 1,
@@ -12,6 +12,137 @@
     }
   },
   "conversations": [
+    {
+      "session_id": "5521971573427@s.whatsapp.net",
+      "phone": "5521971573427",
+      "phone_display": "+55 21 97157-3427",
+      "lead": {
+        "baserow_id": 1580,
+        "nome": "Raphael Abreu",
+        "email": "",
+        "qtd_vidas": 2,
+        "desinteresse": true,
+        "observacoes": "Raphael Abreu",
+        "reagendamento": null,
+        "corretor": "Isis",
+        "temperatura": "Quente"
+      },
+      "summary": {
+        "nome": "Raphael Abreu",
+        "email": "",
+        "telefone": "+55 21 97157-3427",
+        "vidas": [
+          {
+            "idade": 34
+          },
+          {
+            "idade": 20
+          }
+        ],
+        "cidade": "Niteroi / RJ",
+        "contratacao": "CNPJ",
+        "cnpj": "27.600.933/0001-76",
+        "tipo_empresa": "MEI",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "Encerramento do plano atual",
+        "interesse": "",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "Isis",
+        "obs_crm": "Raphael Abreu",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Raphael Abreu\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97157-3427\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nRaphael Abreu — 34 anos\nDependente 1 — 20 anos\n\n📋 Dados contratuais:\n\nCidade: Niteroi / RJ\nContratação: CNPJ — 27.600.933/0001-76\nTipo: MEI\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\n\n⚠️ Observação: Raphael Abreu\n👤 Consultor: Isis\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "desinteresse",
+      "bot": "preto",
+      "consultor": "Isis",
+      "message_count": 15,
+      "first_message_at": "2026-04-27T00:00:00.000Z",
+      "last_message_at": "2026-04-27T18:41:48.621000Z",
+      "last_bot_msg_at": "2026-04-27T15:41:48.15116",
+      "tempo_sem_interacao": "3h 4min",
+      "first_id": 21730,
+      "last_id": 21744,
+      "last_message_preview": "Ok",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1580\nNome: \n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação de um plano de saúde Copa D'or",
+          "msg_time": "2026-04-27T15:37:34.230195"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-04-27T15:37:34.235985"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1580\nNome: Raphael Abreu\n\nMensagem(ns) do cliente:\nRaphael\n\n2 pessoas",
+          "msg_time": "2026-04-27T15:38:30.495296"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Raphael! Para duas pessoas, preciso saber as idades de cada um. Quais são?",
+          "msg_time": "2026-04-27T15:38:30.497381"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1580\nNome: Raphael Abreu\n\nMensagem(ns) do cliente:\n34 anos\n\ne 20",
+          "msg_time": "2026-04-27T15:39:02.158624"
+        },
+        {
+          "role": "ai",
+          "content": "Ótimo, Raphael! Para avançarmos, qual é a cidade onde você está buscando o atendimento? E se tiver algum hospital de preferência, isso pode ajudar a encontrar o melhor plano.",
+          "msg_time": "2026-04-27T15:39:02.17748"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1580\nNome: Raphael Abreu\n\nMensagem(ns) do cliente:\ne 21",
+          "msg_time": "2026-04-27T15:39:22.299441"
+        },
+        {
+          "role": "ai",
+          "content": "Perfeito, Raphael! Para confirmar, temos duas pessoas: 34 e 21 anos. Agora, qual é a cidade onde você está buscando o atendimento? Se tiver algum hospital de preferência, isso pode ajudar a encontrar o melhor plano.",
+          "msg_time": "2026-04-27T15:39:22.301684"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1580\nNome: Raphael Abreu\n\nMensagem(ns) do cliente:\nNiteroi",
+          "msg_time": "2026-04-27T15:39:40.030548"
+        },
+        {
+          "role": "ai",
+          "content": "Obrigado, Raphael! A cidade é Niterói. Agora, como o plano será contratado: empresarial por CNPJ MEI ou LTDA? Se tiver o número do CNPJ, pode me informar, mas se não tiver, só preciso saber se é MEI ou LTDA.",
+          "msg_time": "2026-04-27T15:39:40.034676"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1580\nNome: Raphael Abreu\n\nMensagem(ns) do cliente:\nLtda\n\n27600933000176",
+          "msg_time": "2026-04-27T15:40:42.632245"
+        },
+        {
+          "role": "ai",
+          "content": "Certo, Raphael! Você informou que a contratação será por LTDA e o CNPJ é 27600933000176. Para finalizar, você já possui plano de saúde atualmente? Se sim, qual e quanto paga hoje? Isso me ajudará a encontrar a melhor opção para você.",
+          "msg_time": "2026-04-27T15:40:42.635423"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1580\nNome: Raphael Abreu\n\nMensagem(ns) do cliente:\nNão",
+          "msg_time": "2026-04-27T15:41:48.147236"
+        },
+        {
+          "role": "ai",
+          "content": "Raphael, obrigada por todas as informações! Vou encaminhar seu contato para o Isis, nosso especialista, que vai te apresentar as melhores opções de plano para vocês, 2 vidas em Niterói. Ele vai te chamar aqui no WhatsApp em breve.",
+          "msg_time": "2026-04-27T15:41:48.15116"
+        },
+        {
+          "role": "user",
+          "content": "Ok",
+          "msg_time": "2026-04-27T15:42:22.929644"
+        }
+      ]
+    },
     {
       "session_id": "5521978786996@s.whatsapp.net",
       "phone": "5521978786996",
@@ -61,7 +192,7 @@
       "first_message_at": "2025-12-15T00:00:00.000Z",
       "last_message_at": "2026-04-27T16:45:14.096Z",
       "last_bot_msg_at": "2026-04-27T16:45:14.096Z",
-      "tempo_sem_interacao": "1h 45min",
+      "tempo_sem_interacao": "2h",
       "first_id": 742,
       "last_id": 21729,
       "last_message_preview": "Estou falando ainda com todos\n\nmandei msg p esses sim",
@@ -373,7 +504,7 @@
       "first_message_at": "2026-04-27T00:00:00.000Z",
       "last_message_at": "2026-04-27T15:23:24.413000Z",
       "last_bot_msg_at": "2026-04-27T12:23:23.992622",
-      "tempo_sem_interacao": "6h 7min",
+      "tempo_sem_interacao": "6h 22min",
       "first_id": 21717,
       "last_id": 21728,
       "last_message_preview": "Obrigado Cristina! e vocês possuem plano atualmente?\n\nNão tenho plano de saude",
@@ -588,7 +719,7 @@
       "first_message_at": "2026-04-27T00:00:00.000Z",
       "last_message_at": "2026-04-27T12:49:03.560000Z",
       "last_bot_msg_at": "2026-04-27T09:49:02.709185",
-      "tempo_sem_interacao": "8h 41min",
+      "tempo_sem_interacao": "8h 56min",
       "first_id": 21694,
       "last_id": 21710,
       "last_message_preview": "OK",
@@ -722,7 +853,7 @@
       "first_message_at": "2026-04-27T00:00:00.000Z",
       "last_message_at": "2026-04-27T09:08:18.215000Z",
       "last_bot_msg_at": "2026-04-27T06:08:17.849055",
-      "tempo_sem_interacao": "12h 22min",
+      "tempo_sem_interacao": "12h 37min",
       "first_id": 21692,
       "last_id": 21693,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1577\nNome: \n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação...",
@@ -19981,90 +20112,6 @@
           "role": "ai",
           "content": "André, obrigada por todas as informações! Vou encaminhar seu contato para a Isis, nossa especialista, que vai te apresentar as melhores opções para vocês, agora com 3 vidas em Rio de Janeiro. Ela vai te chamar aqui no WhatsApp em breve.",
           "msg_time": "2026-03-23T12:55:09.945184"
-        }
-      ]
-    },
-    {
-      "session_id": "5521996045813@s.whatsapp.net",
-      "phone": "5521996045813",
-      "phone_display": "+55 21 99604-5813",
-      "lead": {
-        "baserow_id": 1319,
-        "nome": "Elisabete",
-        "email": "bettealves@hotmail.com",
-        "qtd_vidas": "",
-        "desinteresse": true,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Elisabete",
-        "email": "bettealves@hotmail.com",
-        "telefone": "+55 21 99604-5813",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "Elisa",
-        "obs_crm": "",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Elisabete\n📧 E-mail: bettealves@hotmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99604-5813\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n👤 Consultor: Elisa\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "desinteresse",
-      "bot": "preto",
-      "consultor": "Elisa",
-      "message_count": 7,
-      "first_message_at": "2026-03-22T00:00:00.000Z",
-      "last_message_at": "2026-03-22T22:05:57.278000Z",
-      "last_bot_msg_at": "2026-03-22T19:05:51.868221",
-      "tempo_sem_interacao": "1 mês",
-      "first_id": 19863,
-      "last_id": 19970,
-      "last_message_preview": "Pode deixar. Obrigada! É MTA informação só pra me passar alguns preços.",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados Fornecidos\nNome: Elisabete\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o informado\nRegiÃƒÂ£o: NÃƒÂ£o Informado\nPropaganda:\n",
-          "msg_time": "2026-03-22T19:05:51.866041"
-        },
-        {
-          "role": "ai",
-          "content": "Oi Elisabete! Sou o Gilberto da GW9, corretora de planos de saúde. Você pediu nosso contato para saber mais sobre plano de saúde e vi que já possui um CNPJ. Para te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo certo?",
-          "msg_time": "2026-03-22T19:05:51.868221"
-        },
-        {
-          "role": "system",
-          "content": "\n",
-          "msg_time": "2026-03-23T11:01:26.853856"
-        },
-        {
-          "role": "user",
-          "content": "Quais informações vc precisa?",
-          "msg_time": "2026-03-23T11:19:07.297154"
-        },
-        {
-          "role": "system",
-          "content": "\n",
-          "msg_time": "2026-03-23T12:30:48.148426"
-        },
-        {
-          "role": "user",
-          "content": "Pode deixar. Obrigada! É MTA informação só pra me passar alguns preços.",
-          "msg_time": "2026-03-23T12:35:32.588897"
-        },
-        {
-          "role": "system",
-          "content": "Não tenho como te passar valores se nao souber a idade das pessoas...",
-          "msg_time": "2026-03-23T12:50:57.063835"
         }
       ]
     }
