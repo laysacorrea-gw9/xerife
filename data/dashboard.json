@@ -1,17 +1,252 @@
 {
   "meta": {
-    "generated_at": "2026-04-27T20:30:48.566Z",
+    "generated_at": "2026-04-27T20:45:49.421Z",
     "total_conversations": 200,
-    "total_messages": 3372,
+    "total_messages": 3384,
     "stats": {
       "quente": 0,
       "morno": 1,
-      "frio": 10,
-      "desinteresse": 189,
+      "frio": 9,
+      "desinteresse": 190,
       "sem_classificacao": 0
     }
   },
   "conversations": [
+    {
+      "session_id": "5521970399936@s.whatsapp.net",
+      "phone": "5521970399936",
+      "phone_display": "+55 21 97039-9936",
+      "lead": {
+        "baserow_id": 1582,
+        "nome": "Maiane",
+        "email": "",
+        "qtd_vidas": 2,
+        "desinteresse": true,
+        "observacoes": "Maiane",
+        "reagendamento": null,
+        "corretor": "João",
+        "temperatura": "Quente"
+      },
+      "summary": {
+        "nome": "Maiane",
+        "email": "",
+        "telefone": "+55 21 97039-9936",
+        "vidas": [
+          {
+            "idade": 47
+          },
+          {
+            "idade": 41
+          }
+        ],
+        "cidade": "",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "MEI",
+        "profissao": "",
+        "plano_atual": "amil plena 200",
+        "motivo": "Encerramento do plano atual",
+        "interesse": "rede dor",
+        "rede_preferencial": "Barra D'Or",
+        "contato": "WhatsApp",
+        "consultor": "João",
+        "obs_crm": "Maiane",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Maiane\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97039-9936\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nMaiane — 47 anos\nDependente 1 — 41 anos\n\n📋 Dados contratuais:\n\nContratação: CNPJ\nTipo: MEI\n\n🏥 Plano atual: amil plena 200\n🎯 Rede preferencial: Barra D'Or\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\n\n🎯 Interesse: rede dor\n\n⚠️ Observação: Maiane\n👤 Consultor: João\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "desinteresse",
+      "bot": "preto",
+      "consultor": "João",
+      "message_count": 9,
+      "first_message_at": "2026-04-27T00:00:00.000Z",
+      "last_message_at": "2026-04-27T20:34:16.643000Z",
+      "last_bot_msg_at": "2026-04-27T17:34:16.194425",
+      "tempo_sem_interacao": "3h 11min",
+      "first_id": 21758,
+      "last_id": 21767,
+      "last_message_preview": "Obrigada!",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1582\nNome: \n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação de um plano de saúde Barra D'or",
+          "msg_time": "2026-04-27T17:31:18.549698"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-04-27T17:31:18.553158"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1582\nNome: Maiane\n\nMensagem(ns) do cliente:\nMaiane\n2 pessoas \nMei \n47 e 41.",
+          "msg_time": "2026-04-27T17:32:21.924445"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Maiane! Para que eu possa te ajudar da melhor forma, preciso saber em qual cidade você busca atendimento e se tem alguma rede de hospitais preferida. Isso influencia nos valores e opções dos planos.",
+          "msg_time": "2026-04-27T17:32:21.927177"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1582\nNome: Maiane\n\nMensagem(ns) do cliente:\nNós já temos amil plena 200",
+          "msg_time": "2026-04-27T17:32:36.071232"
+        },
+        {
+          "role": "ai",
+          "content": "Obrigada, Maiane! Para finalizar, você poderia me informar quanto paga atualmente pelo plano Amil Plena 200? Isso me ajudará a encontrar a melhor opção para vocês.",
+          "msg_time": "2026-04-27T17:32:36.077789"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1582\nNome: Maiane\n\nMensagem(ns) do cliente:\nQuero ver planos para todo estado RJ e planos nacionais. \nNo mínimo o Vitória e Pasteur. Mas quero ver rede dor e dr Badim.",
+          "msg_time": "2026-04-27T17:34:16.189069"
+        },
+        {
+          "role": "ai",
+          "content": "Maiane, obrigada por todas as informações! Vou encaminhar seu contato para o João, nosso especialista, que vai te apresentar as melhores opções de plano para vocês em todo o estado do RJ. Ele vai te chamar aqui no WhatsApp em breve.",
+          "msg_time": "2026-04-27T17:34:16.194425"
+        },
+        {
+          "role": "user",
+          "content": "Obrigada!",
+          "msg_time": "2026-04-27T17:37:07.724208"
+        }
+      ]
+    },
+    {
+      "session_id": "5521978727471@s.whatsapp.net",
+      "phone": "5521978727471",
+      "phone_display": "+55 21 97872-7471",
+      "lead": {
+        "baserow_id": 665,
+        "nome": "",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": true,
+        "observacoes": "",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": "Frio"
+      },
+      "summary": {
+        "nome": "Não identificado",
+        "email": "",
+        "telefone": "+55 21 97872-7471",
+        "vidas": [],
+        "cidade": "Rio de Janeiro / RJ",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "LTDA",
+        "profissao": "Clínica",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "Rede Dor",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "",
+        "bot": "Não identificado",
+        "formatted": "👤 Cliente: Não identificado\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97872-7471\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: LTDA\nProfissão: Clínica\n\n🎯 Interesse: Rede Dor\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Não identificado"
+      },
+      "status": "desinteresse",
+      "bot": "desconhecido",
+      "consultor": "",
+      "message_count": 17,
+      "first_message_at": "2026-02-04T00:00:00.000Z",
+      "last_message_at": "2026-04-27T20:32:25.309Z",
+      "last_bot_msg_at": "2026-04-27T20:32:25.309Z",
+      "tempo_sem_interacao": "13min",
+      "first_id": 12205,
+      "last_id": 21762,
+      "last_message_preview": "Cliente renata abeya tenho reuniao com\n\nela\n\né laysa?",
+      "messages": [
+        {
+          "role": "system",
+          "content": "Oi \nFaz Amil Bronze + \nCom e sem copart",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "user",
+          "content": "ooi\n\nvou te mandar agora",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "user",
+          "content": "<ContextoPDF>\n  <TranscricaoPDF>\nREDE CREDENCIADA\nBronze Mais\nHOSPITAIS\nZONA NORTE\nRio de Janeiro\n• AmericanCor Hospital - Antigo Nortecor Hospital de Clínica - H\n• Hospital da Criança - Grupo Prontobaby - H/PSI\n• Hospital Ilha do Governador - Antigo Hospital Santa Maria Madalena - H/PS\n• Hospital Pan-Americano - Antigo Casa de Saúde Santa Therezinha - H/PS\n• Hospital Pasteur - Unidade Meier - H/M/PS/PSI\n• Rio Day Hospital - Day Hospital CCA - H\n• TijuTrauma Clínica & Hospital - H/PS\nZONA SUL\nRio de Janeiro\n• AMIU Memorial Infantil Botafogo - Grupo Memorial - H/PSI\n• Centro Avançado de Oftalmologia - H\n• CPL Centro Pediátrico Lagoa - Grupo Prontobaby - H/PSI\n• CSPM Casa de Saúde Pinheiro Machado - H\n• Hospital Ipanema Care - Antigo Hospital Clínica Ipanema - H\n• Santa Lucia Hospital e Maternidade - Grupo Américas Serviços Médicos - H\nZONA OESTE\nRio de Janeiro\n• Amil Espaço Saúde - Unidade Campo Grande - PS/PSI\n• Cemeru Grupo de Saúde - H/PS/PSI\n• Clinipam - Clínica Paranaense de Assist",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "system",
+          "content": "Faz Amil Bronze\n\nE bronze +",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "user",
+          "content": "com e sem copart?",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "system",
+          "content": "Sim",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "user",
+          "content": "<ContextoPDF>\n  <TranscricaoPDF>\nREDE CREDENCIADA\nBronze Mais\nHOSPITAIS\nZONA NORTE\nRio de Janeiro\n• AmericanCor Hospital - Antigo Nortecor Hospital de Clínica - H\n• Hospital da Criança - Grupo Prontobaby - H/PSI\n• Hospital Ilha do Governador - Antigo Hospital Santa Maria Madalena - H/PS\n• Hospital Pan-Americano - Antigo Casa de Saúde Santa Therezinha - H/PS\n• Hospital Pasteur - Unidade Meier - H/M/PS/PSI\n• Rio Day Hospital - Day Hospital CCA - H\n• TijuTrauma Clínica & Hospital - H/PS\nZONA SUL\nRio de Janeiro\n• AMIU Memorial Infantil Botafogo - Grupo Memorial - H/PSI\n• Centro Avançado de Oftalmologia - H\n• CPL Centro Pediátrico Lagoa - Grupo Prontobaby - H/PSI\n• CSPM Casa de Saúde Pinheiro Machado - H\n• Hospital Ipanema Care - Antigo Hospital Clínica Ipanema - H\n• Santa Lucia Hospital e Maternidade - Grupo Américas Serviços Médicos - H\nZONA OESTE\nRio de Janeiro\n• Amil Espaço Saúde - Unidade Campo Grande - PS/PSI\n• Cemeru Grupo de Saúde - H/PS/PSI\n• Clinipam - Clínica Paranaense de Assist",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "system",
+          "content": "Amil bronze + com e sem Copar",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "user",
+          "content": "Blz",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "user",
+          "content": "<ContextoPDF>\n  <TranscricaoPDF>\nREDE CREDENCIADA\nBronze\nHOSPITAIS\nZONA NORTE\nRio de Janeiro\n• AmericanCor Hospital - Antigo Nortecor Hospital de Clínica - H\n• Hospital da Criança - Grupo Prontobaby - H/PSI\n• Hospital Ilha do Governador - Antigo Hospital Santa Maria Madalena - H/PS\n• Hospital Pan-Americano - Antigo Casa de Saúde Santa Therezinha - H/PS\n• Hospital Pasteur - Unidade Meier - H/M/PS/PSI\n• TijuTrauma Clínica & Hospital - H/PS\nZONA SUL\nRio de Janeiro\n• AMIU Memorial Infantil Botafogo - Grupo Memorial - H/PSI\n• CPL Centro Pediátrico Lagoa - Grupo Prontobaby - H/PSI\n• CSPM Casa de Saúde Pinheiro Machado - H\n• Santa Lucia Hospital e Maternidade - Grupo Américas Serviços Médicos - H\nZONA OESTE\nRio de Janeiro\n• Amil Espaço Saúde - Unidade Campo Grande - PS/PSI\n• Cemeru Grupo de Saúde - H/PS/PSI\n• Clínica Pediátrica da Barra - H/PSI\n• CSNSC Casa de Saude Nossa Senhora do Carmo - Grupo Carmo - H/M/PS/PSI\n• Hospital Casa São Bernardo - Grupo Hospital Casa - H\n• Hospital de Clínicas ",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "user",
+          "content": "vou mandar ltda",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "user",
+          "content": "<ContextoPDF>\n  <TranscricaoPDF>\nREDE CREDENCIADA\nS750\nHOSPITAIS\nZONA NORTE\nRio de Janeiro\n• AmericanCor Hospital - Antigo Nortecor Hospital de Clínica - H/PS\n• Day Clinic - H\n• Hospital Badim - Rede Dor São Luiz - H/PS\n• Hospital da Criança - Grupo Prontobaby - H/PSI\n• Hospital Ilha do Governador - Antigo Hospital Santa Maria Madalena - H/PS\n• Hospital Israelita Albert Sabin - Rede Dor São Luiz - H/PS\n• Hospital Norte Dor - Rede Dor São Luiz - H\n• Hospital Pan-Americano - Antigo Casa de Saúde Santa Therezinha - H/PS\n• Hospital Pasteur - Unidade Avançada Tijuca - H/M/PS/PSI\n• Hospital São Francisco na Providência de Deus - Antigo Hospital Ordem Terceira da\nPenitência - H/PS\n• Hospital São Vicente de Paulo - H/PS\n• Hospital Semiu - Alvin & Almeida Grupo Hospitalar - H/PS\n• Rio Day Hospital - Day Hospital CCA - H\n• Septo Otorrinolaringologia - Unidade Tijuca 24 Horas - PS/PA\n• TijuTrauma Clínica & Hospital - H/PS\nZONA SUL\nRio de Janeiro\n• AMIU Memorial Infantil Botafogo - Grupo Memorial ",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "system",
+          "content": "Sim",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "user",
+          "content": "<ContextoPDF>\n  <TranscricaoPDF>\nREDE CREDENCIADA\nBronze Mais\nHOSPITAIS\nZONA NORTE\nRio de Janeiro\n• AmericanCor Hospital - Antigo Nortecor Hospital de Clínica - H\n• Hospital da Criança - Grupo Prontobaby - H/PSI\n• Hospital Ilha do Governador - Antigo Hospital Santa Maria Madalena - H/PS\n• Hospital Pan-Americano - Antigo Casa de Saúde Santa Therezinha - H/PS\n• Hospital Pasteur - Unidade Meier - H/M/PS/PSI\n• Rio Day Hospital - Day Hospital CCA - H\n• TijuTrauma Clínica & Hospital - H/PS\nZONA SUL\nRio de Janeiro\n• AMIU Memorial Infantil Botafogo - Grupo Memorial - H/PSI\n• Centro Avançado de Oftalmologia - H\n• CPL Centro Pediátrico Lagoa - Grupo Prontobaby - H/PSI\n• CSPM Casa de Saúde Pinheiro Machado - H\n• Hospital Ipanema Care - Antigo Hospital Clínica Ipanema - H\n• Santa Lucia Hospital e Maternidade - Grupo Américas Serviços Médicos - H\nZONA OESTE\nRio de Janeiro\n• Amil Espaço Saúde - Unidade Campo Grande - PS/PSI\n• Cemeru Grupo de Saúde - H/PS/PSI\n• Clinipam - Clínica Paranaense de Assist",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "system",
+          "content": "Gessy\n\nPreciso de um help",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "user",
+          "content": "Cliente renata abeya tenho reuniao com\n\nela\n\né laysa?",
+          "msg_time": "2026-03-05T22:36:17.247927"
+        },
+        {
+          "role": "system",
+          "content": "<ContextoImagem>\n\n  <DetalheImagem>\n\n  </DetalheImagem>\n\nContexto Extra: O usuário encaminhou a mensagem a seguir junto á imagem.\n  <MensagemUsuario>\n*Corretor, atualização importante!*\n\n*A comprovação de União Estável* para inclusão de companheiros nos Planos de Saúde e Odonto *poderá ser realizada com apenas UM dos documentos listados na imagem acima*.\n\nNo PRA 360º, você encontra nosso folheto de apoio às vendas, onde reunimos outras adequações de processo alinhadas ao mercado, devidamente sinalizadas para sua consulta.\n\nQualquer dúvida, fale com seu gestor!\n  </MensagemUsuario>\n\n</ContextoImagem>",
+          "msg_time": "2026-04-27T17:32:25.309564"
+        }
+      ]
+    },
     {
       "session_id": "5521960150716@s.whatsapp.net",
       "phone": "5521960150716",
@@ -70,7 +305,7 @@
       "first_message_at": "2026-04-27T00:00:00.000Z",
       "last_message_at": "2026-04-27T20:21:22.913000Z",
       "last_bot_msg_at": "2026-04-27T17:21:22.300966",
-      "tempo_sem_interacao": "3h 9min",
+      "tempo_sem_interacao": "3h 24min",
       "first_id": 21745,
       "last_id": 21757,
       "last_message_preview": "Ok",
@@ -191,7 +426,7 @@
       "first_message_at": "2026-04-27T00:00:00.000Z",
       "last_message_at": "2026-04-27T18:41:48.621000Z",
       "last_bot_msg_at": "2026-04-27T15:41:48.15116",
-      "tempo_sem_interacao": "4h 49min",
+      "tempo_sem_interacao": "5h 4min",
       "first_id": 21730,
       "last_id": 21744,
       "last_message_preview": "Ok",
@@ -322,7 +557,7 @@
       "first_message_at": "2025-12-15T00:00:00.000Z",
       "last_message_at": "2026-04-27T16:45:14.096Z",
       "last_bot_msg_at": "2026-04-27T16:45:14.096Z",
-      "tempo_sem_interacao": "3h 45min",
+      "tempo_sem_interacao": "4h",
       "first_id": 742,
       "last_id": 21729,
       "last_message_preview": "Estou falando ainda com todos\n\nmandei msg p esses sim",
@@ -634,7 +869,7 @@
       "first_message_at": "2026-04-27T00:00:00.000Z",
       "last_message_at": "2026-04-27T15:23:24.413000Z",
       "last_bot_msg_at": "2026-04-27T12:23:23.992622",
-      "tempo_sem_interacao": "8h 7min",
+      "tempo_sem_interacao": "8h 22min",
       "first_id": 21717,
       "last_id": 21728,
       "last_message_preview": "Obrigado Cristina! e vocês possuem plano atualmente?\n\nNão tenho plano de saude",
@@ -849,7 +1084,7 @@
       "first_message_at": "2026-04-27T00:00:00.000Z",
       "last_message_at": "2026-04-27T12:49:03.560000Z",
       "last_bot_msg_at": "2026-04-27T09:49:02.709185",
-      "tempo_sem_interacao": "10h 41min",
+      "tempo_sem_interacao": "10h 56min",
       "first_id": 21694,
       "last_id": 21710,
       "last_message_preview": "OK",
@@ -983,7 +1218,7 @@
       "first_message_at": "2026-04-27T00:00:00.000Z",
       "last_message_at": "2026-04-27T09:08:18.215000Z",
       "last_bot_msg_at": "2026-04-27T06:08:17.849055",
-      "tempo_sem_interacao": "14h 22min",
+      "tempo_sem_interacao": "14h 37min",
       "first_id": 21692,
       "last_id": 21693,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1577\nNome: \n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação...",
@@ -9867,7 +10102,7 @@
       "first_message_at": "2026-04-12T00:00:00.000Z",
       "last_message_at": "2026-04-12T23:32:38.607000Z",
       "last_bot_msg_at": "2026-04-12T20:32:38.056529",
-      "tempo_sem_interacao": "14 dias",
+      "tempo_sem_interacao": "15 dias",
       "first_id": 20926,
       "last_id": 20929,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1502\nNome: Aristóteles Valeriano\n\nMensagem(ns) do cliente:\nEu tenh...",
@@ -19968,171 +20203,6 @@
           "role": "ai",
           "content": "Oi Lorrany! Sou o Gilberto da GW9, corretora de planos de saúde. Você pediu nosso contato para saber mais sobre plano de saúde e vi que já possui um CNPJ. Para te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo certo?",
           "msg_time": "2026-03-23T13:18:51.191741"
-        }
-      ]
-    },
-    {
-      "session_id": "5521992820914@s.whatsapp.net",
-      "phone": "5521992820914",
-      "phone_display": "+55 21 99282-0914",
-      "lead": {
-        "baserow_id": 1324,
-        "nome": "Tatiane",
-        "email": "tatianeborgesparceria@gmail.com",
-        "qtd_vidas": 2,
-        "desinteresse": true,
-        "observacoes": "Tatiane",
-        "reagendamento": null,
-        "corretor": "João",
-        "temperatura": "Quente"
-      },
-      "summary": {
-        "nome": "Tatiane",
-        "email": "tatianeborgesparceria@gmail.com",
-        "telefone": "+55 21 99282-0914",
-        "vidas": [
-          {
-            "idade": 50
-          },
-          {
-            "idade": 52
-          }
-        ],
-        "cidade": "São Gonçalo / RJ",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "MEI",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "Encerramento do plano atual",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "João",
-        "obs_crm": "Tatiane",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Tatiane\n📧 E-mail: tatianeborgesparceria@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99282-0914\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nTatiane — 50 anos\nDependente 1 — 52 anos\n\n📋 Dados contratuais:\n\nCidade: São Gonçalo / RJ\nContratação: CNPJ\nTipo: MEI\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\n\n⚠️ Observação: Tatiane\n👤 Consultor: João\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "desinteresse",
-      "bot": "preto",
-      "consultor": "João",
-      "message_count": 12,
-      "first_message_at": "2026-03-23T00:00:00.000Z",
-      "last_message_at": "2026-03-23T16:02:33.384000Z",
-      "last_bot_msg_at": "2026-03-23T13:02:31.986588",
-      "tempo_sem_interacao": "1 mês",
-      "first_id": 19883,
-      "last_id": 19996,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1324\nNome: Tatiane\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(n...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados Fornecidos\nNome: Tatiane\nContem CNPJ: Sim\nNumero de Vidas: \nOperadora de Interesse: Intermédica, Med Senior, Leve Saude, Porto Seguro\nRegiÃƒÂ£o: NÃƒÂ£o Informado\nPropaganda:\n",
-          "msg_time": "2026-03-23T03:10:51.974636"
-        },
-        {
-          "role": "ai",
-          "content": "Oi Tatiane! Sou o Gilberto da GW9, corretora de planos de saúde. Você pediu nosso contato para saber mais sobre plano de saúde e vi que já possui um CNPJ. Para te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo certo?",
-          "msg_time": "2026-03-23T03:10:51.978975"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1324\nNome: Tatiane\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nEntão interessada eu estou o problema é que eu não tenho seis meses de mei",
-          "msg_time": "2026-03-23T12:56:54.148927"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Tatiane! Compreendo que a situação do MEI pode ser um obstáculo. Vamos encontrar a melhor solução para você. Para seguir adiante, só preciso saber quantas pessoas estarão no plano e suas idades. Pode me informar isso?",
-          "msg_time": "2026-03-23T12:56:54.150835"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1324\nNome: Tatiane\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\n50 e 52 anos duas pessoas",
-          "msg_time": "2026-03-23T12:58:08.309863"
-        },
-        {
-          "role": "ai",
-          "content": "Ótimo, Tatiane! Tenho registrado que você e mais uma pessoa estão interessadas, ambas com 50 e 52 anos. Para prosseguir, só preciso saber em qual cidade vocês irão utilizar o plano. Isso é fundamental para encontrar as melhores opções disponíveis.",
-          "msg_time": "2026-03-23T12:58:08.313754"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1324\nNome: Tatiane\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nSão Gonçalo Rio de janeiro",
-          "msg_time": "2026-03-23T12:59:06.56697"
-        },
-        {
-          "role": "ai",
-          "content": "Perfeito, Tatiane! Agora que temos que vocês estão em São Gonçalo, Rio de Janeiro, só falta confirmar como o plano será contratado: vai ser por CNPJ (MEI) ou você tem outra opção em mente?",
-          "msg_time": "2026-03-23T12:59:06.569918"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1324\nNome: Tatiane\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nSeria por Mei",
-          "msg_time": "2026-03-23T13:00:16.680888"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Tatiane! Então temos as seguintes informações:\n\n- **Nomes:** Tatiane e mais uma pessoa\n- **Idades:** 50 e 52 anos\n- **Cidade:** São Gonçalo, Rio de Janeiro\n- **Tipo de contratação:** CNPJ (MEI)\n\nPara finalizar, você já possui um plano de saúde atualmente? Se sim, pode me contar qual e quanto paga? Essa informação nos ajudará a encontrar a melhor opção para você.",
-          "msg_time": "2026-03-23T13:00:16.683726"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1324\nNome: Tatiane\nVidas: \nCidade: \nTipo Contratação: \n\nMensagem(ns) do cliente:\nEu tinha mas era do do meu marido mas da empresa fechou aí agora a gente não tem mais era o Hapvida nortedrame",
-          "msg_time": "2026-03-23T13:02:31.985383"
-        },
-        {
-          "role": "ai",
-          "content": "Tatiane, obrigada por todas as informações! Vou encaminhar seu contato para o João, nosso especialista, que vai te apresentar as melhores opções de plano para vocês duas em São Gonçalo. Ele vai te chamar aqui no WhatsApp em breve. 😊",
-          "msg_time": "2026-03-23T13:02:31.986588"
-        }
-      ]
-    },
-    {
-      "session_id": "552191405276@s.whatsapp.net",
-      "phone": "552191405276",
-      "phone_display": "+55 21 9140-5276",
-      "lead": null,
-      "summary": {
-        "nome": "Vania",
-        "email": "",
-        "telefone": "+55 21 9140-5276",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Vania\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 9140-5276\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "frio",
-      "bot": "preto",
-      "consultor": "",
-      "message_count": 2,
-      "first_message_at": "2026-03-23T16:00:51.856Z",
-      "last_message_at": "2026-03-23T16:00:51.859Z",
-      "last_bot_msg_at": "2026-03-23T13:00:51.859159",
-      "tempo_sem_interacao": "1 mês",
-      "first_id": 19985,
-      "last_id": 19986,
-      "last_message_preview": "Dados Fornecidos\nNome: Vania\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o infor...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados Fornecidos\nNome: Vania\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o informado\nRegiÃƒÂ£o: NÃƒÂ£o Informado\nPropaganda:\n",
-          "msg_time": "2026-03-23T13:00:51.856265"
-        },
-        {
-          "role": "ai",
-          "content": "Oi Vania! Sou o Gilberto da GW9, corretora de planos de saúde. Você pediu nosso contato para saber mais sobre plano de saúde e vi que já possui um CNPJ. Para te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo certo?",
-          "msg_time": "2026-03-23T13:00:51.859159"
         }
       ]
     }
