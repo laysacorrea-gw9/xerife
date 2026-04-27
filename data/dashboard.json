@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-04-27T12:45:48.645Z",
+    "generated_at": "2026-04-27T13:00:49.892Z",
     "total_conversations": 200,
-    "total_messages": 3349,
+    "total_messages": 3358,
     "stats": {
       "quente": 1,
-      "morno": 2,
+      "morno": 1,
       "frio": 28,
-      "desinteresse": 169,
+      "desinteresse": 170,
       "sem_classificacao": 0
     }
   },
@@ -21,43 +21,43 @@
         "nome": "antoniocnv1",
         "email": "",
         "qtd_vidas": "",
-        "desinteresse": false,
+        "desinteresse": true,
         "observacoes": "antoniocnv1",
         "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
+        "corretor": "João",
+        "temperatura": "Quente"
       },
       "summary": {
         "nome": "antoniocnv1",
         "email": "",
         "telefone": "+55 21 9998-0801",
         "vidas": [],
-        "cidade": "",
+        "cidade": "Rio de Janeiro / RJ",
         "contratacao": "CNPJ",
         "cnpj": "",
         "tipo_empresa": "",
         "profissao": "",
         "plano_atual": "",
-        "motivo": "",
+        "motivo": "Encerramento do plano atual",
         "interesse": "",
         "rede_preferencial": "",
         "contato": "WhatsApp",
-        "consultor": "",
+        "consultor": "João",
         "obs_crm": "antoniocnv1",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: antoniocnv1\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 9998-0801\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n\n⚠️ Observação: antoniocnv1\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: antoniocnv1\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 9998-0801\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\n\n⚠️ Observação: antoniocnv1\n👤 Consultor: João\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
       },
-      "status": "morno",
+      "status": "desinteresse",
       "bot": "preto",
-      "consultor": "",
-      "message_count": 8,
+      "consultor": "João",
+      "message_count": 17,
       "first_message_at": "2026-04-27T00:00:00.000Z",
-      "last_message_at": "2026-04-27T12:45:21.588000Z",
-      "last_bot_msg_at": "2026-04-27T09:45:21.096253",
-      "tempo_sem_interacao": "3h",
+      "last_message_at": "2026-04-27T12:49:03.560000Z",
+      "last_bot_msg_at": "2026-04-27T09:49:02.709185",
+      "tempo_sem_interacao": "3h 11min",
       "first_id": 21694,
-      "last_id": 21701,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1578\nNome: antoniocnv1\n\nMensagem(ns) do cliente:\nEU 54 ANOS , MINH...",
+      "last_id": 21710,
+      "last_message_preview": "OK",
       "messages": [
         {
           "role": "user",
@@ -98,6 +98,51 @@
           "role": "ai",
           "content": "Entendi, Antônio! Agora, qual é a cidade e o estado onde você pretende utilizar o plano de saúde? Se tiver algum hospital de sua preferência, também nos ajuda a encontrar o plano que atenda melhor vocês.",
           "msg_time": "2026-04-27T09:45:21.096253"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1578\nNome: antoniocnv1\n\nMensagem(ns) do cliente:\nRIO DE JANEIRO - RJ",
+          "msg_time": "2026-04-27T09:45:57.364885"
+        },
+        {
+          "role": "ai",
+          "content": "Perfeito, Antônio! E só para confirmar, como o plano será contratado: é empresarial por CNPJ? Se puder me informar o número do CNPJ, será ótimo, mas se não tiver, só preciso saber que é CNPJ mesmo.",
+          "msg_time": "2026-04-27T09:45:57.36856"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1578\nNome: antoniocnv1\n\nMensagem(ns) do cliente:\nSIM",
+          "msg_time": "2026-04-27T09:46:37.487858"
+        },
+        {
+          "role": "ai",
+          "content": "Ótimo, Antônio! Para finalizar, você já possui um plano de saúde atualmente? Se sim, qual e quanto paga hoje? Isso vai me ajudar a encontrar a melhor opção para vocês.",
+          "msg_time": "2026-04-27T09:46:37.491573"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1578\nNome: antoniocnv1\n\nMensagem(ns) do cliente:\nSIM",
+          "msg_time": "2026-04-27T09:48:03.096849"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Antônio! Qual é o nome do seu plano atual e quanto você paga por ele? Isso me ajudará a te oferecer as melhores opções disponíveis.",
+          "msg_time": "2026-04-27T09:48:03.103713"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1578\nNome: antoniocnv1\n\nMensagem(ns) do cliente:\nPAGO 2100 , MAS TEVE REAJUSTE E ESSE MÊS FOI PARA 2600\n\nPORTO SEGURO",
+          "msg_time": "2026-04-27T09:49:02.704512"
+        },
+        {
+          "role": "ai",
+          "content": "Antonio, obrigada por todas as informações! Vou encaminhar seu contato para o João, nosso especialista, que vai te apresentar as melhores opções de plano para vocês com 3 vidas no Rio de Janeiro. Ele vai te chamar aqui no WhatsApp em breve.",
+          "msg_time": "2026-04-27T09:49:02.709185"
+        },
+        {
+          "role": "user",
+          "content": "OK",
+          "msg_time": "2026-04-27T09:49:42.63236"
         }
       ]
     },
@@ -143,7 +188,7 @@
       "first_message_at": "2026-04-27T00:00:00.000Z",
       "last_message_at": "2026-04-27T09:08:18.215000Z",
       "last_bot_msg_at": "2026-04-27T06:08:17.849055",
-      "tempo_sem_interacao": "6h 37min",
+      "tempo_sem_interacao": "6h 52min",
       "first_id": 21692,
       "last_id": 21693,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1577\nNome: \n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação...",
