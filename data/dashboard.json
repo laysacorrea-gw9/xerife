@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_at": "2026-04-29T11:15:47.789Z",
+    "generated_at": "2026-04-29T11:30:47.671Z",
     "total_conversations": 200,
-    "total_messages": 3382,
+    "total_messages": 3383,
     "stats": {
       "quente": 0,
       "morno": 1,
@@ -12,6 +12,117 @@
     }
   },
   "conversations": [
+    {
+      "session_id": "5521966422091@s.whatsapp.net",
+      "phone": "5521966422091",
+      "phone_display": "+55 21 96642-2091",
+      "lead": {
+        "baserow_id": 1564,
+        "nome": "fabi gourmet",
+        "email": "",
+        "qtd_vidas": 2,
+        "desinteresse": true,
+        "observacoes": "fabi gourmet",
+        "reagendamento": null,
+        "corretor": "Isis",
+        "temperatura": "Quente"
+      },
+      "summary": {
+        "nome": "fabi gourmet",
+        "email": "",
+        "telefone": "+55 21 96642-2091",
+        "vidas": [
+          {
+            "idade": 50
+          },
+          {
+            "idade": 59
+          }
+        ],
+        "cidade": "",
+        "contratacao": "",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "rede dor",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "Isis",
+        "obs_crm": "fabi gourmet",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: fabi gourmet\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96642-2091\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nfabi gourmet — 50 anos\nDependente 1 — 59 anos\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: rede dor\n\n⚠️ Observação: fabi gourmet\n👤 Consultor: Isis\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "desinteresse",
+      "bot": "preto",
+      "consultor": "Isis",
+      "message_count": 11,
+      "first_message_at": "2026-04-24T00:00:00.000Z",
+      "last_message_at": "2026-04-24T21:30:09.325000Z",
+      "last_bot_msg_at": "2026-04-24T18:30:08.350097",
+      "tempo_sem_interacao": "4 dias",
+      "first_id": 21554,
+      "last_id": 21838,
+      "last_message_preview": "Esse plano e da rede dor",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1564\nNome: \n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação de um plano de saúde dor",
+          "msg_time": "2026-04-24T18:27:44.56081"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. \n\nQual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-04-24T18:27:44.564641"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1564\nNome: fabi gourmet\n\nMensagem(ns) do cliente:\nBoa noite me chamo Fabiana 4 pessoas de 50,59,15e18",
+          "msg_time": "2026-04-24T18:30:08.345177"
+        },
+        {
+          "role": "ai",
+          "content": "Fabiana, obrigada por todas as informações! Vou encaminhar seu contato para a Isis, nossa especialista, que vai te apresentar as melhores opções de plano para vocês (4 pessoas). Ela vai te chamar aqui no WhatsApp em breve.",
+          "msg_time": "2026-04-24T18:30:08.350097"
+        },
+        {
+          "role": "user",
+          "content": "Ok",
+          "msg_time": "2026-04-24T18:42:23.388697"
+        },
+        {
+          "role": "user",
+          "content": "Esse plano e da rede dor",
+          "msg_time": "2026-04-24T18:42:38.90507"
+        },
+        {
+          "role": "system",
+          "content": "Olá Fabi\n\nBom dia",
+          "msg_time": "2026-04-27T11:10:40.762257"
+        },
+        {
+          "role": "system",
+          "content": "Sim , umas das opções é o plano da Rede Dor , essa solução é distribuída pela Seguradora Sulamerica e dependendo do plano de escolha vai atender em 100% da Rede Dor ( incluindo consultas exames e internações )",
+          "msg_time": "2026-04-27T11:15:16.715229"
+        },
+        {
+          "role": "system",
+          "content": "Deixa eu te fazer algumas perguntas para analisarmos se dá para encaixar a solução da Rede Dor e se faz sentido seguir por esse caminho , ok ?",
+          "msg_time": "2026-04-27T11:16:09.06126"
+        },
+        {
+          "role": "system",
+          "content": "Vcs são MEI , correto ?\n\nTem plano ativo ? Se sim , qual ? \n\nQuais unidades hospitalares vcs tem predileção ?",
+          "msg_time": "2026-04-27T11:17:06.065172"
+        },
+        {
+          "role": "system",
+          "content": "Bom dia Fabi\n\nVamos retomar o tema ?",
+          "msg_time": "2026-04-29T08:19:49.915931"
+        }
+      ]
+    },
     {
       "session_id": "5521994211372@s.whatsapp.net",
       "phone": "5521994211372",
@@ -54,7 +165,7 @@
       "first_message_at": "2026-04-29T00:00:00.000Z",
       "last_message_at": "2026-04-29T08:58:42.914000Z",
       "last_bot_msg_at": "2026-04-29T05:58:42.614719",
-      "tempo_sem_interacao": "5h 17min",
+      "tempo_sem_interacao": "5h 32min",
       "first_id": 21836,
       "last_id": 21837,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1590\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -113,7 +224,7 @@
       "first_message_at": "2026-04-29T00:00:00.000Z",
       "last_message_at": "2026-04-29T08:32:13.981000Z",
       "last_bot_msg_at": "2026-04-29T05:32:13.592118",
-      "tempo_sem_interacao": "5h 43min",
+      "tempo_sem_interacao": "5h 58min",
       "first_id": 21834,
       "last_id": 21835,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1589\nNome: \n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação...",
@@ -172,7 +283,7 @@
       "first_message_at": "2026-04-28T00:00:00.000Z",
       "last_message_at": "2026-04-28T20:19:00.872000Z",
       "last_bot_msg_at": "2026-04-28T17:18:59.858882",
-      "tempo_sem_interacao": "17h 56min",
+      "tempo_sem_interacao": "18h 11min",
       "first_id": 21813,
       "last_id": 21833,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1587\nNome: Célio\n\nMensagem(ns) do cliente:\nOlha aí, meu amigo, boa...",
@@ -397,7 +508,7 @@
       "first_message_at": "2026-04-28T00:00:00.000Z",
       "last_message_at": "2026-04-28T18:33:15.621000Z",
       "last_bot_msg_at": "2026-04-28T15:33:15.10209",
-      "tempo_sem_interacao": "19h 42min",
+      "tempo_sem_interacao": "19h 57min",
       "first_id": 21827,
       "last_id": 21828,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1588\nNome: \n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação...",
@@ -2376,112 +2487,6 @@
           "role": "system",
           "content": "Cristina, obrigada por todas as informações! Vou encaminhar seu contato para o João, nosso especialista, que vai te apresentar as melhores opções de plano para vocês em Rio de Janeiro. Ela vai te chamar aqui no WhatsApp em breve.",
           "msg_time": "2026-04-27T12:24:31.544369"
-        }
-      ]
-    },
-    {
-      "session_id": "5521966422091@s.whatsapp.net",
-      "phone": "5521966422091",
-      "phone_display": "+55 21 96642-2091",
-      "lead": {
-        "baserow_id": 1564,
-        "nome": "fabi gourmet",
-        "email": "",
-        "qtd_vidas": 2,
-        "desinteresse": true,
-        "observacoes": "fabi gourmet",
-        "reagendamento": null,
-        "corretor": "Isis",
-        "temperatura": "Quente"
-      },
-      "summary": {
-        "nome": "fabi gourmet",
-        "email": "",
-        "telefone": "+55 21 96642-2091",
-        "vidas": [
-          {
-            "idade": 50
-          },
-          {
-            "idade": 59
-          }
-        ],
-        "cidade": "",
-        "contratacao": "",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "rede dor",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "Isis",
-        "obs_crm": "fabi gourmet",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: fabi gourmet\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96642-2091\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nfabi gourmet — 50 anos\nDependente 1 — 59 anos\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: rede dor\n\n⚠️ Observação: fabi gourmet\n👤 Consultor: Isis\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "desinteresse",
-      "bot": "preto",
-      "consultor": "Isis",
-      "message_count": 10,
-      "first_message_at": "2026-04-24T00:00:00.000Z",
-      "last_message_at": "2026-04-24T21:30:09.325000Z",
-      "last_bot_msg_at": "2026-04-24T18:30:08.350097",
-      "tempo_sem_interacao": "4 dias",
-      "first_id": 21554,
-      "last_id": 21716,
-      "last_message_preview": "Esse plano e da rede dor",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1564\nNome: \n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação de um plano de saúde dor",
-          "msg_time": "2026-04-24T18:27:44.56081"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. \n\nQual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
-          "msg_time": "2026-04-24T18:27:44.564641"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1564\nNome: fabi gourmet\n\nMensagem(ns) do cliente:\nBoa noite me chamo Fabiana 4 pessoas de 50,59,15e18",
-          "msg_time": "2026-04-24T18:30:08.345177"
-        },
-        {
-          "role": "ai",
-          "content": "Fabiana, obrigada por todas as informações! Vou encaminhar seu contato para a Isis, nossa especialista, que vai te apresentar as melhores opções de plano para vocês (4 pessoas). Ela vai te chamar aqui no WhatsApp em breve.",
-          "msg_time": "2026-04-24T18:30:08.350097"
-        },
-        {
-          "role": "user",
-          "content": "Ok",
-          "msg_time": "2026-04-24T18:42:23.388697"
-        },
-        {
-          "role": "user",
-          "content": "Esse plano e da rede dor",
-          "msg_time": "2026-04-24T18:42:38.90507"
-        },
-        {
-          "role": "system",
-          "content": "Olá Fabi\n\nBom dia",
-          "msg_time": "2026-04-27T11:10:40.762257"
-        },
-        {
-          "role": "system",
-          "content": "Sim , umas das opções é o plano da Rede Dor , essa solução é distribuída pela Seguradora Sulamerica e dependendo do plano de escolha vai atender em 100% da Rede Dor ( incluindo consultas exames e internações )",
-          "msg_time": "2026-04-27T11:15:16.715229"
-        },
-        {
-          "role": "system",
-          "content": "Deixa eu te fazer algumas perguntas para analisarmos se dá para encaixar a solução da Rede Dor e se faz sentido seguir por esse caminho , ok ?",
-          "msg_time": "2026-04-27T11:16:09.06126"
-        },
-        {
-          "role": "system",
-          "content": "Vcs são MEI , correto ?\n\nTem plano ativo ? Se sim , qual ? \n\nQuais unidades hospitalares vcs tem predileção ?",
-          "msg_time": "2026-04-27T11:17:06.065172"
         }
       ]
     },
@@ -5064,7 +5069,7 @@
       "first_message_at": "2026-04-23T00:00:00.000Z",
       "last_message_at": "2026-04-23T14:16:13.651000Z",
       "last_bot_msg_at": "2026-04-23T11:16:12.79531",
-      "tempo_sem_interacao": "5 dias",
+      "tempo_sem_interacao": "6 dias",
       "first_id": 21451,
       "last_id": 21462,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1555\nNome: Henrique\n\nMensagem(ns) do cliente:\nSim\n\n4100",
@@ -7130,7 +7135,7 @@
       "first_message_at": "2026-04-20T00:00:00.000Z",
       "last_message_at": "2026-04-20T14:26:40.529000Z",
       "last_bot_msg_at": "2026-04-20T11:26:39.986774",
-      "tempo_sem_interacao": "8 dias",
+      "tempo_sem_interacao": "9 dias",
       "first_id": 21283,
       "last_id": 21306,
       "last_message_preview": "Gosto de falar",
