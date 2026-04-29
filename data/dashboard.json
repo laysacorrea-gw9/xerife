@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-04-29T16:30:48.429Z",
+    "generated_at": "2026-04-29T16:45:48.606Z",
     "total_conversations": 200,
-    "total_messages": 3403,
+    "total_messages": 3406,
     "stats": {
       "quente": 0,
-      "morno": 2,
+      "morno": 1,
       "frio": 10,
-      "desinteresse": 188,
+      "desinteresse": 189,
       "sem_classificacao": 0
     }
   },
@@ -21,11 +21,11 @@
         "nome": "vitoria goulart",
         "email": "",
         "qtd_vidas": "",
-        "desinteresse": false,
+        "desinteresse": true,
         "observacoes": "vitoria goulart",
         "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
+        "corretor": "Isis",
+        "temperatura": "Quente"
       },
       "summary": {
         "nome": "vitoria goulart",
@@ -42,22 +42,22 @@
         "interesse": "Barra D'or",
         "rede_preferencial": "Barra D'Or, Hospital Barra",
         "contato": "WhatsApp",
-        "consultor": "",
+        "consultor": "Isis",
         "obs_crm": "vitoria goulart",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: vitoria goulart\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98818-7470\n\n📋 Dados contratuais:\n\nCidade: Barra da Tijuca\nContratação: CNPJ\nTipo: MEI\n🎯 Rede preferencial: Barra D'Or, Hospital Barra\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\n\n🎯 Interesse: Barra D'or\n\n⚠️ Observação: vitoria goulart\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: vitoria goulart\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98818-7470\n\n📋 Dados contratuais:\n\nCidade: Barra da Tijuca\nContratação: CNPJ\nTipo: MEI\n🎯 Rede preferencial: Barra D'Or, Hospital Barra\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\n\n🎯 Interesse: Barra D'or\n\n⚠️ Observação: vitoria goulart\n👤 Consultor: Isis\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
       },
-      "status": "morno",
+      "status": "desinteresse",
       "bot": "preto",
-      "consultor": "",
-      "message_count": 10,
+      "consultor": "Isis",
+      "message_count": 13,
       "first_message_at": "2026-04-29T00:00:00.000Z",
-      "last_message_at": "2026-04-29T16:30:08.143000Z",
-      "last_bot_msg_at": "2026-04-29T13:30:07.236639",
-      "tempo_sem_interacao": "3h",
+      "last_message_at": "2026-04-29T16:31:22.523000Z",
+      "last_bot_msg_at": "2026-04-29T13:31:22.146941",
+      "tempo_sem_interacao": "3h 14min",
       "first_id": 21855,
-      "last_id": 21864,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1591\nNome: vitoria goulart\n\nMensagem(ns) do cliente:\nempresaria",
+      "last_id": 21867,
+      "last_message_preview": "ok",
       "messages": [
         {
           "role": "user",
@@ -108,6 +108,21 @@
           "role": "ai",
           "content": "Entendi, Vitória! Agora, para finalizar: você já possui plano de saúde atualmente? Se sim, qual e quanto paga hoje? Isso me ajuda a encontrar o melhor equilíbrio entre custo e acesso para você.",
           "msg_time": "2026-04-29T13:30:07.236639"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1591\nNome: vitoria goulart\n\nMensagem(ns) do cliente:\namep\n\n170,00",
+          "msg_time": "2026-04-29T13:31:22.143144"
+        },
+        {
+          "role": "ai",
+          "content": "Vitória, obrigada por todas as informações! Vou encaminhar seu contato para a Isis, nossa especialista, que vai te apresentar as melhores opções de plano para você na Barra da Tijuca. Ela vai te chamar aqui no WhatsApp em breve!",
+          "msg_time": "2026-04-29T13:31:22.146941"
+        },
+        {
+          "role": "user",
+          "content": "ok",
+          "msg_time": "2026-04-29T13:32:41.280222"
         }
       ]
     },
@@ -153,7 +168,7 @@
       "first_message_at": "2026-04-29T00:00:00.000Z",
       "last_message_at": "2026-04-29T15:46:17.800000Z",
       "last_bot_msg_at": "2026-04-29T12:46:16.897226",
-      "tempo_sem_interacao": "3h 44min",
+      "tempo_sem_interacao": "3h 59min",
       "first_id": 21834,
       "last_id": 21854,
       "last_message_preview": "Eu tinha a Leve mais as coisas apertaram não consegui prosseguir com ele",
@@ -297,7 +312,7 @@
       "first_message_at": "2025-12-15T00:00:00.000Z",
       "last_message_at": "2026-04-29T15:45:08.897Z",
       "last_bot_msg_at": "2026-04-29T15:45:08.897Z",
-      "tempo_sem_interacao": "45min",
+      "tempo_sem_interacao": "1h",
       "first_id": 1156,
       "last_id": 21851,
       "last_message_preview": "<ContextoPDF>\n  <TranscricaoPDF>\nDemonstrativo Analítico de Faturamento\n \nEmissão: 13/03/2026\nPágina...",
@@ -587,7 +602,7 @@
       "first_message_at": "2026-04-29T00:00:00.000Z",
       "last_message_at": "2026-04-29T08:58:42.914000Z",
       "last_bot_msg_at": "2026-04-29T05:58:42.614719",
-      "tempo_sem_interacao": "10h 32min",
+      "tempo_sem_interacao": "10h 47min",
       "first_id": 21836,
       "last_id": 21837,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1590\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -646,7 +661,7 @@
       "first_message_at": "2026-04-28T00:00:00.000Z",
       "last_message_at": "2026-04-28T20:19:00.872000Z",
       "last_bot_msg_at": "2026-04-28T17:18:59.858882",
-      "tempo_sem_interacao": "23h 11min",
+      "tempo_sem_interacao": "23h 26min",
       "first_id": 21813,
       "last_id": 21833,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1587\nNome: Célio\n\nMensagem(ns) do cliente:\nOlha aí, meu amigo, boa...",
