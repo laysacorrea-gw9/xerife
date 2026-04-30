@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-04-30T22:00:49.157Z",
+    "generated_at": "2026-04-30T22:15:48.368Z",
     "total_conversations": 200,
-    "total_messages": 3436,
+    "total_messages": 3438,
     "stats": {
       "quente": 0,
-      "morno": 1,
+      "morno": 0,
       "frio": 10,
-      "desinteresse": 189,
+      "desinteresse": 190,
       "sem_classificacao": 0
     }
   },
@@ -21,11 +21,11 @@
         "nome": "Tiago",
         "email": "",
         "qtd_vidas": "",
-        "desinteresse": false,
+        "desinteresse": true,
         "observacoes": "Tiago",
         "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
+        "corretor": "Isis",
+        "temperatura": "Quente"
       },
       "summary": {
         "nome": "Tiago",
@@ -42,22 +42,22 @@
         "interesse": "",
         "rede_preferencial": "",
         "contato": "WhatsApp",
-        "consultor": "",
+        "consultor": "Isis",
         "obs_crm": "Tiago",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Tiago\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96555-3743\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\n\n⚠️ Observação: Tiago\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Tiago\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96555-3743\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\n\n⚠️ Observação: Tiago\n👤 Consultor: Isis\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
       },
-      "status": "morno",
+      "status": "desinteresse",
       "bot": "preto",
-      "consultor": "",
-      "message_count": 12,
+      "consultor": "Isis",
+      "message_count": 14,
       "first_message_at": "2026-04-30T00:00:00.000Z",
-      "last_message_at": "2026-04-30T21:51:21.705000Z",
-      "last_bot_msg_at": "2026-04-30T18:51:20.860291",
-      "tempo_sem_interacao": "3h 9min",
+      "last_message_at": "2026-04-30T22:05:20.046000Z",
+      "last_bot_msg_at": "2026-04-30T19:05:19.464354",
+      "tempo_sem_interacao": "3h 10min",
       "first_id": 21905,
-      "last_id": 21916,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1594\nNome: Tiago\n\nMensagem(ns) do cliente:\nEmpresário",
+      "last_id": 21918,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1594\nNome: Tiago\n\nMensagem(ns) do cliente:\nNão, eu tinha um da Not...",
       "messages": [
         {
           "role": "user",
@@ -118,6 +118,16 @@
           "role": "ai",
           "content": "Para finalizar, você já possui um plano de saúde atualmente? Se sim, qual e quanto paga hoje? Assim, poderei encontrar o melhor equilíbrio entre custo e acesso para você.",
           "msg_time": "2026-04-30T18:51:20.860291"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1594\nNome: Tiago\n\nMensagem(ns) do cliente:\nNão, eu tinha um da Notre Dame, mas eu não tô mais com ele não.",
+          "msg_time": "2026-04-30T19:05:19.460253"
+        },
+        {
+          "role": "ai",
+          "content": "Tiago, obrigada por todas as informações! Vou encaminhar seu contato para a Isis, nossa especialista, que vai te apresentar as melhores opções de planos de saúde. Ela vai te chamar aqui no WhatsApp em breve. Se precisar de algo mais, estou à disposição!",
+          "msg_time": "2026-04-30T19:05:19.464354"
         }
       ]
     },
@@ -163,7 +173,7 @@
       "first_message_at": "2026-04-30T00:00:00.000Z",
       "last_message_at": "2026-04-30T18:18:32.611000Z",
       "last_bot_msg_at": "2026-04-30T15:18:32.226688",
-      "tempo_sem_interacao": "6h 42min",
+      "tempo_sem_interacao": "6h 57min",
       "first_id": 21881,
       "last_id": 21904,
       "last_message_preview": "Sem internação ou cirurgia",
@@ -7174,7 +7184,7 @@
       "first_message_at": "2026-04-21T00:00:00.000Z",
       "last_message_at": "2026-04-22T01:15:14.854000Z",
       "last_bot_msg_at": "2026-04-21T22:15:14.454661",
-      "tempo_sem_interacao": "8 dias",
+      "tempo_sem_interacao": "9 dias",
       "first_id": 21341,
       "last_id": 21364,
       "last_message_preview": "Seis anos de contrato.",
