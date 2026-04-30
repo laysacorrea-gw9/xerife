@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-04-30T00:15:48.206Z",
+    "generated_at": "2026-04-30T00:30:48.242Z",
     "total_conversations": 200,
-    "total_messages": 3408,
+    "total_messages": 3417,
     "stats": {
       "quente": 0,
       "morno": 1,
-      "frio": 10,
-      "desinteresse": 189,
+      "frio": 9,
+      "desinteresse": 190,
       "sem_classificacao": 0
     }
   },
@@ -20,44 +20,51 @@
         "baserow_id": 1592,
         "nome": "Valeria Rodrigues",
         "email": "",
-        "qtd_vidas": "",
-        "desinteresse": false,
+        "qtd_vidas": 2,
+        "desinteresse": true,
         "observacoes": "Valeria Rodrigues",
         "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
+        "corretor": "Elisa",
+        "temperatura": "Quente"
       },
       "summary": {
         "nome": "Valeria Rodrigues",
         "email": "",
         "telefone": "+55 21 97698-2121",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "",
+        "vidas": [
+          {
+            "idade": 60
+          },
+          {
+            "idade": 15
+          }
+        ],
+        "cidade": "Niterói / RJ",
+        "contratacao": "CNPJ",
         "cnpj": "",
-        "tipo_empresa": "",
+        "tipo_empresa": "MEI",
         "profissao": "",
         "plano_atual": "",
-        "motivo": "",
+        "motivo": "Encerramento do plano atual",
         "interesse": "Amil",
         "rede_preferencial": "",
         "contato": "WhatsApp",
-        "consultor": "",
+        "consultor": "Elisa",
         "obs_crm": "Valeria Rodrigues",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Valeria Rodrigues\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97698-2121\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Valeria Rodrigues\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Valeria Rodrigues\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97698-2121\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nValeria Rodrigues — 60 anos\nDependente 1 — 15 anos\n\n📋 Dados contratuais:\n\nCidade: Niterói / RJ\nContratação: CNPJ\nTipo: MEI\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Valeria Rodrigues\n👤 Consultor: Elisa\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
       },
-      "status": "frio",
+      "status": "desinteresse",
       "bot": "preto",
-      "consultor": "",
-      "message_count": 2,
+      "consultor": "Elisa",
+      "message_count": 11,
       "first_message_at": "2026-04-29T00:00:00.000Z",
-      "last_message_at": "2026-04-30T00:13:45.214000Z",
-      "last_bot_msg_at": "2026-04-29T21:13:44.812205",
-      "tempo_sem_interacao": "3h 2min",
+      "last_message_at": "2026-04-30T00:26:36.484000Z",
+      "last_bot_msg_at": "2026-04-29T21:26:36.101037",
+      "tempo_sem_interacao": "3h 4min",
       "first_id": 21870,
-      "last_id": 21871,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1592\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
+      "last_id": 21880,
+      "last_message_preview": "Ok",
       "messages": [
         {
           "role": "user",
@@ -68,6 +75,51 @@
           "role": "ai",
           "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
           "msg_time": "2026-04-29T21:13:44.812205"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1592\nNome: Valeria Rodrigues\n\nMensagem(ns) do cliente:\nOk boa noite, 60 anos e 15 anos meu nome Valéria Rodrigues",
+          "msg_time": "2026-04-29T21:23:24.247079"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Valéria! Para confirmar, são apenas você (60 anos) e outra pessoa (15 anos) no plano. Agora, preciso saber: em qual cidade você busca atendimento? Se tiver algum hospital de sua preferência, isso também ajuda a encontrar o plano ideal.",
+          "msg_time": "2026-04-29T21:23:24.248964"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1592\nNome: Valeria Rodrigues\n\nMensagem(ns) do cliente:\nNiterói RJ",
+          "msg_time": "2026-04-29T21:24:36.791759"
+        },
+        {
+          "role": "ai",
+          "content": "Obrigada, Valéria! Agora, como o plano será contratado: empresarial por CNPJ MEI ou LTDA? Se você não tiver, tudo bem, só preciso saber se é MEI ou LTDA.",
+          "msg_time": "2026-04-29T21:24:36.799722"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1592\nNome: Valeria Rodrigues\n\nMensagem(ns) do cliente:\nCNPJ",
+          "msg_time": "2026-04-29T21:25:32.415158"
+        },
+        {
+          "role": "ai",
+          "content": "Ótimo, Valéria! Para finalizar, você já possui plano de saúde atualmente? Se sim, qual e quanto paga hoje? Isso me ajudará a encontrar a melhor opção para você e a pessoa de 15 anos.",
+          "msg_time": "2026-04-29T21:25:32.416779"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1592\nNome: Valeria Rodrigues\n\nMensagem(ns) do cliente:\nNão",
+          "msg_time": "2026-04-29T21:26:36.099217"
+        },
+        {
+          "role": "ai",
+          "content": "Valéria, obrigada por todas as informações! Vou encaminhar seu contato para a Elisa, nossa especialista, que vai te apresentar as melhores opções de plano para vocês duas em Niterói, RJ. Ela vai te chamar aqui no WhatsApp em breve.",
+          "msg_time": "2026-04-29T21:26:36.101037"
+        },
+        {
+          "role": "user",
+          "content": "Ok",
+          "msg_time": "2026-04-29T21:27:27.227345"
         }
       ]
     },
@@ -123,7 +175,7 @@
       "first_message_at": "2025-12-15T00:00:00.000Z",
       "last_message_at": "2026-04-29T20:10:35.134Z",
       "last_bot_msg_at": "2026-04-29T20:10:35.134Z",
-      "tempo_sem_interacao": "4h 5min",
+      "tempo_sem_interacao": "4h 20min",
       "first_id": 1156,
       "last_id": 21869,
       "last_message_preview": "<ContextoPDF>\n  <TranscricaoPDF>\nDemonstrativo Analítico de Faturamento\n \nEmissão: 13/03/2026\nPágina...",
@@ -483,7 +535,7 @@
       "first_message_at": "2026-04-29T00:00:00.000Z",
       "last_message_at": "2026-04-29T16:31:22.523000Z",
       "last_bot_msg_at": "2026-04-29T13:31:22.146941",
-      "tempo_sem_interacao": "10h 44min",
+      "tempo_sem_interacao": "10h 59min",
       "first_id": 21855,
       "last_id": 21867,
       "last_message_preview": "ok",
@@ -597,7 +649,7 @@
       "first_message_at": "2026-04-29T00:00:00.000Z",
       "last_message_at": "2026-04-29T15:46:17.800000Z",
       "last_bot_msg_at": "2026-04-29T12:46:16.897226",
-      "tempo_sem_interacao": "11h 29min",
+      "tempo_sem_interacao": "11h 44min",
       "first_id": 21834,
       "last_id": 21854,
       "last_message_preview": "Eu tinha a Leve mais as coisas apertaram não consegui prosseguir com ele",
@@ -842,7 +894,7 @@
       "first_message_at": "2026-04-29T00:00:00.000Z",
       "last_message_at": "2026-04-29T08:58:42.914000Z",
       "last_bot_msg_at": "2026-04-29T05:58:42.614719",
-      "tempo_sem_interacao": "18h 17min",
+      "tempo_sem_interacao": "18h 32min",
       "first_id": 21836,
       "last_id": 21837,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1590\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -4136,7 +4188,7 @@
       "first_message_at": "2026-04-24T00:00:00.000Z",
       "last_message_at": "2026-04-25T03:15:56.600000Z",
       "last_bot_msg_at": "2026-04-25T00:15:56.200953",
-      "tempo_sem_interacao": "4 dias",
+      "tempo_sem_interacao": "5 dias",
       "first_id": 21563,
       "last_id": 21599,
       "last_message_preview": "Ok boa noite",
