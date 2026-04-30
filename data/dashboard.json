@@ -1,12 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-04-30T21:30:48.204Z",
+    "generated_at": "2026-04-30T21:45:48.288Z",
     "total_conversations": 200,
-    "total_messages": 3426,
+    "total_messages": 3432,
     "stats": {
       "quente": 0,
-      "morno": 0,
-      "frio": 11,
+      "morno": 1,
+      "frio": 10,
       "desinteresse": 189,
       "sem_classificacao": 0
     }
@@ -32,10 +32,10 @@
         "email": "",
         "telefone": "+55 21 96555-3743",
         "vidas": [],
-        "cidade": "",
-        "contratacao": "",
+        "cidade": "Rio de Janeiro / RJ",
+        "contratacao": "CNPJ",
         "cnpj": "",
-        "tipo_empresa": "",
+        "tipo_empresa": "MEI",
         "profissao": "",
         "plano_atual": "",
         "motivo": "",
@@ -45,19 +45,19 @@
         "consultor": "",
         "obs_crm": "Tiago",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Tiago\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96555-3743\n\n📋 Dados contratuais:\n\n\n⚠️ Observação: Tiago\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Tiago\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96555-3743\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nTipo: MEI\n\n⚠️ Observação: Tiago\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
       },
-      "status": "frio",
+      "status": "morno",
       "bot": "preto",
       "consultor": "",
-      "message_count": 2,
+      "message_count": 8,
       "first_message_at": "2026-04-30T00:00:00.000Z",
-      "last_message_at": "2026-04-30T21:30:32.907000Z",
-      "last_bot_msg_at": "2026-04-30T18:30:32.476035",
-      "tempo_sem_interacao": "3h",
+      "last_message_at": "2026-04-30T21:43:45.574000Z",
+      "last_bot_msg_at": "2026-04-30T18:43:45.150206",
+      "tempo_sem_interacao": "3h 2min",
       "first_id": 21905,
-      "last_id": 21906,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1594\nNome: \n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação...",
+      "last_id": 21912,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1594\nNome: Tiago\n\nMensagem(ns) do cliente:\nO hospital de preferênc...",
       "messages": [
         {
           "role": "user",
@@ -68,6 +68,36 @@
           "role": "ai",
           "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
           "msg_time": "2026-04-30T18:30:32.476035"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1594\nNome: Tiago\n\nMensagem(ns) do cliente:\nBoa tarde, seria para uma pessoa só, 42 anos.",
+          "msg_time": "2026-04-30T18:35:34.855689"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Tiago! Para continuar, preciso saber em qual cidade você busca atendimento. Se tiver algum hospital de sua preferência, isso também pode ajudar a encontrar um plano que te atenda.",
+          "msg_time": "2026-04-30T18:35:34.858746"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1594\nNome: Tiago\n\nMensagem(ns) do cliente:\nRio de Janeiro",
+          "msg_time": "2026-04-30T18:43:27.88242"
+        },
+        {
+          "role": "ai",
+          "content": "Como o plano será contratado, Tiago? Será por CNPJ (MEI ou LTDA) ou CPF? Se tiver o número do CNPJ, pode me informar. Caso não tenha, sem problema, só preciso saber se é MEI ou LTDA.",
+          "msg_time": "2026-04-30T18:43:27.887939"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1594\nNome: Tiago\n\nMensagem(ns) do cliente:\nO hospital de preferência é do Copa Dó, da Rede Dó, entendeu?",
+          "msg_time": "2026-04-30T18:43:45.144962"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Tiago! Para o plano, preciso saber como será a contratação: será por CNPJ (MEI ou LTDA) ou CPF? Se for CNPJ, você tem o número para informar?",
+          "msg_time": "2026-04-30T18:43:45.150206"
         }
       ]
     },
@@ -113,7 +143,7 @@
       "first_message_at": "2026-04-30T00:00:00.000Z",
       "last_message_at": "2026-04-30T18:18:32.611000Z",
       "last_bot_msg_at": "2026-04-30T15:18:32.226688",
-      "tempo_sem_interacao": "6h 12min",
+      "tempo_sem_interacao": "6h 27min",
       "first_id": 21881,
       "last_id": 21904,
       "last_message_preview": "Sem internação ou cirurgia",
@@ -7240,7 +7270,7 @@
       "first_message_at": "2026-04-21T00:00:00.000Z",
       "last_message_at": "2026-04-22T00:44:25.205000Z",
       "last_bot_msg_at": "2026-04-21T21:44:24.677371",
-      "tempo_sem_interacao": "8 dias",
+      "tempo_sem_interacao": "9 dias",
       "first_id": 21343,
       "last_id": 21354,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1545\nNome: Ronilfa Peres\n\nMensagem(ns) do cliente:\nnão tenho",
@@ -11377,7 +11407,7 @@
       "first_message_at": "2026-04-12T00:00:00.000Z",
       "last_message_at": "2026-04-13T00:33:49.652000Z",
       "last_bot_msg_at": "2026-04-12T21:33:49.164965",
-      "tempo_sem_interacao": "17 dias",
+      "tempo_sem_interacao": "18 dias",
       "first_id": 20930,
       "last_id": 20940,
       "last_message_preview": "Ok obrigada",
