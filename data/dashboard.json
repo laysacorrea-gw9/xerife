@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-04-30T18:15:49.429Z",
+    "generated_at": "2026-04-30T18:30:48.621Z",
     "total_conversations": 200,
-    "total_messages": 3421,
+    "total_messages": 3431,
     "stats": {
       "quente": 0,
-      "morno": 1,
+      "morno": 0,
       "frio": 10,
-      "desinteresse": 189,
+      "desinteresse": 190,
       "sem_classificacao": 0
     }
   },
@@ -21,11 +21,11 @@
         "nome": "Simone😘",
         "email": "",
         "qtd_vidas": "",
-        "desinteresse": false,
+        "desinteresse": true,
         "observacoes": "Simone😘",
         "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
+        "corretor": "Elisa",
+        "temperatura": "Quente"
       },
       "summary": {
         "nome": "Simone😘",
@@ -38,26 +38,26 @@
         "tipo_empresa": "MEI",
         "profissao": "",
         "plano_atual": "",
-        "motivo": "",
+        "motivo": "Encerramento do plano atual\nIncluir novas vidas",
         "interesse": "Amil",
         "rede_preferencial": "",
         "contato": "WhatsApp",
-        "consultor": "",
+        "consultor": "Elisa",
         "obs_crm": "Simone😘",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Simone😘\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96489-9714\n\n📋 Dados contratuais:\n\nContratação: CNPJ\nTipo: MEI\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Simone😘\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Simone😘\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96489-9714\n\n📋 Dados contratuais:\n\nContratação: CNPJ\nTipo: MEI\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\nIncluir novas vidas\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Simone😘\n👤 Consultor: Elisa\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
       },
-      "status": "morno",
+      "status": "desinteresse",
       "bot": "preto",
-      "consultor": "",
-      "message_count": 14,
+      "consultor": "Elisa",
+      "message_count": 24,
       "first_message_at": "2026-04-30T00:00:00.000Z",
-      "last_message_at": "2026-04-30T18:15:18.270000Z",
-      "last_bot_msg_at": "2026-04-30T15:15:16.923346",
-      "tempo_sem_interacao": "3h",
+      "last_message_at": "2026-04-30T18:18:32.611000Z",
+      "last_bot_msg_at": "2026-04-30T15:18:32.226688",
+      "tempo_sem_interacao": "3h 12min",
       "first_id": 21881,
-      "last_id": 21894,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1593\nNome: Simone😘\n\nMensagem(ns) do cliente:\nConsulta olayne",
+      "last_id": 21904,
+      "last_message_preview": "Sem internação ou cirurgia",
       "messages": [
         {
           "role": "user",
@@ -128,6 +128,56 @@
           "role": "ai",
           "content": "Entendi, Simone. Apenas para adicionar, a sua filha de 35 anos precisa de consultas frequentes com um especialista, correto? Agora, você pode me informar se já possui um plano de saúde atualmente? Se sim, qual é e quanto paga hoje?",
           "msg_time": "2026-04-30T15:15:16.923346"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1593\nNome: Simone😘\n\nMensagem(ns) do cliente:\nOu transporte\n\nEla é cadeirante",
+          "msg_time": "2026-04-30T15:15:51.690323"
+        },
+        {
+          "role": "ai",
+          "content": "Simone, obrigado por compartilhar essa informação. Vou considerar a necessidade de transporte e consultas para a sua filha cadeirante. Agora, para finalizar, você já possui plano de saúde atualmente? Se sim, poderia me informar qual e quanto paga hoje?",
+          "msg_time": "2026-04-30T15:15:51.696097"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1593\nNome: Simone😘\n\nMensagem(ns) do cliente:\nSim",
+          "msg_time": "2026-04-30T15:16:18.515472"
+        },
+        {
+          "role": "ai",
+          "content": "Simone, só para confirmar, qual é o plano de saúde que você possui atualmente e quanto paga por ele? Isso nos ajudará a encontrar a melhor opção para vocês.",
+          "msg_time": "2026-04-30T15:16:18.52047"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1593\nNome: Simone😘\n\nMensagem(ns) do cliente:\nMuito tempo com a Assim",
+          "msg_time": "2026-04-30T15:16:56.005415"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Simone! Você está com a Assim há bastante tempo. Agora, preciso saber aproximadamente quanto você paga por esse plano, para que possamos encontrar uma opção que faça sentido para vocês.",
+          "msg_time": "2026-04-30T15:16:56.008239"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1593\nNome: Simone😘\n\nMensagem(ns) do cliente:\n1100 +ou -",
+          "msg_time": "2026-04-30T15:18:32.21999"
+        },
+        {
+          "role": "ai",
+          "content": "Simone, obrigada por todas as informações! Vou encaminhar seu contato para a Elisa, nossa especialista, que vai te apresentar as melhores opções de plano para vocês em breve. Ela entrará em contato aqui no WhatsApp!\n\nSe precisar de mais alguma coisa, estou à disposição.",
+          "msg_time": "2026-04-30T15:18:32.226688"
+        },
+        {
+          "role": "user",
+          "content": "Sem internação ou cirurgia",
+          "msg_time": "2026-04-30T15:18:58.2999"
+        },
+        {
+          "role": "system",
+          "content": "Entendi Simone\n\nA Elisa vai te contatar para te passar algumas opções.",
+          "msg_time": "2026-04-30T15:20:01.974101"
         }
       ]
     },
@@ -180,7 +230,7 @@
       "first_message_at": "2026-04-29T00:00:00.000Z",
       "last_message_at": "2026-04-30T00:26:36.484000Z",
       "last_bot_msg_at": "2026-04-29T21:26:36.101037",
-      "tempo_sem_interacao": "20h 49min",
+      "tempo_sem_interacao": "21h 4min",
       "first_id": 21870,
       "last_id": 21880,
       "last_message_preview": "Ok",
@@ -294,7 +344,7 @@
       "first_message_at": "2025-12-15T00:00:00.000Z",
       "last_message_at": "2026-04-29T20:10:35.134Z",
       "last_bot_msg_at": "2026-04-29T20:10:35.134Z",
-      "tempo_sem_interacao": "22h 5min",
+      "tempo_sem_interacao": "22h 20min",
       "first_id": 1156,
       "last_id": 21869,
       "last_message_preview": "<ContextoPDF>\n  <TranscricaoPDF>\nDemonstrativo Analítico de Faturamento\n \nEmissão: 13/03/2026\nPágina...",
@@ -909,7 +959,7 @@
       "first_message_at": "2026-04-24T00:00:00.000Z",
       "last_message_at": "2026-04-24T21:30:09.325000Z",
       "last_bot_msg_at": "2026-04-24T18:30:08.350097",
-      "tempo_sem_interacao": "5 dias",
+      "tempo_sem_interacao": "6 dias",
       "first_id": 21554,
       "last_id": 21838,
       "last_message_preview": "Esse plano e da rede dor",
