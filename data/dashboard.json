@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-05-01T03:45:47.965Z",
+    "generated_at": "2026-05-01T04:00:49.351Z",
     "total_conversations": 200,
-    "total_messages": 3427,
+    "total_messages": 3435,
     "stats": {
       "quente": 0,
-      "morno": 1,
+      "morno": 0,
       "frio": 10,
-      "desinteresse": 189,
+      "desinteresse": 190,
       "sem_classificacao": 0
     }
   },
@@ -21,11 +21,11 @@
         "nome": "Sandra Souza",
         "email": "",
         "qtd_vidas": 3,
-        "desinteresse": false,
+        "desinteresse": true,
         "observacoes": "Sandra Souza",
         "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
+        "corretor": "Elisa",
+        "temperatura": "Quente"
       },
       "summary": {
         "nome": "Sandra Souza",
@@ -48,26 +48,26 @@
         "tipo_empresa": "",
         "profissao": "Amil desejo mudar de plano\nDados do lead no sistema",
         "plano_atual": "",
-        "motivo": "",
+        "motivo": "Encerramento do plano atual",
         "interesse": "",
         "rede_preferencial": "",
         "contato": "WhatsApp",
-        "consultor": "",
+        "consultor": "Elisa",
         "obs_crm": "Sandra Souza",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Sandra Souza\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99604-3005\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nSandra Souza — 73 anos\nDependente 1 — 70 anos\nDependente 2 — 38 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nProfissão: Amil desejo mudar de plano\nDados do lead no sistema\n\n⚠️ Observação: Sandra Souza\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Sandra Souza\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99604-3005\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nSandra Souza — 73 anos\nDependente 1 — 70 anos\nDependente 2 — 38 anos\n\n📋 Dados contratuais:\n\nCidade: Rio de Janeiro / RJ\nContratação: CNPJ\nProfissão: Amil desejo mudar de plano\nDados do lead no sistema\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\n\n⚠️ Observação: Sandra Souza\n👤 Consultor: Elisa\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
       },
-      "status": "morno",
+      "status": "desinteresse",
       "bot": "preto",
-      "consultor": "",
-      "message_count": 10,
+      "consultor": "Elisa",
+      "message_count": 18,
       "first_message_at": "2026-05-01T00:00:00.000Z",
-      "last_message_at": "2026-05-01T03:45:31.978000Z",
-      "last_bot_msg_at": "2026-05-01T00:45:29.611262",
-      "tempo_sem_interacao": "3h",
+      "last_message_at": "2026-05-01T03:49:24.971000Z",
+      "last_bot_msg_at": "2026-05-01T00:49:24.46618",
+      "tempo_sem_interacao": "3h 11min",
       "first_id": 21919,
-      "last_id": 21928,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1595\nNome: Sandra Souza\n\nMensagem(ns) do cliente:\nRJ pastuer\n\nOu B...",
+      "last_id": 21936,
+      "last_message_preview": "Ok Fico no Aguardo",
       "messages": [
         {
           "role": "user",
@@ -118,6 +118,46 @@
           "role": "ai",
           "content": "Perfeito, Sandra! A cidade é Rio de Janeiro e você mencionou os hospitais Pasteur e Badim. Agora, só preciso saber se a contratação será por CNPJ ou CPF. Você pode me informar?",
           "msg_time": "2026-05-01T00:45:29.611262"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1595\nNome: Sandra Souza\n\nMensagem(ns) do cliente:\nCnpj por ser mais Barato",
+          "msg_time": "2026-05-01T00:46:22.273093"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Sandra! Agora, para finalizar: você já possui plano de saúde atualmente? Se sim, qual e quanto paga hoje? Isso me ajudará a encontrar a melhor opção para vocês.",
+          "msg_time": "2026-05-01T00:46:22.274611"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1595\nNome: Sandra Souza\n\nMensagem(ns) do cliente:\nUm momento",
+          "msg_time": "2026-05-01T00:47:33.825322"
+        },
+        {
+          "role": "ai",
+          "content": "Claro, Sandra! Fico à disposição. Basta me avisar quando estiver pronta para continuar.",
+          "msg_time": "2026-05-01T00:47:33.827355"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1595\nNome: Sandra Souza\n\nMensagem(ns) do cliente:\n3 vidas 2456,00\n\nCom coparticipação",
+          "msg_time": "2026-05-01T00:49:24.463081"
+        },
+        {
+          "role": "ai",
+          "content": "Sandra, obrigada por todas as informações! Vou encaminhar seu contato para a Elisa, nossa especialista, que vai te apresentar as melhores opções de plano para as 3 vidas no Rio de Janeiro. Ela vai te chamar aqui no WhatsApp em breve.",
+          "msg_time": "2026-05-01T00:49:24.46618"
+        },
+        {
+          "role": "user",
+          "content": "Eu queria sem coparticipação",
+          "msg_time": "2026-05-01T00:49:45.049704"
+        },
+        {
+          "role": "user",
+          "content": "Ok Fico no Aguardo",
+          "msg_time": "2026-05-01T00:50:20.53817"
         }
       ]
     },
@@ -163,7 +203,7 @@
       "first_message_at": "2026-04-30T00:00:00.000Z",
       "last_message_at": "2026-04-30T22:05:20.046000Z",
       "last_bot_msg_at": "2026-04-30T19:05:19.464354",
-      "tempo_sem_interacao": "8h 40min",
+      "tempo_sem_interacao": "8h 55min",
       "first_id": 21905,
       "last_id": 21918,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1594\nNome: Tiago\n\nMensagem(ns) do cliente:\nNão, eu tinha um da Not...",
@@ -282,7 +322,7 @@
       "first_message_at": "2026-04-30T00:00:00.000Z",
       "last_message_at": "2026-04-30T18:18:32.611000Z",
       "last_bot_msg_at": "2026-04-30T15:18:32.226688",
-      "tempo_sem_interacao": "12h 27min",
+      "tempo_sem_interacao": "12h 42min",
       "first_id": 21881,
       "last_id": 21904,
       "last_message_preview": "Sem internação ou cirurgia",
