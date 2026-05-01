@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-05-01T16:30:48.151Z",
+    "generated_at": "2026-05-01T16:45:47.529Z",
     "total_conversations": 200,
     "total_messages": 3436,
     "stats": {
@@ -12,6 +12,65 @@
     }
   },
   "conversations": [
+    {
+      "session_id": "5521969800735@s.whatsapp.net",
+      "phone": "5521969800735",
+      "phone_display": "+55 21 96980-0735",
+      "lead": {
+        "baserow_id": 1596,
+        "nome": "Sevi Medeiros",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "observacoes": "Sevi Medeiros",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Sevi Medeiros",
+        "email": "",
+        "telefone": "+55 21 96980-0735",
+        "vidas": [],
+        "cidade": "",
+        "contratacao": "",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "Amil",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "Sevi Medeiros",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Sevi Medeiros\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96980-0735\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Sevi Medeiros\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "frio",
+      "bot": "preto",
+      "consultor": "",
+      "message_count": 2,
+      "first_message_at": "2026-05-01T00:00:00.000Z",
+      "last_message_at": "2026-05-01T16:44:40.129000Z",
+      "last_bot_msg_at": "2026-05-01T13:44:39.351885",
+      "tempo_sem_interacao": "3h 1min",
+      "first_id": 21938,
+      "last_id": 21939,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1596\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1596\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Amil",
+          "msg_time": "2026-05-01T13:44:39.342219"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-05-01T13:44:39.351885"
+        }
+      ]
+    },
     {
       "session_id": "5521996043005@s.whatsapp.net",
       "phone": "5521996043005",
@@ -64,7 +123,7 @@
       "first_message_at": "2026-05-01T00:00:00.000Z",
       "last_message_at": "2026-05-01T03:49:24.971000Z",
       "last_bot_msg_at": "2026-05-01T00:49:24.46618",
-      "tempo_sem_interacao": "15h 41min",
+      "tempo_sem_interacao": "15h 56min",
       "first_id": 21919,
       "last_id": 21937,
       "last_message_preview": "https://youtu.be/vnybcX0JZ7Y?si=2alJ2oSjW0-_Uaku",
@@ -208,7 +267,7 @@
       "first_message_at": "2026-04-30T00:00:00.000Z",
       "last_message_at": "2026-04-30T22:05:20.046000Z",
       "last_bot_msg_at": "2026-04-30T19:05:19.464354",
-      "tempo_sem_interacao": "21h 25min",
+      "tempo_sem_interacao": "21h 40min",
       "first_id": 21905,
       "last_id": 21918,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1594\nNome: Tiago\n\nMensagem(ns) do cliente:\nNão, eu tinha um da Not...",
@@ -20424,55 +20483,6 @@
           "role": "ai",
           "content": "Oi Lorrany! Sou o Gilberto da GW9, corretora de planos de saúde. Você pediu nosso contato para saber mais sobre plano de saúde e vi que já possui um CNPJ. Para te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo certo?",
           "msg_time": "2026-03-24T10:54:41.43898"
-        }
-      ]
-    },
-    {
-      "session_id": "5521991405276@s.whatsapp.net",
-      "phone": "5521991405276",
-      "phone_display": "+55 21 99140-5276",
-      "lead": null,
-      "summary": {
-        "nome": "Vania",
-        "email": "",
-        "telefone": "+55 21 99140-5276",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Vania\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99140-5276\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "frio",
-      "bot": "preto",
-      "consultor": "",
-      "message_count": 2,
-      "first_message_at": "2026-03-24T13:52:53.096Z",
-      "last_message_at": "2026-03-24T13:52:53.099Z",
-      "last_bot_msg_at": "2026-03-24T10:52:53.099588",
-      "tempo_sem_interacao": "1 mês",
-      "first_id": 20149,
-      "last_id": 20150,
-      "last_message_preview": "Dados Fornecidos\nNome: Vania\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o infor...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados Fornecidos\nNome: Vania\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o informado\nRegiÃƒÂ£o: NÃƒÂ£o Informado\nPropaganda:\n",
-          "msg_time": "2026-03-24T10:52:53.09623"
-        },
-        {
-          "role": "ai",
-          "content": "Oi Vania! Sou o Gilberto da GW9, corretora de planos de saúde. Você pediu nosso contato para saber mais sobre plano de saúde e vi que já possui um CNPJ. Para te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo certo?",
-          "msg_time": "2026-03-24T10:52:53.099588"
         }
       ]
     }
