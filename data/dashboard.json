@@ -1,12 +1,12 @@
 {
   "meta": {
-    "generated_at": "2026-05-01T19:15:47.956Z",
+    "generated_at": "2026-05-01T19:30:48.710Z",
     "total_conversations": 200,
-    "total_messages": 3436,
+    "total_messages": 3440,
     "stats": {
-      "quente": 0,
+      "quente": 1,
       "morno": 0,
-      "frio": 10,
+      "frio": 9,
       "desinteresse": 190,
       "sem_classificacao": 0
     }
@@ -20,7 +20,7 @@
         "baserow_id": 1596,
         "nome": "Sevi Medeiros",
         "email": "",
-        "qtd_vidas": "",
+        "qtd_vidas": 2,
         "desinteresse": false,
         "observacoes": "Sevi Medeiros",
         "reagendamento": null,
@@ -31,7 +31,14 @@
         "nome": "Sevi Medeiros",
         "email": "",
         "telefone": "+55 21 96980-0735",
-        "vidas": [],
+        "vidas": [
+          {
+            "idade": 65
+          },
+          {
+            "idade": 58
+          }
+        ],
         "cidade": "",
         "contratacao": "",
         "cnpj": "",
@@ -45,19 +52,19 @@
         "consultor": "",
         "obs_crm": "Sevi Medeiros",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Sevi Medeiros\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96980-0735\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Sevi Medeiros\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Sevi Medeiros\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96980-0735\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nSevi Medeiros — 65 anos\nDependente 1 — 58 anos\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Sevi Medeiros\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Preto (0479)"
       },
-      "status": "frio",
+      "status": "quente",
       "bot": "preto",
       "consultor": "",
-      "message_count": 2,
+      "message_count": 6,
       "first_message_at": "2026-05-01T00:00:00.000Z",
-      "last_message_at": "2026-05-01T16:44:40.129000Z",
-      "last_bot_msg_at": "2026-05-01T13:44:39.351885",
-      "tempo_sem_interacao": "5h 31min",
+      "last_message_at": "2026-05-01T19:30:34.344000Z",
+      "last_bot_msg_at": "2026-05-01T16:30:33.972086",
+      "tempo_sem_interacao": "3h",
       "first_id": 21938,
-      "last_id": 21939,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1596\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
+      "last_id": 21943,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1596\nNome: Sevi Medeiros\n\nMensagem(ns) do cliente:\n4 pessoas\n\n65\n\n...",
       "messages": [
         {
           "role": "user",
@@ -68,6 +75,26 @@
           "role": "ai",
           "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
           "msg_time": "2026-05-01T13:44:39.351885"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1596\nNome: Sevi Medeiros\n\nMensagem(ns) do cliente:\nMeu nome e Sevi",
+          "msg_time": "2026-05-01T16:30:03.282203"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Sevi! Obrigado por compartilhar. Para eu te ajudar com a cotação, para quantas pessoas você está buscando o plano e quais as idades delas?",
+          "msg_time": "2026-05-01T16:30:03.30038"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1596\nNome: Sevi Medeiros\n\nMensagem(ns) do cliente:\n4 pessoas\n\n65\n\n58",
+          "msg_time": "2026-05-01T16:30:33.965943"
+        },
+        {
+          "role": "ai",
+          "content": "Ótimo, Sevi! Você mencionou 4 pessoas, com idades 65 e 58. Qual a idade da terceira e da quarta pessoa? Isso é importante para eu completar as informações.",
+          "msg_time": "2026-05-01T16:30:33.972086"
         }
       ]
     },
@@ -123,7 +150,7 @@
       "first_message_at": "2026-05-01T00:00:00.000Z",
       "last_message_at": "2026-05-01T03:49:24.971000Z",
       "last_bot_msg_at": "2026-05-01T00:49:24.46618",
-      "tempo_sem_interacao": "18h 26min",
+      "tempo_sem_interacao": "18h 41min",
       "first_id": 21919,
       "last_id": 21937,
       "last_message_preview": "https://youtu.be/vnybcX0JZ7Y?si=2alJ2oSjW0-_Uaku",
@@ -11823,7 +11850,7 @@
       "first_message_at": "2026-04-12T00:00:00.000Z",
       "last_message_at": "2026-04-12T22:28:40.376000Z",
       "last_bot_msg_at": "2026-04-12T19:28:39.901661",
-      "tempo_sem_interacao": "18 dias",
+      "tempo_sem_interacao": "19 dias",
       "first_id": 20924,
       "last_id": 20925,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1501\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -12297,7 +12324,7 @@
       "first_message_at": "2026-04-11T00:00:00.000Z",
       "last_message_at": "2026-04-11T22:18:32.438000Z",
       "last_bot_msg_at": "2026-04-11T19:18:31.919203",
-      "tempo_sem_interacao": "19 dias",
+      "tempo_sem_interacao": "20 dias",
       "first_id": 20877,
       "last_id": 20889,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1495\nNome: Moacir\n\nMensagem(ns) do cliente:\nNão tenho não",
@@ -16280,7 +16307,7 @@
       "first_message_at": "2026-04-06T00:00:00.000Z",
       "last_message_at": "2026-04-06T22:29:13.383000Z",
       "last_bot_msg_at": "2026-04-06T19:29:13.007616",
-      "tempo_sem_interacao": "24 dias",
+      "tempo_sem_interacao": "25 dias",
       "first_id": 20570,
       "last_id": 20573,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1457\nNome: \n\nMensagem(ns) do cliente:\nVocê mencionou acima Homem 4...",
