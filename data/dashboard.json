@@ -1,13 +1,13 @@
 {
   "meta": {
-    "generated_at": "2026-05-02T01:00:52.455Z",
+    "generated_at": "2026-05-02T01:15:47.529Z",
     "total_conversations": 200,
-    "total_messages": 3463,
+    "total_messages": 3468,
     "stats": {
-      "quente": 1,
+      "quente": 0,
       "morno": 0,
       "frio": 8,
-      "desinteresse": 191,
+      "desinteresse": 192,
       "sem_classificacao": 0
     }
   },
@@ -21,11 +21,11 @@
         "nome": "Artes da Rita Campos",
         "email": "",
         "qtd_vidas": 5,
-        "desinteresse": false,
+        "desinteresse": true,
         "observacoes": "Artes da Rita Campos",
         "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
+        "corretor": "Elisa",
+        "temperatura": "Quente"
       },
       "summary": {
         "nome": "Artes da Rita Campos",
@@ -58,22 +58,22 @@
         "interesse": "Amil",
         "rede_preferencial": "",
         "contato": "WhatsApp",
-        "consultor": "",
+        "consultor": "Elisa",
         "obs_crm": "Artes da Rita Campos",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Artes da Rita Campos\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97451-2112\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nArtes da Rita Campos — 66 anos\nDependente 1 — 64 anos\nDependente 2 — 36 anos\nDependente 3 — 34 anos\nDependente 4 — 6 anos\n\n📋 Dados contratuais:\n\nCidade: São Gonçalo / RJ\nContratação: CNPJ\nTipo: MEI\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Artes da Rita Campos\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Artes da Rita Campos\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97451-2112\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nArtes da Rita Campos — 66 anos\nDependente 1 — 64 anos\nDependente 2 — 36 anos\nDependente 3 — 34 anos\nDependente 4 — 6 anos\n\n📋 Dados contratuais:\n\nCidade: São Gonçalo / RJ\nContratação: CNPJ\nTipo: MEI\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Artes da Rita Campos\n👤 Consultor: Elisa\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
       },
-      "status": "quente",
+      "status": "desinteresse",
       "bot": "preto",
-      "consultor": "",
-      "message_count": 14,
+      "consultor": "Elisa",
+      "message_count": 19,
       "first_message_at": "2026-05-01T00:00:00.000Z",
-      "last_message_at": "2026-05-02T01:00:15.832000Z",
-      "last_bot_msg_at": "2026-05-01T22:00:15.104164",
-      "tempo_sem_interacao": "3h",
+      "last_message_at": "2026-05-02T01:01:30.954000Z",
+      "last_bot_msg_at": "2026-05-01T22:01:30.570707",
+      "tempo_sem_interacao": "3h 14min",
       "first_id": 21955,
-      "last_id": 21983,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1597\nNome: Artes da Rita Campos\n\nMensagem(ns) do cliente:\nDesde 20...",
+      "last_id": 21988,
+      "last_message_preview": "<ContextoImagem>\n\n  <DetalheImagem>\n\n  </DetalheImagem>\n\nContexto Extra: O usuário encaminhou a mens...",
       "messages": [
         {
           "role": "user",
@@ -144,6 +144,31 @@
           "role": "ai",
           "content": "Só para confirmar, Rita, você mencionou que possui um plano de saúde desde 2019. Pode me dizer qual é o plano atual e quanto paga? Isso é importante para que eu te ajude da melhor forma possível.",
           "msg_time": "2026-05-01T22:00:15.104164"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1597\nNome: Artes da Rita Campos\n\nMensagem(ns) do cliente:\nLeve saude meu e esposo 1662,00 total",
+          "msg_time": "2026-05-01T22:01:11.96266"
+        },
+        {
+          "role": "ai",
+          "content": "Rita, obrigada por todas as informações! Vou encaminhar seu contato para a Isis, nossa especialista, que vai te apresentar as melhores opções de plano para vocês cinco em São Gonçalo. Ela vai te chamar aqui no WhatsApp em breve. Se precisar de algo mais, estou à disposição!",
+          "msg_time": "2026-05-01T22:01:11.966634"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1597\nNome: Artes da Rita Campos\n\nMensagem(ns) do cliente:\nMeu filho Unimed Leste Fluminense 564,00",
+          "msg_time": "2026-05-01T22:01:30.567959"
+        },
+        {
+          "role": "ai",
+          "content": "Rita, obrigada por todas as informações! Vou encaminhar seu contato para a Isis, nossa especialista, que vai te apresentar as melhores opções de plano para vocês cinco em São Gonçalo. Ela vai te chamar aqui no WhatsApp em breve. Se precisar de algo mais, estou à disposição!",
+          "msg_time": "2026-05-01T22:01:30.570707"
+        },
+        {
+          "role": "user",
+          "content": "<ContextoImagem>\n\n  <DetalheImagem>\n\n  </DetalheImagem>\n\nContexto Extra: O usuário encaminhou a mensagem a seguir junto á imagem.\n  <MensagemUsuario>\nEsta tabela diz coparticipação de 30%,esta coparticipação seria para todo tipo de atendimento ou somente consulta e terapia\n  </MensagemUsuario>\n\n</ContextoImagem>",
+          "msg_time": "2026-05-01T22:06:49.465344"
         }
       ]
     },
@@ -199,7 +224,7 @@
       "first_message_at": "2026-05-01T00:00:00.000Z",
       "last_message_at": "2026-05-02T00:58:22.837000Z",
       "last_bot_msg_at": "2026-05-01T21:58:22.43326",
-      "tempo_sem_interacao": "3h 2min",
+      "tempo_sem_interacao": "3h 17min",
       "first_id": 21963,
       "last_id": 21979,
       "last_message_preview": "Sim",
@@ -330,7 +355,7 @@
       "first_message_at": "2026-05-01T00:00:00.000Z",
       "last_message_at": "2026-05-01T19:36:25.839000Z",
       "last_bot_msg_at": "2026-05-01T16:36:25.490537",
-      "tempo_sem_interacao": "8h 24min",
+      "tempo_sem_interacao": "8h 39min",
       "first_id": 21938,
       "last_id": 21954,
       "last_message_preview": "Obrigada",
@@ -14078,7 +14103,7 @@
       "first_message_at": "2026-04-10T00:00:00.000Z",
       "last_message_at": "2026-04-10T04:03:34.672000Z",
       "last_bot_msg_at": "2026-04-10T01:03:34.21387",
-      "tempo_sem_interacao": "21 dias",
+      "tempo_sem_interacao": "22 dias",
       "first_id": 20767,
       "last_id": 20768,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1484\nNome: \n\nMensagem(ns) do cliente:\nOla, gostaria de uma cotação...",
