@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_at": "2026-05-02T21:45:47.964Z",
+    "generated_at": "2026-05-02T22:00:47.873Z",
     "total_conversations": 200,
-    "total_messages": 3487,
+    "total_messages": 3494,
     "stats": {
       "quente": 0,
       "morno": 0,
@@ -12,6 +12,122 @@
     }
   },
   "conversations": [
+    {
+      "session_id": "5521964665626@s.whatsapp.net",
+      "phone": "5521964665626",
+      "phone_display": "+55 21 96466-5626",
+      "lead": {
+        "baserow_id": 1602,
+        "nome": "Ademar Marques",
+        "email": "",
+        "qtd_vidas": 2,
+        "desinteresse": true,
+        "observacoes": "Ademar Marques",
+        "reagendamento": null,
+        "corretor": "Isis",
+        "temperatura": "Quente"
+      },
+      "summary": {
+        "nome": "Ademar Marques",
+        "email": "",
+        "telefone": "+55 21 96466-5626",
+        "vidas": [
+          {
+            "idade": 60
+          },
+          {
+            "idade": 66
+          }
+        ],
+        "cidade": "Duque de Caxias / RJ",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "MEI",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "Encerramento do plano atual",
+        "interesse": "Amil",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "Isis",
+        "obs_crm": "Ademar Marques",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Ademar Marques\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 96466-5626\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nAdemar Marques — 60 anos\nDependente 1 — 66 anos\n\n📋 Dados contratuais:\n\nCidade: Duque de Caxias / RJ\nContratação: CNPJ\nTipo: MEI\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Ademar Marques\n👤 Consultor: Isis\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "desinteresse",
+      "bot": "preto",
+      "consultor": "Isis",
+      "message_count": 12,
+      "first_message_at": "2026-05-02T00:00:00.000Z",
+      "last_message_at": "2026-05-02T21:59:16.655000Z",
+      "last_bot_msg_at": "2026-05-02T18:59:15.889666",
+      "tempo_sem_interacao": "3h 1min",
+      "first_id": 22021,
+      "last_id": 22032,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1602\nNome: Ademar Marques\n\nMensagem(ns) do cliente:\nNão tenho.",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1602\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Amil",
+          "msg_time": "2026-05-02T18:46:39.440169"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-05-02T18:46:39.442035"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1602\nNome: Ademar Marques\n\nMensagem(ns) do cliente:\nAdemar Marques, 60 e 66 anos",
+          "msg_time": "2026-05-02T18:47:44.940716"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Ademar! Para sua família, incluindo você e a outra pessoa de 66 anos, preciso da cidade e estado onde o plano será utilizado. Além disso, caso tenha algum hospital de sua preferência, isso pode nos ajudar a encontrar o plano ideal.",
+          "msg_time": "2026-05-02T18:47:44.943186"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1602\nNome: Ademar Marques\n\nMensagem(ns) do cliente:\nDuque de Caxias RJ",
+          "msg_time": "2026-05-02T18:48:54.382756"
+        },
+        {
+          "role": "ai",
+          "content": "Ótimo, Ademar! Agora, como o plano será contratado: empresarial por CNPJ (MEI ou LTDA) ou CPF? Se tiver o número do CNPJ, pode me informar? Se não tiver, sem problema.",
+          "msg_time": "2026-05-02T18:48:54.384454"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1602\nNome: Ademar Marques\n\nMensagem(ns) do cliente:\nCpf",
+          "msg_time": "2026-05-02T18:57:13.08419"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Ademar! E qual é a sua profissão? Preciso dessa informação para identificar a melhor administradora para o seu plano.",
+          "msg_time": "2026-05-02T18:57:13.085926"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1602\nNome: Ademar Marques\n\nMensagem(ns) do cliente:\nGuarda Municipal de Duque de Caxias",
+          "msg_time": "2026-05-02T18:58:16.483034"
+        },
+        {
+          "role": "ai",
+          "content": "Perfeito, Ademar! Para finalizar, você já possui plano de saúde atualmente? Se sim, qual é e quanto paga hoje? Isso me ajudará a encontrar a melhor opção para você.",
+          "msg_time": "2026-05-02T18:58:16.487069"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1602\nNome: Ademar Marques\n\nMensagem(ns) do cliente:\nNão tenho.",
+          "msg_time": "2026-05-02T18:59:15.887487"
+        },
+        {
+          "role": "ai",
+          "content": "Ademar, obrigada por todas as informações! Vou encaminhar seu contato para a Isis, nossa especialista, que vai te apresentar as melhores opções de plano para vocês duas em Duque de Caxias. Ela vai te chamar aqui no WhatsApp em breve.",
+          "msg_time": "2026-05-02T18:59:15.889666"
+        }
+      ]
+    },
     {
       "session_id": "5521999797922@s.whatsapp.net",
       "phone": "5521999797922",
@@ -54,7 +170,7 @@
       "first_message_at": "2026-05-02T00:00:00.000Z",
       "last_message_at": "2026-05-02T21:07:57.838000Z",
       "last_bot_msg_at": "2026-05-02T18:07:57.507526",
-      "tempo_sem_interacao": "3h 37min",
+      "tempo_sem_interacao": "3h 52min",
       "first_id": 22019,
       "last_id": 22020,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1601\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -113,7 +229,7 @@
       "first_message_at": "2026-05-02T00:00:00.000Z",
       "last_message_at": "2026-05-02T20:54:05.108000Z",
       "last_bot_msg_at": "2026-05-02T17:54:04.337233",
-      "tempo_sem_interacao": "3h 51min",
+      "tempo_sem_interacao": "4h 6min",
       "first_id": 21989,
       "last_id": 22018,
       "last_message_preview": "Me envie mensagem",
@@ -260,7 +376,7 @@
       "first_message_at": "2026-05-02T00:00:00.000Z",
       "last_message_at": "2026-05-02T19:49:30.617000Z",
       "last_bot_msg_at": "2026-05-02T16:49:30.195894",
-      "tempo_sem_interacao": "4h 56min",
+      "tempo_sem_interacao": "5h 11min",
       "first_id": 22003,
       "last_id": 22015,
       "last_message_preview": "Obrigado",
@@ -390,7 +506,7 @@
       "first_message_at": "2026-05-01T00:00:00.000Z",
       "last_message_at": "2026-05-02T01:01:30.954000Z",
       "last_bot_msg_at": "2026-05-01T22:01:30.570707",
-      "tempo_sem_interacao": "23h 44min",
+      "tempo_sem_interacao": "23h 59min",
       "first_id": 21955,
       "last_id": 21988,
       "last_message_preview": "<ContextoImagem>\n\n  <DetalheImagem>\n\n  </DetalheImagem>\n\nContexto Extra: O usuário encaminhou a mens...",
@@ -544,7 +660,7 @@
       "first_message_at": "2026-05-01T00:00:00.000Z",
       "last_message_at": "2026-05-02T00:58:22.837000Z",
       "last_bot_msg_at": "2026-05-01T21:58:22.43326",
-      "tempo_sem_interacao": "23h 47min",
+      "tempo_sem_interacao": "1 dia",
       "first_id": 21963,
       "last_id": 21979,
       "last_message_preview": "Sim",
@@ -11872,7 +11988,7 @@
       "first_message_at": "2026-04-13T00:00:00.000Z",
       "last_message_at": "2026-04-14T00:47:43.860000Z",
       "last_bot_msg_at": "2026-04-13T21:47:43.492587",
-      "tempo_sem_interacao": "18 dias",
+      "tempo_sem_interacao": "19 dias",
       "first_id": 20963,
       "last_id": 20964,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1507\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação ...",
@@ -12217,7 +12333,7 @@
       "first_message_at": "2026-04-12T00:00:00.000Z",
       "last_message_at": "2026-04-13T00:52:29.458000Z",
       "last_bot_msg_at": "2026-04-12T21:52:28.887741",
-      "tempo_sem_interacao": "19 dias",
+      "tempo_sem_interacao": "20 dias",
       "first_id": 20941,
       "last_id": 20956,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1504\nNome: Leonardo Caruso\n\nMensagem(ns) do cliente:\nSim!! Leve Sa...",
@@ -14541,7 +14657,7 @@
       "first_message_at": "2026-04-06T00:00:00.000Z",
       "last_message_at": "2026-04-10T00:55:53.913000Z",
       "last_bot_msg_at": "2026-04-09T21:55:52.857121",
-      "tempo_sem_interacao": "22 dias",
+      "tempo_sem_interacao": "23 dias",
       "first_id": 20546,
       "last_id": 20764,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1445\nNome: Angela\n\nMensagem(ns) do cliente:\n1\nObrigada",
@@ -16793,7 +16909,7 @@
       "first_message_at": "2026-04-06T00:00:00.000Z",
       "last_message_at": "2026-04-07T00:49:32.824000Z",
       "last_bot_msg_at": "2026-04-06T21:49:32.483158",
-      "tempo_sem_interacao": "25 dias",
+      "tempo_sem_interacao": "26 dias",
       "first_id": 20556,
       "last_id": 20599,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1450\nNome: Ana\n\nMensagem(ns) do cliente:\nhttps://youtube.com/short...",
@@ -20710,80 +20826,6 @@
           "role": "system",
           "content": "\n",
           "msg_time": "2026-03-24T11:01:06.009876"
-        }
-      ]
-    },
-    {
-      "session_id": "5521999684331@s.whatsapp.net",
-      "phone": "5521999684331",
-      "phone_display": "+55 21 99968-4331",
-      "lead": {
-        "baserow_id": 1334,
-        "nome": "José",
-        "email": "jcassis1962@gmail.com",
-        "qtd_vidas": "",
-        "desinteresse": true,
-        "observacoes": "José",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "José",
-        "email": "jcassis1962@gmail.com",
-        "telefone": "+55 21 99968-4331",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "Amil",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "José",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: José\n📧 E-mail: jcassis1962@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99968-4331\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n\n🎯 Interesse: Amil\n\n⚠️ Observação: José\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "desinteresse",
-      "bot": "preto",
-      "consultor": "",
-      "message_count": 5,
-      "first_message_at": "2026-03-23T00:00:00.000Z",
-      "last_message_at": "2026-03-23T18:55:32.903000Z",
-      "last_bot_msg_at": "2026-03-23T15:55:31.653229",
-      "tempo_sem_interacao": "1 mês",
-      "first_id": 20080,
-      "last_id": 20166,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1334\nNome: José\n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cota...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados Fornecidos\nNome: José\nContem CNPJ: não\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o informado\nRegiÃƒÂ£o: NÃƒÂ£o Informado\nPropaganda:\n",
-          "msg_time": "2026-03-23T15:54:50.645481"
-        },
-        {
-          "role": "ai",
-          "content": "Oi José! Sou o Gilberto da GW9, corretora de planos de saúde. Você pediu nosso contato para saber mais sobre plano de saúde e, para te ajudar a encontrar a melhor opção, preciso de algumas informações rápidas. Tudo certo?",
-          "msg_time": "2026-03-23T15:54:50.648051"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1334\nNome: José\n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Amil",
-          "msg_time": "2026-03-23T15:55:31.648032"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, José! Vou te ajudar a encontrar uma cotação do plano de saúde Amil. Para isso, preciso saber inicialmente: quantas pessoas você está considerando e quais as idades delas?",
-          "msg_time": "2026-03-23T15:55:31.653229"
-        },
-        {
-          "role": "system",
-          "content": "\n",
-          "msg_time": "2026-03-24T11:00:59.440869"
         }
       ]
     }
