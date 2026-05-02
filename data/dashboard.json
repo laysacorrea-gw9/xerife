@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_at": "2026-05-02T15:15:47.994Z",
+    "generated_at": "2026-05-02T15:30:48.249Z",
     "total_conversations": 200,
-    "total_messages": 3471,
+    "total_messages": 3477,
     "stats": {
       "quente": 0,
       "morno": 1,
@@ -33,31 +33,31 @@
         "telefone": "+55 38 9862-4907",
         "vidas": [],
         "cidade": "",
-        "contratacao": "",
+        "contratacao": "CNPJ",
         "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
+        "tipo_empresa": "MEI",
+        "profissao": "aposentado po",
         "plano_atual": "",
-        "motivo": "",
+        "motivo": "Encerramento do plano atual",
         "interesse": "Amil",
         "rede_preferencial": "",
         "contato": "WhatsApp",
         "consultor": "",
         "obs_crm": "Sebastião Tolentino",
         "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Sebastião Tolentino\n📱 Contato: WhatsApp\n📞 Telefone: +55 38 9862-4907\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Sebastião Tolentino\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
+        "formatted": "👤 Cliente: Sebastião Tolentino\n📱 Contato: WhatsApp\n📞 Telefone: +55 38 9862-4907\n\n📋 Dados contratuais:\n\nContratação: CNPJ\nTipo: MEI\nProfissão: aposentado po\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Sebastião Tolentino\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
       },
       "status": "morno",
       "bot": "preto",
       "consultor": "",
-      "message_count": 8,
+      "message_count": 14,
       "first_message_at": "2026-05-02T00:00:00.000Z",
-      "last_message_at": "2026-05-02T15:08:05.564000Z",
-      "last_bot_msg_at": "2026-05-02T12:08:05.200641",
-      "tempo_sem_interacao": "3h 7min",
+      "last_message_at": "2026-05-02T15:26:19.696000Z",
+      "last_bot_msg_at": "2026-05-02T12:26:19.330426",
+      "tempo_sem_interacao": "3h 4min",
       "first_id": 21989,
-      "last_id": 21996,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1599\nNome: Sebastião Tolentino\n\nMensagem(ns) do cliente:\n73 anos c...",
+      "last_id": 22002,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1599\nNome: Sebastião Tolentino\n\nMensagem(ns) do cliente:\nSou apose...",
       "messages": [
         {
           "role": "user",
@@ -98,6 +98,36 @@
           "role": "ai",
           "content": "Só para confirmar, as duas pessoas a serem cobertas têm 73 anos cada uma, correto? Agora, qual é a cidade onde vocês buscam atendimento? Se tiver um hospital de sua preferência, isso também pode ajudar a encontrar um plano adequado.",
           "msg_time": "2026-05-02T12:08:05.200641"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1599\nNome: Sebastião Tolentino\n\nMensagem(ns) do cliente:\nMoro  no noroeste de  minas mas o hospital pode ser bh",
+          "msg_time": "2026-05-02T12:17:03.051476"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Sebastião! Então a cidade para atendimento é Belo Horizonte. Agora, como o plano será contratado: será empresarial por CNPJ (MEI ou LTDA) ou CPF?",
+          "msg_time": "2026-05-02T12:17:03.056028"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1599\nNome: Sebastião Tolentino\n\nMensagem(ns) do cliente:\nCPF",
+          "msg_time": "2026-05-02T12:21:09.691684"
+        },
+        {
+          "role": "ai",
+          "content": "Ótimo, Sebastião! E qual é a sua profissão? Preciso dessa informação para identificar a melhor administradora para o seu plano.",
+          "msg_time": "2026-05-02T12:21:09.696948"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1599\nNome: Sebastião Tolentino\n\nMensagem(ns) do cliente:\nSou aposentado poŕ idade e trabalo na prefeituŕá",
+          "msg_time": "2026-05-02T12:26:19.32876"
+        },
+        {
+          "role": "ai",
+          "content": "Obrigado pela informação, Sebastião! Para finalizar, você já possui um plano de saúde atualmente? Se sim, qual é e quanto você paga hoje? Isso me ajudará a encontrar o melhor equilíbrio entre custo e acesso.",
+          "msg_time": "2026-05-02T12:26:19.330426"
         }
       ]
     },
@@ -159,7 +189,7 @@
       "first_message_at": "2026-05-01T00:00:00.000Z",
       "last_message_at": "2026-05-02T01:01:30.954000Z",
       "last_bot_msg_at": "2026-05-01T22:01:30.570707",
-      "tempo_sem_interacao": "17h 14min",
+      "tempo_sem_interacao": "17h 29min",
       "first_id": 21955,
       "last_id": 21988,
       "last_message_preview": "<ContextoImagem>\n\n  <DetalheImagem>\n\n  </DetalheImagem>\n\nContexto Extra: O usuário encaminhou a mens...",
@@ -313,7 +343,7 @@
       "first_message_at": "2026-05-01T00:00:00.000Z",
       "last_message_at": "2026-05-02T00:58:22.837000Z",
       "last_bot_msg_at": "2026-05-01T21:58:22.43326",
-      "tempo_sem_interacao": "17h 17min",
+      "tempo_sem_interacao": "17h 32min",
       "first_id": 21963,
       "last_id": 21979,
       "last_message_preview": "Sim",
@@ -444,7 +474,7 @@
       "first_message_at": "2026-05-01T00:00:00.000Z",
       "last_message_at": "2026-05-01T19:36:25.839000Z",
       "last_bot_msg_at": "2026-05-01T16:36:25.490537",
-      "tempo_sem_interacao": "22h 39min",
+      "tempo_sem_interacao": "22h 54min",
       "first_id": 21938,
       "last_id": 21954,
       "last_message_preview": "Obrigada",
@@ -851,7 +881,7 @@
       "first_message_at": "2026-04-30T00:00:00.000Z",
       "last_message_at": "2026-04-30T18:18:32.611000Z",
       "last_bot_msg_at": "2026-04-30T15:18:32.226688",
-      "tempo_sem_interacao": "1 dia",
+      "tempo_sem_interacao": "2 dias",
       "first_id": 21881,
       "last_id": 21904,
       "last_message_preview": "Sem internação ou cirurgia",
@@ -10446,7 +10476,7 @@
       "first_message_at": "2026-04-16T00:00:00.000Z",
       "last_message_at": "2026-04-16T18:25:35.779000Z",
       "last_bot_msg_at": "2026-04-16T15:25:33.525721",
-      "tempo_sem_interacao": "15 dias",
+      "tempo_sem_interacao": "16 dias",
       "first_id": 21107,
       "last_id": 21127,
       "last_message_preview": "Selma, nosso especialista João pode entrar em contato com você nesse momento para conversar sobre es...",
@@ -15523,7 +15553,7 @@
       "first_message_at": "2026-04-09T00:00:00.000Z",
       "last_message_at": "2026-04-09T18:24:14.572000Z",
       "last_bot_msg_at": "2026-04-09T15:24:14.017144",
-      "tempo_sem_interacao": "22 dias",
+      "tempo_sem_interacao": "23 dias",
       "first_id": 20705,
       "last_id": 20721,
       "last_message_preview": "Tem como fazer portabilidade de um plano para outro",
