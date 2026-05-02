@@ -1,17 +1,106 @@
 {
   "meta": {
-    "generated_at": "2026-05-02T15:00:51.905Z",
+    "generated_at": "2026-05-02T15:15:47.994Z",
     "total_conversations": 200,
-    "total_messages": 3468,
+    "total_messages": 3471,
     "stats": {
       "quente": 0,
-      "morno": 0,
+      "morno": 1,
       "frio": 8,
-      "desinteresse": 192,
+      "desinteresse": 191,
       "sem_classificacao": 0
     }
   },
   "conversations": [
+    {
+      "session_id": "553898624907@s.whatsapp.net",
+      "phone": "553898624907",
+      "phone_display": "+55 38 9862-4907",
+      "lead": {
+        "baserow_id": 1599,
+        "nome": "Sebastião Tolentino",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": false,
+        "observacoes": "Sebastião Tolentino",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Sebastião Tolentino",
+        "email": "",
+        "telefone": "+55 38 9862-4907",
+        "vidas": [],
+        "cidade": "",
+        "contratacao": "",
+        "cnpj": "",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "Amil",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "Sebastião Tolentino",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Sebastião Tolentino\n📱 Contato: WhatsApp\n📞 Telefone: +55 38 9862-4907\n\n📋 Dados contratuais:\n\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Sebastião Tolentino\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "morno",
+      "bot": "preto",
+      "consultor": "",
+      "message_count": 8,
+      "first_message_at": "2026-05-02T00:00:00.000Z",
+      "last_message_at": "2026-05-02T15:08:05.564000Z",
+      "last_bot_msg_at": "2026-05-02T12:08:05.200641",
+      "tempo_sem_interacao": "3h 7min",
+      "first_id": 21989,
+      "last_id": 21996,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1599\nNome: Sebastião Tolentino\n\nMensagem(ns) do cliente:\n73 anos c...",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1599\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Amil",
+          "msg_time": "2026-05-02T12:00:55.332237"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Poderia me dizer o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-05-02T12:00:56.046962"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1599\nNome: Sebastião Tolentino\n\nMensagem(ns) do cliente:\nSebastiao Eustaquio Tolentino",
+          "msg_time": "2026-05-02T12:04:38.318328"
+        },
+        {
+          "role": "ai",
+          "content": "Obrigado, Sebastião! Para eu te apresentar as opções certas, poderia me informar para quantas pessoas é o plano e as idades de cada uma?",
+          "msg_time": "2026-05-02T12:04:38.325366"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1599\nNome: Sebastião Tolentino\n\nMensagem(ns) do cliente:\n2 pessoas.",
+          "msg_time": "2026-05-02T12:06:01.701948"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Sebastião! Agora, por favor, me diga as idades das duas pessoas que serão cobertas pelo plano. Isso é importante para que eu possa encontrar as melhores opções para vocês.",
+          "msg_time": "2026-05-02T12:06:01.712366"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1599\nNome: Sebastião Tolentino\n\nMensagem(ns) do cliente:\n73 anos cAda",
+          "msg_time": "2026-05-02T12:08:05.198714"
+        },
+        {
+          "role": "ai",
+          "content": "Só para confirmar, as duas pessoas a serem cobertas têm 73 anos cada uma, correto? Agora, qual é a cidade onde vocês buscam atendimento? Se tiver um hospital de sua preferência, isso também pode ajudar a encontrar um plano adequado.",
+          "msg_time": "2026-05-02T12:08:05.200641"
+        }
+      ]
+    },
     {
       "session_id": "5521974512112@s.whatsapp.net",
       "phone": "5521974512112",
@@ -70,7 +159,7 @@
       "first_message_at": "2026-05-01T00:00:00.000Z",
       "last_message_at": "2026-05-02T01:01:30.954000Z",
       "last_bot_msg_at": "2026-05-01T22:01:30.570707",
-      "tempo_sem_interacao": "16h 59min",
+      "tempo_sem_interacao": "17h 14min",
       "first_id": 21955,
       "last_id": 21988,
       "last_message_preview": "<ContextoImagem>\n\n  <DetalheImagem>\n\n  </DetalheImagem>\n\nContexto Extra: O usuário encaminhou a mens...",
@@ -224,7 +313,7 @@
       "first_message_at": "2026-05-01T00:00:00.000Z",
       "last_message_at": "2026-05-02T00:58:22.837000Z",
       "last_bot_msg_at": "2026-05-01T21:58:22.43326",
-      "tempo_sem_interacao": "17h 2min",
+      "tempo_sem_interacao": "17h 17min",
       "first_id": 21963,
       "last_id": 21979,
       "last_message_preview": "Sim",
@@ -355,7 +444,7 @@
       "first_message_at": "2026-05-01T00:00:00.000Z",
       "last_message_at": "2026-05-01T19:36:25.839000Z",
       "last_bot_msg_at": "2026-05-01T16:36:25.490537",
-      "tempo_sem_interacao": "22h 24min",
+      "tempo_sem_interacao": "22h 39min",
       "first_id": 21938,
       "last_id": 21954,
       "last_message_preview": "Obrigada",
@@ -8008,7 +8097,7 @@
       "first_message_at": "2026-04-21T00:00:00.000Z",
       "last_message_at": "2026-04-21T18:14:45.186000Z",
       "last_bot_msg_at": "2026-04-21T15:14:44.774383",
-      "tempo_sem_interacao": "10 dias",
+      "tempo_sem_interacao": "11 dias",
       "first_id": 21324,
       "last_id": 21340,
       "last_message_preview": "Ok",
@@ -8552,7 +8641,7 @@
       "first_message_at": "2026-04-19T00:00:00.000Z",
       "last_message_at": "2026-04-19T18:09:41.515000Z",
       "last_bot_msg_at": "2026-04-19T15:09:41.178727",
-      "tempo_sem_interacao": "12 dias",
+      "tempo_sem_interacao": "13 dias",
       "first_id": 21253,
       "last_id": 21280,
       "last_message_preview": "Eu tenho fuspom que é extensivo à esposa.\nÉ só pra elas, mas dê o cálculo comigo incluido",
@@ -9963,7 +10052,7 @@
       "first_message_at": "2026-04-17T00:00:00.000Z",
       "last_message_at": "2026-04-17T18:07:19.016000Z",
       "last_bot_msg_at": "2026-04-17T15:07:18.546664",
-      "tempo_sem_interacao": "14 dias",
+      "tempo_sem_interacao": "15 dias",
       "first_id": 21147,
       "last_id": 21159,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1522\nNome: Amanda Fernandes\n\nMensagem(ns) do cliente:\nUnimed \nPra ...",
@@ -13530,7 +13619,7 @@
       "first_message_at": "2026-04-10T00:00:00.000Z",
       "last_message_at": "2026-04-10T18:07:07.857000Z",
       "last_bot_msg_at": "2026-04-10T15:07:07.111208",
-      "tempo_sem_interacao": "21 dias",
+      "tempo_sem_interacao": "22 dias",
       "first_id": 20811,
       "last_id": 20822,
       "last_message_preview": "D'or",
@@ -20602,80 +20691,6 @@
           "role": "system",
           "content": "\n",
           "msg_time": "2026-03-24T11:00:45.727881"
-        }
-      ]
-    },
-    {
-      "session_id": "5521985850298@s.whatsapp.net",
-      "phone": "5521985850298",
-      "phone_display": "+55 21 98585-0298",
-      "lead": {
-        "baserow_id": 1322,
-        "nome": "Ágape",
-        "email": "oswaldoluizfernandes2012@gmail.com",
-        "qtd_vidas": "",
-        "desinteresse": true,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Ágape",
-        "email": "oswaldoluizfernandes2012@gmail.com",
-        "telefone": "+55 21 98585-0298",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "Nenhum",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Ágape\n📧 E-mail: oswaldoluizfernandes2012@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 98585-0298\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n\n🏥 Plano atual: Nenhum\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "desinteresse",
-      "bot": "preto",
-      "consultor": "",
-      "message_count": 5,
-      "first_message_at": "2026-03-22T00:00:00.000Z",
-      "last_message_at": "2026-03-23T02:41:54.916000Z",
-      "last_bot_msg_at": "2026-03-23T15:02:00.088953",
-      "tempo_sem_interacao": "1 mês",
-      "first_id": 19879,
-      "last_id": 20162,
-      "last_message_preview": "Dados Fornecidos\nNome: Ágape\nContem CNPJ: não\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o infor...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados Fornecidos\nNome: Ágape\nContem CNPJ: não\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o informado\nRegiÃƒÂ£o: NÃƒÂ£o Informado\nPropaganda:\n",
-          "msg_time": "2026-03-22T23:41:49.981789"
-        },
-        {
-          "role": "ai",
-          "content": "Oi Ágape! Sou o Gilberto da GW9, corretora de planos de saúde. Você pediu nosso contato para saber mais sobre plano de saúde e para te ajudar a encontrar a melhor opção, preciso de algumas informações rápidas. Tudo certo?",
-          "msg_time": "2026-03-22T23:41:49.983489"
-        },
-        {
-          "role": "ai",
-          "content": "{\"data\": {\"content\": \"Oi Agape! Tentei falar com voce antes mas sem sucesso. Sei que sua rotina pode ser corrida. Sem problema! So preciso confirmar se ainda tem interesse no plano. Prefere que eu retorne fora do horario comercial ou amanha?\"}, \"type\": \"ai\"}",
-          "msg_time": "2026-03-23T15:01:30.046683"
-        },
-        {
-          "role": "ai",
-          "content": "{\"data\": {\"content\": \"Oi Agape! Tentei falar com voce antes mas sem sucesso. Sei que sua rotina pode ser corrida. Sem problema! So preciso confirmar se ainda tem interesse no plano. Prefere que eu retorne fora do horario comercial ou amanha?\"}, \"type\": \"ai\"}",
-          "msg_time": "2026-03-23T15:02:00.088953"
-        },
-        {
-          "role": "system",
-          "content": "\n",
-          "msg_time": "2026-03-24T11:00:30.187966"
         }
       ]
     }
