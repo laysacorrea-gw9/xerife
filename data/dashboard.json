@@ -1,17 +1,122 @@
 {
   "meta": {
-    "generated_at": "2026-05-02T00:15:48.118Z",
+    "generated_at": "2026-05-02T00:30:48.064Z",
     "total_conversations": 200,
-    "total_messages": 3451,
+    "total_messages": 3457,
     "stats": {
-      "quente": 0,
+      "quente": 1,
       "morno": 0,
-      "frio": 9,
+      "frio": 8,
       "desinteresse": 191,
       "sem_classificacao": 0
     }
   },
   "conversations": [
+    {
+      "session_id": "5521974512112@s.whatsapp.net",
+      "phone": "5521974512112",
+      "phone_display": "+55 21 97451-2112",
+      "lead": {
+        "baserow_id": 1597,
+        "nome": "Artes da Rita Campos",
+        "email": "",
+        "qtd_vidas": 5,
+        "desinteresse": false,
+        "observacoes": "Artes da Rita Campos",
+        "reagendamento": null,
+        "corretor": "",
+        "temperatura": ""
+      },
+      "summary": {
+        "nome": "Artes da Rita Campos",
+        "email": "",
+        "telefone": "+55 21 97451-2112",
+        "vidas": [
+          {
+            "idade": 66
+          },
+          {
+            "idade": 64
+          },
+          {
+            "idade": 36
+          },
+          {
+            "idade": 34
+          },
+          {
+            "idade": 6
+          }
+        ],
+        "cidade": "",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "MEI",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "Amil",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "",
+        "obs_crm": "Artes da Rita Campos",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Artes da Rita Campos\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97451-2112\n\n👨‍👩‍👧‍👦 Vidas no plano:\n\nArtes da Rita Campos — 66 anos\nDependente 1 — 64 anos\nDependente 2 — 36 anos\nDependente 3 — 34 anos\nDependente 4 — 6 anos\n\n📋 Dados contratuais:\n\nContratação: CNPJ\nTipo: MEI\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Artes da Rita Campos\n✅ Status: Lead ativo\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "quente",
+      "bot": "preto",
+      "consultor": "",
+      "message_count": 8,
+      "first_message_at": "2026-05-01T00:00:00.000Z",
+      "last_message_at": "2026-05-02T00:26:49.387000Z",
+      "last_bot_msg_at": "2026-05-01T21:26:49.027401",
+      "tempo_sem_interacao": "3h 3min",
+      "first_id": 21955,
+      "last_id": 21962,
+      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1597\nNome: Artes da Rita Campos\n\nMensagem(ns) do cliente:\n05 vidas...",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1597\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Amil",
+          "msg_time": "2026-05-01T21:25:48.895624"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-05-01T21:25:48.899073"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1597\nNome: Artes da Rita Campos\n\nMensagem(ns) do cliente:\nMEI desde 2019",
+          "msg_time": "2026-05-01T21:26:07.061012"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Rita! Para encontrar as melhores opções de plano, preciso saber para quantas pessoas você está buscando e quais as idades dessas pessoas. Pode me passar essa informação?",
+          "msg_time": "2026-05-01T21:26:07.063373"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1597\nNome: Artes da Rita Campos\n\nMensagem(ns) do cliente:\nRita",
+          "msg_time": "2026-05-01T21:26:21.632099"
+        },
+        {
+          "role": "ai",
+          "content": "Perfeito, Rita! Agora, para dar continuidade, quantas pessoas estão buscando o plano de saúde e quais são as idades delas? Isso vai me ajudar a apresentar as melhores opções para vocês.",
+          "msg_time": "2026-05-01T21:26:21.635775"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1597\nNome: Artes da Rita Campos\n\nMensagem(ns) do cliente:\n05 vidas sendo idades de 66,64,36,34 e 06",
+          "msg_time": "2026-05-01T21:26:49.023882"
+        },
+        {
+          "role": "ai",
+          "content": "Ótimo, Rita! Agora, para prosseguir, qual é a cidade onde você busca atendimento e se há algum hospital de sua preferência? Isso nos ajudará a encontrar o plano certo para vocês.",
+          "msg_time": "2026-05-01T21:26:49.027401"
+        }
+      ]
+    },
     {
       "session_id": "5521969800735@s.whatsapp.net",
       "phone": "5521969800735",
@@ -61,7 +166,7 @@
       "first_message_at": "2026-05-01T00:00:00.000Z",
       "last_message_at": "2026-05-01T19:36:25.839000Z",
       "last_bot_msg_at": "2026-05-01T16:36:25.490537",
-      "tempo_sem_interacao": "7h 39min",
+      "tempo_sem_interacao": "7h 54min",
       "first_id": 21938,
       "last_id": 21954,
       "last_message_preview": "Obrigada",
@@ -205,7 +310,7 @@
       "first_message_at": "2026-05-01T00:00:00.000Z",
       "last_message_at": "2026-05-01T03:49:24.971000Z",
       "last_bot_msg_at": "2026-05-01T00:49:24.46618",
-      "tempo_sem_interacao": "23h 26min",
+      "tempo_sem_interacao": "23h 41min",
       "first_id": 21919,
       "last_id": 21937,
       "last_message_preview": "https://youtu.be/vnybcX0JZ7Y?si=2alJ2oSjW0-_Uaku",
@@ -4771,7 +4876,7 @@
       "first_message_at": "2026-04-24T00:00:00.000Z",
       "last_message_at": "2026-04-25T03:15:56.600000Z",
       "last_bot_msg_at": "2026-04-25T00:15:56.200953",
-      "tempo_sem_interacao": "6 dias",
+      "tempo_sem_interacao": "7 dias",
       "first_id": 21563,
       "last_id": 21599,
       "last_message_preview": "Ok boa noite",
@@ -20516,55 +20621,6 @@
           "role": "user",
           "content": "62\n24\n30 dias",
           "msg_time": "2026-03-24T10:56:45.091819"
-        }
-      ]
-    },
-    {
-      "session_id": "5521952621656@s.whatsapp.net",
-      "phone": "5521952621656",
-      "phone_display": "+55 21 95262-1656",
-      "lead": null,
-      "summary": {
-        "nome": "Lorrany",
-        "email": "",
-        "telefone": "+55 21 95262-1656",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Lorrany\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 95262-1656\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n✅ Status: Lead frio\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "frio",
-      "bot": "preto",
-      "consultor": "",
-      "message_count": 2,
-      "first_message_at": "2026-03-24T13:54:41.434Z",
-      "last_message_at": "2026-03-24T13:54:41.438Z",
-      "last_bot_msg_at": "2026-03-24T10:54:41.43898",
-      "tempo_sem_interacao": "1 mês",
-      "first_id": 20155,
-      "last_id": 20156,
-      "last_message_preview": "Dados Fornecidos\nNome: Lorrany\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o inf...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados Fornecidos\nNome: Lorrany\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o informado\nRegiÃƒÂ£o: NÃƒÂ£o Informado\nPropaganda:\n",
-          "msg_time": "2026-03-24T10:54:41.434865"
-        },
-        {
-          "role": "ai",
-          "content": "Oi Lorrany! Sou o Gilberto da GW9, corretora de planos de saúde. Você pediu nosso contato para saber mais sobre plano de saúde e vi que já possui um CNPJ. Para te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo certo?",
-          "msg_time": "2026-03-24T10:54:41.43898"
         }
       ]
     }
