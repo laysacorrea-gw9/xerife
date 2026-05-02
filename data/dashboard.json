@@ -1,17 +1,151 @@
 {
   "meta": {
-    "generated_at": "2026-05-02T20:45:47.846Z",
+    "generated_at": "2026-05-02T21:00:48.781Z",
     "total_conversations": 200,
-    "total_messages": 3485,
+    "total_messages": 3488,
     "stats": {
       "quente": 0,
-      "morno": 1,
+      "morno": 0,
       "frio": 8,
-      "desinteresse": 191,
+      "desinteresse": 192,
       "sem_classificacao": 0
     }
   },
   "conversations": [
+    {
+      "session_id": "553898624907@s.whatsapp.net",
+      "phone": "553898624907",
+      "phone_display": "+55 38 9862-4907",
+      "lead": {
+        "baserow_id": 1599,
+        "nome": "Sebastião Tolentino",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": true,
+        "observacoes": "Sebastião Tolentino",
+        "reagendamento": null,
+        "corretor": "Elisa",
+        "temperatura": "Quente"
+      },
+      "summary": {
+        "nome": "Sebastião Tolentino",
+        "email": "",
+        "telefone": "+55 38 9862-4907",
+        "vidas": [],
+        "cidade": "",
+        "contratacao": "CNPJ",
+        "cnpj": "",
+        "tipo_empresa": "MEI",
+        "profissao": "aposentado po",
+        "plano_atual": "",
+        "motivo": "Encerramento do plano atual",
+        "interesse": "Amil",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "Elisa",
+        "obs_crm": "Sebastião Tolentino",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Sebastião Tolentino\n📱 Contato: WhatsApp\n📞 Telefone: +55 38 9862-4907\n\n📋 Dados contratuais:\n\nContratação: CNPJ\nTipo: MEI\nProfissão: aposentado po\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Sebastião Tolentino\n👤 Consultor: Elisa\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "desinteresse",
+      "bot": "preto",
+      "consultor": "Elisa",
+      "message_count": 17,
+      "first_message_at": "2026-05-02T00:00:00.000Z",
+      "last_message_at": "2026-05-02T20:54:05.108000Z",
+      "last_bot_msg_at": "2026-05-02T17:54:04.337233",
+      "tempo_sem_interacao": "3h 6min",
+      "first_id": 21989,
+      "last_id": 22018,
+      "last_message_preview": "Me envie mensagem",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1599\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Amil",
+          "msg_time": "2026-05-02T12:00:55.332237"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Poderia me dizer o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-05-02T12:00:56.046962"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1599\nNome: Sebastião Tolentino\n\nMensagem(ns) do cliente:\nSebastiao Eustaquio Tolentino",
+          "msg_time": "2026-05-02T12:04:38.318328"
+        },
+        {
+          "role": "ai",
+          "content": "Obrigado, Sebastião! Para eu te apresentar as opções certas, poderia me informar para quantas pessoas é o plano e as idades de cada uma?",
+          "msg_time": "2026-05-02T12:04:38.325366"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1599\nNome: Sebastião Tolentino\n\nMensagem(ns) do cliente:\n2 pessoas.",
+          "msg_time": "2026-05-02T12:06:01.701948"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Sebastião! Agora, por favor, me diga as idades das duas pessoas que serão cobertas pelo plano. Isso é importante para que eu possa encontrar as melhores opções para vocês.",
+          "msg_time": "2026-05-02T12:06:01.712366"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1599\nNome: Sebastião Tolentino\n\nMensagem(ns) do cliente:\n73 anos cAda",
+          "msg_time": "2026-05-02T12:08:05.198714"
+        },
+        {
+          "role": "ai",
+          "content": "Só para confirmar, as duas pessoas a serem cobertas têm 73 anos cada uma, correto? Agora, qual é a cidade onde vocês buscam atendimento? Se tiver um hospital de sua preferência, isso também pode ajudar a encontrar um plano adequado.",
+          "msg_time": "2026-05-02T12:08:05.200641"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1599\nNome: Sebastião Tolentino\n\nMensagem(ns) do cliente:\nMoro  no noroeste de  minas mas o hospital pode ser bh",
+          "msg_time": "2026-05-02T12:17:03.051476"
+        },
+        {
+          "role": "ai",
+          "content": "Entendi, Sebastião! Então a cidade para atendimento é Belo Horizonte. Agora, como o plano será contratado: será empresarial por CNPJ (MEI ou LTDA) ou CPF?",
+          "msg_time": "2026-05-02T12:17:03.056028"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1599\nNome: Sebastião Tolentino\n\nMensagem(ns) do cliente:\nCPF",
+          "msg_time": "2026-05-02T12:21:09.691684"
+        },
+        {
+          "role": "ai",
+          "content": "Ótimo, Sebastião! E qual é a sua profissão? Preciso dessa informação para identificar a melhor administradora para o seu plano.",
+          "msg_time": "2026-05-02T12:21:09.696948"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1599\nNome: Sebastião Tolentino\n\nMensagem(ns) do cliente:\nSou aposentado poŕ idade e trabalo na prefeituŕá",
+          "msg_time": "2026-05-02T12:26:19.32876"
+        },
+        {
+          "role": "ai",
+          "content": "Obrigado pela informação, Sebastião! Para finalizar, você já possui um plano de saúde atualmente? Se sim, qual é e quanto você paga hoje? Isso me ajudará a encontrar o melhor equilíbrio entre custo e acesso.",
+          "msg_time": "2026-05-02T12:26:19.330426"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1599\nNome: Sebastião Tolentino\n\nMensagem(ns) do cliente:\nNão tenho plano",
+          "msg_time": "2026-05-02T17:54:04.333995"
+        },
+        {
+          "role": "ai",
+          "content": "Sebastião, obrigada por todas as informações! Vou encaminhar seu contato para a Elisa, nossa especialista, que vai te apresentar as melhores opções de plano para vocês duas. Ela irá te chamar aqui no WhatsApp em breve. Se precisar de mais alguma coisa, estou à disposição!",
+          "msg_time": "2026-05-02T17:54:04.337233"
+        },
+        {
+          "role": "user",
+          "content": "Me envie mensagem",
+          "msg_time": "2026-05-02T17:57:26.918798"
+        }
+      ]
+    },
     {
       "session_id": "5521992616733@s.whatsapp.net",
       "phone": "5521992616733",
@@ -67,7 +201,7 @@
       "first_message_at": "2026-05-02T00:00:00.000Z",
       "last_message_at": "2026-05-02T19:49:30.617000Z",
       "last_bot_msg_at": "2026-05-02T16:49:30.195894",
-      "tempo_sem_interacao": "3h 56min",
+      "tempo_sem_interacao": "4h 11min",
       "first_id": 22003,
       "last_id": 22015,
       "last_message_preview": "Obrigado",
@@ -140,125 +274,6 @@
       ]
     },
     {
-      "session_id": "553898624907@s.whatsapp.net",
-      "phone": "553898624907",
-      "phone_display": "+55 38 9862-4907",
-      "lead": {
-        "baserow_id": 1599,
-        "nome": "Sebastião Tolentino",
-        "email": "",
-        "qtd_vidas": "",
-        "desinteresse": false,
-        "observacoes": "Sebastião Tolentino",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Sebastião Tolentino",
-        "email": "",
-        "telefone": "+55 38 9862-4907",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "MEI",
-        "profissao": "aposentado po",
-        "plano_atual": "",
-        "motivo": "Encerramento do plano atual",
-        "interesse": "Amil",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "Sebastião Tolentino",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Sebastião Tolentino\n📱 Contato: WhatsApp\n📞 Telefone: +55 38 9862-4907\n\n📋 Dados contratuais:\n\nContratação: CNPJ\nTipo: MEI\nProfissão: aposentado po\n\n😤 Motivo da troca:\n\nEncerramento do plano atual\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Sebastião Tolentino\n✅ Status: Lead em qualificação\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "morno",
-      "bot": "preto",
-      "consultor": "",
-      "message_count": 14,
-      "first_message_at": "2026-05-02T00:00:00.000Z",
-      "last_message_at": "2026-05-02T15:26:19.696000Z",
-      "last_bot_msg_at": "2026-05-02T12:26:19.330426",
-      "tempo_sem_interacao": "8h 19min",
-      "first_id": 21989,
-      "last_id": 22002,
-      "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1599\nNome: Sebastião Tolentino\n\nMensagem(ns) do cliente:\nSou apose...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1599\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Amil",
-          "msg_time": "2026-05-02T12:00:55.332237"
-        },
-        {
-          "role": "ai",
-          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Poderia me dizer o seu nome? E o plano seria para quantas pessoas e quais as idades?",
-          "msg_time": "2026-05-02T12:00:56.046962"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1599\nNome: Sebastião Tolentino\n\nMensagem(ns) do cliente:\nSebastiao Eustaquio Tolentino",
-          "msg_time": "2026-05-02T12:04:38.318328"
-        },
-        {
-          "role": "ai",
-          "content": "Obrigado, Sebastião! Para eu te apresentar as opções certas, poderia me informar para quantas pessoas é o plano e as idades de cada uma?",
-          "msg_time": "2026-05-02T12:04:38.325366"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1599\nNome: Sebastião Tolentino\n\nMensagem(ns) do cliente:\n2 pessoas.",
-          "msg_time": "2026-05-02T12:06:01.701948"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Sebastião! Agora, por favor, me diga as idades das duas pessoas que serão cobertas pelo plano. Isso é importante para que eu possa encontrar as melhores opções para vocês.",
-          "msg_time": "2026-05-02T12:06:01.712366"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1599\nNome: Sebastião Tolentino\n\nMensagem(ns) do cliente:\n73 anos cAda",
-          "msg_time": "2026-05-02T12:08:05.198714"
-        },
-        {
-          "role": "ai",
-          "content": "Só para confirmar, as duas pessoas a serem cobertas têm 73 anos cada uma, correto? Agora, qual é a cidade onde vocês buscam atendimento? Se tiver um hospital de sua preferência, isso também pode ajudar a encontrar um plano adequado.",
-          "msg_time": "2026-05-02T12:08:05.200641"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1599\nNome: Sebastião Tolentino\n\nMensagem(ns) do cliente:\nMoro  no noroeste de  minas mas o hospital pode ser bh",
-          "msg_time": "2026-05-02T12:17:03.051476"
-        },
-        {
-          "role": "ai",
-          "content": "Entendi, Sebastião! Então a cidade para atendimento é Belo Horizonte. Agora, como o plano será contratado: será empresarial por CNPJ (MEI ou LTDA) ou CPF?",
-          "msg_time": "2026-05-02T12:17:03.056028"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1599\nNome: Sebastião Tolentino\n\nMensagem(ns) do cliente:\nCPF",
-          "msg_time": "2026-05-02T12:21:09.691684"
-        },
-        {
-          "role": "ai",
-          "content": "Ótimo, Sebastião! E qual é a sua profissão? Preciso dessa informação para identificar a melhor administradora para o seu plano.",
-          "msg_time": "2026-05-02T12:21:09.696948"
-        },
-        {
-          "role": "user",
-          "content": "Dados do lead no sistema:\nROW_ID: 1599\nNome: Sebastião Tolentino\n\nMensagem(ns) do cliente:\nSou aposentado poŕ idade e trabalo na prefeituŕá",
-          "msg_time": "2026-05-02T12:26:19.32876"
-        },
-        {
-          "role": "ai",
-          "content": "Obrigado pela informação, Sebastião! Para finalizar, você já possui um plano de saúde atualmente? Se sim, qual é e quanto você paga hoje? Isso me ajudará a encontrar o melhor equilíbrio entre custo e acesso.",
-          "msg_time": "2026-05-02T12:26:19.330426"
-        }
-      ]
-    },
-    {
       "session_id": "5521974512112@s.whatsapp.net",
       "phone": "5521974512112",
       "phone_display": "+55 21 97451-2112",
@@ -316,7 +331,7 @@
       "first_message_at": "2026-05-01T00:00:00.000Z",
       "last_message_at": "2026-05-02T01:01:30.954000Z",
       "last_bot_msg_at": "2026-05-01T22:01:30.570707",
-      "tempo_sem_interacao": "22h 44min",
+      "tempo_sem_interacao": "22h 59min",
       "first_id": 21955,
       "last_id": 21988,
       "last_message_preview": "<ContextoImagem>\n\n  <DetalheImagem>\n\n  </DetalheImagem>\n\nContexto Extra: O usuário encaminhou a mens...",
@@ -470,7 +485,7 @@
       "first_message_at": "2026-05-01T00:00:00.000Z",
       "last_message_at": "2026-05-02T00:58:22.837000Z",
       "last_bot_msg_at": "2026-05-01T21:58:22.43326",
-      "tempo_sem_interacao": "22h 47min",
+      "tempo_sem_interacao": "23h 2min",
       "first_id": 21963,
       "last_id": 21979,
       "last_message_preview": "Sim",
