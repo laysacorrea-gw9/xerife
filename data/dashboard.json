@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_at": "2026-05-04T12:00:49.978Z",
+    "generated_at": "2026-05-04T12:15:56.227Z",
     "total_conversations": 200,
-    "total_messages": 3505,
+    "total_messages": 3507,
     "stats": {
       "quente": 1,
       "morno": 0,
@@ -12,6 +12,80 @@
     }
   },
   "conversations": [
+    {
+      "session_id": "5521974453083@s.whatsapp.net",
+      "phone": "5521974453083",
+      "phone_display": "+55 21 97445-3083",
+      "lead": {
+        "baserow_id": 1604,
+        "nome": "Xandão",
+        "email": "",
+        "qtd_vidas": "",
+        "desinteresse": true,
+        "observacoes": "Xandão",
+        "reagendamento": null,
+        "corretor": "Elisa",
+        "temperatura": "Quente"
+      },
+      "summary": {
+        "nome": "Xandão",
+        "email": "",
+        "telefone": "+55 21 97445-3083",
+        "vidas": [],
+        "cidade": "Niterói / RJ",
+        "contratacao": "CNPJ",
+        "cnpj": "51.638.544/0001-14",
+        "tipo_empresa": "",
+        "profissao": "",
+        "plano_atual": "",
+        "motivo": "",
+        "interesse": "Amil",
+        "rede_preferencial": "",
+        "contato": "WhatsApp",
+        "consultor": "Elisa",
+        "obs_crm": "Xandão",
+        "bot": "Gilbertinho Preto (0479)",
+        "formatted": "👤 Cliente: Xandão\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 97445-3083\n\n📋 Dados contratuais:\n\nCidade: Niterói / RJ\nContratação: CNPJ — 51.638.544/0001-14\n\n🎯 Interesse: Amil\n\n⚠️ Observação: Xandão\n👤 Consultor: Elisa\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
+      },
+      "status": "desinteresse",
+      "bot": "preto",
+      "consultor": "Elisa",
+      "message_count": 5,
+      "first_message_at": "2026-05-04T00:00:00.000Z",
+      "last_message_at": "2026-05-04T12:03:46.729000Z",
+      "last_bot_msg_at": "2026-05-04T09:03:46.133343",
+      "tempo_sem_interacao": "3h 12min",
+      "first_id": 22047,
+      "last_id": 22051,
+      "last_message_preview": "👍🏿",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1604\nNome: \n\nMensagem(ns) do cliente:\nOlá Gostaria de uma cotação de um Plano de Saúde Amil",
+          "msg_time": "2026-05-04T09:01:04.680921"
+        },
+        {
+          "role": "ai",
+          "content": "Olá! Sou o Gilberto da GW9, corretora de planos de saúde. Para eu te apresentar as opções certas, preciso de algumas informações. Qual o seu nome? E o plano seria para quantas pessoas e quais as idades?",
+          "msg_time": "2026-05-04T09:01:04.688462"
+        },
+        {
+          "role": "user",
+          "content": "Dados do lead no sistema:\nROW_ID: 1604\nNome: Xandão\n\nMensagem(ns) do cliente:\nNiterói \nCNPJ 51.638.544/0001-14\nEdson Alexandre 53 anos \nDenise Almeida 47 anos \nAna Beatriz 12 anos",
+          "msg_time": "2026-05-04T09:03:46.128586"
+        },
+        {
+          "role": "ai",
+          "content": "Xandão, obrigada por todas as informações! Vou encaminhar seu contato para o Elisa, nosso especialista, que vai te apresentar as melhores opções de plano para vocês com 3 vidas em Niterói. Ele vai te chamar aqui no WhatsApp em breve.",
+          "msg_time": "2026-05-04T09:03:46.133343"
+        },
+        {
+          "role": "user",
+          "content": "👍🏿",
+          "msg_time": "2026-05-04T09:12:53.650172"
+        }
+      ]
+    },
     {
       "session_id": "5521964191962@s.whatsapp.net",
       "phone": "5521964191962",
@@ -64,7 +138,7 @@
       "first_message_at": "2026-05-03T00:00:00.000Z",
       "last_message_at": "2026-05-03T17:19:07.392000Z",
       "last_bot_msg_at": "2026-05-03T14:19:06.926473",
-      "tempo_sem_interacao": "21h 41min",
+      "tempo_sem_interacao": "21h 56min",
       "first_id": 22035,
       "last_id": 22046,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1603\nNome: Celso Escapeti\n\nMensagem(ns) do cliente:\nRio de Janeiro",
@@ -8032,7 +8106,7 @@
       "first_message_at": "2026-04-22T00:00:00.000Z",
       "last_message_at": "2026-04-22T15:01:48.670000Z",
       "last_bot_msg_at": "2026-04-22T12:01:48.141824",
-      "tempo_sem_interacao": "11 dias",
+      "tempo_sem_interacao": "12 dias",
       "first_id": 21379,
       "last_id": 21394,
       "last_message_preview": "Dados do lead no sistema:\nROW_ID: 1548\nNome: Marcelo Bacelar\n\nMensagem(ns) do cliente:\n1600",
@@ -16652,7 +16726,7 @@
       "first_message_at": "2026-04-07T00:00:00.000Z",
       "last_message_at": "2026-04-07T15:08:56.279000Z",
       "last_bot_msg_at": "2026-04-07T12:08:55.536112",
-      "tempo_sem_interacao": "26 dias",
+      "tempo_sem_interacao": "27 dias",
       "first_id": 20612,
       "last_id": 20639,
       "last_message_preview": "Formato de mensagem enviada nao suportado",
@@ -20827,70 +20901,6 @@
           "role": "system",
           "content": "\n",
           "msg_time": "2026-03-24T11:01:19.267041"
-        }
-      ]
-    },
-    {
-      "session_id": "5521997893723@s.whatsapp.net",
-      "phone": "5521997893723",
-      "phone_display": "+55 21 99789-3723",
-      "lead": {
-        "baserow_id": 1337,
-        "nome": "Cleber",
-        "email": "cvclebervieira@gmail.com",
-        "qtd_vidas": "",
-        "desinteresse": true,
-        "observacoes": "",
-        "reagendamento": null,
-        "corretor": "",
-        "temperatura": ""
-      },
-      "summary": {
-        "nome": "Cleber",
-        "email": "cvclebervieira@gmail.com",
-        "telefone": "+55 21 99789-3723",
-        "vidas": [],
-        "cidade": "",
-        "contratacao": "CNPJ",
-        "cnpj": "",
-        "tipo_empresa": "",
-        "profissao": "",
-        "plano_atual": "",
-        "motivo": "",
-        "interesse": "",
-        "rede_preferencial": "",
-        "contato": "WhatsApp",
-        "consultor": "",
-        "obs_crm": "",
-        "bot": "Gilbertinho Preto (0479)",
-        "formatted": "👤 Cliente: Cleber\n📧 E-mail: cvclebervieira@gmail.com\n📱 Contato: WhatsApp\n📞 Telefone: +55 21 99789-3723\n\n📋 Dados contratuais:\n\nContratação: CNPJ\n✅ Status: Lead perdido / desinteresse\n🤖 Bot: Gilbertinho Preto (0479)"
-      },
-      "status": "desinteresse",
-      "bot": "preto",
-      "consultor": "",
-      "message_count": 3,
-      "first_message_at": "2026-03-23T00:00:00.000Z",
-      "last_message_at": "2026-03-23T21:43:57.621000Z",
-      "last_bot_msg_at": "2026-03-23T18:43:51.804836",
-      "tempo_sem_interacao": "1 mês",
-      "first_id": 20092,
-      "last_id": 20168,
-      "last_message_preview": "Dados Fornecidos\nNome: Cleber\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o info...",
-      "messages": [
-        {
-          "role": "user",
-          "content": "Dados Fornecidos\nNome: Cleber\nContem CNPJ: sim\nNumero de Vidas: \nOperadora de Interesse: nÃƒÂ£o informado\nRegiÃƒÂ£o: NÃƒÂ£o Informado\nPropaganda:\n",
-          "msg_time": "2026-03-23T18:43:51.799024"
-        },
-        {
-          "role": "ai",
-          "content": "Oi Cleber! Sou o Gilberto da GW9, corretora de planos de saúde. Você pediu nosso contato para saber mais sobre plano de saúde e vi que já possui um CNPJ. Para te ajudar melhor, preciso confirmar algumas informações rápidas. Tudo certo?",
-          "msg_time": "2026-03-23T18:43:51.804836"
-        },
-        {
-          "role": "system",
-          "content": "\n",
-          "msg_time": "2026-03-24T11:01:12.702502"
         }
       ]
     }
